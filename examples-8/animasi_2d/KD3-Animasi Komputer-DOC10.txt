@@ -1,0 +1,99 @@
+1.    Pengertian Animasi Komputer
+Animasi komputer (CGI animation )adalah seni membuat gambar bergerak dengan menggunakan komputer. animasi komputer merupakan bagian dari Grafika komputer dan animasi. Grafika komputer (Computer Graphic) dapat diartikan sebagai seperangkat alat yang terdiri dari hardware dan software untuk membuat gambar, grafik atau citra realistik untuk seni, game komputer, foto dan animasi komputer. 
+2.    Bagaimana animasi komputer diciptakan?
+ Sebagian besar fenomena yang dapat diwakili pada layar yang workstation biasanya tergantung waktu. Teknik-teknik komputer grafis memungkinkan pembangunan objek grafis 3D menggunakan geometris teknik pemodelan. Selain itu, dalam ruang 3D, adegan dilihat menggunakan kamera virtual dan mereka dapat diterangi oleh sumber cahaya sintetis. Agar memvisualisasikan fenomena ini pada waktu tertentu, perlu untuk mengetahui penampilan adegan saat ini dan kemudian Grafik Komputer Teknik ini memungkinkan kita untuk membangun dan menampilkan adegan sesuai dengan tampilan. Aplikasi grafika komputer untuk mendapatkan efek visual. 
+3.    Terciptanya Animasi Komputer
+Grafika komputer telah dimulai sejak jaman dahulu kala yaitu ketika bangsa Mesir, Roma dan Yunani berkomunikasi secara grafik. Beberapa lukisan terdapat pada batu nisan orang Mesir dapat dikatakan sebagai lukisan teknik. Perkembangan grafika komputer secara sederhana dapat dibagi menjadi empat fase, yaitu :
+
+1.    Fase Pertama (1950) era grafika komputer interaktif Tidak begitu cepat karena teknologi, jumlah dan harga komputer tidak mendukung. MIT berhasil mengembangkan komputer whirlwind dengan tabung sinar katode (Cathode Ray Tube-CRT). Sudah menggunakan pena cahaya (light pen) yaitu sebuah alat input bentuknya seperti pensil yang digunakan untuk memilih posisi, menunjuk sesuatu dan menggambar pada layar dengan pendeteksian cahaya yang datang dari titik-titik pada layar CRT. Telah ada alat pemrograman otomatis (Automatic Programming Tool)
+2.    Fase Kedua (1960) Jaman Penelitian/Riset Grafika Komputer Interaktif Grafika interaktif modern telah ditemukan oleh Ivan Sutherland. Mengembangkan teknik interaktif dengan sarana keyboard dan pena cahaya. Sejumlah projek penelitian dan produk Computer Aided Design/Manufacturing (CAD/CAM) telah muncul.
+3.     Fase Ketiga (1970)
+Grafika komputer interaktif telah digunakan oleh sektor industri, pemerintah dan ilmuawan untuk memperbaiki kualitas desain produk secara cepat dan mudah.
+4.    Fase Keempat (1980-1990) Penelitian pada dekade ini bertumpu pada penggabungan dan pengotomasasian pelbagai unsur desain dan pemodelan pejal (solid modelling). Teknologi hibrid mulai diperkenalkan. Teknologi ini berguna untuk penggabungan objek pejal dengan permukaan
+4. Cara Kerja animasi Komputer
+
+1. Input process
+Sebelum komputer dapat dipakai dalam animasi, gambar harusdidigitalisasi untuk membentuk keyframe terdigitasi.
+2. Composition Stage
+Adalah stage dimana foreground dan background dikombinasikan untuk menghasilkan individual frame untuk animasi final. Hal ini dapat dilakukan dengan menggunakan “image-composition techniques”, yaitu dengan menempatkan low resolution frame dalam array.
+3. Inbetween Process
+Pergerakan dari satu posisi ke posisi lain membutuhkan komposisi frame dengan posisi intermediate antar key frame. Proses tersebut dilakukan dengan menggunakan interpolasi.
+
+5. Konsep dasar apa saja yang digunakan dalam penciptaan animasi komputer?
+
+Konsep-konsep dasar yang digunakan dalam penciptaan animasi computer antara lain adalah sebagai berikut:
+a. Manual.
+Metode ini mengandalkan kemampuan animator secara penuh. seluruh gerakan dibuat dengan insting dan skill animator.Biasanya digunakan untuk jenis animasi bergaya kartun, seperti cars, nemo, toy story, dan lainnya. karena sifat gerak dari karakter yang ada disitu adalah hasil rekaan manusia. dan tentu sudah di lebih-lebihkan (juga prinsip animasi yang lain)
+
+b.      Motion Capture
+Adalah metode animasi yang menggunakan bantuan gerak karakter aslinya dan dipindahkan geraknya dengan alat motion capture, kemudian di aplikasikan ke objek digital kita. Teknik ini tentu akan membuat gerakan yang sama dengan aslinya. misalnya pada film Avatar, Final Fantasy, Polar Express, Beowulf, dan beberapa film dengan spesial efek, seperti Lord of the ring, Last samurai
+
+c. Dynamic simulation
+Metode ini menggunakan penghitungan secara fisika pada objek yang akan di animasikan. lalu disimulasikan secara realtime. terdapat beberapa penghitungan sebelum objek di animasikan, misalnya berat/massa benda, gaya gravitasi, benturan, kekuatan angin dan lain sebagainya. contoh animasi yang menggunakan metode ini: animasi bola jatuh, kain, percikan air, benda hancur, rambut dll
+
+d. Particle
+Adalah sekumpulan objek yang dapat di animasikan secara bersamaan membentuk sebuah pola. misalnya asap, daun berguguran, api, hujan, salju, segerombolan burung, dan sebagainya.
+
+6. Perbedaan keyframe dan blank keyframe
+
+ ·   Keyframe, adalah suatu frame yang berisikan satu objek atau lebih. Keyframe ditandai dengan bulatan  hitam pada frame, sedangkan blank keyframe, adalah suatu frame kosong di mana di dalamnya tidak ada objek. Apabila Blank  Keyframe tersebut diisikan sebuah objek, maka ia akan menjadi Keyframe. Blank Keyframe ditandai  dengan bulatan putih pada frame.
+
+7. Animasi komputer dibagi dalam berapa tipe dan jenis?
+
+Animasi komputer dibagi dalam 2 tipe yaitu ;
+a.  Tipe 2 dimensi, figur animasi dibuat dan diedit di komputer dengan menggunakan 2D bitmap graphics atau 2D vector graphics.
+b. 3 dimensi lebih kompleks lagi karena menambahkan berbagai efek di dalamnya seperti efek percahayaan, air dan api, dan sebagai­nya.
+
+Jenis animasi komputer dibagi menjadi 2 jenis yaitu ;
+a.       Hitam-putih
+b.       Berwarna.
+
+8. Apa tipe dan jenis animasi komputer?
+
+TIPE ANIMASI KOMPUTER
+
+a. Animasi 2 Dimensi
+Animasi 2 Dimensi adalah animasi yang paling sering kita jumpai, animasi ini biasa disebut dengan kartun. Animasi ini berbasis pada konsep gambar 2 dimensi.Contoh-contoh dari animasi ini adalah spongbob dan lain lain.
+
+b. Animasi 3 Dimensi
+Animasi 3 Dimensi merupakan perkembangan dari animasi 2 dimensi. Dengan berdasarkan pada konsep gambar 3 dimensi sehingga menghasilkan animasi yang lebih realistis, detail dan nyata karena hampir menyerupai bentuk aslinya. Contoh dari animasi 3 Dimensi sendiri adalah smurf, avatar dan lain-lain.
+
+JENIS ANIMASI KOMPUTER
+a.Hitam-putih, hitam-putih berarti warna pada gambar animasi komputer tersebut hanya terdiri dari warna hitam dan putih
+b. Berwarna gambar pada animasi terdiri dari banyak warna lain seperti merah hijau biru dan warna-warnalainya
+
+9. Apa saja contoh penggunaan animasi komputer?
+ Contoh penggunaan animasi computer adalah seperti pada film animasi, iklan animasi, game animasi, pembelajaran dengan animasi, simulasi dengan animasi. Jadi animasi computer digunakan dalam berbagai bidang seperti perfileman, periklanan, pembelajaran/pendidikan, game, dan lainnya.
+
+10. Digunakan dalam bidang apa saja animasi komputer itu?
+·         Bidang Pendidikan
+Dalam bidang pendidikan ini ilmu grafik komputer banyak digunakan oleh berbagai pihak dalam dunia pendidikan seperti guru/dosen, siswa/mahasiswa yang ingin mempresentasikan suatu objek yang nyata dengan menggunakan software atau aplikasi tertentu seperti power point yang dapat membuat grafik atau gambar diagram yang mempermudah proses presentasi suatu objek. power point
+Kemudian ada aplikasi paint dari windows yang dapat membuat gambar dari proses awal, aplikasi ini sudah banyak di ajarkan kepada siswa Sekolah Dasar untuk menggambar dengan menggunakan komputer.
+paint                                             
+·         Bidang Perancangan.
+Salah satu bidang ini merupakan bidang yang mengutamakan Ilmu Grafik Komputer karena untuk merancang suatu objek atau desain di bidang ini butuh pembuatan gambar dengan proses dari awal. Salah satu contohnya adalah arsitektur yang akan mendesain arsitektur bangunan atau bisa juga mendesain body kendaraan dengan menggunakan software desain grafis seperti auto cad, 3D MAX semuanya akan diproses secara mudah dan lebih spesifik dalam perancangan yang akan dibuat. Memperkecil tingkat kesalahan sehingga akan menghasilkan suatu model yang sama seperti aslinya.
+3D MAX
+·         Bidang Hiburan.
+Saat ini hampir disemua bidang hiburan menggunakan banyak bantuan dari Ilmu Grafik Komputer, contohnya seperti pada film animasi yang membutuhkan pembuatan gambar dengan menggunakan komputer, begitu juga dengan games saat ini yang membutuhkan banyak bantuan komputer untuk membuat animasi, karakter dari permainan dan efek dalam permainan semua itu membutuhkan banyak grafik komputer.Contoh aplikasi pembuat animasi adalah macromedia flash.
+film animasi games                                     
+·         Bidang Photografi.
+Saat ini bidang yang mungkin paling banyak digemari sebagian besar anak remaja adalah bidang photografi. Namun tidak cukup dengan hasil foto yang original dihasilkan oleh kamera, kini banyak orang yang mengolah hasil jepretan kamera dengan menggunakan banyak aplikasi pengolahan citra untuk mendapatkan hasil citra yang baru dan lebih sempurna dalam tampilannya. Salah satu contoh software pengolah citra yang sering digunakan di bidang ini adalah photoshop dan corel draw. 
+·         Bidang  Kedokteran.
+Dalam bidang ini banyak sekali pemanfaatan pengolahan citra yaitu salah satunya penggunaan sinar X (foto Rontgen) sangatlah membantu dokter untuk mendiagnosa suatu penyakit dalam tubuh yang tidak bisa dilihat dan didiagnosa hanya dengan kasat mata. x-ray 
+·         Penginderaan Jarak Jauh / Inderaja (Remote Sensing)
+Salah satu contoh aplikasi ini adalah google maps yang memungkinkan kita melihat suatu wilayah dengan menggunakan bantuan foto satelit kemudian foto tersebut telah diolah dengan menggunakan teknik pansharpening yang merupakan proses fusi antara citra pankromatik high-resolution dengan citra multipektral low-resolution untuk memperoleh citra yang lebih baik dengan kualitas high-resolution dan natural color image.  citra panchromatic cira multispectral citra dengan panshrap(natural color)
+
+Itulah contoh aplikasi dan penerapan ilmu grafik komputer dan pengolahan citra dalam kehidupan nyata yang saya dapat dari berbagai sumber kemudian saya telah terjemahkan kembali dalam cara pikir dan bahasa saya sendiri. Semoga bermanfaat bagi anda semua.
+
+11.   Bagaimana perkembangan animasi komputer?
+
+Perkembangan Dunia Animasi Dunia Animasi Komputer Menggairahkan Perkembangan dunia animasi komputer yang pesat dewasa ini memerlukan waktu puluhan tahun dalam proses penciptaaannya. Animasi secara harfiah berarti membawa hidup atau bergerak. Secara umum, menganimasi suatu objek memiliki makna menggerakkan objek tersebut agar menjadi hidup. Makna ini dalam dunia animasi komputer untuk selanjutnya mengalami perluasan karena sebuah objek yang diam juga termasuk animasi. Animasi diam (none motion) ini dipergunakan jika sebuah objek hendak diperkenalkan secara detail pada pola penonton. Animasi mulai dikenal secara luas sejak populernya media televisi yang mampu menyajikan gambar-gambar bergerak hasil rekaman kegiatan dari makhluk hidup, baik manusia, hewan, maupun tumbuhan. Jika dikomparasikan dengan gambar foto atau lukisan yang diam (tidak bergerak) maka secara umum animasi lebih disukai penonton karena mampu membangkitkan antusiasme dan emosi.
+
+PERKEMBANGAN
+Perkembangan animasi seiring dengan perkembangan dunia pertelevisian. Pada awalnya diciptakanlah animasi berbasis dua dimensi (2D Animation). Yakni objek yang dianimasi mempunyai ukuran panjang (x-axis) dan lebar (y-axis) saja. Realisasi nyata dari perkembangan animasi dua dimensi yang cukup revolusioner berupa dibuatnya film-film kartun. Seven Dwarfs (1937) dan Fantasia (1940) dari Walt Disney adalah karya-karya film kartun yang melegenda sampai sekarang. Bahkan beberapa tokoh-tokoh kartun buatan Walt Disney yang lain masih dapat bertahan dan populer sampai saat ini mekipun pembuatan film-film tersebut dikerjakan hampir 500 tahun yang lalu. Kalau dibandingkan, sedikit sekali tokoh-tokoh film layar lebar yang mampu bertahan sekian lamanya. Pembuatan animasi film kartun itu sendiri pada awalnya dikerjakan dengan membuat sketsa gambar yang digerakkan satu demi satu. Untuk membuat satu durasi animasi membutuhkan jumlah gambar yang cukup banyak. Sejak ditemukannya teknik animasi sel, maka pembuatannya menjadi lebih mudah. Kertas gambar yang biasa dipergunakan diganti dengan kertas transparan yang terbuat dari bahan celluloid sheet. Teknik animasi sel inilah yang kemudian diadopsi dalam animasi komputer. Kertas gambar dalam pembuatan animasi sebelumnya kemudian diprogram menjadi frame di komputer. Sehingga yang semula berupa kumpulan gambar-gambar maka di komputer hal tersebut sudah merupakan kumpulan dari frame-frame yang tersusun dalam sebuah alur waktu. Adanya perubahan pergerakan suatu objek yang dianimasi oleh komputer dapat dibuat menjadi sebuah keyframe. Sehingga menjadi jauh lebih efektif dan efisien dibandingkan dengan animasi yang dilakukan manual.
+
+ANIMATOR
+Pendesain animasi di komputer yang lebih umum disebut animator, hanya perlu untuk menganimasikan objek
+antarkeyframe. Tidak perlu lagi membuat animasi frame demi frame seperti dalam pembuatan animasi gambar demi gambar dalam pembuatan film kartun konvensional. Sedangkan frame-frame antar keyframe tersebut akan diterjemahkan sendiri oleh komputer menjadi sebuah gerakan seperti yang diinginkan aniator. Perkembangan dunia animasi komputer sekarang sudah sangat pesat. Apalagi sejak diciptakannya animasi berbasis tiga dimensi (3D Animation) yang mempunyai ukuran panjang, lebar, dan tinggi (Z-axis) maka objek dan pergerakannya hampir mendekati kenyataan aslinya. Hanya saja objek tersebut dibuat di dunia maya (virtual reality).Perkembangan ini dibarengi pula dengan cukup banyaknya perangkat lunak yang mendukungnya seperti misalnya Macromedia Flash, GlF Animation, dan Corel Rave sebagai software-software pengusung animasi dua dimensi. Sedangkan 3D MAX Studio, Alias Wave Front AMA, Light Wave, dan Cinema 4D, sebagai software-software inti populer pendukung animasi 3D. Dengan perkembangan ini maka pada era sekarang animasi tidak hanya sebatas pada menggerakkan sebuah objek saja. Tetapi sudah masuk pada pemberian tekstur dan pewarnaan, pemodifikasian struktur dan karakter objek, objek morfing, pemberian cahaya dan kamera, serta pemberian efek-efek dan partikel pada sebuah objek yang sedemikian rupa. Sehingga output yang dihasilkan berupa sebuah animasi objek yang benar-benar mendekati aslinya dalam kehidupan. MAKIN LUAS Adapun sisi positif dari fenomena ini bertambah luasnya lahan pekerjaan bagi seorang animator. Tidak hanya sebagai animator film dalam pembuatan sekuel film, tetapi seorang animator dapat berperan dalam pembuatan sebuah iklan multimedia, pengisi special effect dalam pembuatan video klip musik/film.Juga berperan dalam pembuatan presentasi multimedia, turut mendesain sebuah web yang dinamis dan interaktif serta masih banyak lagi lahan pekerjaan yang menuntut peranan seorang animator.
+
+Jika dikaji lebih jauh, dalam berbagai pekerjaan yang ditawarkan maka kelebihan utama seorang animator dibandingkan dengan camera man, bahwa seorang animator dapat mengkreasi sebuah objek atau efek yang tidak mampu dihasilkan camera

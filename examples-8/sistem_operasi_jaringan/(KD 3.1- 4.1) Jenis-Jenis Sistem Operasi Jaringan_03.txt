@@ -1,0 +1,66 @@
+Jenis-Jenis Sistem Operasi Jaringan
+Diterbitkan Agustus 12, 2017
+ TAGS
+JENIS-JENIS SISTEM OPERASI JARINGAN
+    Hai kawan selamat datang di blog saya. Pada kesempatan kali ini saya akan memberikan materi tentang Jenis-Jenis Sistem Operasi Jaringan. Mari kita simak gan...
+
+
+
+
+      Sistem Operasi Jaringan (Network Operating System) adalah sebuah jenis sistem operasi yang di tunjukan untuk menangani jaringan. 
+
+1. Jenis-Jenis Sistem Operasi Jaringan Berdasarkan layanan (interface)
+     a. Unix.
+
+
+
+        Unix adalah sistem operasi yang memungkinkan sebuah komputer di pakai oleh banyak orang (multiuser).
+     b. Novell NetWare.
+
+
+
+        Novell NetWare adalah sebuah sistem operasi jaringan yang umum di gunakan dalam komputer IBM PC atau kompatibelnya.
+     c. OS/2.
+
+
+
+        Os/2 adalah sistem operasi yang di buat secara bersama-sama oleh Internasional Bisiness Machine Corporation dan Microsoft Corporation (Sampai versi 1.2).
+     d. Windows NT
+
+
+
+        Windows NT adalah sebuah sistem operasi 32-bit dari Microsoft yang menjadi leluhur sistem operasi Windows 200, Windows XP, Windows server 2003, dan Windows Vista.
+
+2. Jenis-Jenis Sistem Operasi Jaringan Open Source dan Close Source.
+
+     a. Open Source.
+
+
+
+         Open Source adalah perangkat lunak (software) yang di mana kode programnya bersifat terbuka dan di sediakan oleh pengembangnya secara umum agar bisa untuk di pelajari, di ubah maupun di kembangkan lebih lanjut serta di sebarluaskan dan boleh bahkan untuk memperbaiki bug atau kesalahan pada program tersebut.
+
+   Keuntungan Open Source :
+Legal
+Menyelamatkan Devisa Negara
+Keamanan System
+Hemat Biaya
+Lebih Aman
+   Kerugian Open Source : 
+Tidak ada garansi dari pengembangan
+Open Source di gunakan secara sharing
+Kesulitan mengetahui status project
+
+     b. Close Source
+
+
+
+        Close Source adalah sistem operasi yang kodenya tidak di buka untuk umum, pemilik kode close source bisa membagikan codenya melalui lisense secara gratis atau bayar.
+
+    Keuntungan Closed Source :
+Kestabilan sistem terjamin
+Support dukungan langsung dari pemilik program
+Lebih mudah di gunakan
+   Kerugian Close Source :
+Celah yang terbuka
+Pengembangan terbatas
+Diperlukan antivirus

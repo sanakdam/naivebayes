@@ -1,0 +1,39 @@
+Pemodelan Perangkat Lunak
+Pengertian Pemodelan Perangkat Lunak
+
+Untuk mendapatkan suatu definisi yang dapat dipahami dengan baik dari pengertian Pemodelan Sistem, maka kita harus mengetahui secara mendalam apa arti sebenarnya dari dua kata tersebut, yakni Pemodelan (Model) dan Sistem. Model adalah adalah rencana, representasi, atau deskripsi yang menjelaskan suatu objek, sistem, atau konsep, yang seringkali berupa penyederhanaan atau idealisasi. Bentuknya dapat berupa model fisik (maket, bentuk prototipe), model citra (gambar, komputerisasi,grafis dll), atau rumusan matematis.Sedangkan Sistem adalah suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi. Menurut Anatol Rapoport Sistem adalah “satu kesatuan yang berfungsi sebagai satu kesatuan karena bagian-bagian yang saling bergantung dan sebuah metode yang bertujuan menemukan bagaimana sistem ini menyebabkan sistem yang lebih luas yang disebut sistem teori umum”Jadi apa yang disebut dengan Pemodelan Sistem ? Pemodelan Sistem adalah suatu bentuk penyederhanaan dari sebuah elemen dan komponen yang sangat komplek untuk memudahkan pemahaman dari informasi yang dibutuhkan.
+
+Karakteristik daripada Pemodelan Sistem, adalah sebagai berikut :
+1. Dibuat dalam bentuk grafis dan tambahan keterangan secara tekstual.
+2. Dapat diamati dengan pola top-down dan partitioned.
+3. Memenuhi persyaratan minimal redundancy.
+4. Dapat mempresentasikan tingkah laku sistem dengan cara yang transparan.
+
+Dari karakteristik pemodelan diatas, dapat diambil kesimpulan bahwa model itu dibuat dalam bentuk grafis atau bergambar sehingga dapat memudahkan customer dan dilengkapi juga dengan keterangan dari gambar atau grafis tersebut. Alur dari proses model tersebut dapat di lihat dan diamati, memenuhi syaran minimal reudansi dan yang terpenting adalah dapat mempresentasikan proses dari pada system yang dibuat dan dapat di pahami oleh customer.
+
+Menurut Grady Booch, James Rumbaugh dan Ivar Jacobson Prinsip dari Pemodelan adalah:
+1. Memilih model apa yang di gunakan, bagaimana masalahnya dan bagaimana juga dengan solusinya.
+2. Setiap Model dapat dinyatakan dalam tingkatan yang berbeda
+3. Model yang terbaik adalah yang berhubungan dengan realitas.
+4. Tidak pernah ada model tunggal yang cukup baik, setiap system yang baik memilik serangkaian model kecil yang independen.
+
+Prinsip pemodelan sistem tidak terlalu menitik beratkan kepada bentuk model apa untuk merancang sebuah sitem, bentuk model ini bebas, bisa menggunakan bentuk apa saja, sesuai dengan keinginan kita, contohnya bisa berupa narasi, prototype, maupun gambar, yang terpenting adalah harus mampu merepresentasikan visualisasi bentuk sistem yang diinginkan oleh user, karena sistem akhir yagn dibuat bagi user akan diturunkan dari hasil model tersebut
+Metode formal memiliki kemampuan untuk
+meningkatkan kualitas dan produktifitas dalam
+pembangunan perangkat lunak. Diantara
+kemampuannya :
+? Untuk meningkatkan pendeteksian eror sejak awal
+? Untuk membangun sistem perangkat lunak yang
+aman, handal dan terjamin
+? Untuk memfasilitasi pengujian dari implementasi
+? Untuk memungkinkan dilakukannya simulasi,
+animasi, pembuktian, eksekusi dan transformasi
+? Model ini menggambarkan sistem dengan
+lingkungan diluarnya tetapi tidak
+menggambarkan relasi antara sistem dengan
+lingkungan luar
+? Lingkungan luar mungkin mengirim data ke
+sistem, terhubung langsung ke sistem dan
+membagi datanya ke sistem.
+? Untuk itu ada detail proses yang harus
+disediakan seperti dalam model proses.

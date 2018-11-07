@@ -1,0 +1,322 @@
+Multimedia
+Sejarah Multimedia 
+
+Multimedia mempunyai sejarah yang cukup banyak yang mengandung makna dan arti yang berbeda setiap tahun nya, tetapi setiap tahun nya ada sedikit penambahan arti tentangt istilah multimedia,dimana multimedia di diskripsikan oleh ilmuwan sesuai dengan apa yang telah ada di perubahan multgimedia tersebut. Istilah "multimedia" diciptakan Oleh Bob Goldstein (kemudian 'Bobb Goldsteinn') untuk mempromosikan Juli 1966 pembukaan nya "LightWorks di L'Oursin" menunjukkan di Southampton, Long Island. Pada tanggal 10 Agustus 1966, Richard Albarino dari Variety meminjam terminologi, melaporkan: "gagasan songscribe-komik Bob ( 'Washington Square') Goldstein, yang 'Lightworks' adalah multi media terbaru musik-cum-visual untuk debut sebagai diskotik tarif. “ Dua tahun kemudian, pada tahun 1968, istilah "multimedia" adalah kembali disesuaikan untuk menggambarkan karya seorang konsultan politik, David Sawyer, suami Iris Sawyer-salah satu produsen Goldstein di L'Oursin. Dalam selang empat puluh tahun, kata telah diambil pada makna yang berbeda. Pada akhir 1970-an istilah ini digunakan untuk mendeskripsikan presentasi terdiri dari multi-proyektor slide diatur untuk melacak audio. [Rujukan?] Namun, pada tahun 1990-an 'multimedia' mengambil makna saat ini. Penggunaan bahasa Jerman masyarakat, Gesellschaft fur deutsche Sprachgebrauch, memutuskan untuk mengenali kata yang makna dan ubiquitousness pada 1990-an dengan pemberian gelar itu 'Word of the Year "di tahun 1995. Institut diringkas dasar pemikirannya dengan menyatakan "[Multimedia] telah menjadi kata sentral dalam dunia media baru yang indah“. Sehingga pada tahun sebelum dan tahun sekarang multimedia sangat mempunyai makna dan pengertian yang berbeda, sehingga sekarang multimedia di sebut dengan Multimedia adalah penggunaan komputer untuk menyajikan dan menggabungkan teks, suara, gambar, animasi dan video dengan alat bantu (tool) dan koneksi (link) sehingga pengguna dapat ber-navigasi, berinteraksi, berkarya dan berkomunikasi. Multimedia sering digunakan dalam dunia hiburan. Selain dari dunia hiburan, Multimedia juga diadopsi oleh dunia Game.
+
+ETIMOLOGI MULTIMEDIA
+
+
+Istilah multimedia pertama kali di kenal pada dunia teater, yang mempertunjukan pagelaran dengan menggunakan gerak, musik, dan video untuk menambah dramatisasi suatu cerita. Sekarang multimedia dikenal dengan panduan dari hasil gambar atau image, grafik, teks, suara, TV, dan animasi sehingga menjadi suatu karya yang dapat dinikmati secara audio visual. Umumnya juga orang mengenal multimedia sebagai sistem dari komputer personal (PC) yang berkembang pesat dewasa ini. Dalam Perkembangannya pengajaran, latihan, pembuatan manufaktur, sedang dalam system perekonomian layak digunakan untuk kegiatan promosi penjualan.
+Menurut Robert Webking , multimedia secara “etimologi “ di artikan sebagai, “multi“ (banyak) “medium“ (prantara media). Dalam bidang informasi multi media memiliki makna yaitu “persekutuan media“ diantara sumber dan pemasukan informasi atau “persekutuan alat“ dengan mana informasi di simpan, ditransmisikan, dipresentasikan dan diterima (webking.2001: www.alltheweb.com)
+Munter (1982) menulis bahwa, “alat bantu media dapat memberikan sumbangan yang sangat besar dalam menambah minat, variasi, dampak serta kemampuan mengingat lebih lama dibandingkan dengan kata-kata. Munter menjelaskan bahwa orang paling banyak belajar dan menyimpan memori melalui observasi minimal 85% sedangkan data yang dikumpulkan dan yang disimpan berasal dari penglihatan dan suara bisa melebihi batas normal. Suatu tinjauan mengenai suatu penelitian menyatakan bahwa alat bantu audiovisual (multimedia) meningkatkan pemahaman sampai 200% dalam pengajaran, alat bantu visual meningkatkan daya ingat sekitar 14-38%, dan dapat mengurangi waktu yang diperlukan sampai 40% untuk menjelaskan konsep tunggal dalam kegiatan promosi.
+Satu alasan penting bahwa alat bantu multimedia yang relevan dan dipilih dengan baik adalah menarik perhatian dengan kualitas kerja yang luar biasa, warnawarna terang pada bagan, bentuk unik suatu obyek, dan getaran bunyi yang khusus, semuanya akan membantu mendapatkan perhatian. Dengan kualitas praga yang luar biasa, warna-warna pada bagan, bentuk unik suatu obyek, dan getaran bunyi yang khusus, semuanya akan membantu mendapatkan perhatian dan memperbaharui daya tarik gagasan yang disampaikan. Perhatian penuh dapat dilakukan hanya dalam beberapa detik memiliki “waktu paruh“ yang sangat singkat alat multimedia dapat digunakan secara efektif untuk mengendalikan perhatian penyimak melalui stimulasi visual dan stimulasi oral. Stimulasi visual dan stimulasi oral akan memberikan kesadaran yang tinggi, intensitas, ukuran yang besar, pengulangan, durasi, warna yang cerah. Istilah psikofisik mengacu pada interaksi proses psikologis dan stimulasi fisik penggabungan faktor-faktor itu dalam bentuk alat bantu multimedia akan sangat membantu mempertahankan tingkat perhatian yang disengaja ataupun yang tidak disengaja.
+Multimedia juga sangat membantu dalam kegiatan belajar, selain dalam membantu kegiatan promosi, dimana belajar mengajar merupakan hal yang patut di perhatikan dalam meningkatkan sumberdaya manusia. Dengan meningkatnya sumber daya manusia maka suatu negara dapat di katakan telah maju, dengan adanya multi media system belajar mengajar dapat efektif dan efesien sehingga dengan adanya multimedia belajar dapat berinteraktif
+
+1.1 KATEGORI MULTIMEDIA
+Multimedia dapat didefinisikan menjadi dua kategori yaitu multimedia content production dan multimedia communication dengan definisi sebagai berikut:
+
+a. Multimedia content production
+Multimedia adalah penggunaan dan pemrosesan beberapa media (text, audio, graphics, animation, video, and interactivity) yang berbeda untuk menyampaikan informasi atau menghasilkan produk multimedia (music, video, film, game, entertaiment, dll) Atau penggunaan sejumlah teknologi yang berbeda yang memungkinkan untuk menggabungkan media (text, audio, graphics, animation, video, and interactivity) dengan cara yang baru untuk tujuan komunikasi. Dalam kategori ini media yang digunakan adalah
+Media Teks
+Media Audio
+Media Video
+Media Animasi
+Media Graph / Image
+Media Interactivity
+Media Special Effect
+
+b. Multimedia communication
+Multimedia adalah menggunakan media (masa), seperti televisi, radio, cetak, dan Internet, untuk mempublikasikan/menyiarkan/mengkomunikasikan material advertising, publicity, entertaiment, news, education, dll. Dalam kategori ini media yang digunakan adalah
+TV
+Radio
+Film
+Cetak
+Musik.
+Game
+Entertaiment
+Tutorial
+ICT (Internet)
+1.2 KARAKTERISTIK MULTIMEDIA
+Multimedia juga mempunyai karakteristik, yaitu ada 2 bentuk:
+Bentuk Linier: Sebuah stuktur Multimedia dimana pengguna bernavigasi sesuai urutan dari 1 frame atau bite informasi ke yang kainnya.
+Bentuk non linier: Stuktur Multimedia dimana pengguna bernafigasi secara bebas tidak dibatasi oleh rute yang ditentukan.
+Dari karakteristik tersebut meliputi diantaranya yaitu:
+Presentasi multimedia dapat meliputi non linier dan atau interaktif dan linier atau pasif.
+Multimedia dapat memuat hubungan terstruktur yang disebut Hypermedia.
+Mengembang Multimedia, membuat judul Multimedia dengan piranti Authoring.
+Proyek Multimedia ketika dipublikasikan disebut Judul Multimedia.
+Ada beberapa istilah- istilah yang sering dipergunakan dalam Multimedia, yaitu:
+Multimedia Interaktif yaitu Multimedia yang pengguna akhir atau USER dapat mengontrol apa dan dalam hal apa urutan elemen multimedia dikirimkan.
+Programmer Multimedia yaitu orang yang mengintegrasikan elemen bentuk keseluruhan yang hakus menggunakan sebuah sisstem Authoring/bahasa pemrograman.
+Proyek Multimedia yaitu sarana perangkat lunak pesan dan isi yang dapat dipresentasikan pada sebuah layar komputer atau televisi. Atau juga bisa disebut dengan proses pembuatan Multimedia.
+1.3 MANFAAT MULTIMEDIA
+Multimedia memiliki manfaat yang beragam, seperti penggunaan dibawah
+ini :
+Industri Kreatif
+Industri kreatif menggunakan multimedia untuk berbagai keperluan, mulai dari seni, untuk hiburan, untuk seni komersial,
+Komersial
+Presentasi yang menarik digunakan untuk menjaga perhatian dalam periklanan. Bisnis dan komunikasi seringkali dikembangkan oleh tim kreatif perusahaan untuk menawarkan menjual ide maupun dalam pelatihan dalam bentuk presentasi multimedia
+Hiburan dan seni rupa
+Selain itu, multimedia ini berisi banyak digunakan dalam industri hiburan, khususnya untuk mengembangkan efek khusus dalam film dan animasi. Permainan populer dalam multimedia sebagaimana permainan dan program perangkat lunak yang telah tersedia baik terdistribusi dalam CD-ROM atau online. Beberapa video games mengajak pengguna untuk berpartisipasi aktif, bukan hanya duduk sebagai penerima pasif informasi.
+Pendidikan
+Dalam pendidikan, multimedia digunakan untuk memproduksi pelatihan berbasis computer dan buku referensi seperti ensiklopedia dan almanacs yang memungkinkan pengguna melalui serangkaian modul presentasi, teks tentang topik tertentu, dan gambar yang terkait dalam berbagai format informasi. Informal Edutainment adalah istilah yang digunakan untuk menjelaskan menggabungkan pendidikan dengan hiburan, terutama hiburan multimedia.
+Belajar teori dalam dekade terakhir telah berkembang dramatis karena pengenalan multimedia.
+Teknik
+Perangkat lunak dapat menggunakan multimedia dalam menciptakan Simulasi Komputer untuk sebagai hiburan dan pelatihan seperti pelatihan militer atau industri. Multimedia sebagai desain antarmuka yang sering dilakukan sebagai sebuah kolaborasi antara kreatifitas dan perangkat lunak
+Perindustrian
+Di sektor industri, multimedia digunakan sebagai cara untuk menyajikan informasi untuk membantu pemegang saham, rekan kerja dan atasan. Multimedia ini juga bermanfaat untuk memberikan pelatihan karyawan, periklanan dan penjualan produk di seluruh dunia hampir tak terbatas melalui web berbasis teknologi.
+Matematika dan penelitian ilmiah
+Dalam matematika dan penelitian ilmiah, multimedia dipakai terutama untuk modelling dan simulasi. Misalnya, seorang ilmuwan bisa melihat pada model molekular tertentu dari substansi dan memanipulasinya untuk tiba pada suatu zat baru. Perwakilan penelitian dapat ditemukan di jurnal seperti Journal of Multimedia.
+Kesehatan
+Dalam Pengobatan, dokter dapat dilatih dengan melihat virtual operasi atau mereka dapat mensimulasikan bagaimana tubuh manusia yang terkena penyakit menular oleh virus dan bakteri dan kemudian mengembangkan teknik untuk mencegahnya.
+Gambar Dokumen
+Pengambil foto copy / dokumen dan mengkonversi ke dalam format digital
+
+1.4 PERENCANAAN DAN PEMBUATAN PROYEK MULTIMEDIA
+Kebanyakan proyek multimedia dikerjakan dalam beberapa tahap. Beberapa tahap harus terlebih dahulu diselesaikan sebelum. memulai tahap, yang lain, dan beberapa tahap ada yang dapat dihilangkan atau dikombinasikan.
+Berikut adalah empat tahap dasar dalam suatu proyek multimedia:
+
+1. Perencanaan dan pembiayaan
+Suatu proyek selalu diawali dengan suatu gagasan atau kebutuhan yang Anda. saring dengan membuat garis besar atas pesan dan tujuannya. Identifikasi bagaimana Anda akan membuat setiap pesan dan tujuan tersebut bekerja dalam sistem. yang dibuat. Sebelurn Anda mulai mengembangkannya, rencanakan keterampilan menulis, seni grafis, musik, video, dan kemampuan multimedia lain apa yang diperlukan. Kembangkan grafis kreatif yang enak dilihat dan dirasakan, demikian juga dengan struktur dan sistem navigasi yang mengundang pemirsa untuk melihat pesan dan isinya. Perhitungkan waktu yang dibutuhkan untuk mengerjakan seluruh elemen, dan rencanakan biayanya. Susunlah sebuah prototipe atau konsep pembuktian singkat. Kemudahan di mana Anda dapat menciptakan material dengan produksi hari ini dan peranti authoring akan menarik para pengembang baru untuk beralih produksi. Namun, berpindah jalur tanpa. perencanaan terkadang menyebabkan awalan yang keliru dan pemborosan waktu. dan, dalam jangka waktu lama, mempertinggi biaya pengembangan. Semakin lama waktu. yang Anda. habiskan untuk menggeluti proyek Anda. dan mendefinisikan isi dan strukturnya, semakin cepat Anda dapat membuatnya, dan ketika sampai di tengah-tengah pengerjaan dan penyusunan ulang yang dilakukan semakin berkurang.
+Rencanakan dengan matang sebelurn Anda memulai! Gagasan kreatif dan “uji coba” Anda akan berkembang dalam. layar dan tombol (tampilan dan rasa), dan konsep pembuktian Anda akan menguji apakah gagasan Anda dapat bekerja. Anda. akan menemukan bahwa dengan melanggar aturan, Anda dapat menemukan sesuatu yang menakjubkan!
+
+2. Desain dan produksi:
+Lakukan setiap rencana. yang dibuat untuk membuat produk jadi. Selarna proses ini, mungkin akan terjadi banyak siklus umpan balik dengan klien sampai klien merasa puas.
+
+3. Pengujian
+Selalu lakukan pengujian terhadap program Anda untuk memastikan bahwa mereka sudah sesuai dengan tujuan proyek Anda, mereka. bekerja sesua platform pengiriman yang diinginkan dan sesuai keperluan klien atau pengguna akhir.
+
+4. Pengiriman
+Kemas kemudian kirimkan proyek ke pengguna akhir.
+
+
+Multimedia adalah penggunaan komputer untuk menyajikan dan menggabungkan teks, suara, gambar, animasi dan video dengan alat bantu (tool) dan koneksi (link) sehingga pengguna dapat bernavigasi, berinteraksi, berkarya dan berkomunikasi (Hofstetter 2001). Multimedia sering digunakan dalam dunia hiburan. Selain dari dunia hiburan, Multimedia juga diadopsi oleh dunia Game. 
+Multimedia juga dapat diartikan sebagai penggunaan beberapa media yang berbeda dalam menyampaikan informasi berbentuk text, audio, grafik, animasi, dan video.
+Definisi Multimedia menurut beberapa ahli
+
+Rosch, 1996 : Multimedia adalah Kombinasi dari komputer dan video
+McComick, 1996 : Multimedia adalah Kombinasi dari tiga elemen: suara, gambar, dan teks
+Turban dan kawan-kawan, 2002 : Multimedia adalah Kombinasi dari paling sedikit dua media input atau output. Media ini dapat berupa audio (suara, musik), animasi, video, teks, grafik dan gambar
+Robin dan Linda, 2001 : Multimedia adalah Alat yang dapat menciptakan presentasi yang dinamis dan interaktif yang mengkombinasikan teks, grafik, animasi, audio dan video
+Steinmetz (1995, p2) : Multimedia adalah gabungan dari seminimalnya sebuah media diskrit dan sebuah media kontinu. Media diskrit adalah sebuah media dimana validitas datanya tidak tergantung dari kondisi waktu, termasuk didalamnya teks dan grafik. Sedangkan yang dimaksud dengan media kontinu adalah sebuah media dimana validitas datanya tergantung dari kondisi waktu, termasuk di dalamnya suara dan video.
+Vaughan (2004, p1) : Multimedia adalah beberapa kombinasi dari teks, gambar, suara, animasi dan video dikirim ke anda melalui komputer atau alat elektronik lainnya atau dengan manipulasi digital. 
+Pengertian Multimedia dalam Sistem Informasi
+– Multimedia diambil dari kata multi dan media. Multi berarti banyak dan media berarti media atau perantara. Multimedia adalah gabungan dari beberapa unsur yaitu teks, grafik, suara, video dan animasi yang menghasilkan presentasi yang menakjubkan. Multimedia juga mempunyai komunikasi interaktif yang tinggi. Bagi pengguna komputer multimedia dapat diartikan sebagai informasi komputer yang dapat disajikan melalui audio atau video, teks, grafik dan animasi.
+Disini dapat digambarkan bahwa multimedia adalah suatu kombinasi data atau media untuk menyampaikan suatu informasi sehingga informasi itu tersaji dengan lebih menarik.
+Multimedia adalah kombinasi dari komputer dan video (Rosch, 1996) atau Multimedia secara umum merupakan kombinasi tiga elemen, yaitu suara, gambar dan teks (McCormick 1996) atau Multimedia adalah kombinasi dari paling sedikit dua media input atau output dari data, media dapat audio (suara, musik), animasi, video, teks, grafik dan gambar (Turban dkk, 2002) atau Multimedia merupakan alat yang dapat menciptakan presentasi yang dinamis dan interaktif yang mengkombinasikan teks, grafik, animasi, audio dan gambar video (Robin dan Linda, 2001).
+Multimedia adalah pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, gambar bergerak (video dan animasi) dengan menggabungkan link yang memungkinkan pemakai melakukan navigasi, berinteraksi, berkreasi dan berkomunikasi.
+Dalam definisi ini terkandung empat komponen penting multimedia
+Harus ada komputer yang mengkoordinasikan apa yang dilihat dan didengar.
+Harus ada link yang menghubungkan pemakai dengan informasi.
+Harus ada alat navigasi yang membantu pemakai menjelajah jaringan informasi yang saling terhubung.
+Multimedia menyediakan tempat kepada pemakai untuk mengumpulkan, memproses, dan mengkomunikasikan informasi dengan ide.
+Oleh karena itu, jika salah satu komponen tidak ada, bukan multimedia dalam arti luas namanya. Misalnya, jika tidak ada komputer untuk berinteraksi, maka itu namanya media campuran, bukan multimedia. Kalau tidak ada alat navigasi yang memungkinkan untuk memilih jalannya suatu tindakan maka itu namanya film, bukan multimedia. Demikian juga kita tidak mempunyai ruang untuk berkreasi dan menyumbangkan ide sendiri, maka nama televisi, bukan multimedia. Dari beberapa definisi di atas, maka multimedia ada yang online (Internet) dan multimedia ada yang offline (tradisional). 
+    2 Jenis / Kategori Multimedia dalam Sistem Informasi
+  – Multimedia dapat di definisikan menjadi 2 kategori, yaitu Multimedia Content Production dan      Multimedia Communication.  
+ 1. Multimedia Content Production adalah penggunaan beberapa media (teks, audio, graphics,       animation, video dan interactivity) yang berbeda dalam menyampaikan suatu informasi atau menghasilkan produk multimedia seperti video, audio, musik, film, game, entertaintment, dll. Bisa juga dikatakan sebagai penggunaan beberapa teknologi yang berbeda yang memungkinkan untuk menggabungkan media (teks, audio, graphics, animation, video, dan interactivity) dengan cara yang baru untuk tujuan komunikasi. Dalam kategori ini media yang digunakan adalah:
+Media teks/tulisan
+Media audio/suara
+Media video
+Media animasi
+Media gambar
+Media Interaktif
+Media spesial effect
+2. Multimedia Communication adalah penggunaan media (massa), seperti televisi, radio, media cetak dan internet untuk mempublikasikan / menyiarkan / mengkomunikasikan material periklanan, publikasi, entertaintment, berita, pendidikan, dll. Dalam kategori ini media yang digunakan adalah :
+TV
+Radio
+Film
+Media Cetak
+Musik
+Game
+Entertainment
+Tutorial
+Internet
+Dengan penggunaan multimedia, penyampaian informasi akan menjadi lebih menarik dan mempermudah pengguna dalam mendapatkan informasi tersebut. Seperti yang disebutkan dalam laporan hasil penelitian yang dikeluarkan oleh Computer Technology Research (Hofstetter, p4) bahwa seseorang hanya akan mendapatkan 20% dari apa yang mereka lihat dan 30% dari yang mereka dengar. Sedangkan melalui multimedia akan mendapatkan 50% dari apa yang mereka lihat dan dengar, sampai 80% dari apa yang mereka lihat, dengar dan berinteraksi dengan pada waktu yang sama.
+Kirim artikel
+
+
+      Elemen-elemen dalam Multimedia di Sistem Informasi
+ – Menurut Hofstetter (2001, p16) komponen multimedia terbagi atas lima jenis yaitu:
+Teks 
+Teks merupakan elemen multimedia yang menjadi dasar untuk menyampaikan informasi, karena teks adalah jenis data yang paling sederhana dan membutuhkan tempat penyimpanan yang paling kecil. Teks
+merupakan cara yang paling efektif dalam mengemukakan ide-ide kepada pengguna, sehingga penyampaian informasi akan lebih mudah dimengerti oleh masyarakat. Jenis-jenis teks seperti Printed Text, yaitu teks yang dihasilkan oleh word processor atau word editor dengan cara diketik yang nantinya dapat dicetak. Scanned Text yaitu teks yang dihasilkan melalui proses scanning tanpa pengetikan. Dan Hypertext yaitu jenis teks yang memberikan link ke suatu tempat / meloncat ke topik tertentu.
+Grafik (image)
+Sangat bermanfaat untuk mengilustrasi informasi yang akan disampaikan terutama informasi yang tidak dapat dijelaskan dengan kata-kata. Jenis-jenis grafik seperti bitmap yaitu gambar yang disimpan dalam bentuk kumpulan pixel, yang berkaitan dengan titik-titik pada layar monitor. Digitized picture adalah gambar hasil rekaman video atau kamera yang dipindahkan ke komputer dan diubah ke dalam bentuk bitmaps. Hyperpictures, sama seperti hypertext hanya saja dalam bentuk gambar.
+
+Audio
+Multimedia tidak akan lengkap jika tanpa audio (suara). Audio bisa berupa percakapan, musik atau efek suara.
+Format dasar audio terdiri dari beberapa jenis :
+
+WAVE
+Merupakan format file digital audio yang disimpan dalam bentuk digital dengan eksistensi WAV
+MIDI (Musical Instrument Digital Interface)
+MIDI memberikan cara yang lebih efisien dalam merekam music dibandingkan wave, kapasitas data yang dihasilkan juga jauh lebih kecil. MIDI disimpan dalam entuk MID.
+Video
+Video menyediakan sumber yang kaya dan hidup untuk aplikasi multimedia. Dengan video dapat menerangkan hal-hal yang sulit digambarkan lewat kata-kata atau gambar diam dan dapat menggambarkan
+emosi dan psikologi manusia secara lebih jelas
+.
+Animasi
+Animasi adalah simulasi gerakan yang dihasilkan dengan menayangkan rentetan frame ke layer. Frame adalah satu gambar tunggal pada rentetan gambar yang membentuk animasi.
+Menurut Foley, Van Dam, Feiner dan Hughes (1997, p1057) Animate adalah untuk membuat sesuatu hidup, sebagian orang mengira bahwa animasi itu sama dengan motion (gerakan), tetapi animasi mencakup
+semua yang mengandung efek visual sehingga animasi mencakup perubahan posisi terhadap waktu, bentuk, warna, struktur, tekstur dari sebuah objek, posisi kamera, pencahayaan, orientasi dan focus dan perubahan dalam teknik rendering.
+
+Multimedia adalah penggunaan kompeter untuk menyajikan dan menggabungkan text,suara,gambar,animasi,dan video dengan alat bantu dan koneksi.Sehingga pengguna dapat berkarya,berinteraksi dan berkomunikasi
+
+
+
+
+KOMPONEN MULTIMEDIA
+1. Harus ada komputer yang mengkoordinasi apa yang dilihat,didengar,dan berinteraksi dengan kita
+2. Harus ada link yang menghubungkan kita dengan informasi
+3. Harus ada alat navigasi yang memandu kita menjelajah jaringan
+
+UNSUR-UNSUR PENDUKUNG MULTIMEDIA
+a. text                                        c. bunyi                          e. animasi
+b. grafik                                    d. video
+
+KARAKTERISTIK MULTIMEDIA
+1. Bentuk Linier : sebuah struktur multimedia dimana pengguna bernavigasi sesuai urutan dari satu frame ke frame yang lainnya
+2. Bentuk Non Linier : merupakan struktur multimedia dimana pengguna bernavigasi secara bebas
+
+MANFAAT MULTIMEDIA
+
+Dalam bidang industri kreatif
+Dalam bidang komersial
+Dalam bidang hiburan dan seni rupa
+Dalam bidang pendidikan
+Dalam bidang teknik
+Dalam bidang perindustrian
+Dalam bidang matematika dan penelitian ilmiah
+Dalam bidang kesehatan
+Dalam bidang gambar dan dokumen
+
+PENTINGNYA MULTIMEDIA
+1, Menjadi pemicu pembaca memperoleh sesuatu yang lebih dibandingkan topik yang dipelajari.
+2. Sangat efektif dalam penyampaian informasi
+
+
+PERANGKAT LUNAK ANIMASI & GRAFIK 2D
+- Grafik 2 vektor : Corel Draw, Macromedia, Freehand, Adobe Illustrator, Open Draw, dll
+- Grafik 2 Raster : Adobe Photoshop, Jast Paint, Shop Pro, Gimp, dll
+- Animasi : Macromedia Flash, Adobe Image Ready, dll
+
+Komponen Multimedia
+
+Multimedia terdiri dari beberapa komponen yaitu
+
+1. Teks
+Hampir semua orang yang dapat menggunakan komputer sudah terbiasa dengan teks. Teks merupakan dasar dari pengelohan kata dan informasi yang berbasis multimedia. Dalam kenyataannya, multimedia menyajikan informasi kepada audiens dengan cepat, karena tidak diperlukan membaca secara rinci dan teliti.
+Contoh: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Grafik
+Secara umum. grafik berarti gambar atau garis (line drawing). Manusia sangat berorientasi pada visual (visual oriented), dan gambar merupakan sarana yang sangat baik untuk menyajikan informasi. Grafik merupakan komponen penting dalam multimedia.
+Contoh: 
+
+
+
+
+
+3. Image
+Secara umum image berarti gambar atau raster (halfone drawing), seperti foto. Basis data karyawan dengan atribut seperti nama, alamat dan lainnya lebih efektif bila foto karyawan yang bersangkutan dapat ditampilkan. Demikian juga foto-foto seperti gedung dan lain – ­lain sangat memerlukan penyimpanan yang besar. Hal inilah yang menyebabkan aplikasi multimedia disimpan dalam penyimpanan yang cukup besar kapasitasnya seperti CD-Room.
+Contoh: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Animasi
+Animasi berarti gerakan image atau video, contohnya gerakan orang yang melakukan suatu kegiatan. Konsep dari animasi adalah sulitnya menggambarkan
+informasi dengan satu gambar saja, atau sekumpulan gambar, juga tidak dapat menggunakan teks untuk menerangkan informasi. Arsip animasi memerlukan penyimpanan yang j auh lebih besar dari pada satu gambar.
+Contoh:
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Suara
+Suara dapat lebih memperjelas pengertian yang ditampilkan dalam teks dan video. Contohnya, narasi merupakan kelengkapan dari penjelasan yang dilihat melalui video. Suara dapat memberikan lebih menjelaskan karakteristik suatu gambar, misalnya musik dan suara efek (sound effect).
+Contoh: 
+
+
+
+
+
+6. Interaktive Link
+ Sebagian dari multimedia adalah interaktif, dimana pengguna dapat menekan mouse atau objek pada screen seperti button atau teks dan menyebabkan program melakukan perintah tertentu.
+Interaktif link dengan informasi yang dihubungkannya sering kali dihubungkan secara keseluruhan sebagai hypermedia. Secara spesifik, dalam hal ini termasuk hypertext (hotword), hypergraphics dan hypersound menjelaskan jenis informasi yang dihubungkan.
+Interaktif link diperlukan jika pengguna, menunjuk pada suatu objek atau button agar dapat mengakses program tertentu. Interaktif link diperlukan untuk menggabungkan beberapa elemen multimedia sehingga menjadi informasi yang terpadu. Cara pengaksesan informasi pada multimedia terdapat dua macam yaitu linier dan non-linier. Informasi linier adalah informasi yang ditampilkan secara sekuensial, yaitu dari atas ke bawah atau halaman demi halaman. Sedangkan pada informasi non-linier informasi dapat ditampilkan langsung sesuai dengan kehendak pengguna.
+
+Karakteristik Multimedia
+Karakteristik Media dalam Pembelajaran Multimedia Interaktif
+
+Sebagai salah satu komponen sistem pembelajaran, pemilihan dan penggunaan multimedia pembelajaran harus memperhatikan karakteristik komponen lain, seperti tujuan, materi, strategi dan juga evaluasi pembelajaran. Karakteristik multimedia pembelajaran adalah sebagai berikut:
+
+   1. Memiliki lebih dari satu media yang konvergen, misalnya menggabungkan unsur audio dan visual.
+   2. Bersifat interaktif, dalam pengertian memiliki kemampuan untuk mengakomodasi respon peserta didik.
+   3.
+      Bersifat mandiri, dalam pengertian memberi kemudahan dan kelengkapan isi sedemikian rupa sehingga pengguna bisa menggunakan tanpa bimbingan orang lain.
+
+Selain memenuhi ketiga karakteristik tersebut, multimedia pembelajaran sebaiknya juga memenuhi fungsi sebagai berikut:
+
+   1. Mampu memperkuat respon pengguna secepatnya dan sesering mungkin.
+   2. Mampu memberikan kesempatan kepada peserta untuk mengontrol laju kecepatan belajarnya sendiri.
+   3. Memperhatikan bahwa peserta pelatihan mengikuti suatu urutan yang koheren dan terkendalikan.
+   4.
+      Mampu memberikan kesempatan adanya partisipasi dari pengguna dalam bentuk respon, baik berupa jawaban, pemilihan, keputusan, percobaan dan lain-lain.
+
+Dampak Multimedia Pembelajaran Interaktif
+
+Tidak dapat disangkal bahwa terpaan teknologi berupa perangkat lunak (software) maupun perangkat keras (hardware) sudah semakin menyatu dengan kehidupan manusia modern. Dalam bidang pembelajaran, kehadiran media pembelajaran misalnya sudah dirasakan banyak membantu guru dalam mencapai tujuan pembelajarannya. Dalam era teknologi dan informasi ini, pemanfaatan kecanggihan teknologi untuk kepentingan pembelajaran sudah bukan merupakan hal yang baru lagi. Salah satu media pembelajaran baru yang akhir-akhir ini semakin menggeserkan peranan seorang guru adalah teknologi multimedia yang tersedia melalui perangkat komputer ataupun internet.
+
+Dengan teknologi ini, kita bisa belajar apa saja, kapan saja dan di mana saja. Di Indonesia, meskipun teknologi ini belum digunakan secara luas namun cepat atau lambat teknologi ini akan diserap juga ke dalam sistem pembelajaran di pelatihan. Dalam tulisan ini akan dikemukakan beberapa persoalan yang muncul sebagai akibat dari diterapkannya teknologi ini dalam latar pendidikan.
+
+Pertama, berkaitan dengan orientasi filosofis. Ada dua masalah orientasi filosofis yang muncul akibat penerapan teknologi multimedia ini yakni masalah yang berasal dari pandangan kaum objektivis dan yang berasal dari pandangan kaum konstruktivis. Kaum objektivis menilai desain multimedia sebagai sesuatu yang sangat riil yang dapat membantu proses pembelajaran peserta menuju kepada tujuan yang diharapkan (Jonassen, 1991). Materi yang berwujud pengetahuan atau ketrampilan yang hendak dicapai oleh peserta didik harus dirancang secara jadi oleh para pengembang instruksional dan dikemas dalam teknologi multimedia ini.
+
+Sebaliknya kaum konstruktivis berpendapat bahwa pengetahuan hendaklah dibentuk oleh peserta sendiri berdasarkan penafsirannya terhadap pengalaman dan gejala hidup yang dialami (Merril, 1991). Belajar adalah suatu interpretasi personal terhadap pengalaman dan kenyataan hidup yang dialami. Berdasarkan pandangan ini maka belajar bersifat aktif, kolaboratif dan terkondisi dalam konteks dunia yang riil.
+
+Kedua, berhubungan dengan lingkungan belajar. Lingkungan belajar multimedia interaktif dapat dikategorikan dalam tiga jenis yakni lingkungan belajar preskriptif, demokratis dan sibernetik (Schwier, 1993). Masing-masing lingkungan belajar memiliki orientasi dan kekhasan sendiri-sendiri. Lingkungan preskriptif menekankan bahwa prestasi belajar merupakan pencapaian dari tujuan belajar yang ditetapkan secara eksternal. Interaksi belajar terjadi antara peserta dengan bahan-bahan belajar yang sudah tersedia dan belajar merupakan suatu kegiatan yang bersifat prosedural. Lingkungan belajar demokratis menekankan kontrol proaktif peserta atas proses belajarnya sendiri, yang mencakup penetapan tujuan belajar sendiri, kontrol peserta terhadap urutan-urutan pembelajaran, hakekat pengalaman dan kedalaman materi belajar yang dicarinya. Sedangkan lingkungan belajar sibernetik menekankan saling ketergantungan antara sistem belajar dan peserta.
+
+Ketiga, berhubungan dengan desain instruksional. Pada umumnya, desain pembelajaran multimedia dibuat berdasarkan besar kecilnya pengendalian dari peserta itu sendiri atas pembelajarannya. Sebagian besar peneliti mengatakan bahwa peserta bisa diberdayakan melalui kontrol yang lebih besar atas belajarnya tetapi peserta bisa juga dihambat melalui kontrol atas belajarnya. Dalam lingkungan yang demokratis dan sibernetik, kegiatan pembelajaran multimedia bervariasi dan tersedia untuk peserta pada saat kapan saja dan dalam berbagai bentuk sehingga bisa memuaskan kebutuhan-kebutuhan yang ditetapkannya sendiri. Dalam lingkungan belajar preskriptif, kontrol eksternal nampaknya dipaksakan selama tahap awal belajar dan semakin berkurang ketika sudah terlihat kemajuan yang berarti dalam diri peserta berupa perubahan perilaku ke arah yang diharapkan.
+
+Keempat, berkaitan dengan umpan balik. Sifat dari umpan balik dalam pembelajaran multimedia sangat bervariasi tergantung pada lingkungan dimana multimedia itu digunakan. Dalam lingkungan belajar preskriptif, umpan balik sering mengambil bentuk koreksi dan deteksi terhadap kesalahan yang dibuat. Dalam lingkungan belajar demokratis, umpan balik sering mengambil bentuk nasehat atau anjuran, yakni sekedar pemberitahuan kepada peserta tentang akibat-akibat yang muncul dari suatu pilihan tertentu atau juga berisi rekomendasi. Dalam lingkungan belajar sibernetik, umpan balik merupakan suatu negosiasi atau perundingan. Peserta menetapkan arah atau petunjuk sendiri dan membuat pilihannya sendiri dan sistem belajar akan berusaha mempelajari pola-pola yang muncul sehubungan dengan kebutuhannya itu dan memberikan respon terhadap peserta dengan menyediakan tantangan-tantangan baru.
+
+Kelima, sifat sosial dari jenis pembelajaran ini. Banyak kritik telah dilontarkan terhadap pembelajaran multimedia sebagai pembelajaran yang bersifat isolatif sehingga bertentangan dengan tujuan sosial dari sekolah. Peserta seolah-olah dikondisikan untuk menjadi individualis-individualis dan kontak sosial dengan teman-teman menjadi sesuatu yang asing. Itulah beberapa masalah yang perlu diantisipasi bila suatu saat nanti diputuskan untuk menggunakan tekonologi multimedia dalam kegiatan pembelajarannya. Apapun teknologi yang akan dipergunakan hendaknya memperhatikan aspek-aspek tujuan pendidikan yang lebih luas seperti aspek psikologis, sosial, moral, di samping aspek kognitif-intelektualnya.
+
+Salah satu usaha yang dikembangkan untuk mengantisipasi sejumlah potensi masalah diatas maka akhir-akhir ini perhatian kita semua mulai diarahkan kepada belajar kooperatif dalam pembelajaran multimedia (Klien & Pridemore, 1992). Hooper (1992) memperluas pendekatan belajar kooperatif ini dalam lingkungan belajar yang berbasis komputer.
+Ia mengemukakan beberapa keuntungan dan penerapan belajar kooperatif dalam pembelajaran multimedia antara lain : 1) adanya ketergantungan dan tanggung jawab dari setiap anggota kelompok. 2) Adanya interaksi yang promotif di mana usaha seorang individu akan mendukung usaha anggota kelompok lainnya. 3) Kesempatan latihan untuk bekerjasama. 4) Pengembangan dan pemeliharaan kelompok. Proses kelompok yang terjadi di dalam lingkungan belajar ini bisa mendorong anggota kelompok untuk merefleksikan efektif atau tidaknya strategi yang digunakan.
+Meningkatkan Kualiatas Pembelajaran
+
+Perbaikan kualitas pelatihan diarahkan pada peningkatan kualitas proses pembelajaran, pengadaan buku paket (modul) dan buku bacaan atau buku referensi, serta alat-alat pembelajaran. Peningkatan kualitas proses pembelajaran dilakukan melalui in-service training para guru/tenaga pendidik yang sasarannya adalah meningkatkan penguasaan landasan kependidikan, materi pembelajaran (subject matter), metode dan strategi pembelajaran, pembuatan dan penggunaan alat pembelajaran, serta evaluasi pembelajaran.
+
+Seorang guru atau tenaga pendidik memegang peran penting dan strategis dalam proses pembelajaran. Proses pembelajaran sebagai suatu aktivitas untuk meningkatkan pengetahuan, keterampilan, dan sikap peserta didik berkaitan langsung dengan aktivitas tenaga pendidik itu sendiri, baik didalam maupun diluar kelas. Sebagai suatu sistem kegiatan, proses pembelajaran selalu melibatkan pendidik dan peserta didik. Keterlibatan tenaga pendidik tersebut mulai dari pemilihan dan pengurutan materi pembelajaran, penerapan dan penggunaan metode pembelajaran, penyampaian materi pembelajaran, pembimbingan belajar, sampai pada kegiatan pengevaluasian hasil belajar.
+Berkaitan dengan peran tersebut, suatu proses pembelajaran akan berlangsung secara baik jika dilaksanakan oleh pendidik yang memiliki kualitas kompetensi akademik dan profesional yang tinggi atau memadai. Oleh karena itu, peningkatan mutu pelatihan diupayakan melalui pengutamaan peningkatan mutu pendidik tersebut. Selengkap dan secanggih apa pun prasarana dan sarana pendidikan, tanpa didukung oleh mutu dari tenaga pendidik (guru) yang baik, prasarana dan sarana tersebut tidak memiliki arti yang signifikan terhadap peningkatan mutu pelatihan

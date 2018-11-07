@@ -1,0 +1,257 @@
+ANIMASI 3D (MULTIMEDIA)
+
+Thursday, 17 July 2014
+Pengenalan Animasi 3D
+PENGHARGAAN
+Bismillahiramnirahim,
+
+Alhamdulilah, bersyukur ke atas limpah rahmat serta nikmat masa dan tenaga yang dianugerahkan kepada saya dapat juga menyiapkan tugasan yang diberikan ini dengan jayanya.
+
+ Pertama, saya ingin mendedikasikan ucapan sekalung penghargaan ini kepada pensyarah saya yang dikasihi. Puan Noor Fazlinda Othman kerana dengan tunjuk ajar serta bimbingan daripadanya membuka ruang untuk saya menyiapkan tugasan ini dengan suksesnya.
+
+ Saya juga ingin mengucapkan terima kasih yang tidak terhingga kepada ibu bapa saya kerana menyediakan pemudah cara untuk menyiapkan kerja kursus ini. Mereka telah memberi saya segala kemudahan  dan sokongan moral yang tidak terhingga sehingga saya menyiapkan tugasan yang diberikan ini.
+
+ Tidak lupa juga kepada rakan-rakan yang membantu dan memberi peringatan terhadap apa yang saya alpa. Mereka banyak membantu dalam menjawab setiap persoalan yang saya utarakan.
+
+Akhir madah, Saya mengucapkan jutaan terima kasih yang tidak terhingga kepada semua yang terlibat secara langsung atau tidak langsung. Jasa baik kalian hanya Allah yang dapat membalasnya.
+
+ PENGENALAN
+
+
+Assalamualaikum,
+Saya berusaha dengan sedaya upaya untuk menyampaikan dalam bentuk yang sangat mudah di fahami lapisan masyarakat.
+
+Di dalam dunia computer grafik, terdapat komputer grafik elemen yang penting di dalamnya iaitu objek sama ada dimensi atau dua iga dimensi. 
+
+Bentuk tiga dimensi ialah merujuk kepada benda yang wujud dalam ruang yang sebenar atau nyata. Tiga dimensi menpunyai isipadu, jisimdan dapat dirasa serta di sentuh. Selain itu, ia juga menpunyai objek yang bersifat konkrit,berisipadu, mempunyai pandangan sisi,kiri,atas dan bawah. Objek buatan manusia atau bentuk ilusi dan ikon.
+Selain itu, animation dan simulation merupakan dua identiti yang berbeza. Animasi merupakan hasil rendering objek yang direka bentuk menggunakan perisian 3D grafik seperti 3D Studio Max, Blender 3D, atau Maya 3D dan pelbagai perisian lain seperti Google Sketchup dll.
+Di dalamnya ada fungsi yang membolehkan setiap artis merekabentuk animasi yang diperlukan serta pergerakan yang mereka mahukan. Tapi harus diingat, kreativiti merupakan komponen penting dalam hidup seorang penganimasi. Jika tidak agak susah sedikit mungkin untuk menghasilkan sebuah 3D objek.
+
+MACROMEDIA FLASH
+Iklan Animasi : aplikasi Macromedia Flash sangat sesuai sebagai alat pembuat animasi seperti contoh untuk membuat kad ucapan yang gerak atau online,iklan gerak,kartun dan masih banyak lagi di dalam aplikasi ini banyak di sediakan elemen animasi yang sangat lengkap dan detail.
+Game : aplikasi Macromedia Flash juga mampu di pergunakan sebagai alat membentuk game 2D game yang nantinya akan menggabungkan animasi flash yang akan di gabung dengan actionscript akan membuahkan hasil game yang modern.
+User Interface : aplikasi Macromedia Flash dapat di pergunakan untuk membangun flash aplikasi yang biasanya dengan basis web yang nantinya akan di lengkapi dengan berbagai navigasi yang sangat sederhana.
+Flexible Messaging Area : aplikasi Macromedia Flash mampu di rancang untuk membuat atau menampilkan pesan yang selalu berubah setiap wakti di dalam web page seperti wesite yang selalu menampilkan menu atau data terus berubah alias selalu update seperti website jualan atau restoran.
+Masih banyak lagi manfaat dan fungsi yang ada di dalam software Macromedia Flash namun satu hal yang harus di ingat suatu software akan berguna apabila sangat membantu dan memudahkan dalam mengerjakan suatu hal juga banyak manfaatnya di bandingkan kekurangannya,software flash saat ini banyak kita jumpai namun yang paling terkenal dan popular adalah Macromedia Flash dan Adobe Flash plugin dan software nya sudah tidak bisa di ragukan lagi.
+
+ 
+RAJAH 1.1 MACROMEDIA FLASH
+
+
+MACROMEDIA DIRECTOR
+Perusahaan Macromedia ini didirikan pada tahun 1992 melalui merger antara Authorware Inc. (perusahaan pembuat Authorware) dan MacroMind-Paracomp (perusahaan pembuat Macromind Director) dan telah berkembang pesat pada tahun 1990'an dan 2000'an. Pada Desember 2005 Macromedia diakuisisi salah satu perusahaan saingannya, Adobe Systems, tetapi Adobe sementara ini masih tetap menggunakan nama Macromedia pada sejumlah programnya.
+Program program Macromedia :
+1. Macromedia Director.
+2. Macromedia Dreamweaver.
+3. Macromedia Fireworks.
+4. Macromedia Flash.
+5. MacromediaFreehand, dll.
+Macromedia Director adalah sebuah program yang dirancang khusus untuk membuat self-contained atau program yang dapat berjalan sendiri. Aplikasi ini dapat dijadikan sebagai media presentasi maupun sebagai Media Interaktif untuk Membuat CD Interaktif. Director ini juga dapat digunakan untuk menciptakan konten halaman web dalam bentuk Shockwave.
+Uniknya director ini menjadikan perancang layaknya seorang sutradara dalam sebuah film. Para pemain ataupun materi/media bisa dianggap sebagai Cast. Semua aksi dan pergerakan Cast diatur dalam Stage yang diatur dalam alur cerita atau timeline. Sutradara juga dapat mengambil atau mengikutsertakan Cast dari pemain-pemain yang berbeda karakter seperti Photoshop, 3D Studio Max, Audio File seperti MP3 dan WAV, Video File seperti AVI, MPG, MOV dan Flash. Dengan Director ini, tentu saja kita dapat menggabungkan sumber daya yang ada, menjadi sebuah media yang interaktif. Director ini juga dapat dipaketkan menjadi sebuah aplikasi yang bisa dijalankan melalui CD ROM.
+menggunakan Macromedia Director, tentu saja kita harus mengenal Interface dari director ini. Macromedia Director adalah aplikasi animasi untuk keperluan membuat Company Profile, presentasi, game dan CD Interaktif. Macromedia director menggunkan fasilitas pemrograman Lingo dan java Script.
+ 
+                                                                                                                   RAJAH 2.1 MACROMEDIA FLASH
+
+
+ 
+                                                    RAJAH 2.2 MACROMEDIA DIRECTOR
+
+ADOBE PHOTOSHOP
+
+Adobe Photoshop™ merupakan salah satu program pengolah gambar standar profesional. Tutorial dalam artikel ini bertujuan untuk memperkenalkan fungsi penting yang disediakan oleh Adobe Photoshop. Dengan latihan-latihan di bagian akhir. Dalam proses manipulasi gambar, pada dasarnya Photoshopdigunakan untuk melakukan tugastugas.
+
+1. Membuat tulisan dengan efek tertentu
+Kelebihan Photoshop adalah mampu membuat tulisan dengan bermacam-macam karakteristik. Berikut adalah contoh tulisan yang dibuat dengan Photoshop:
+
+2. Membuat tekstur dan material yang beragam
+Dengan langkah-langkah tertentu, seorang designer bisa membuat gambar misalnya daun, logam, air, dan bermacam gambar lainnya.
+
+3. Mengedit foto dan gambar yang sudah ada
+Manipulasi yang bisa dilakukan antara lain: mengubah posisi gambar, mengatur pencahayaan, komposisi warna, menyambung gambar, menambah border (frame) dan efek-efek lainnya.
+
+4. Memproses materi web.
+Photoshop juga digunakan untuk keperluan web, misalnya: kompresi file gambar agar
+ukurannya lebih kecil, memotong gambar kecil-kecil (slice), dan membuat web photo gallery, gambar yang sudah ada bisa dibuat untuk keperluan web, misalnya menjadi rollover dan animasi GIF. Untuk keperluan tersebut, anda bisa menggunakan Macromedia Fireworks™ di samping Adobe Im
+
+
+
+Adobe Photoshop, atau biasa disebut Photoshop, adalah perangkat lunak editor citra buatan Adobe Systems yang dikhususkan untuk pengeditan foto/gambar dan pembuatan efek. Perangkat lunak ini
+
+ banyak digunakan oleh fotografer digital dan perusahaan iklan sehingga dianggap sebagai pemimpin pasar (market leader) untuk perangkat lunak pengolah gambar/foto, dan, bersama Adobe Acrobat, dianggap sebagai produk terbaik yang pernah diproduksi oleh Adobe Systems. Versi kedelapan aplikasi ini disebut dengan nama Photoshop CS (Creative Suite),                                           
+
+
+                                               
+RAJAH 3.1 ADOBE PHOTOSHOP CS3
+
+
+
+
+
+                                                                                                               RAJAH. 3.2 ADOBE PHOTOSHOP CS
+ADOBE PHOTO FLASH
+
+Adobe Flash Player ialah perisian yang memaparkan animasi dan filem dengan menggunakan atur cara komputer seperti pelayar web. Flash Player ialah pemain multimedia dan aplikasi ciptaan Macromedia, kini dibangunkan dan diedarkan oleh Adobe setelah membeli Macromedia. Flash Player menjalankan fail-fail SWF yang boleh direka dengan menggunakan alat pengarangan Adobe Flash rekaan Adobe Flex, atau mana-mana alat Macromedia yang lain dan pihak ketiga.
+
+Nama Adobe Flash, atau sekadar Flash, merujuk kepada program pengarangan multimedia tersebut ataupun Adobe Flash Player edaran Adobe yang menggunakan grafik vektor dan raster, bahasa peenskripan tersendiri iaitu ActionScript dan penstriman video dan audio dwiarah.
+Flash Player menyokong bahasa penskripan tersirat bernama ActionScript (AS) yang berasaskan ECMAScript. Semenjak diperkenalkan sebagai sintaks skrip tanpa pemboleh ubah, ActionScript telah berkembang maju untuk menyokong kod berorientasi objek, hinggakan keupayaannya boleh dibandingkan dengan JavaScript (satu lagi bahasa penskripan berasaskan ECMAScript).
+Pada awalnya, Flash Player direka untuk memaparkan animasi vektor dua dimensi yang ringkas, tetapi kini sesuai untuk mereka aplikasi Internet kaya dan menstrimkan video dan audio.
+Flash Player tersedia sebagai pemalam untuk versi-versi terkini pelayar web (such as Mozilla Firefox, Opera, Safari dan Internet Explorer) di platform-platform terpilih. Adobe menyatakan bahasa setiap versi pemalam adalah serasi dengan versi sebelumnya, kecuali perubahan ciri-ciri keselamatan yang diperkenalkan dalam Versi 10.2.
+
+
+
+RAJAH 4.1 ADOBE PHOTO FLASH
+3D STUDIO MAX
+
+Software  pengembangan  animasi  dimensi  tiga  merupakan  software  yang banyak  digunakan  oleh  para  praktisi  dalam  bisnis  periklanan.  Software  ini  banyak ragamnya, sesuai dengan keterserdiaan fasiltas yang disediakan untuk memudahkan pengguna. Discreet  3DS Max merupakan  software dimensi  tiga yang  dapat  membuat  objek  dimensi  tiga  tampak  realistis. 
+Kemajuan dunia grafik khususnya animasi 3d telah berkembang dengan sangat pesat. Telah banyak kemudahan-kemudahan dan feature-feature baru yang dikeluarkan oleh pihak vendor dalam upaya untuk semakin memikat konsumen/user dengan produk mereka. Ini tentunya menjadi nilai tambah bagi para konsumen dalam mengekplorasi ide kreatifitas dalam berkarya. Hal ini tentunya harus menjadi motivasi bagi siswa selaku insan yang bergelut dalam bidang multimedia untuk lebih serius dan tekun dalam mempelajari penggunaan software animasi 3d multimedia ini.
+Buku panduan ini disusun  dari berbagai macam sumber untuk mempermudah siswa dalam mempelajari dan mengaplikasikan kosep animasi dan pemodelan 3D dengan menggunakan Software 3ds max. Bahasan dalam buku panduan ini mencakup dasar-dasar modeling dan animasi 3 dimensi yang sederhana sebagai dasar bagi siswa untuk dapat melatih diri dalam mengeksplorasi ide dan kreatifitas mereka
+
+
+1.   Menu, berisi berbagai macam perintah dan fasilitas untuk memodifikasi model atau animasi yang kita buat. Prinsipnya hampir sama dengan menu-menu yang ada pada software pada umumnya.
+2.   Tool Reactor,  berisi tool-tool yang dapat digunakan untuk memasukan objek menjadi koleksi reactor.  Atau dengan cara lain juga kita dapat lakukan dengan menekan Create > Helpers > reactor
+3.   Command Panel, berisi perintah- perintah atau parameter-parameter yang berkaitan dengan objek yang kita buat. Dalam buku panduan ini, untuk memodifikasi atau menampilkan Command Panel yang berada di bawah  biasa disebut rollout.
+4.   Viewport, merupakan  area atau layar tempat kita mengerjakan animasi. Terdapat enam sudut pandang dalam animasi tiga dimensi, yaitu atas, bawah, kiri, kanan, depan dan belakang. Berdasarkan sudut pandang tersebut, dalam 3ds max terdapat 8 sudut pandang viewport, yaitu top, bottom, left, right, front, back, perspectift dan user. 
+
+5.   Main toolbar, dalam 3ds max terdapat tool yang dapat digunakan untuk berbagai keperluan dalam memanipulasi objek yang kita buat. Terdapat beberapa main toolbar standar seperti tampak pada gambar di bawah ini : 
+
+
+
+
+
+
+
+
+                                                 3D MAYA
+
+Sebagai software modeling dan animasi 3D dapat dikatakan Maya adalah software 3D yang terpopuler kalau bukan yang terbaik pada masa kini, baik untuk modeling maupun animasi, khususnya character modeling dan character animation. Oleh kerana itu, Maya memang lebih banyak digunakan untuk membuat character modeling dan animasinya, serta untuk mendesain efek spesial. Sedemikian komersilnya software Maya hingga industri perfilman Hollywood banyak menggunakannya dalam karya mereka, baik untuk pembuatan video clip, film animasi, seperti Finding Nemo, film pendek hingga karya besar berupa film kolosal semacam Lord of the Ring.
+
+Selain itu, Maya juga digunakan untuk membuat model-model 3D untuk keperluan produksi Game. Salah satu yang paling terkenal adalah Grand Tourismo. Alur kerja dan interface Maya 5.0. Modeling. Material, Tekstur, dan Pencahayaan. Animasi.
+
+
+
+
+
+
+
+
+
+
+
+BLENDER 3D
+
+
+
+
+
+
+
+
+Target di profesional media dan seniman, Blender dapat digunakan untuk membuat visualisasi 3D, stills serta siaran dan video berkualitas bioskop, sedangkan penggabungan mesin 3D real-time memungkinkan penciptaan konten 3D interaktif untuk pemutaran yang berdiri sendiri. Blender memiliki berbagai macam kegunaan termasuk pemodelan, menjiwai, rendering, texturing, menguliti, rigging, pembobotan, editing non-linear, scripting, composite, post-produksi dan banyak lagi.
+
+Fitur – Fitur Blender
+Blender memiliki fitur sama kuat mengatur dalam lingkup dan kedalaman ke ujung lain tinggi 3D software seperti Softimage | XSI, Cinema 4D, 3ds Max dan Maya.
+Perangkat lunak ini berisi fitur yang merupakan ciri khas dari model perangkat lunak high-end. Ini adalah Open Source yang paling populer grafis 3D aplikasi yang tersedia, dan merupakan salah satu yang paling didownload dengan lebih dari 200.000 download dari rilis masing-masing.
+Fitur termasuk:
+Model: Obyek 3D tipe, termasuk jerat poligon, permukaan NURBS, Bezier dan kurva B-spline; multiresolusi patung kemampuan; Modifier stack deformers; model Mesh; Python Scripting
+Rigging: Skeleton kode ciptaan; Skinning; lapisan Bone; B-splines interpolated tulang
+Animasi: animasi editor non-linear; Vertex framing kunci untuk morphing, animasi Karakter berpose editor; deformers animasi, pemutaran Audio; sistem kendala animasi
+Rendering: raytracer inbuilt; oversampling, blor gerak, efek pasca produksi, ladang, non-square pixel, lapisan Render dan melewati; Render baking ke peta UV, Efek termasuk halo, suar lensa, kabut, vektor motion-blur proses pasca- , dan proses pasca-defocus; Ekspor naskah untuk penyaji eksternal
+UV unwrapping: Laurent dan metode Berdasarkan Sudut unwrapping; unwreapping berdasarkan jahitan; falloff proporsional mengedit peta UV
+Shading: membaur dan shader specular; Node editor; hamburan Bawah, shading Tangent; peta Refleksi
+Fisika dan Partikel: sistem Partikel dapat dilampirkan ke mesh objek; simulator Fluida; solver Realtime tubuh lembut
+Imaging dan Komposisi: multilayer OpenEXR dukungan; filter node komposit, konverter, warna dan operator vektor; 8 mendukung prosesor; sequencer realtime dekat; Bentuk gelombang dan UV menyebar plits
+Realtime 3D/Game Penciptaan: editor grafis logika; Bullet Fisika dukungan Perpustakaan; jenis Shape: polyhedron Convex, kotak, bola, kerucut, silinder, kapsul, majemuk, dan mesh segitiga statis dengan mode auto penonaktifan; tabrakan Diskrit; Dukungan untuk kendaraan dinamika; Mendukung semua modus pencahayaan OpenGL; Python scripting; Audio
+Lintas Platfrom dengan GUI OpenGL seragam pada semua Platfrom ,siap untuk digunakan untuk semua versi windows Linux,OS X , FreeBSD, Irix, SUN dan berbagai Sistem Oprasi lainnya .
+Kualitas tinggi arsitektur 3D yeng memungkinkan penciptaan cepat dan efisiens .
+Lebih dari 200.000 download (pengguna) dari seluruh dunia
+Diekseskusi berukuran kecil, dan distribusi rendah
+Kelebihan Blender
+
+Blender adalah salah satu software open source yang digunakan untuk membuat konten multimedia khusunya 3Dimensi, ada kelemahan dan beberapa kelebihan yang dimiliki Blender dibandingkan software sejenis. Berikut kelebihannya :
+Open Source
+Blender merupakan salah satu software open source, dimana kita bisa bebas memodifikasi source codenya untuk keperluan pribadi maupun komersial, asal tidak melanggar GNU General Public License yang digunakan Blender.
+Multi Platform
+Karena sifatnya yang open source, Blender tersedia untuk berbagai macam operasi sistem seperti Linux, Mac dan Windows. Sehingga file yang dibuat menggunakan Blender versi Linux tak akan berubah ketika dibuka di Blender versi Mac maupun Windows.
+Update
+Dengan status yang Open Source, Blender bisa dikembangkan oleh siapapun. Sehingga update software ini jauh lebih cepat dibandingkan software sejenis lainnya. Bahkan dalam hitungan jam, terkadang software ini sudah ada update annya. Update an tersebut tak tersedia di situs resmi blender.org melainkan di graphicall.org
+Free
+Blender merupakan sebuah software yang Gratis Blender gratis bukan karena tidak laku, melainkan karena luar biasanya fitur yang mungkin tak dapat dibeli dengan uang, selain itu dengan digratiskannya software ini, siapapun bisa berpartisipasi dalam mengembangkannya untuk menjadi lebih baik. Gratisnya Blender mendunia bukan seperti 3DMAX/ Lainnya yang di Indonesia Gratis membajak :p. Tak perlu membayar untuk mendapatkan cap LEGAL. Karena Blender GRATIS dan LEGAL 
+
+Lengkap
+Blender memiliki fitur yang lebih lengkap dari software 3D lainnya.  Coba cari software 3D selain Blender yang di dalamnya tersedia fitur Video editing, Game Engine, Node Compositing, Sculpting. Bukan plugin lho ya, tapi sudah include atau di bundling seperti Blender.
+
+
+
+
+
+
+
+AUTODESK MAYA 3D
+
+Autodesk 3ds Max sebelumnya 3D Studio MAX saja, adalah pemodelan, animasi dan paket rendering yang dikembangkan oleh Autodesk Media dan Entertainment. Memiliki kemampuan model, arsitektur plugin yang fleksibel dan dapat digunakan pada platform Windows Microsoft. Hal ini dapat digunakan oleh pengembang permainan video, studio TV komersial dan studio visualisasi arsitektur. Hal ini juga digunakan untuk efek film dan pra-visualisasi. Selain model dan alat animasi, dengan versi terbaru dari 3ds Max juga fitur shader canggih (seperti ambient occlusion dan subsurface scattering), simulasi dinamis, sistem partikel, radiosity, peta penciptaan normal dan rendering, pencahayaan global, intuitif dan semuanya disesuaikan keinginan pengguna, dan bahasa scriptnya sendiri.
+
+Autodesk Maya adalah aplikasi software yang digunakan untuk 3D animasi, 3D modeling, simulasi, efek visual, rendering, matchmoving, dan composite. Ini dikembangkan di Toronto oleh Autodesk’s Media and Entertainment Division (sebelumnya Alias). Maya digunakan dalam industri film dan TV, serta untuk komputer dan permainan video, visualisasi arsitektur dan desain.
+3D pemodelan adalah cara yang baik untuk menciptakan konten untuk aplikasi grafis, film, dan permainan video, dan ada banyak program yang berbeda pemodelan 3-D di pasar. 3DS Max dan Maya adalah dua jenis program, dan sementara sangat mirip, mereka memiliki beberapa perbedaan dari satu sama lain. Berikut adalah beberapa contoh perbandingan dari kekuatan dan kelemahan masing-masing software:
+Kekuatan Autodesk Maya
+
+
+
+
+
+
+
+
+Kekuatan utama Autodesk Maya terletak pada model NURBS. Meskipun Max memadai dapat model permukaan NURB, sangat sulit untuk menggunakan dan sehingga sebagian besar pengguna MAX mengandalkan produk pihak ke-3 untuk permukaan. Maya memiliki pendekatan yang berbeda untuk model NURBS yang tampaknya mengalir jauh lebih mudah daripada Max, serta Autodesk Maya juga lebih flexsible untuk digabungkan dengan software lain contohnya Blender 3D yang dugunakan untuk membuat tiruan kerangka manusia sehingga dapat menghidupkan karakter dengan memberi obyek seperti gerakan tulang.
+
+MACROMEDIA FREEHAND
+
+Macromedia FreeHand adalah aplikasi komputer untuk membuat grafik vektor dua dimensi yang berorientasi terutama untuk ilustrasi profesional, percetakan dan pembuatan konten untuk Web. FreeHand mirip dalam ruang lingkup, pasar yang dituju, dan fungsi ke Adobe Illustrator, CorelDraw dan Xara Designer Pro [1]. Karena tata letak halaman khusus FreeHand dan fitur kontrol teks, juga membandingkan dengan Adobe InDesign dan QuarkXPress. Profesi menggunakan FreeHand meliputi Desain Grafis, Ilustrasi, Kartografi, Fashion dan Desain Tekstil, Desain Produk, Arsitek, Penelitian Ilmu, dan Produksi Multimedia. 
+
+FreeHand MX terus berjalan di bawah Windows 7 menggunakan modus kompatibilitas dan di bawah Mac OS X 10.6 (Snow Leopard) dalam Rosetta (perangkat lunak), emulator Aplikasi Karbon, dan membutuhkan sebuah patch pendaftaran yang disediakan oleh Adobe.
+ Sebagai sebuah aplikasi yang fleksibel, FreeHand sering digunakan untuk pembuatan sistem layout halaman, pembuatan dan pengeditan grafik vektor untuk printing dan web.
+
+
+
+
+
+
+
+
+
+
+
+LIGHTWAVE 3D
+
+Light wave 3D adalah antara software 3D  yang popular di dalam dunia animasi 3D yang dikeluarkan oleh Network Inc. Perisian Light wave 3D  merupakan perisian 3D  berpakej lengkap model, animate dan render. Software ini digunakan untuk Print Ad,web content dengan flash, serial TV, filem layar, visualisasi rekabntuk produk dan game 3D komputer. Light wave adalah  merupakan perisian yang  terpisah antara 2 modul iaitu Light Wave Modeler dan Light Wave Layout.
+
+
+
+
+
+
+
+ 
+                  ULEAD COOL 3D
+
+Ulead Coll 3D studio adalah suatu program yang untuk membuat animasi 3d secara mudah. Ulead Cool 3D Studio sudah dilengkapi dengan berbagai macam model 3d, background movie, template dan tool-tool yang sangat menarik. Ulead Cool 3D Studio dapat kita gunakan untuk menggabungkan dan text, video, garfik untuk di render menjadi video ataupun format animasi yang dapat di baca oleh program lain. Kelebihan software Ulead Cool 3D Studio adalah kita bisa menggunakan template yang ada kemudian mengubah beberapa text, sudah bisa menghasilkan animasi 3D yang terkesan professional. Fungsi dari  Ulead 3D COOL Studio tidak hanya untuk membuat berbagai animasi tetapi juga dapat digunakan untuk mengedit sebuah gambar, text, dan laporan dengan tampilan yang menarik.
+lisensi dari Ulead 3D COOL Studio ini adalah bersifat gratis (freeware).
+
+
+
+Adapun software alternatif yang digunakan selain dari Ulead 3D COOL Studio, ada beberapa software di antaranya adalah Macromedia Flash 8, 3D Cool, Swift 3D v5, 3D video4.
+
+AURORA 3D ANIMASI
+
+Aurora Animasi 3D Maker - membantu Anda untuk membuat animasi 3D-untuk pemrosesan video atau desain web. Hal ini sering diperlukan untuk menambahkan efek animasi seperti kembang api, asap, salju, kebakaran di konten, atau misalnya untuk menunjukkan logo dalam klip video. Program ini mudah digunakan dan boleh menjadi asisten yang tak tergantikan.
+Fungsi Maker Animasi 3D Aurora:
+* Keyframe animasi
+Cara kunci software animasi frame, sederhana dan fleksibel. Apakah tidak memerlukan animasi yang kompleks, setiap orang dapat membuat header animasi keren. Gunakan waktu untuk semua frame animatsiyu.Klyuchevoy berisi semua atribut objek dalam adegan animasi. Sebuah keyframe diatur secara autormatik, hanya untuk menemukan lokasi timeline, dan kemudian semua objek dapat dengan bebas disesuaikan dengan keadaan yang diinginkan, bingkai kunci secara otomatis dihasilkan dari, mudah untuk membuat menggunakan animatsiyu.Gibkoe, cukup menyesuaikan panjang animasi, mengatur kecepatan animasi.
+* Khusus efek animasi
+Berisi semua fitur dari teks, logo Produsen, dan semua teks, bentuk, tombol, logo dapat animasi. Kebebasan dan gibkost.Programmnoe perangkat lunak menyediakan banyak efek animasi, akan memperkaya keindahan animasi.
+Berbagai efek partikel: kembang api, asap, salju, kebakaran, dan pada interval sehingga dalee.Peremeschenie efek animasi yang berbeda termasuk: Linear, Quad, Cubic, Quint, dan sebagainya.
+* Ekspor Animasi
+Kita dapat mengambil format video, termasuk animasi (avi, flv, mpg), Flash (swf), Animasi Gif, atau menampilkan urutan (png, tga, bmp).
+
+
+
+Jadi apapun yang digunakan dalam video editing dapat sangat meningkatkan efisiensi dan meningkatkan rezultaty.Polnostyu kami kompatibel dengan perangkat lunak lain memungkinkan Anda untuk sempurna mengintegrasikan ke dalam lingkungan kerja Anda untuk membawa Anda praktek produksi yang indah dan efisien.

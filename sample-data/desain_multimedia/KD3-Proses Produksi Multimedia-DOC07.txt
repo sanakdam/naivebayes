@@ -1,0 +1,23 @@
+Proses Pre-Production Proyek Multimedia
+
+Artikel kali ini akan menjelaskan secara singkat proses yang sangat menentukan keberhasilan proyek multimedia, yaitu proses Pre-Production. Alur proses produksi proyek multimedia umumnya sebagai berikut:
+
+Tahap Pengembangan Proyek Multimedia
+Pada umumnya tahapan Pre-Production akan menyita waktu yang lama bahkan perbandingannya bisa mencapai 75 % dari seluruh waktu. Nah, berikut ini ada diagram alir proses Pre-Production:
+
+Pre Production
+Proses kerja di Pre-Production adalah menentukan ide cerita kemudian membuat sketsa beberapa adegan penting ke dalam bentuk naskah cerita. Lalu dibuat storyboard untuk menerjemahkan naskah menjadi cerita yang lebih mendetail. Pada proses selanjutnya dibuatlah karakter tokoh dan background awal. Setelah itu lalu membuat keyframe.
+Test Shot, yaitu sebuah rangkaian pendek gambar yang di-render dengan full color untuk memastikan teknik pergerakan dan rendering-nya sesuai rencana.
+Sebelum proses cells animation sendiri dimulai, dibutuhkan konsep cerita yang harus dibuat dalam bentuk narasi.
+Beberapa elemen yang perlu dipertimbangkan dalam proses Pre-Production adalah:
+Apa tujuan dan pesan yang ingin disanpaikan? Dan apa essensinya?
+Siapa pemirsa yang menjadi target? Siapa yang akan menjadi pengguna akhir dari karya ini? Seperti apa platform media pemutaran multimedia mereka?
+Apa keinginan klien?
+Proyek ini adalah re-design atau new project?
+Apakah sarana dan prasarana yang menunjang untuk pembuatan proyek telah terpenuhi?
+Menginventarisir perangkat lunak yang dibutuhkan.
+Menginventarisir orang yang terlibat serta pembagian tanggung jawabnya.
+Membuat jadwal kerja.
+Merencanakan biaya yang dibutuhkan.
+Merencanakan distribusi hasil kerja.
+Merencanakan adanya update hasil kerja sesuai evaluasi.

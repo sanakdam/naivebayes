@@ -1,0 +1,43 @@
+ETIMOLOGI MULTIMEDIA
+
+Definisi Multimedia
+Pengertian multimedia secara etimologi (menurut kamus/ensiklopedi) berasal dari dua kata “MULTI” dan “MEDIUM”. Yang berarti : MULTI (Latin noun) bermacam-macam, banyak
+MEDIUM (Latin) : Sesuatu yang dipakai untuk menyampaikan atau membawa sesuatu
+MEDIUM (American Heritage Electronic Dictionary, 1991) : alat untuk mendistribusikan dan mempresentasikan informasi
+
+Secara terminologi (menurut istilah) Multimedia dapat diartikan sebagai penggunaan berbagai media yang berbeda untuk membawa, menyampaikan informasi dalam bentuk teks, grafik, animasi, audio, video dan atau gabungan dari beberapa komponen tersebut.
+
+Beberapa definisi menurut para ahli :
+a. Kombinasi dari computer dan video (Rosch, 1996)
+b. Kombinasi dari tiga elemen : suara, gambar dan teks (McComick, 1996)
+c. Kombinasi dari paling sedikit dua media input dan output. Media ini dapat berupa audio (suara, musik), animasi, video, teks, grafik dan gambar (Turban dan kawan-kawan, 2001
+d. Multimedia dalam konteks computer Hofstetter, 2001 adalah:
+Pemanfaatan computer untuk membuat dan menggabungkan teks, grafik, audio, video, dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi dan berkomunikasi.
+
+Dari beberapa definisi diatas, dapat disimpulkan Multimedia adalah penggunaan beberapa media untuk membawa, menyajikan dan mempresentasikan informasi dalam rupa teks, grafik, animasi, audio, video secara kreatif dan inovatif. Multimedia juga dapat memungkinkan terjalinnya hubungan interaktif antara penyaji dengan pemanfaat informasi yang ada di dalamnya.
+
+Kategori Multimedia
+Istilah multimedia muncul melalui media masa diawal 1990. Istilah ini dipakai untuk menyatukan teknologi digital dan analog dibidang entertainment, publishing, communications, marketing, advertising, dan juga commerce. Multimedia merupakan  penggabungan dua kata ”multi” dan “media”. Multi berarti “banyak” sedangkan media atau bentuk jamaknya berarti medium.
+
+ARTISTIS IDEA              >          MEDIUM         >         AUDIENCE
+SERVER                      >          NETWORK       >         CLIENT
+SIGNAL                        >          CONDUIT          >        RECEIVER
+
+Jadi medium adalah entitas yang dilewati oleh sesuatu. Contohnya medium artistic (lukisan, sculpture) adalah kendaraan para artis untuk menyampaikan idenya. Contoh lainya adalah “media masa” yaitu kanal komunikasi dan informasi. Sehingga multimedia dapat didefinisikan menjadi dua kategori yaitu multimedia content production dan multimedia communication dengan definisi sebagai berikut:
+Multimedia content production
+Multimedia adalah penggunaan dan pemrosesan beberapa media (text, audio, graphics, animation, video, and interactivity) yang berbeda untuk menyampaikan informasi atau menghasilkan produk multimedia (music, video, film, game, entertaiment, dll) Atau penggunaan sejumlah teknologi yang berbeda yang memungkinkan untuk menggabungkan media (text, audio, graphics, animation, video, and interactivity) dengan cara yang baru untuk tujuan komunikasi.Dalam kategori ini media yang digunakan  adalah :
+•                Media Teks
+•                Media Audio
+•                Media Video
+•                Media Animasi
+•                Media Graph / Image
+•                Media Interactivity
+•                Media Special Effect
+
+Multimedia communication
+Multimedia adalah menggunakan media (masa), seperti televisi, radio, cetak,danInternet,untuk  mempublikasikan/menyiarkan/mengkomunikasikan material advertising, publicity, entertaiment, news, education, dll. Dalam kategori ini media yang digunakan adalah :
+•           TV
+•           Radio
+•           Film
+•           Cetak
+•           Musik

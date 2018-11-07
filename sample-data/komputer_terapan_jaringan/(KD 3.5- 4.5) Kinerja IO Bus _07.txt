@@ -1,0 +1,52 @@
+Memahami Kinerja I/O BUS Jaringan Komputer dan perangkat lunak pada komputer jaringan
+
+
+Pengertian Input dan Output
+
+1. Pengertian Input:
+Input adalah semua data dan perintah yang dimasukkan ke dalam memori komputer untuk selanjutnya diproses lebih lanjut oleh prosesor. Sebuah perangkat input adalah komponen piranti keras yang memungkinkan user atau pengguna memasukkan data ke dalam komputer, atau bisa juga disebut sebagai unit luar yang digunakan untuk memasukkan data dari luar ke dalam mikroprosesor.
+
+2. Pengertian Output:
+Output adalah data yang telah diproses menjadi bentuk yang dapat digunakan. Artinya komputer memproses data-data yang diinputkan menjadi sebuah informasi. Yang disebut sebagai perangkat output adalah semua komponen piranti keras yang menyampaikan informasi kepada orang-orang yang menggunakannya.
+
+Secara umum, I/O Hardware terdapat beberapa jenis :
+-Storage ( Device penyimpanan )
+-Transmission Device (Network card,Modem)
+-Human –Interface Device (Screen,Keyboard,Mouse)
+
+Device tersebut dikendalikan oleh instruksi I/O. Alamat-alamat  yang dimiliki oleh device akan digunakan oleh  direct I/O instruction dan memory-mapped I/O.
+Beberapa konsep yang umum digunakan ialah : port, bus (daisy chain/ shared direct access), dan controller (host adapter.
+
+o Port adalah koneksi yang digunakan oleh device untuk berkomunikasi dengan mesin. 
+o Bus adalah koneksi yang menghubungkan beberapa device menggunakan  kabel-kabel.
+o Controller adalah alat-alat elektronik yang berfungsi untuk mengoperasikan port, bus, dan device.
+
+Cara kerja peripheral dengan bandwidth tinggi (missal scsi yang mempunyai kecepatan data yang tinggi) dapat disambung dengan bus PCI.
+
+BUS PERIPHERAL COMPONENT INTERCONNECT (PCI)
+
+Bus PCI adalah contoh yang baik dari sistem bus yang muncul dari kebutuhan standarisasi. Bus tersebut mendukung fungsi yang terdapat dalam bus prosesor tetapi dalam format terstandarisasi yang lepas dari prosesor tertentu. Perangkat yang terkoneksi ke bus PCI tampak bagi prosesor seakan dihubungkan secara langsung ke bus prosesor. Perangkat tersebut diberi alamat dalam ruang alamat memori pada prosesor.
+
+perangkat lunak pada komputer jaringan
+
+ 
+Perangkat Lunak Dalam Host
+Menempatkan pesan pada suatu urutan tertentu berlandaskan prioritasnya. 
+Melakukan fungsi keamanan dengan mempertahankan catatan (log) kegiatan pada setiap terminal serta memeriksa apakah suatu terminal berwenang buat melaksanakan tugas yang diminta. 
+Menyatukan jaringan komputer dengan system manajemen database. Sebagian besar DBMS mainframe mempunyai versi buat para pemakai jaringan. 
+Menangani gangguan-gangguan kecil pada pemrosesan misalnya listrik padam dengan menyimpan status dari penyimpanan primer secara periodik. 
+Perangkat lunak TCM melengkapi bagian pada system operasi yang menangani transmisi data antara host serta front-end processor.
+Perangkat Lunak Dalam Front-EndProcessor
+Menentukan apabila terminal hendak memakai jaringan komputer. Salah satu pendekatan yaitu dengan memeriksa terminal (poll the terminal). Beraneka ragam teknik dapat dipakai, dan yang paling langsung ialah rol call polling, yang menanyai tiap-tiap terminal dengan cara berurutan apakah terminal tersebut hendak memakai jaringan komunikasi data. 
+Memelihara catatan kegiatan jaringan komputer dengan menyerahkan cap, tanggal serta waktu pada tiap pesan, bersama nomor seri yang unik. 
+Mengubah kode-kode yang dipakai oleh suatu jenis peralatan (misalnya IBM) pada jenis lain (misalnya DEC) 
+Melaksanakan fungsi editing yang terdapat di data yang masuk dengan memeriksa kekeliruan serta mengatur kembali formatnya. 
+Menambah serta menghapus kode-kode routing. Kode-kode ditambahkan yaitu pada pesan keluar buat mengarahkannya yaitu pada terminal yang tepat. Dan kode-kode dihapus dari pesan masuk sebelum ditransmisikan ke host. 
+Memelihara file historis yang berasal dari pesan-pesan yang dilakukan selama contohnya 20 menit terakhir yang ada di dalam penyimpanan sekunder. File tersebut dapat dipakai buat pemulihan dari gangguan.
+Perangkat lunak atau piranti lunak adalah program komputer yang berfungsi sebagai sarana interaksi antara pengguna dan perangkat keras. Perangkat lunak dapat juga dikatakan sebagai ‘penterjemah’ perintah-perintah yang dijalankan pengguna komputer untuk diteruskan ke atau diproses oleh perangkat keras. Perangkat lunak ini dibagi menjadi 3 tingkatan: tingkatan program aplikasi (application program misalnya Microsoft Office), tingkatan sistem operasi (operating system misalnya Microsoft Windows), dan tingkatan bahasa pemrograman (yang dibagi lagi atas bahasa pemrograman tingkat tinggi seperti Pascal dan bahasa pemrograman tingkat rendah yaitu bahasa rakitan)
+
+Perangkat lunak jaringan komputer yang ada di dalam host disebut telecommunication monitor (TCM). Walau fungsi yang dikerjakan perangkat lunak TCM berlainan dari suatu system ke system yang lainnya. Umumnya TCM mengizinkan host buat :
+Nama yang digunakan buat perangkat lunak Jaringan komputer dalam front-end processor yaitu network control program (NCP).
+
+  
+sumber : http://shodiqfajar006.blogspot.com

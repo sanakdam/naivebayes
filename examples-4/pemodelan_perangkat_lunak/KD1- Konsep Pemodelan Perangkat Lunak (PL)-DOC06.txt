@@ -1,0 +1,64 @@
+Paradigma Dan Konsep System Engineering Model (Pemodelan Perangkat Lunak)
+  18 April 2018     Ulti Desi Arni     Dibaca 111 kali
+Pada artikel ini saya akan membahas seputar paradigma dan konsep yang berkaitan dengan System Engineering Model atau di sekolah sering dikenal dengan Pemodelan perangkat lunak. Di artikel ini saya tidak akan menjelaskan apa itu pemodelan perangkat lunak, akan tetapi saya akan menjelaskan beberapa paradigma yang harus anda ketahui sebelum belajar dan membuat sebuah model perangkat lunak. Paradigma biasanya kita kenal dengan model-model atau konsep pemodelan perangkat lunak.
+
+Berikut Paradigma pemodelan perangkat lunak diantaranya :
+
+Model Waterfall
+ 
+
+Model ini dinamakan waterfall karena memang pada setiap tahapan nya menyerupai air terjun atau waterfall dan sering disebut dengan ‘Classic Life Cycle’ yang merupakan sebuah pengembangan yang sistematik dan sekuensial.
+
+Keunggulan  model waterfall :
+
+ - software yang dihasilkan dengan pengembangan model ini biasanya sangat bagus dan berkualitas baik.
+
+-  setiap fase akan diselesaikan sebaik mungkin sebelum beralih ke fase lainnya jadi dokumen pengembangan nya ter-organisir dengan baik.
+
+Kekurangan model waterfall :
+
+Sifatnya yang kaku sehingga sulit melakukan perubahan
+Biasanya model ini digunakan untuk proyek dengan sistem yang besar karena dibagi ke beberapa bagian sub-proyek.
+Evolutionary Sorfware Process Model
+Model ini mengandung perulangan atau bersifat iterative yang akan menghasilkan produk makin lama makin lengkap sehingga di akhir proses terciptalah produk yang benar benar lengkap. Model ini terbagi menjadi dua yaitu :
+
+Incremental model
+
+
+Model incremental tercipta karena gabungan dari model linear skuensial dan prototyping yang setiap linear sekuensial akan menghasilkan produk yang deliveriables. Persyaratan atau kebutuhan dasar proyek terkandung di dalam increment pertama atau produk inti.
+
+Spiral Model
+
+
+Model diatas menggambarkan bagaimana spiral model melakukan loop yang setiap loop nya akan mewakili satu fase dari software procces. Kelayakan dari system merupakan titik focus dari loop paling dalam, sedangkan loop selanjutnya merupakan definisi dari kebutuhan lalu loop berikutnya berhubungan dengan desain sistem dan begitu juga seterusnya. Pada model ini resiko merupakan hambatan terbesar sehingga model ini sangat dipertimbangkan.
+
+Transformasi Formal
+ 
+
+Metode transformasi formal ini berbasis pada transformasi spesifikasi secara metematika melalui respresentasi pada satu program yang berbeda dan dapat di eksekusi. Penggunaan pendekatan ‘Cleanroom’ merupakan transformasi yang menyatakan spesifikasi program untuk pengembangan pemodelan perangkat lunak. Keteratasan dalam penggunaan nya merupakan kelemahan dari model ini, akan tetapi jumlah kesalahan pada sistem sangat terminimalisir.
+
+Model RAD (Rapid Application Development)
+ 
+
+Model ini adalah perkembangan dari software sekuensial linear dengan siklus panjang dan pendek yang lebih ditekankan. Proses rad memungkinkan tim pengembang menciptakan sistem fungsional yang utuh karena kecepatan nya yang beradaptasi dari kecepatan tinggi model sekuensial linear dengan periode waktu yang sangat pendek yaitu 60-90 hari saja
+
+Rad akan melalui beberapa fase, berikut fase pendekatan Rad :
+
+Bussines Modeling
+Data Modeling
+Prosses modeling
+Application Generator
+Testing and Turnover
+Prototyping Model
+
+
+Terkadang klien hanya memberikan beberapa kebutuhan umum software tanpa detail input, proses atau detail output. Tapi disisi lain tim pengembang sistem atau developers mungkin tidak yakin dengan efisiensi dari algoritma yang digunakan, sehingga tingkat adaptasi terhadap sistem operasi atau rancangan form user interface. Situasi seperti ini mengakibatkan terjadinya model prototyping yang sangat membantu proses pembangunan software.
+
+Berikut gambaran penjelasan proses pada model prototyping berdasarkan gambar model prototyping diatas :
+
+Pengumpulan kebutuhan : klien dan developer mengadakan pertemuan yang akan membahas untuk menentukan rencana dan tujuan, kebutuhan yang diketahui dan gambaran-gambaran bagian yang dibutuhkan berikutnya.
+Perancangan : perancangan dilakukan secara cepat dan harus mewakili semua aspek tentang software yang diketahui sehingga itulah yang akan menjadi dasar pembuatan model prototype.
+Evaluasi : evaluasi adalah urusan klien yang akan melihat secara mendetail sehingga mengetahui dan memperjelas software yang digunakan sesuai dengan kebutuhan klien.
+Itulah beberapa bagian dari paradigm pemodelan perangkat lunak meskipun yang sudah saya rangkum belum lengkap, akan tetapi sudah cukup menggambarkan apa itu paradigm, konsep atau model dari system engineering model ( pemodelan perangkat lunak ). Untuk informasi lebih lengkapnya kamu tunggu kehadiran part II nya.
+
+Semoga bermanfaat.

@@ -1,0 +1,122 @@
+Pemodelan Perangkat Lunak (system engineering model).
+
+
+Pemodelan Perangkat Lunak (system engineering model)
+Pemodelan Perangkat Lunak adalah Disiplin ilmu untuk mempelajari bentuk-bentuk pemodelan perangkat lunak yang digunakan sebagai bagian dari tahapan pengembangan perangkat lunak secara terstruktur dan berorientasi objek.
+
+Pemodelan dalam suatu rekayasa perangkat lunak merupakan suatu hal yang dilakukan di tahapan awal. Di dalam suatu rekayasa dalam perangkat lunak sebenarnya masih memungkinkan tanpa melakukan suatu pemodelan. Namun hal itu tidak dapat lagi dilakukan dalam suatu industri perangkat lunak. Pemodelan delam perangkat lunak merupakan suatu yang harus dikerjakan di bagian awal dari rekayasa, dan pemodelan ini akan mempengaruhi perkerjaan-pekerjaan dalam rekayasa perangkat lunak tersebut.
+
+Di dalam suatu industri dikenal berbagai macam proses, demikian juga halnya dengan industri perangkat lunak. Perbedaan proses yang digunakan akan menguraikan aktivitas-aktivitas proses dalam cara-cara yang berlainan. Perusahaan yang berbeda menggunakan proses yang berbeda untuk menghasilkan produk yang sama. Tipe produk yang berbeda mungkin dihasilkan oleh sebuah perusahaan dengan menggunakan proses yang berbeda. Namun beberapa proses lebih cocok dari lainnya untuk beberapa tipe aplikasi. Jika proses yang salah digunakan akan mengurangi kualitas kegunaan produk yang dikembangkan.
+
+Menurut Grady Booch, James Rumbaugh dan Ivar Jacobson Prinsip dari Pemodelan adalah:
+
+Memilih model apa yang di gunakan, bagaimana masalahnya dan bagaimana juga dengan solusinya. 
+Setiap Model dapat dinyatakan dalam tingkatan yang berbeda 
+Model yang terbaik adalah yang berhubungan dengan realitas. 
+Tidak pernah ada model tunggal yang cukup baik, setiap system yang baik memilik serangkaian model kecil yang independen.
+
+Belajar pemodelan perangkat lunak
+
+
+Tahapan pengembangan perangkat lunak
+Model pengembangan perangkat lunak
+Pemodelan untuk pengembangan perangkat lunak secara terstruktur / structured system development (Data Flow Diagram, Structured chart, Entity Relationship diagram)
+Pemodelan untuk pengembangan perangkat lunak berorientasi objek / object oriented system development (Unified Modelling Languange: Use Case Diagram, Class Diagram, Activity Diagram)
+
+Rekayasa Perangkat Lunak
+Rekayasa Perangkat Lunak (RPL) Adalah suatu disiplin ilmu yang membahas semua aspek produksi perangkat lunak, mulai dari tahap awal yaitu analisa kebutuhan pengguna, menentukan spesifikasi kebutuhan pangguna, desain, pengkodean, pengujian, sampai pemeliharaan sistem setelah digunakan.
+
+Pada rekayasa perangkat lunak, banyak model yang telah dikembangkan untuk membantu proses pengembangan perangkat lunak. Model-model ini pada umumnya mengacu pada model proses pengembangan sistem yang disebut System Development Life Cycle (SDLC) seperti terlihat pada gambar dibawah ini,
+System Development Life Cycle (SDLC)
+
+
+Setiap model yang dikembangkan mempunyai karakteristik sendiri. Namun secara umum ada persamaannya, yaitu :
+Kebutuhan terhadap definisi masalah yang jelas. Input utama dari setiap model pengembangan perangkat lunak adalah pendefinisian masalah yang jelas. Semakin jelas akan semakin baik karena akan memudahkan dalam penyelesaian masalah. Oleh karena itu pemahaman masalah merupakan bagian penting dari model pengembangan perangkat lunak.
+Tahapan-tahapan pengembangan yang teratur. Meskipun model-model pengembangan perangkat lunak memiliki pola yang berbeda-beda, biasanya model-model tersebut mengikuti pola umum analysis – design – coding – testing – maintenance.
+Stakeholder berperan sangat penting dalam keseluruhan tahapan pengembangan. Stakeholder dalam rekayasa perangkat lunak dapat berupa pengguna, pemilik, pengembang, pemrogram dan orang-orang yang terlibat dalam rekayasa perangkat lunak tersebut.
+Dokumentasi merupakan bagian penting dari pengembangan perangkat lunak. Masing-masing tahapan dalam model biasanya menghasilkan sejumlah tulisan, diagram, gambar atau bentuk-bentuk lain yang harus didokumentasi dan merupakan bagian tak terpisahkan dari perangkat lunak yang dihasilkan.
+Keluaran dari proses pengembangan perangkat lunak harus bernilai ekonomis. Nilai dari sebuah perangkat lunak sebenarnya agak susah dirupiah- kan. Namun efek dari penggunaan perangkat lunak yang telah dikembangkan haruslah memberi nilai tambah bagi organisasi. Hal ini dapat Setiap model yang dikembangkan mempunyai karakteristik sendiri-sendiri.
+Model proses perangkat lunak masih menjadi object penelitian, tapi sekarang ada banyak model umum atau paradigma yang berbeda dari pengembangan perangkat lunak, antara lain:
+A. Waterfall Model
+Sebuah pendekatan pengembangan perangkat lunak sistematik dan sekuensial. Disebut juga “Classic Life Cycle”. Disebut waterfall (berarti air terjun) karena memang diagram tahapan prosesnya mirip dengan air terjun yang bertingkat, berikut diagram tahapannya :
+
+
+Waterfall Model
+
+Aktivitas Waterfall Model
+
+
+Requirements analysis and definition : mengumpulkan kebutuhan secara lengkap kemudian dianalisis dan didefinisikan kebutuhan yang hasrus dipenuhi oleh program yang akan dibangun.
+System and software design : desain dikerjakan setelah kebutuhan selesai dikumpulkan secara lengkap.
+Implementation and unit testing : desain program diterjemahkan ke dalam kode-kode dengan menggunakan bahasa pemrograman yang sudah ditentukan. Program yang dibangun langsung diuji.
+Integration and system testing : penyatuan unit-unit program kemudian diuji secara keseluruhan (system testing)
+Operation and maintenance : mengoperasikan program dilingkungannya dan melakukan pemeliharaan, seperti penyesuaian atau perubahan karena adaptasi dengan situasi sebenarnya.
+
+Keunggulan dari waterfall:
+
+
+Software yang dikembangkan dengan metode ini biasanya menghasilkan kualitas yang baik.
+Dokumen pengembangan sistem sangat terorganisir, karena setiap fase harus terselesaikan dengan lengkap sebelum melangkah ke fase berikutnya.
+
+Kekurangan dari waterfall:
+
+
+Perubahan sulit dilakukan karena sifatnya yang kaku.
+Karena sifat kakunya, model ini cocok ketika kebutuhan dikumpulkan secara lengkap sehingga perubahan bisa ditekan sekecil mungkin. Tapi pada kenyataannya jarang sekali konsumen/pengguna yang bisa memberikan kebutuhan secara lengkap, perubahan kebutuhan adalah sesuatu yang wajar terjadi.
+Waterfall pada umumnya digunakan untuk rekayasa sistem yang besar dimana proyek dikerjakan di beberapa tempat berbeda, dan dibagi menjadi beberapa bagian sub-proyek.
+
+
+
+
+B. Evolutionary Software Process Models
+Bersifat iteratif/ mengandung perulangan. Hasil proses berupa produk yang makin lama makin lengkap sampai versi terlengkap dihasilkan sebagai produk akhir dari proses. Dua model dalam evolutionary software process model adalah:
+1. Incremental Model
+Incremental Model merupakan gabungan antara model linear sekuensial dan prototyping. Setiap linear sekuen menghasilkan produk yang deliveriables. Increment pertama merupakan produk inti yang mengandung persyaratan/kebutuhan dasar.
+2. Spiral Model
+Proses digambarkan sebagai spiral. Setiap loop mewakili satu fase dari software process. Loop paling dalam berfokus pada kelayakan dari sistem, loop selanjutnya tentang definisi dari kebutuhan, loop berikutnya berkaitan dengan desain sistem dan seterusnya.
+
+
+
+C. Transformasi Formal
+Transformasi Formal
+
+Metode ini berbasiskan pada transformasi spesifikasi secara matematik melalui representasi yang berbeda untuk suatu program yang dapat dieksekusi. Trasformasi menyatakan spesifikasi program Menggunakan pendekatan ‘Cleanroom’ untuk pengembangan PL.
+Metode ini mempunyai keterbatasan dalam pemakaiannya. Keunggulannya adalah mengurangi jumlah kesalahan pada sistem sehingga penggunaan utamanya adalah pada sistem yang kritis. Hal ini menjadi efektif dari segi biaya.
+
+Pemakaian model pengembangan formal memerlukan tingkat kerahasian sebelum digunakan.Permasalahan dalam model pengembangan metode formal:
+Memerlukan keahlian khusus dan pelatihan untuk mengaplikasikannya
+Sulit menentukan beberapa aspek dari suatu sistem seperti user interface
+
+
+D. Model Rapid Aplication Development (RAD)
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembangan software sekuensial linier yang menekankan siklus perkembangan yang sangat pendek. Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier di mana perkembangan cepat dicapai dengan menggunakan pendekatan kontruksi berbasis komponen. Jika kebutuhan dipahami dengan baik, proses RAD memungkinkan tim pengembangan menciptakan “sistem fungsional yang utuh” dalam periode waktu yang sangat pendek (kira-kira 60 sampai 90 hari). Karena dipakai terutama pada aplikasi sistem konstruksi, pendekatan RAD melingkupi fase – fase sebagai berikut :
+1. Bussiness modeling
+Aliran informasi di antara fungsi – fungsi bisnis dimodelkan dengan suatu cara untuk menjawab pertanyaan – pertanyaan berikut : informasi apa yang mengendalikan proses bisnis? Informasi apa yang di munculkan? Siapa yang memunculkanya? Ke mana informasi itu pergi? Siapa yang memprosesnya?
+2. Data modeling
+Aliran informasi yang didefinisikan sebagai bagian dari fase bussiness modelling disaring ke dalam serangkaian objek data yang dibutuhkan untuk menopang bisnis tersebut. Karakteristik (disebut atribut) masing–masing objek diidentifikasi dan hubungan antara objek – objek tersebut didefinisikan.
+3. Prosess modeling
+Aliran informasi yang didefinisikan di dalam fase data modeling ditransformasikan untuk mencapai aliran informasi yang perlu bagi implementasi sebuah fungsi bisnis. Gambaran pemrosesan diciptakan untuk menambah, memodifikasi, menghapus, atau mendapatkan kembali sebuah objek data.
+4. Aplication generation
+RAD mengasumsikan pemakaian teknik generasi ke empat. Selain menciptakan perangkat lunak dengan menggunakan bahasa pemrograman generasi ketiga yang konvensional, RAD lebih banyak memproses kerja untuk memkai lagi komponen program yang ada ( pada saat memungkinkan) atau menciptakan komponen yang bisa dipakai lagi (bila perlu). Pada semua kasus, alat – alat bantu otomatis dipakai untuk memfasilitasi konstruksi perangkat lunak.
+5. Testing and turnover
+Karena proses RAD menekankan pada pemakaian kembali, banyak komponen program telah diuji. Hal ini mengurangi keseluruhan waktu pengujian. Tetapi komponen baru harus di uji dan semua interface harus dilatih secara penuh.
+
+E. Prototyping Model
+Kadang-kadang klien hanya memberikan beberapa kebutuhan umum software tanpa detil input, proses atau detil output. Di lain waktu mungkin dimana tim pembangun (developer) tidak yakin terhadap efisiensi dari algoritma yang digunakan, tingkat adaptasi terhadap sistem operasi atau rancangan form user interface. Ketika situasi seperti ini terjadi model prototyping sangat membantu proses pembangunan software.
+
+Proses pada model prototyping yang digambarkan pada gambar model prototyping, bisa dijelaskan sebagai berikut:
+Pengumpulan kebutuhan: developer dan klien bertemu dan menentukan tujuan umum, kebutuhan yang diketahui dan gambaran bagian-bagian yang akan dibutuhkan berikutnya. Detil kebutuhan mungkin tidak dibicarakan disini, pada awal pengumpulan kebutuhan.
+Perancangan : perancangan dilakukan cepat dan rancangan mewakili semua aspek software yang diketahui, dan rancangan ini menjadi dasar pembuatan prototype.
+Evaluasi prototype: klien mengevaluasi prototype yang dibuat dan digunakan untuk memperjelas kebutuhan software.
+
+
+F. Component-based Development Model
+Component-based development sangat berkaitan dengan teknologi berorientasi objek. Pada pemrograman berorientasi objek, banyak class yang dibangun dan menjadi komponen dalam suatu software. Class-class tersebut bersifat reusable artinya bisa digunakan kembali. Model ini bersifat iteratif atau berulang-ulang prosesnya.
+
+Secara umum proses yang terjadi dalam model ini adalah:
+Identifikasi class-class yang akan digunakan kembali dengan menguji class tersebut dengan data yang akan dimanipulasi dengan aplikasi/software dan algoritma yang baru
+Class yang dibuat pada proyek sebelumnya disimpan dalam class library, sehingga bisa langsung diambil dari library yang sudah ada. Jika ternyata ada kebutuhan class baru, maka class baru dibuat dengan metode berorientasi objek.
+Bangun software dengan class-class yang sudah ditentukan atau class baru yang dibuat, integrasikan.
+Pembangunan software dengan menggunakan komponen yang sudah tersedia dapat menggunakan komponen COTS (Commercial off-the-shelf) – yang bisa didapatkan dengan membeli atau komponen yang sudah dibangun sebelumnya secara internal. Component-Based Software Engineering (CBSE) adalah proses yang menekankan perancangan dan pembangunan software dengan menggunakan komponen software yang sudah ada.
+
+Semoga Bermanfaat dan Sekian dari saya terima kasih

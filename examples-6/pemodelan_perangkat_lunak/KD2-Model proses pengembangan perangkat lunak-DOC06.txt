@@ -1,0 +1,156 @@
+Model Model Proses Pengembangan Rekayasa Perangkat Lunak
+Model  Waterfall
+
+ 
+
+Pada model Waterfall atau disebut  model air terjun, ada beberapa fase yang harus kita terapkan, yaitu:
+
+Analisi kebutuhan lalu pendefenisiannya
+Perancangan Sistem dan Perangkat lunaknya
+Implementasi dan unit testing
+Integrasi dan pengujian sistem
+Pengoprasian dan persawatan
+Dimana sebuah proses akan kembali ke state sebulumnya agar tidak ada perubahan setelah proses menuju state di bawahnya sebab sangat sulit.
+
+Setiap model pasti ada kekurangan dan kelebihan, dan berikut merupakan kekurangan dan kelebihan dari model Waterfall :
+
+Kekurangan Model Waterfall:
+
+Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+Hal ini mengakibatkan sulitnya untuk merespon perubahan kebutuhan pengguna (user).
+Model air terjun harus digunakan hanya ketika persyaratan dipahami dengan baik.
+Kelebihan Model Waterfall:
+
+Bisa digunakan jika suatu persyaratan untuk membuat suatu software sudah dipahami dengan baik dan sudah lengkap semua persyaratan yang ada.
+Model RAD
+
+ 
+
+Rapid Aplication Model (RAD) adalah sebuah proses perkembangan perangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek. Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen. Jika kebutuhan dipahami dengan baik, proses RAD memungkinkan tim pengembangan menciptakan “sistem fungsional yang utuh” dalam periode waktu yang sangat pendek (kira-kira 60 sampai 90 hari).
+
+ 
+
+Kelebihan Penggunaan Model RAD
+
+Dimungkinkan dalam proses pembuatan membutuhkan waktu yang sangat singkat (60-90 hari).
+Menghemat biaya, karena penekannya adalah penggunaan komponen-komponen yang sudah ada.
+RAD menggunakan kembali komponen-komponen yang sudah ada, maka beberapa komponen program sudah diuji sehingga kita dapat melakukan penghematan waktu dalam uji coba
+Kekurangan Penggunaan Model RAD
+
+Seperti semua proses model yang lain, pendekatan RAD memiliki kekurangan-kekurangan sebagi berikut :
+Bagi proyek yang besar tetapi berskala, RAD memerlukan sumber daya manusia yang memadai untuk menciptakan jumlah tim RAD yang baik.
+RAD menuntut pengembangan dan pelanggan yang memiliki komitmen di dalam aktifitas rapid-fire yang diperlukan untuk melengkapi sebuah sistem, di dalam kerangka waktu yang sangat diperpendek. Jika komitmen tersebut tidak ada, proyek RAD akan gagal. RAD menekankan perkembangan komponen program yang bisa dipakai kembali. Reusable menjadi batu pertama teknologi objek dan ditemui di dalam proses rakitan komponen
+Tidak semua aplikasi sesuai untuk RAD. Bila sistem tidak dapat dimodulkan dengan teratur, pembangunan komponen penting pada RAD akan menjadi sangat problematis.
+RAD menjadi tidak sesuai jika risiko teknisnya tingggi. Hal ini terjadi bila sebuah aplikasi baru memforsir teknologi baru atau bila perangkat lunak baru membutuhkan tingkat interoperabilitas yang tinggi dengan program komputer yang ada.
+ 
+
+Model Prototype
+
+ 
+
+Metode prototyping adalah sistem informasi yang menggambarkan hal-hal penting dari sistem informasi yang akan datang. Prototipe sistem informasi bukanlah merupakan sesuatu yang lengkap, tetapi sesuatu yang harus dimodifikasi kembali, dikembangkan, ditambahkan atau digabungkan dengan sistem informasi yang lain bila perlu.
+
+ 
+
+a. Jenis-Jenis Prototyping
+Feasibility prototyping– digunakan untuk menguji kelayakan dari teknologi yang akan digunakan untuk system informasi yang akan disusun.
+Requirement prototyping – digunakan untuk mengetahui kebutuhan aktivitas bisnis user.
+Desain Prototyping –  digunakan untuk mendorong perancangan system informasi yang akan digunakan.
+Implementation prototyping – merupakan lanjytan dari rancangan protipe, prototype ini langsung disusun sebagai suatu system informasi yang akan digunakan.
+Adapun keunggulan dan kelemahan dalam model prototype:
+
+Keunggulan Prototyping:
+
+User dapat berpartisipasi aktif
+Penentuan kebutuhan lebih mudah diwujudkan
+Mempersingkat waktu pengembangan SI
+Kelemahan Prototyping :
+
+Proses analisis dan perancangan terlalu singkat
+Mengesampingkan alternatif pemecahan masalah
+Bisanya kurang fleksible dalam mengahadapi perubahan
+Prototype yang dihasilkan tidak selamanya mudah dirubah
+Prototype terlalu cepat selesai
+ 
+
+Model Spiral
+
+ 
+
+Model ini cukup baru ditemukan,yaitu tahun 1988 oleh Barry Boehm. Spiral adalah salah satu bentuk evolusi yang menggunakan metode iterasi natural yang dimiliki oleh model prototyping dan digabungkan dengan aspek sistematis yang dikembangkan model waterfall.
+
+Spiral model dibagi menjadi beberapa framework aktivitas, yang disebut dengan task regions. Kebanyakan aktivitas2 tersebut dibagi antara 3 sampai 6 aktivitas. Berikut adalah aktivitas-aktivitas yang dilakukan dalam spiral model :
+
+Customer communication.Aktivitas yang dibutuhkan untuk membangun komunikasi yang efektif antara developer dengan user / customer terutama mengenai kebutuhan dari customer.
+Planning.Aktivitas perencanaan ini dibutuhkan untuk menentukan sumberdaya, perkiraan waktu pengerjaan, dan informasi lainnya yang dibutuhkan untuk pengembangan software.
+Analysis risk.Aktivitas analisis resiko ini dijalankan untuk menganalisis baik resiko secara teknikal maupun secara manajerial. Tahap inilah yang mungkin tidak ada pada model proses yang juga menggunakan metode iterasi, tetapi hanya dilakukan pada spiral model.
+Engineering.Aktivitas yang dibutuhkan untuk membangun 1 atau lebih representasi dari aplikasi secara teknikal.
+Construction & Release.Aktivitas yang dibutuhkan untuk develop software, testing, instalasi dan penyediaan user / costumer support seperti training penggunaan software serta dokumentasi seperti buku manual penggunaan software.
+Customer evaluation.Aktivitas yang dibutuhkan untuk mendapatkan feedback dari user / customer berdasarkan evaluasi mereka selama representasi software pada tahap engineering maupun pada implementasi selama instalasi software pada tahap construction and release.
+Adapun beberapa Kelebihan dan Kelemahan Model Spiral yang ada:
+
+Kelebihan model Spiral :
+
+Dapat disesuaikan agar perangkat lunak bisa dipakai selama hidup  perangkat lunak komputer.
+Lebih cocok untuk pengembangan sistem dan perangkat lunak skala besar
+Pengembang dan pemakai dapat lebih mudah memahami dan bereaksi terhadap resiko setiap   tingkat evolusi karena perangkat lunak terus bekerja selama proses
+Kelemahan model Spiral:
+
+Sulit untuk menyakinkan pelanggan bahwa pendekatan evolusioner ini bisa dikontrol.
+Memerlukan penaksiran resiko yang masuk akal dan akan menjadi masalah yang serius jika resiko mayor tidak ditemukan dan diatur.
+Butuh waktu lama untuk menerapkan paradigma ini menuju kepastian yang absolute
+ 
+
+Model incremental
+
+ 
+
+Model Incremental dalam rekayasa perangkat lunak, menerapkan rekayasa perangkat lunak perbagian, hingga menghasilkan perangkat lunak yang lengkap.  Proses membangun berhenti jika produk telah mencapai seluruh fungsi yang diharapkan.
+
+Adapun beberapa tahapan yang ada pada model incremental dimana tahapan-tahapan tersebut dilakukan secara berurutan.  Setiap bagian yang sudah selesai dilakukan testing, dikirim ke pemakai untuk langsung dapat digunakan.
+
+Tahapan Incremental Model adalah :
+
+Requirement
+Specification
+Architecture Design
+Pada incremental model, tiga tahapan awal harus diselesaikan terlebih dahulu sebelum sebelum tahap membangun tiap modal.
+
+Incremental Model merupakan gabungan antara model linear sekuensial dan prototyping. Setiap linear sekuen menghasilkan produk yang deliveriables. Increment pertama merupakan produk inti yang mengandung persyaratan/kebutuhan dasar. Penambahan dilakukan pada increment-incremet berikutnya.
+
+Keunggulan dari Incremental Model :
+
+Personil bekerja optimal
+Pihak konsumen dapat langsung menggunakan dahulu bagian-bagian yang telah selesai dibangun. Contohnya pemasukan data karyawan
+Mengurangi trauma karena perubahan sistem.  Klien dibiasakan perlahan-lahan menggunakan produknya bagian per bagian
+Memaksimalkan pengembalian modal investasi konsumen
+Kekurangan dari Incremental Model :
+
+Cocok untuk proyek berukuran kecil (tidak lebih dari 200.000 baris coding)
+Mungkin terjadi kesulitan untuk memetakan kebutuhan pengguna ke dalam rencana spesifikasi masing-masing hasil increment
+Dapat menjadi build and Fix Model, karena kemampuannya untuk selalu mendapat perubahan selama proses rekayasa berlangsung
+ 
+
+Component-based Development Model
+
+ 
+
+Component-based development sangat berkaitan dengan teknologi berorientasi objek. Pada pemrograman berorientasi objek, banyak class yang dibangun dan menjadi komponen dalam suatu software. Class-class tersebut bersifat reusable artinya bisa digunakan kembali. Model ini bersifat iteratif atau berulang-ulang prosesnya.
+
+Secara umum proses yang terjadi dalam model ini adalah:
+
+Identifikasi class-class yang akan digunakan kembali dengan menguji class tersebut dengan data yang akan dimanipulasi dengan aplikasi/software dan algoritma yang baru
+Class yang dibuat pada proyek sebelumnya disimpan dalam class library, sehingga bisa langsung diambil dari library yang sudah ada. Jika ternyata ada kebutuhan class baru, maka class baru dibuat dengan metode berorientasi objek.
+Bangun software dengan class-class yang sudah ditentukan atau class baru yang dibuat, integrasikan.
+Penggunaan kembali komponen software yang sudah ada menguntungkan dari segi:
+? Siklus waktu pengembangan   software, karena   mampu   mengurangi
+
+waktu 70%
+
+? Biaya produksi berkurang sampai 84% arena pembangunan komponen
+
+berkurang
+
+Pembangunan software dengan menggunakan komponen yang sudah tersedia dapat menggunakan komponen COTS (Commercial off-the-shelf) – yang bisa didapatkan dengan membeli atau komponen yang sudah dibangun sebelumnya secara internal. Component-Based Software Engineering (CBSE) adalah proses yang menekankan perancangan dan pembangunan software dengan menggunakan komponen software yang sudah ada. CBSE terdiri dari dua bagian yang terjadi secara paralel yaitu software engineering (component-based development) dan domain engineering.
+
+ 

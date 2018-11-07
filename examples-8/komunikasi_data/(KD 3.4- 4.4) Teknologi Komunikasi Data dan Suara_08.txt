@@ -1,0 +1,55 @@
+TEKNOLOGI KOMUNIKASI DATA DAN SUARA
+Posted by Materi Komunikasi data on Minggu, 29 Oktober 2017
+KOMUNIKASI DATA
+A.Pengertian
+
+Komunikasi data merupakan proses pengiriman informasi (data) yang telah diubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmis dari pengirim  ke penerima .
+
+B.Tujuan Komunikasi Data
+
+ Efisiensi pengiriman data dalam jumlah besar.
+ Mempercepat penyebaran informasi.
+ Mempermudah pengolahan dan pengaturan data yang ada dalam berbagai macam sistem komputer.
+Mengurangi waktu untuk pengolahan data.
+   
+C.Contoh komunikasi Data Yang digunakan 
+    
+1.Komputer
+
+    Komputer adalah alat yang dipakai untuk mengolah data menurut prosedur yang telah dirumuskan.Kata computer pada awalnya digunakan untuk menggambarkan orang yang pekerjaannya melakukan perhitungan aritmatika , dengan atau tanpa alat bantu , tetapi arti kata ini kemudian dipindahkan pada mesin itu sendiri.
+    
+
+
+2.Telepon
+
+     Telepon adalah sistem komunikasi dua arah yang dikembangkan setelah telegraf. sistem ini mengubah suara menjadi isyarat listrik di bagian pengirim dan mengubah kembali isyarat listrik  menjadi suara pada bagian penerima. 
+
+3.Radio
+
+    Radio adalah teknologi yang digunakan untuk pengiriman sinyal dengan cara modulasi dan radiasi elektromagnetik (gelombang elektromagnetik).
+    
+
+4.Televisi
+
+    Televisi merupakan sistem elektronik yang mengirimkan gambar diam dan gambar hidup bersama suara melalui kabel atau ruang. sistem ini menggunakan peralatan yang mengbah cahaya dan suara kedalam gelombang elektronik dan mengkonversikannya kembali kedalaam cahaya yang dapat dilihat dan suaranya dapat didengar.
+
+
+
+KOMUNIKASI SUARA
+
+
+A.Pengertian
+    
+   Komunikasi suara merupakan jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara untuk didengarkan.
+
+B.Contoh Komunikasi Suara Yang Digunakan
+
+ 1. Komunikasi radio amatir Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas pada mereka yang mempunyai izin beroperasi. Informasi bersifat pribadi. Contoh : ORARI
+
+2. Komunikasi radio 2 arah Informasi terbatas pada pengirim dan penerima yang beroperasi dengan saluran / frekuensi / gelombang yang sama dan jarak jangkauannya terbatas sehingga sifat pribadinya dapat terjaga. Contoh : Handy-talky
+
+3. Komunikasi siaran radio Informasi dipancarkan ke segala arah dan siapapun diperbolehkan menerima informasi tersebut. Dan informasi yang dikirimkan bersifat umum. Contoh : Radio RRI
+
+4. Komunikasi radio antar penduduk  Hubungan komunikasi bersifat pribadi, jangkauannya terbatas dan kerahasiaan tidak terjamin karena semua pesawat penerima sistem komunikasi dapat menerima informasi yang disampaikan. Contoh : Intercom
+
+5.  Komunikasi radio panggil Digunakan untuk memanggil penerima yang merupakan pelanggan dari pengirim, jarak jangkauannya terbatas. Contoh : Telephone dial, Handphone.

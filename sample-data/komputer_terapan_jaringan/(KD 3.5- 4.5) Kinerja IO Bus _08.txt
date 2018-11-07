@@ -1,0 +1,56 @@
+Kinerja I/O Bus
+By Andre Parhusip22.58No comments
+
+Bus adalah Jalur komunikasi yang dibagi pemakai Suatu set kabel tunggal yang digunakan untuk menghubungkan berbagai subsistem. Karakteristik penting sebuah bus adalah bahwa bus merupakan media transmisi yang dapat digunakan bersama. Sistem komputer terdiri dari sejumlah bus yang berlainan yang menyediakan jalan antara dua buah komponen pada bermacam-macam tingkatan hirarki sistem komputer.
+
+
+     Suatu Komputer tersusun atas beberapa komponen penting seperti CPU, memori, perangkat Input/Output. setiap computer saling berhubungan membentuk kesatuan fungsi. Sistem bus adalah penghubung bagi keseluruhan komponen computer dalam menjalankan tugasnya. Transfer data antar komponen komputer sangatlah mendominasi kerja suatu computer. Data atau program yang tersimpan dalam memori dapat diakses dan dieksekusi CPU melalui perantara bus, begitu juga kita dapat melihat hasil eksekusi melalui monitor juga menggunakan system bus.
+
+Cara Kerja Sistem Bus
+Pada sistem komputer yang lebih maju, arsitektur komputernya  akan  lebih kompleks, sehingga untuk meningkatkan  performa, digunakan beberapa buah bus. Tiap bus merupakan jalur data antara beberapa device yang berbeda. Dengan cara ini RAM, Prosesor, GPU (VGA AGP) dihubungkan oleh bus utama berkecepatan tinggi yang lebih dikenal dengan nama FSB (Front Side Bus) . Sementara perangkat lain yang lebih lambat dihubungkan oleh bus yang berkecepatan lebih rendah yang terhubung dengan bus lain yang lebih cepat sampai ke bus utama. Untuk komunikasi antar bus ini digunakan sebuah bridge.
+
+Elemen-elemen Rancangan Bus
+
+a.  Jenis BUS
+Saluran bus dapat dipisahkan menjadi dua tipe umum, yaitu dedicated dan multiplexed. Suatu saluran bus didicated secara permanen diberi sebuah fungsi atau subset fisik komponen-komponen komputer.
+Sebagai contoh dedikasi fungsi adalah penggunaan alamat dedicated terpisah dan saluran data, yang merupakan suatu hal yang umum bagi bus. Namun, hal ini bukanlah hal yang penting. Misalnya, alamat dan informasi data dapat ditransmisikan melalui sejumlah salurah yang sama dengan menggunakan saluran address valid control. Pada awal pemindahan data, alamat ditempatkan pada bus dan address valid control diaktifkan. Pada saat ini, setiap modul memilki periode waktu tertentu untuk menyalin alamat dan menentukan apakah alamat tersebut merupakan modul beralamat. Kemudian alamat dihapus dari bus dan koneksi bus yang sama digunakan untuk transfer data pembacaan atau penulisan berikutnya. Metode penggunaan saluran yang sama untuk berbagai keperluan ini dikenal sebagai time multiplexing.
+Keuntungan time multiplexing adalah memerlukan saluran yang lebih sedikit, yang menghemat ruang dan biaya. Kerugiannya adalah diperlukannya rangkaian yang lebih kompleks di dalam setiap modul. Terdapat juga penurunan kinerja yang cukup besar karena event-event tertentu yang menggunakan saluran secara bersama-sama tidak dapat berfungsi secara paralel.
+Dedikasi fisik berkaitan dengan penggunaan multiple bus, yang masing-masing bus itu terhubung dengan hanya sebuah subset modul. Contoh yang umum adalah penggunaan bus I/O untuk menginterkoneksi seluruh modul I/O, kemudian bus ini dihubungkan dengan bus utama melalui sejenis modul adapter I/O. keuntungan yang utama dari dedikasi fisik adalah throughput yang tinggi, harena hanya terjadi kemacetan lalu lintas data yang kecil. Kerugiannya adalah meningkatnya ukuran dan biaya sistem.
+
+b. Metode Arbitrasi
+Di dalam semua sistem keculai sistem yang paling sederhana, lebih dari satu modul diperlukan untuk mengontrol bus. Misalnya, sebuah modul I/O mungkin diperlukan untuk membaca atau menulis secara langsung ke memori, dengan tanpa mengirimkan data ke CPU. Karena pada satu saat hanya sebuah unit yang akan berhasil mentransmisikan data melalui bus, maka diperlukan beberapa metodi arbitrasi. Bermacam-macam metode secara garis besarnya dapat digolongkan sebagi metode tersentraslisasi dan metode terdistribusi. Pada metode tersentralisasi, sebuah perangkat hardware, yang dikenal sebagai pengontrol bus atau arbitrer, bertanggung jawab atas alokasi waktu pada bus. Mungkin perangkat berbentuk modul atau bagian CPU yang terpisah. Pada metode terdistribusi, tidak terdapat pengontrol sentral. Melainkan, setiap modul terdiri dari access control logic dan modul-modul bekerja sama untuk memakai bus bersama-sama. Pada kedua metode arbitrasi, tujuannya adalah untuk menugaskan sebuah perangkat, baik CPU atau modul I/O, bertindak sebagai master. Kemudian master dapat memulai transfer data (misalnya, membaca atau menulis) dengan menggunakan perangkat-perangkat lainnya, yang bekerja sebagai slave bagi pertukaran data yang khusus ini.
+
+Struktur Bus
+Sebuah bus sistem terdiri dari 50 hingga 100 saluran yang terpisah. Masing-masing saluran ditandai dengan arti dan fungsi khusus. Walaupun terdapat sejumlah rancangan bus yang berlainan, fungsi saluran bus dapat diklasifikasikan menjadi tiga kelompok, yaitu saluran data, saluran alamat, dan saluran kontrol. Selain itu, terdapat pula saluran distribusi daya yang memberikan kebutuhan daya bagi modul yang terhubung.
+
+1. Saluran Data
+Saluran data memberikan lintasan bagi perpindahan data antara dua modul sistem. Saluran ini secara kolektif disebut bus data. Umumnya bus data terdiri dari 8, 16, 32 saluran, jumlah saluran diakitakan denang lebar bus data. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit, maka jumlah saluran menentukan jumlah bit yang dapat dipindahkan pada suatu saat. Lebar bus data merupakan faktor penting dalam menentukan kinerja sistem secara keseluruhan. Misalnya, bila bus data lebarnya 8 bit, dan setiap instruksi panjangnya 16 bit, maka CPU harus dua kali mengakses modul memori dalam setiap siklus instruksinya.
+
+2. Saluran Alamat
+Saluran alamat digunakan untuk menandakan sumber atau tujuan data pada bus data. Misalnya, bila CPU akan membaca sebuah word data dari memori, maka CPU akan menaruh alamat word yang dimaksud pada saluran alamat. Lebar bus alamat akan menentukan kapasitas memori maksimum sistem. Selain itu, umumnya saluran alamat juga dipakai untuk mengalamati port-port input/outoput. Biasanya, bit-bit berorde lebih tinggi dipakai untuk memilih lokasi memori atau port I/O pada modul.
+
+3. Saluran Kontrol
+Saluran kontrol digunakan untuk mengntrol akses ke saluran alamat dan penggunaan data dan saluran alamat. Karena data dan saluran alamat dipakai bersama oleh seluruh komponen, maka harus ada alat untuk mengontrol penggunaannya. Sinyal-sinyal kontrol melakukan transmisi baik perintah maupun informasi pewaktuan diantara modul-modul sistem. Sinyal-sinyal pewaktuan menunjukkan validitas data dan informasi alamat. Sinyal-sinyal perintah mespesifikasikan operasi-operasi yang akan dibentuk. Umumnya saluran kontrol meliputi : memory write, memory read, I/O write, I/O read, transfer ACK, bus request, bus grant, interrupt request, interrupt ACK, clock, reset.
+
+Contoh - Contoh Bus
+Banyak perusahaan yang mengembangakan bus-bus antarmuka terutama untuk perangkat peripheral. Diantara jenis bus yang beredar di pasaran saat ini adalah, PCI, ISA, USB, SCSI, FuturaBus+, FireWire, dan lain-lain. Semua memiliki keunggulan, kelemahan, harga, dan teknologi yang berbeda sehingga akan mempengaruhi jenis-jenis penggunaannya.
+
+Bus ISA :
+
+Industri computer personal lainnya merespon perkembangan ini dengan mengadopsi standarnya sendiri, bus ISA (Industry Standar Architecture), yang pada dasarnya adalah bus PC/AT yang beroperasi pada 8,33 MHz. Keuntungannya adalah bahwa pendekatan ini tetap mempertahankan kompatibilitas dengan mesin-mesin dan kartu-kartu yang ada.
+
+Bus PCI :
+
+Peripheral Component Interconect (PCI) adalah bus yang tidak tergantung prosesor dan berfungsi sebagai bus mezzanine atau bus peripheral. Standar PCI adalah 64 saluran data pada kecepatan 33MHz, laju transfer data 263 MB per detik atau 2,112 Gbps. Keunggulan PCI tidak hanya pada kecepatannya saja tetapi murah dengan keping yang sedikit.
+
+Bus USB :
+
+Semua perangkat peripheral tidak efektif apabila dipasang pada bus kecepatan tinggi PCI, sedangkan banyak peralatan yang memiliki kecepatan rendah seperti keyboard, mouse, dan printer. Sebagai solusinya tujuh vendor computer (Compaq, DEC, IBM, Intel, Microsoft, NEC, dan Northen Telecom) bersama-sama meranccang bus untuk peralatan I/O berkecepatan rendah. Standar yang dihasilakan dinamakan Universal Standard Bus (USB).
+
+Bus SCSI :
+
+Small Computer System Interface (SCSI) adalah perangkat peripheral eksternal yang dipo[ulerkan oleh macintosh pada tahun 1984. SCSI merupakan interface standar untuk drive CD-ROM, peralatan audio, hard disk, dan perangkat penyimpanan eksternal berukuan besar. SCSI menggunakan interface paralel dengan 8,16, atau 32 saluran data.
+
+Bus P1394 / Fire Wire :
+
+Semakin pesatnya kebutuhan bus I/O berkecepatan tinggi dan semakin cepatnya prosesor saat ini yang mencapai 1 GHz, maka perlu diimbangi dengan bus berkecepatan tinggi juga. Bus SCSI dan PCI tidak dapat mencukupi kebutuhan saat ini. Sehingga dikembangkan bus performance tinggi yang dikenal dengan FireWire (P1393 standard IEEE). P1394 memiliki kelebihan dibandingkan dengan interface I/O lainnya, yaitu sangat cepat, murah, dan mudah untuk diimplementasikan. Pada kenyataan P1394 tidak hanya popular pada system computer, namun juga pada peralatan elektronik seperti pada kamera digital, VCR, dan televise. Kelebihan lain adalah penggunaan transmisi serial sehingga tidak memerlukan banyak kabel.

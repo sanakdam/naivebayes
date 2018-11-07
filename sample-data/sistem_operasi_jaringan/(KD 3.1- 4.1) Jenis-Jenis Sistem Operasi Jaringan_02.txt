@@ -1,0 +1,168 @@
+MATERI SISTEM OPERASI JARINGAN
+
+
+JENIS-JENIS SISTEM OPERASI JARINGAN
+A.    Pengertian Sistem Operasi Jaringan
+Sistem Operasi Jaringan (Network Operating System) adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service, dan lain sebagainya. Istilah ini populer pada akhir dekade 1980-an hingga awal dekade 1990-an. Sistem operasi jaringan adalah suatu jenis sistem operasi yang dikususkan untuk menangani jaringan.Sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service, dan lain sebagainya.
+
+B.     Karakteristik Sistem Operasi Jaringan
+§  Pusat kendali sumber daya jaringan
+§  Akses aman ke sebuah jaringan
+§  Mengizinkan remote user terkoneksi ke jaringan
+§  Mengizinkan user terkoneksi  ke jaringan lain  (misalnya Internet)
+§  Back up data dan memastikan data tersebut tersedia
+
+C.    Fungsi Utama Sistem Operasi Jaringan
+·      Menghubungkan sejumlah komputer dan perangkat lainnya ke sebuah jaringan
+·      Mengelola sumber daya jaringan
+·      Menyediakan layanan
+·      Menyediakan keamanan jaringan bagi multiple users
+·      Mudah menambahkan client dan sumber daya lainnnya
+·      Memonitor status dan fungsi elemen – elemen jaringan
+·      Distribusi program dan update software ke client
+·      Menggunakan kemampuan server secara efisien
+·      Menyediakan tolerasi kesalahan 
+
+D.    Jenis-Jenis Sistem Operasi jaringan berdasarkan layanan (interface)
+1.      Sistem Operasi Jaringan Berbasis GUI
+Adalah Sistem operasi yang dalam proses Instalasinya, user tidak perlu menghafal sintax – sintax atau perintah DOS atau bahasa pemograman yang digunakannya. Berikut beberapa contoh Sistem Operasi jaringan berbasis GUI :
+*      Linux Redhat
+*      Windows NT 3.51
+*      Windows 2000 (NT 5.0)
+*      Windows Server 2003
+*      Windows XP
+*      Microsoft MS-NET
+*      Microsoft LAN Manager
+*      Novell NetWare
+
+2.      Sistem Operasi Jaringan Berbasis Text
+Adalah sistem operasi yang proses instalasinya, user diharapkan untuk menghafal perintah DOS yang digunakan untuk menjalankan suatu proses instalasi Sistem Operasi Jaringan tersebut, diantaranya adalah sebagai berikut :
+v Linux Debian
+v Linux Suse
+v Sun Solaris
+v Linux Mandrake
+v Knoppix
+v MacOS
+v UNIX
+v Windows NT
+v Windows 2000 Server
+v Windows 2003 Server
+
+
+
+
+JENIS-JENIS SISTEM OPERASI JARINGAN
+CLOSE SOURCE
+1.      Pengertian Closed Source
+Pengertian Closed Source Software adalah perangkat lunak atau software yang dipublikasikan tanpa diberikan kode sumbernya, pada software jenis closed source hanya terdiri dari file binari saja tanpa adanya ruang untuk mengakses ke kode sumber software tersebut.
+Secara umum, software closed source memiliki lisensi atau hak cipta yang bertujuan untuk melindungi software tersebut dari penggunaan yang dapat merugikan si pembuat software dan menguntungkan pihak ketiga. Software Closed Source bersifat terbatas dalam penggunaan, penyalinan, juga modifikasi. Bagi seseorang atau perusahaan yang bermaksud ingin mengakses kode sumber maka dibutuhkan perjanjian khusus yang dinamakan perjanjian non-disclosure.
+
+Sistem Operasi Close Source
+Sistem Operasi Close Source adalah Sistem Operasi yang kodenya tidak dibuka untuk umum, pemilik kode close source bisa membagikan source codenya melalui lisensi secara gratis maupun gengan membayar.
+Pada Sistem Operasi Close Source ini paket program tidak dapat didistribusikan lagi selain oleh Pembuat/Vendor Program tersebut. Jika ada pendistribusian yang bukan dari Vendor Program tersebut, maka dianggap sebagai pembajakan software.
+
+2.      Keuntungan/Kelebihan Close Source
+*      Kestablian sistem terjamin
+*      Support/dukungan langsung dari pemilik program
+*      Lebih mudah digunakan
+
+3.      Kerugian/Kekurangan Close Source
+*      Celah yang terbuka
+*      Adanya lisensi yang mengharuskan pengguna menyediakan dana
+*      Pengembangan terbatas
+*      Diperlukan antivirus
+*      Harga lisensi mahal
+*       
+4.      Contoh Sistem Operasi Close Source
+Pengelompokkan dan Contoh Software Closed Source
+a.      Sistem Operasi
+Contoh perangkat lunak dalam kelompok Sistem Operasi yang menggunakan lisensi Closed Source adalah Microsoft Windows
+§  MS-DOS
+§  Windows 95
+§  Windows 98
+§  Windows ME
+§  Windows NT
+§  Windows XP
+§  Windows Server 2003
+§  Windows Vista
+§  Windows Server 2008
+§  Windows 7
+§  Windows 8
+
+b.      Bahasa Pemrograman
+Ada banyak jenis bahasa pemrograman, diantaranya software pemrograman tersebut banyak yang memiliki lisensi closed source, contohnya: ASP.Net, Pascal, Visual Basic
+
+c.       Web Browser
+Contoh Web Browser dengan kode sumber tertutup adalah Internet Explorer yang sejak dahulu dipakai oleh Microsoft dalam Sistem Operasi Windows-nya.
+
+d.      Aplikasi
+Banyak sekali aplikasi yang menggunakan lisensi kode tertutup atau closed source, contoh aplikasi terkenal adalah: CorelDraw, Adobe Photoshop
+
+e.       Aplikasi Perkantoran
+Microsoft Office menjadi aplikasi paling populer berbasis closed source untuk membantu menyelesaikan pekerjaan kantor dan lainnya.
+
+f.       Anti Virus
+Untuk mengamankan komputer dari serangan program-program jahat maka diperlukan penangkalnya. Banyak sekali software anti virus, dan berikut ini contoh anti virus closed source: Norton, dan McAfee
+.
+ 
+ 
+ 
+OPEN SOURCE
+1.      Sistem Operasi Open Source
+Sistem Operasi Open Source adalah perangkat lunak (software) yang di mana kode programnya bersifat terbuka dan disediakan oleh pengembangnya secara umum agar bisa untuk dipelajari, diubah maupun dikembangkan lebih lanjut serta disebarluaskan dan boleh bahkan untuk memperbaiki bug atau kesalahan pada program tersebut.
+Sementara itu, jika ada pembuat perangkat lunak (software) yang tidak mengizinkan dari kode programnya untuk diubah dan dimodifikasi, namun kode program dari perangkat lunak tersebut sebenarnya tersedia, maka bukanlah disebut sebagai sistem operasi open source.
+Yang perlu ditekankan di sini adalah, Sistem Operasi Open Source tidak selalu disediakan secara gratis, melainkan tetap ada biaya yang dikeluarkan untuk membeli program tersebut, Seperti halnya adalah RedHat Linux.
+Tujuan Open Source yang sesungguhnya adalah menghilangkan ketergantungan terhadap Vendor, yang di mana dari pihak Vendor bisa saja bertindak secara seenaknya. Open Source juga meyediakan software yang mudah untuk dijangkau oleh masyarakat luas dan menghindari adanya pengambilan keuntungan besar-besaran/berlebihan dari Vendor.
+Dan perlu digarisbawahi, Open Source di sini bersifat bebas maksudnya bukan berarti sebebas-bebasnya, melainkan bebas untuk digunakan, dikembangkan, disebarkan ulang dengan mempertanggungjawabkan secara bersama dan tidak untuk menghilangkan hak cipta pembuat.
+
+2.      Keuntungan/Kelebihan Open Source
+*      Legal
+*      Menyelamatkan devisa Negara
+*      Keamanan system
+*      Hemat biaya
+*      Dukungan dari pengembang lebih besar
+*      Bebas untuk mengubah dan memodifikasi
+*      Lebih aman
+*      Kesalahan (bug, error) lebih cepat ditemukan dan diperbaiki
+*      Lisensei gratis
+*      Bebas dari malware
+*      Tidak mengulangi development
+
+3.      Kerugian/Kelemahan Open Source
+§   Tidak ada garansi dari pengembang
+§   Open Source digunakan secara sharing
+§   Kurangnya SDM yang memanfaatkan Open Source
+§   Tidak adanya perlindungan Hak atas Kekayaan Intelektual (HAKI)
+§   Kesulitan mengetahui status project
+§   User Interface rumit bagi pengguna yang awam
+
+4.      Contoh Sistem Operasi Open Source
+a.       Linux, merupakan software sistem operasi yang gratis dan sangat populer
+·      UNIX
+·      BSD
+·      GNU Linux
+·      Sun Solaris
+·      Fedora
+·      Linux Ubuntu
+·      Knoppix
+·      Garuda OS
+·      Backtrack
+·      RedHat
+·      Mandriva
+·      OpenSUSE
+·      Debian
+·      Kondra Linux
+·      Turbo Linux
+·      Linux Mint
+·      Slackware
+b.      XAMPP, merupakan paket softwere yang berguna untuk simulasi dan pengembangan web, termasuk juga di dalamnya Apache dan MySQL (database).
+c.       Mozilla Firefox, merupakan softwere yang berguna untuk menjelajahi halaman web di internet.
+d.      OpenOffice, merupakan paket softwere perkantoran yang berguna untuk mengolah kata, tabel dan database.
+e.       osCommerce, merupakan softwere aplikasi web yang digunakan untuk toko online.
+f.       ClamAV & ClamWin, merupakan softwere antivirus.
+g.      Audacity, merupakan softwere perekam sekaligus pengolah audio.
+h.      GIMP, merupakan softwere pengolah foto dan juga gambar digital.
+i.        VideoLAN, merupakan softwere pemutar file multimedia
+j.        Blender, merupakan program untuk pembuatan model 3 (tiga) dimensi, misalnya seperti animasi dan game.
+k.      Filezilla, merupakan softwere jaringan yang berfungsi untuk transfer file via protokol FTP pada jaringan komputer atau jaringan internet.
+l.        Mplayer, merupakan ssoftwere pemutar musik yang berbasis open source.

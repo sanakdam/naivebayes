@@ -1,0 +1,62 @@
+Konsep Pemodelan Perangkat Lunak
+Posted by Simple Tutors on Friday, July 28, 2017
+MATERI 3.1 Konsep Pemodelan Perangkat Lunak
+
+
+Secara lebih khusus kita dapat menyatakan tujuan RPL adalah untuk
+
+·         Memperoleh biaya produksi perangkat lunak yang rendah.
+·         Menghasilkan perangkat lunak yang kinerjanya tinggi, andal dan tepat waktu
+·         Menghasilkan perangkat lunak yang dapat bekerja pada berbagai jenis platform
+·         Menghasilkan perangkat lunak yang biaya perawatannya rendah
+Tujuan RPL
+Tujuan RPL
+
+1)    Kriteria Dalam Merekayasa Perangkat Lunak
+2)    Dapat terus dirawat dan dipelihara (maintainability)
+3)    Dapat mengikuti perkembangan teknologi (dependability)
+4)    Dapat mengikuti keinginan pengguna (robust).
+5)    Efektif dan efisien dalam menggunakan energi dan penggunaannya.
+6)    Dapat memenuhi kebutuhan yang diinginkan (usability).
+7)    Ruang Lingkup Rekayasa Perangkat Lunak
+8)    Ruang lingkup RPL meliputi:
+·         Software Requirements berhubungan dengan spesifikasi kebutuhan dan persyaratan perangkat lunak.
+·         Software design mencakup proses penampilan arsitektur, komponen, antar muka, dan karakteristik lain dari perangkat lunak.
+·         Software construction berhubungan dengan detail pengembangan perangkat lunak, termasuk. algoritma, pengkodean, pengujian dan pencarian kesalahan.
+·         Software testing meliputi pengujian pada keseluruhan perilaku perangkat lunak.
+Software maintenance mencakup upaya-upaya perawatan ketika perangkat lunak telah dioperasikan.
+·         Software configuration management berhubungan dengan usaha perubahan konfigurasi perangkat lunak untuk memenuhi kebutuhan tertentu.
+·         Software engineering management berkaitan dengan pengelolaan dan pengukuran RPL, termasuk perencanaan proyek perangkat lunak.
+·
+
+ 
+roman"; font-size: 7pt; font-stretch: normal; line-height: normal;">         Software engineering tools and methods mencakup kajian teoritis tentang alat bantu dan metode RPL.
+Ruang Lingkup RPL
+Ruang Lingkup RPL
+
+Ø  Menurut Roger R. Pressman, proses perangkat lunak merupakan serangkaian kegiatan dan hasil hasil relevannya yang menghasilkan perangkat lunak. Kegiatan ini sebagian besar dilakukan oleh perekayasa perangkat lunak. Terdapat empat kegiatan proses dasar, meliputi:
+o   Spesifikasi perangkat lunak, Fungsionalitas perangkat lunak dan batasan kemampuan operasinya harus didefinisikan.
+o   Pengembangan perangkat lunak, Pengembangan terhadap produk perangkat lunak yang memenuhi spesifikasi perangkat lunak.
+o   Validasi perangkat lunak, Perangkat lunak harus divalidasi untuk menjamin bahwa perangkau lunak melakukan apa yang diinginkan oleh user.
+Evolusi rangkat lunak. Perangkat lunak harus berkembang untuk memenuhi kebutuhan pelanggan yang berubah ubah.
+Metode rekayasa perangkat lunak merupakan pendekatan terstruktur terhadap pengembangan perangkat lunak yang bertujuan memfasilitasi produksi perangkat lunak kualitas tinggi dengan cara yang efektif dalam hal biaya. Terdapat beberapa metode yang bisa digunaka seperti metode berorientasi fungsi, metode berorientasi objek dan metode pendekatan gabungan yang sekarang lebih dikenal dengan istilah UML (unified modeling language).
+
+Prinsip Desain Perangkat lunak
+
+Desain perangkat lunak berupa model dan proses. Proses desain merupakan serangkaian langkah / tahap / step iteratif yang memungkinkan desainer menggambarkan semua aspek perangkat luank yang dibangun . Sedangkan Model Desain merupakan ekivalen rencana arsitek untuk membangun suatu sistem interface. model desain memeluai dengan menyajikan totalitas dari hal-hal yang akan dibangun.
+
+Prinsip-prinsip desain dasar untuk mengendalikan proses desain . Davis [DAV95] mengusulkan serangkaian prinsip bagi desain perangkat lunak , antara lain sebagai berikut :
+
+·         Proses desain tidak boleh menderita karena "tunnel vision" 
+·         Desain harus dapat ditelusuri sampai pada model analisis.
+·         Desain tidak boleh "berulang" 
+·         Desain harus " Meminimalkan kesenjangan intelektual"
+·         Dsain harus mengungkapkan keseragaman dan integritasi.
+·         Desain harus terstruktur untuk mengakomodasi perubahan.
+·         Desain harus terstruktu untuk berdegradasi dengan baik , bahkan pada saat data dan event" menyimpang , / sedang menghadapi kondisi operasional.
+·         Desain bukanlah pengkodean 
+·         Desain harus dinilai kualitasnya pada saat desain dibuat , bukan setelah jadi 
+·         Desain harus dikaji untuk meminimalkan kesalahan-kesalahan konseptual (semantik).
+
+jika prinsip diatas sudah diterapkan dengan benar  , maka RPL mampu menciptakan suatu
+desain yang mengungkapkan baik itu faktor kualitas internal dan juga eksternal 

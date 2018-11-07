@@ -1,0 +1,95 @@
+OPERASI ARITMATIKA DAN LOGIKA PADA ALGORITMA
+OPERASI ARITMATIKA DAN LOGIKA PADA ALGORITMA
+Menggunakan Operator Aritmatika pada Pemrograman PHP (pemrograman algoritma)
+
+Operator
+
+1.Operator Aritmatika
+
+Adalah.operator yang digunakan untuk melakukan operasi penjumlahan, pengurangan, pembagian, dan perkalian atau operator yg digunakan untuk melakukan perhitungan pada bilangan. Berikut ini merupakan tabel yang berisi macam-macam operator aritmatika yang dapat digunakan pada PHP.
+
+Operasi	Operator
+Penambahan	+
+Pengurangan	–
+Perkalian	*
+Pembagian	/
+Sisa pembagian	%
+Increment	++
+Decrement	–
+Contoh penggunaan operasi operator diatas:
+
+$x = 100;
+
+$y = 10;
+
+Operasi	Operator	Contoh Sintaks	Hasil
+Penambahan	+	$x + $y	110
+Pengurangan	–	$x – $y	90
+Perkalian	*	$x * $y	1000
+Pembagian	/	$x / $y	10
+Sisa Pembagian	%	$x % $y	0
+Increment	++	$x++	101
+Decrement	–	$x–	99
+Berdasarkan contoh diatas, yang dimaksud dengan sisa pembagian adalah sisa dari hasil pembagian bukan hasil dari pembagian. Pada contoh diatas $x % $y = 0. Hasil ini didapat dari rumus sebagai berikut : $x – ($y * ($x / $y)).
+
+Pada contoh diatas 50 / 10 = 5. Lalu 50 – (10 * 5) = 0.
+
+Nah, sudah jelas kan dari mana nilai 0 itu didapat. Untuk lebih jelasnya saya akan memberikan satu contoh lagi :
+
+misalkan nilai variabel $y diganti 6 untuk menghasilkan nilai hasil module division, pertama kita hitung adalah100/6 = 16,6 tapi kita mengambil nilai bulatnya saja, sehingga nilainya 16.
+
+Catatan : Untuk nilai pecahan selalu diambil nilai bulatnya saja. misalkan nilai yang didapat 13,85 maka apabila diambil nilai bulatnya maka akan menjadi 13.
+
+2.Operator Relasi
+
+Adalah operator penghubung yang berupa benar atau salah, sesuai dengan teorinya bahwa operator relasi mengeluarkan tipe data Boolean sehingga contoh program di atas mengeluarkan output true atau false.
+
+Contoh :
+
+10>3 ;// true, kemudian
+
+7<3;// false.
+
+3.Operator Logika
+
+Adalah Operator yang digunakan untuk menggabungkan dua kalimat sehingga terbentuk kalimat gabungan. Nilai kebenaran kalimat gabungan ini ditentukan oleh nilai kebenaran dari kalimat-kalimat pembentuknya. Operator logika di sini bertindak sebagai fungsi.
+
+Dan dalam kehidupan sehari hari dapat diambil contoh konjungsi magnetik misalnya:
+
+A: Hari ini cuaca mendung
+
+B: Hari ini akan hujan
+
+C: Hari ini cuaca mendung dan hari ini akan hujan
+
+D: Hari ini cuaca mendung karena itu hari ini akan hujan
+
+Tipe data
+
+Tipe data dapat diartikan sebagai variabel yang digunakan untuk penyimpanan data dan bisa bersifat strraugt typed. Kita diharuskan mendeklerasikan tipe data dari semua variabel dan apabila lupa atau salah mengikuti aturan pengdeklarasian variabel maka akan mendapatkan error.
+
+Ada beberapa tipe data diantanya :
+
+1. Character
+
+Adalah tipe data berisi karakter tunggal yang didefinisikan dengan diawali dan diakhiri tanda petik (’).
+
+Char berbeda dengan String, karena String bukan merupakan tipe data primitif, tetapi sudah merupakan sebuah objek. Tipe char mengikuti aturan unicode, sehingga dapat menggunakan kode \u kemudian diikuti bilangan dari 0 sampai 65535, tetapi yang biasa digunakan adalah bilangan heksadesimal dari 0000 sampai FFFF.
+
+Misalnya : ‘\u123’
+
+2.Numerik
+
+Adalah adalah tipe data integer yang digunakan apabila tidak berurusan dengan pecahan atau bilangan decimal. Yang termasuk dalam numerik diantaranya :
+
+Byte, yang memiliki nilai integer -128 sampai +127 dan menempati 1 byte (8 bits) di memori.
+Short, yang memiliki nilai integer dari -32768 sampai 32767 dan menempati 2 bytes (16 bits) di memori
+Int, yang memiliki nilai integer dari -2147483648 sampai 2157483647 dan menempati 4 bytes (32 bits) di memori.
+Long, yang memiliki nilai dari -9223372036854775808 sampai 9223372036854775807 dan menempati 8 bytes (64 bits) di memori
+3. Boolean
+
+Adalah tipe data yang terdiri dari dua nilai yaitu True dan False. Boolean sangat penting dalam mengevaluasi suatu kondisi, dan sering digunakan untuk menentukan alur program.
+
+Algoritma notasi pseu docode
+
+Notasi pseudocode bisa ( semu atau tidak sebenarnya ) artinya notasi yang menyerupai notasi bahasa pemrograman tingkat tinggi yang biasa digunakan seperti bahasa C .Dengan pengertian diatas maka dapat didefinisikan bahwa bahasa notasi algorima yang dapat menjelaskan perintahnya dengan bahasa yang jelas tanpa membingungkan pembaca atau pengguna bisa disebut dengan notasi algoritma pseudocode. Tidak seperti bahasa program yang direpotkan dengan tanda titik koma dan sebagainya, kata-kata khusus,indeks,format, dan lainnya, maka dengan pseudo-code ini akan lebih memudahkan dan menguntungkan. Keuntungan penggunaan notasi pseudo-code ini adalah kemudahan mengkonversinya kebahasa pemrograman, karena terdapat korespondensi antara setiap pseudo-code dengan notasi bahasa program.Korespondensi ini dapat diwujudkan dengan tabel translasi dari notasi algoritma ke notasi bahasa program

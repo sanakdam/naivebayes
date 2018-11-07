@@ -1,0 +1,288 @@
+TIPE DATA, KONSTANTA, VARIABEL, OPERATOR, DAN EKSPRESI
+
+1.    Tipe Data
+Tiap bahasa pemrograman mempunyai bentuk tipe-tipe data sendiri-sendiri yang merupakan pengembangan tipe data algoritma. Dalam algoritma dikenal 5 tipe data, yaitu : tipe data bilangan bulat (integer), tipe data bilangan real, tipe data karakter, tipe data string dan tipe data logika atau boolean.
+· Integer
+Integer dapat diartikan bilangan bulat. Bilangan bulat adalah bilangan yang tidak mempunyai pecahan.
+· Real
+Tipe data real digunakan menyimpan data real. Bilangan real adalah bilangan yang dapat mempunyai digit desimal dibelakang koma (exponensial) atau bilangan pecahan. Bilangan real juga dapat bernilai positif dan negatif. 
+· Karakter
+Tipe data karakter digunakan untuk menyimpan tipe data alfanumerik, seperti ‘A’, ‘B’, ‘*’, ‘#’, ‘8’,’?’. Semua tanda yang ada di keyboard termasuk karakter. Sebuah angka yang dibuat untuk digunakan pada operasi perhitungan atau operasi matematika lainnya, maka ia harus dideklarasikan sebagai tipe numerik, tetapi sebuah angka kalau hanya digunakan sebagai kode saja maka sebaiknya dideklarasikan bertipe karakter.
+· String
+Tipe data string digunakan untuk menyimpan data yang merupakan gabungan dari beberapa karakter.Contoh: ‘STIKOMP’.
+· Logika(boolean)
+Tipe data ini hanya mengandung 2 nilai, yaitu TRUE atau FALSE. Dengan menggunakan operator AND, OR, NOT dapat dibentuk ungkapan boolean yang lebih rumit. Nilai boolean sangat penting untuk pengambilan suatu keputusan dalam suatu program.
+
+2.    Variabel
+Variabel adalah suatu lokasi memori komputer yang digunakan untuk menampung dan menyimpan data yang akan diolah.
+Tipe dari sebuah variabel ditentukan oleh jenis data yang akan disimpan.Penamaannya bersifat UNIK, yaitu tidak boleh ada 2 variabel atau lebih dengan nama sama. Sebuah variabel hanya dapat digunakan untuk menyimpan satu jenis data, tidak tergantung besarnya data tersebut dan nilainya boleh berubah-ubah.
+Aturan Penulisan variabel:
+· Diawali dengan huruf
+· Penulisannya harus diikuti dengan tipe data
+· Panjangnya bebas
+· Tidak boleh menggunakan spasi
+Contoh:
+Deklarasi
+Total_gaji : real
+Nama_Karyawan : String
+Data_ada : Boolean
+K : integer
+C : char
+Keterangan:
+·        Total_Gaji adalah variabel numerik( angka) yang tipe datanya real(berupa bilangan pecahan)
+·        Nama_Karyawan adalah variabel data karakter bertipe string (sederatan karakter)
+·        Data_ada adalah variabel logika bertipe boolean yang hanya punya nilai ‘True’ dan ‘False’.
+·        K adalah variabel yang bernilai integer (bil. Bulat)
+·        C adalah variabel bertipe karakter yang bernilai tunggal
+
+3.    Konstanta
+Konstanta adalah besaran yang mempunyai nilai tetap selama program dijalankan. Pemberian nilai akan disimpan pada sebuah konstanta dilakukan di awal program/ algoritma dan selama program dijalankan nilainya tidak bisa diubah.Notasi untuk menyatakan konstanta/tetapan adalah ‘const’.Contoh:
+Deklarasi
+Const phi = 3.14 {Tetapan Phi}
+Const Nmaks = 100 {jumlah mahasiswa}
+Const sandi = ‘xyz’ {kunci rahasia}
+
+4.    Operator
+
+     a.  Operator Atitmatika
+Operator ini digunakan untuk operasi aritmatika.Operand( besaran yang dioperasikan) dapat berupa variabel, konstanta, atau sebuah nilai.Operand yang dioperasikan dengan operator ini bisa berupa numerik, integer, atau real.
+
+Tabel skala prioritas pengerjaannya:
+Prioritas
+Oprator
+Operand
+Tipe Operand
+Tipe Hasil
+1
+^
+Pangkat
+Real, Real Integer, Integer Real, Integer
+Real
+Integer
+Real
+2
++
+Penjumlahan
+Rel, Real Integer, Integer Real, Integer
+Real
+Integer
+Real
+–
+Pengurangan
+Real, Real Integer, Integer Real, Integer
+Real
+Integer
+Real
+3
+*
+Perkalian
+Real, Real Integer,Integer, Integer
+Real
+Integer
+Real
+/
+Pembagian Real
+Real, Real Integer, Integer real, integer
+Real
+Real
+Real
+DIV
+Pembagian Bulat
+Integer, Integer
+Integer
+MOD (Modulus)
+Sisa Pembagian
+Integer, Integer
+Integer
+4
+ß
+Pemuatan Nilai
+Integer, Real
+Integer
+Real
+
+4.         b.  Operator Relasi
+Operator Relasi digunakan untuk membandingkan hubungan antara dua buah operand dan akan didapatkan hasil tipe boolean, yaitu TRUE atau FALSE.Operator relasi antara lain:
+Data: A = 5
+B = 8
+C = 5
+Operator
+Arti
+Contoh
+=
+Sama dengan
+A=B
+>
+Lebih dari
+A>B
+<
+Kurang dari
+A<B
+> =
+Lebih dari atau sama dengan
+A>=C
+< =
+Kurang dari atau sama dengan
+A<=B
+< >
+Tidak sama dengan
+A < >C
+
+4.         c. Operator Logika
+Operator Logika digunakan untuk menghubungkan 2 buah nilai yang melibatkan 1 buah operator logika antara lain: NOT, AND, dan OR.Operator ini akan menghasilkan nilai TRUE atau FALSE.
+
+Perhatikan tabel berikut:
+
+OPERATOR
+KEGUNAAN
+CONTOH
+NILAI YG DIHASILKAN
+=
+Membandingkan apakah nilai pertama sama dengan nilai kedua.
+5=5
+5=9
+TRUE
+FALSE
+> 
+Membandingkan apakah nilai pertama lebih besar daripada nilai kedua.
+7>4
+7>7
+TRUE
+FALSE
+>=
+Membandingkan apakah nilai pertama lebih besar daripada atau sama dengan nilai kedua.
+8>=4
+7>=10
+TRUE
+FALSE
+< 
+Membandingkan apakah nilai pertama lebih kecil daripada nilai kedua.
+8<10
+8<6
+TRUE
+FALSE
+<=
+Membandingkan apakah nilai pertama lebih kecil daripada atau sama dengan nilai kedua.
+5<=10
+8<=5
+TRUE
+FALSE
+<> 
+Membandingkan apakah nilai pertama tidak sama dengan nilai kedua.
+9<>8
+9<>9
+TRUE
+FALSE
+
+MEMBUAT FUNGSI LOGIKA
+Berikut ini adalah cara atau langkah-langkah  membuat atau menggunakan fungsi logika, yaitu:
+1.      Masukkan tanda sama dengan (=) terlebih dahulu pada sebuah sel.
+2.      Masukkan fungsi dan logika
+3.      Tekan tombol ENTER
+4.      Nilai logika akan tampil pada sel tersebut, yaitu TRUE atau FALSE
+
+FUNGSI NOT, AND, dan OR
+Fungsi NOT, AND, dan OR digunakan untuk menyatakan suatu kondisi sesuai dengan kondisi yang diberikan. Pernyataan yang dimasukkan akan memberikan dua kemungkinan, yaitu TRUE atau FALSE.
+
+Tabel Skala Prioritas
+Prioritas
+Operator
+Arti
+1
+NOT
+Komplemen Logika
+2
+AND
+Perbandingan secara DAN
+3
+OR
+Perbandingan secara ATAU
+
+FUNGSI NOT()
+Fungsi NOT() digunakan untuk membalikkan suatu nilai pernyataan. Pernyataan yang diperlukan adalah pernyataan yang memiliki nilai TRUE atau FALSE.
+Syarat:
+·           Nilai FALSE akan dihasilkan apabila pernyataan itu dipenuhi.
+·           Nilai TRUE akan dihasilkan apabila pernyataan itu tidak terpenuhi.
+
+Rumusnya : =NOT(pernyataan logika)
+
+Tabel Kebenaran Operasi NOT
+X
+NOT (X)
+False
+True
+True
+False
+
+FUNGSI AND( )
+Fungsi AND() digunakan untuk menguji beberapa nilai atau kondisi sekaligus, sehingga memerlukan sedikitnya dua buah pernyataan (boleh lebih) berupa logika untuk menghasilkan nilai TRUE atau FALSE.
+Syarat:
+o   Nilai TRUE jika semua kondisi argumen dipenuhi.
+o   Nilai FALSE jika salah satu kondisi argumen tidak memenuhi.
+
+Rumusnya: =AND(Pernyataan _logika1;Pernyataan_logika2;...)
+
+Tabel Kebenaran Oprasi AND
+X
+Y
+X and Y
+False
+False
+False
+False
+True
+False
+True
+False
+False
+True
+True
+True
+
+
+
+
+FUNGSI OR( )
+Fungsi OR( ) digunakan untuk menguji beberapa nilai atau kondisi dan mengembalikan nilai TRUE atau FALSE. Ia juga memerlukan sedikitnya dua buah pernyataan (boleh lebih) berupa logika.
+Syarat:
+·            Nilai TRUE jika salah satu kondisi argumen dipenuhi.
+·            Nilai FALSE jika tidak ada kondisi argumen dipenuhi.
+
+Rumusnya: =OR(Pernyataan_logika1;Pernyataan_logika2;...)
+
+Tabel Kebenaran Operasi OR
+X
+Y
+X or Y
+False
+False
+False
+False
+True
+True
+True
+False
+True
+True
+True
+True
+
+5.    Ekspresi
+Ekspresi adalah pernyataan yang mentransformasikan nilai menjadi keluaran yang diinginkan melalui proses perhitungan (komputasi). Ekspresi terdiri dari operator dan operand. Operand adalah nilai yang diberikan proses operator tertentu. Operand dapat berupa variabel, konstanta, nilai atau nilai balik, dari fungsi. Hasil akhir dari ekspresi adalah sebuah nilai dengan operator yang digunakan.Ada 3 macam ekspresi, yaitu ekspresi aritmatika, ekspresi relasi dan ekspresi string.
+
+Ekspresi Aritmatika adalah ekspresi yang melibatkan operand bertipe numerik dan menghasilkan nilai bertipe numerik. Contoh:
+A*B {a dan b bertipe integer akan menghasilkan nilai perkalian yang bertipe integer}
+
+X ß (k*i) =2 {k dan i bertipe integer, maka akan menghasilkan nilai x yang bertipe integer}
+
+Ekspresi relasi adalah ekspresi dengan operand <, >, < >, =, > =, < =, NOT, AND, OR. Hasil Akhir dari ekspresi ini adalah sebuah nilai TRUE atau FALSE yang bertipe Boolean.
+Contoh:
+NOT Ada {Ada bertipe Boolean dan akan menghasilkan nolai keseluruhan Boolean}
+Ada AND True { Ada bernilai Boolean, hasil akhirnya juga boolean}
+X<5 { x bertipe nilai integer ayau real dan hasil akhir dari x<5 adalah bertipe boolean TRUE atau FALSE}
+Ada OR (x=y) x dan y bertipe integer atau real dan hasil dari x=y adalah bertipe boolean TRUE atau FALSE, dan hasil akhir dari Ada OR (x=y) bernilai boolean}
+
+Ekspresi String dengan operator ‘=’ yang berarti operasi penyambungan nilai string.Contoh:
+A ß “Pemalang”
+B ß “Ikhlas”
+Maka A+B menghasilkan nilai “Pemalang Ikhlas”

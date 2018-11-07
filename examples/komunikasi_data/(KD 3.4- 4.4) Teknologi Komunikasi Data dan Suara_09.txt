@@ -1,0 +1,48 @@
+Teknologi Komunikasi Data Dan Suara
+1.Pengertian komunikasi Data
+
+Komunikasi data merupakan gabungan dari teknik telekomunikasi dengan teknik pengolahan data. Telekomunikasi adalah segala kegiatan yang berhubungan dengan penyaluran  informasi dari titik ke titik yang lain. Pengolahan data adalah segala kegiatan yang berhubungan dengan pengolahan data; Gabungan kedua tehnik ini selain disebut dengan komunikasi data juga disebut dengan teleprocessing (pengolahan jarak jauh).
+
+Tujuan Komunikasi data:
+
+a.Memungkinkan pengiriman data dalam jumlah besar efesien, tanpa kesalahan dan ekonomis dari suatu tempat ketempat yang lain;
+
+b.Memungkinkan penggunaan sistem komputer dan peralatan pendukung dari jarak jauh (remote computer use).
+
+c.Memungkinkan penggunaan komputer secara terpusat maupun secara tersebar sehingga mendukung manajemen dalam hal kontrol, baik desentralisasi maupun sentralisasi;
+
+d.Mempermudah kemungkinan pengelolaan dan pengaturan data yang ada dalam berbagai macam sistem computer.
+
+Bidang oprasi komunikasi data:
+
+-->Bidang Time sharing
+-->Bidang Remote job entri
+-->Bidang data collection dll.
+
+2.Pengertian komunikasi suara
+
+Merupakan jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara untuk didengarkan.
+Contoh dari komunikasi suara adalah :
+
+a.Komunikasi siaran radio / radio broadcasting Informasi dipancarkan ke segala arah dan siapapun diperbolehkan menerima informasi tersebut. Dan informasi yang dikirimkan bersifat umum. Contoh : Radio RRI
+
+b.Komunikasi radio amatir Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas pada mereka yang mempunyai izin beroperasi. Informasi bersifat pribadi. Contoh : ORARI
+
+c.Komunikasi radio 2 arah Informasi terbatas pada pengirim dan penerima yang beroperasi dengan saluran / frequensi / gelombang yang sama dan jarak jangkauannya terbatas sehingga sifat pribadinya dapat terjaga. Contoh : Handy-talky
+
+d.Komunikasi radio antar penduduk / citizen band Hubungan komunikasi bersifat pribadi, jangkauannya terbatas dan kerahasiaan tidak terjamin karena semua pesawat penerima sistem komunikasi dapat menerima informasi yang disampaikan. Contoh : RAPI, Intercom
+
+e.Komunikasi radio panggil / paging system Digunakan untuk memanggil penerima yang merupakan pelanggan dari pengirim, jarak jangkauannya terbatas. Contoh : Pager f. Komunikasi telpon Bersifat pribadi murni / niaga, jumlah informasi yang disampaikan tidak terbatas, kerahasian terjaga, jarak jangkauannya paling luas. Menggunakan manajemen pertukaran. Contoh : Telephone dial, Handphone.
+
+PERANGKAT TEKNOLOGI KOMUNIKASI PADA KOMPUTER NIC (Network Interface Card) :
+
+
+berfungsi PC Stand Alone agar dapat berkomunikasi dengan PC lain, diperlukan Network Interface Card (NIC). NIC berfungsi menghubungkan PC dengan media yang digunakan. Kabel Alat yang digunakan untuk mentransmisikan sinyal dari satu tempat ke tempat lain.
+
+Berdasarkan jenisnya, kabel terbagi menjadi 3 yakni kabel tembaga (copper), kabel koaksial, dan kabel serat optik. Switch sebuah alat jaringan yang melakukan bridging transparan (penghubung segementasi banyak jaringan dengan forwarding berdasarkan alamat MAC).
+
+PERANGKAT TEKNOLOGI KOMUNIKASI PADA TELEPON :
+Telepon Kabel Telepon kabel adalah alat komunikasi yang membutuhkan kabel agar dapat berfungsi Telepon Seluler Telepon seluler menggunakan sistem wireless. pengirim dan penerima harus tetap tercakup BTS (Base Transceiver Station ). BTS adalah peralatan yang memfasilitasi komunikasi secara wireless antara pengguna telepon seluler.
+
+Adapun komponen terpenting yang terdapat pada telepon yakni adalah:
+Mekanisme dialing,Transmitter, Ringger, dan Receiver.Mekanisme Dialing Mekanisme dialing memungkinkan penelpon memasukkan nomor tujuan yang ingin dia panggil, sebagian besar telepon dilengkapi dengan keypad yang berjumlah 12 tombol, yang terdiri dari tombol 0 sampai 9 kemudian tombol bintang (*), dan tanda pagar (#).

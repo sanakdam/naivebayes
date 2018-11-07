@@ -1,0 +1,213 @@
+10 aplikasi 3D Open source terbaik
+15/10/2011 / ALBAR10
+1.Blender
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Blender merupakan aplikasi 3d dan animasi terbaik yang dimiliki oleh linux,pemakaiannya pun sekarang sudah meluas dan digunakan oleh banyak pecinta desain 3D khususnya animasi.pernah digunakan dalam proyek film besar seperti Avatar dan banyak proyek film animasi lainnya,misal Big Buck Bunny,dan yang terakhir Sintel.
+
+info:blender
+
+Wings 3D
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diperkenalkan pada tahun 2001 dan dikembangkan  pertama kali oleh Bijom Gustavsson dan Gudmundsson.menawarkan beberapa kelebihan seperti dukungan cahaya,material,dan fasilitas AutoUV mapping.dibuat dengan bahasa pemrograman erlang yang brsifat open source
+
+info:wings 3d
+
+K-3D
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Perangkat lunak 3D modelling dan animasi kali ini memiliki nama yang unik dan sederhana.Namun,dengan melihat nama aplikasinya saja ,anda sudah tau bahwa ini adalah pengolah tiga dimensi.Aplikasi K-3D mengkombinasikan banyak plugin dan visualisasi arsitektur yang dihasilkan.Hal inilah yang menjadikan K-3D menjadi salah satu aplikasi yang sangat powerfull  untuk dunia desain 3D
+
+info:K-3D
+
+Crystal Space
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Crystal Space merupakan aplikasi penuh fitur sebagai SDK yang menghasilkan gambar 3D untuk digunakan pada game atau virtual reality.Berlisensi LGPL yang bersifat free ,aplikasi ini dapat dijalankan pula pada platform Windows maupun Mac OS.
+
+info lebih lanjut : cyrstal space
+
+OGRE
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Namanya sedikit mengigatkan pada sosok makhluk tinggi besar seperti raksasa yang bermuka buruk.Tetapi,anda salah .Justru ,aplikasi ini dapat membuat gambar tiga dimensi yang sangat indah .Mulai dari tahun 2011 ,OGRE telah tumbuh menjadi aplikasi rendering yang digunakan untuk berbagai macam proyek seperti game,simulator,perangkat lunak pendidikan,serta visualisasi penelitian.
+
+info :Ogre
+
+Aqsis Renderer 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aqsis merupakan perangkat lunak tiga dimensi yang sudah memiliki standar RenderMan,dibawah lisensi GPL,dan sebagian dibawah bendera LGPL .Dibuat pertama kali oleh Paul Gregory yang merupakan manajer proyek dan admin utama dari Aqsis.semua proyek Aqsis merupakan rendering,shader compiler,dan mendukung beberapa komponen lainnya
+
+info : Aqsis
+
+Meshlab
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Meshlab merupakan aplikasi pengolah gambar 3D bersifat Open Source ,portable ,dan memiliki sistem extensible untuk pengolahan dan pengeditan 3D.Tujuan dari sistem ini adalah membantu pengolahan model terstruktur yang timbul dalam scanning 3D,kemudian menyediakan satu set alat untuk melakukan pengeditan,pembersihan ,penyembuhan,pemeriksaan,serta rendering dan konversi
+
+info:Meshlab
+
+OpenFX
+
+
+
+ 
+
+ 
+
+ 
+
+Lahir pada tahun 1999,diciptakan oleh DR.Stuart Ferguson,OpenFX memang dilahirkan untuk menjadi aplikasi 3D modeling,animasi,dan rendering yang termasuk dalam kategori Open Source ,Nama pertama dari aplikasi ini adalah SoftFX dan kemudian diganti menjadi OpenFX.Aplikasi ini sekarang menggunakan lisensi GNU Public Licence(GPL).
+
+info :Open Fx
+
+Celestia
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aplikasi yang satu ini hampir sama dengan Stellarium ,program astronomi 3D yang diciptakan oleh Chris laurel.program ini dibuat berdasarkan Hipparcos Catalogue yang memungkinkan anda merasa seperti menjelajah jagat raya yang dibuat semirip mungkin aslinya dengan berbagai pilihan kecepatan,arah manapun yang akan dituju ,dan waktu manapun dalam sejarah celestia.jangan meremehkan aplikasi ini karena NASA dan ESA menggunakan Celestia untuk media pembelajaran dan juga sebagai antarmuka program analisis mereka.
+
+info:Celestia
+
+Art of Illusion
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sebagai salah satu program 3D modelling yang bersifat open source ,semua bagian dari aplikasi ini dibuat dengan bahasa pemrograman java dan dapat dijalankan pada java virtual machine yang mendukung J2SE 1.4 atau versi diatasnya .Tujuan dari aplikasi ini adalah menghasilkan alat modeling 3D yang andal dengan menggunakan antarmuka grafis yang banyak ditemukan pada aplikasi modeling 3D lainnya.

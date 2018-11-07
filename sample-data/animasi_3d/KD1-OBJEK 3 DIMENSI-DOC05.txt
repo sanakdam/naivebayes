@@ -1,0 +1,49 @@
+3 Dimensi biasa disebut 3D adalah bentuk dari benda yang memiliki panjang, lebar, dan tinggi. Grafik 3 Dimensi merupakan teknik penggambaran yg berpatokan pada titik koordinat sumbu x (datar), sumbu y (tegak), dan sumbu z (miring). Representasi dari data geometrik 3 dimensi sebagai hasil dari pemrosesan dan pemberian efek cahaya terhadap grafika komputer 2D. Tiga Dimensi, biasanya digunakan dalam penanganan grafis. 3D secara umum merujuk pada kemampuan dari sebuah video card.
+
+Grafik 3D merupakan perkembangan dari grafik 2D. Didalam grafika komputer, 3D merupakan bentuk grafik yang menggunakan representasi data geometri tiga dimensi. Suatu objek rangka 3D apabila disinari dari arah tertentu akan membentuk bayangan pada permukaan gambar. 
+
+Proses pembuatan grafik komputer 3D dapat dibagi ke dalam tiga fase, yaitu 3D modeling yang mendeskripsikan bentuk dari sebuah objek, layout dan animation yang mendeskripsikan gerakan dan tata letak sebuah objek, dan 3D rendering yang memproduksi image dari objek tersebut.
+
+Karakteristik objek 3D
+karakteristik  tiga dimensi  adalah sebagai berikut : 
+· Pesan yang sama dapat disebarkan keseluruh siswa secara serentak.
+· Penyajiannya berada dalam kontrol guru.
+· Cara penyimpanannya mudah (praktis).
+· Dapat mengatasi keterbatasan ruang, waktu, dan indera.
+· Menyajikan objek-objek secara diam.
+· Terkadang dalam penyajiannya memerlukan ruangan gelap.
+· Lebih mahal dari kelompok media grafis.
+· Sesuai untuk mengajarkan keterampilan tertentu.
+· Sesuai untuk belajar secara berkelompok atau individual.
+· Praktis digunakan untuk semua ukuran ruangan kelas.
+· Mampu menyajikan teori dan praktik secara terpadu.
+
+Fertex, Edge, Face
+- Vertex adalah titik-titik yang dihubungkan dengan edge.
+- Edge adalah garis yang menghubungkan lebih dari dua vertex (titik).
+- Face adalah sebuah permukaan yang dibentuk oleh minimal 3 edges yang tertutup.
+
+
+
+Macam-macam objek 3 dimensi:
+· Box
+· Sphare
+· Cylinder
+· Tube
+· Pyramid
+· Plane
+· Hedra
+
+Contoh Objek 3 Dimensi :
+Sphare
+Sphare atau bola merupakan suatu objek 3 dimensi yang awalnya  terbentuk dari kumpulan circle-cirle yang tak terhingga menjadi satu, Sehingga membentuk sebuah bola. 
+
+
+
+Cylinder
+Cylinder merupakan objek 3 dimensi yang awalnya terbentuk dari lingkaran yang memiliki ukuran panjang. Jadi pada cylinder terdapat ukuran jari-jari,diameter dan tinggi.
+
+
+
+Box  
+Box adalah sebuah objek 3 dimensi yang terbuat dari kumpulan objek 2 dimensi, maksudnya sebuah box merupakan kumpulan dari sebuah bidang persegi yang saling dihubungkan satu sama lain. 

@@ -1,0 +1,101 @@
+Analisis kebutuhan perangkar server.blognya anak tkj 
+November 25, 2016
+analisa kebutuhan perangkat server yang khusus membahas mengenai spesifikasi dan identifikasi perangkat keras (hardware) dan perangkat lunak (software) yang meliputi:
+
+Pengertian Jaringan Komputer, Client server, Hardware dan software
+Analisa kebutuhan perangkat Server
+Spesifikasi perangkat keras untuk mesin server
+Spesifikasi perangkat lunak untuk mesin server
+
+Pengertian Jaringan Komputer, Client server, Hardware dan software
+1. Jaringan Komputer
+Jaringan Komputer adalah jaringan telekomunikasi atar 2 komputer atau lebih yang saling terhubung dan  dapat saling bertukar data untuk mencapai tujuan tertentu. Aplikasi jaringan komputer pada umumnya menggunakan sistem client-server, yang memberikan layanan disebut sebagai server dan yang meminta layanan disebut sebagai client.
+
+Untuk terhubung kejaringan setiap komputer dala jaringan masing-masing harus memiliki sebuah kartu jaringan, kemudian dihubungkan melalui kabel maupun nirkabel sebagai medium transmisi data, dan terdapat perangkat lunak sistem operasi jaringan akan membentuk sebuah jaringan komputer yang sederhana. Apabila ingin membuat jaringan komputer yang lebih luas lagi jangkauannya, maka diperlukan peralatan tambahan seperti Hub, Bridge, Switch, Router, Gateway sebagai peralatan interkoneksinya.
+
+2. Server 
+Server adalah suatu sistem komputer yang menyediakan layanan untuk client yang dilengkapi oleh sistem operasi khusus server (sistem operasi jaringan komputer), didukung oleh prosesor yang bersifat scalable serta RAM yang berkapasitas besar yang menyediakan berbagai macam jenis-jenis layanan,  menjalankan perangkat lunak administratif untuk  mengelola akses control dan sumber daya yang ada di dalamnya.
+
+3. Client 
+Client adalah komputer yang terdapat dalam jaringan komputer, yang meminta layanan kepada mesin server untuk menggunakan berbagai macam sumber daya yang telah disediakan oleh server.
+
+4. Hardware
+Hardware atau perangkat keras yang menyusun sebuah komputer yang dapat disentuh secara fisik biasanya dikategorikan menjadi perangkat masukan (input) perangkat pemroses dan perangkat keluaran (output).
+
+5. Software 
+Software atau Perangkat Lunak adalah data-data yang terdapat pada sebuah komputer yang doformat kemudian disimpan secara digital. Bisa dibilang bahwa Software merupakan komponen yang tidak terlihat secara fisik. Ada 2 kategori software yaitu:
+
+Software Sistem Operasi: Merupakan Software yang digunakan untuk menghubungkan antara Hardware dengan Pengguna/User.
+Software Aplikasi: Merupakan Software yang dapat diaplikasikan untuk memenuhi kebutuhan pengguna. Contohnya adalah Software paket aplikasi perkantoran seperti Libre Office dan Microsoft Office.
+
+Analisis Kebutuhan Jaringan Komputer untuk perangkat server dan client
+Kebutuhan Hardware :
+1.    Personal computer
+Personal Computer  atau PC merupakan perangkat utama dalam suatu jaringan computer. PC inilah yang akan bekarja mengirim dan mengakses data dalam jaringan.
+
+2.    NIC 
+NIC merupakan port yang menghubungkan computer dengan jaringan. Port atau card ini bergabung di dalam PC yang menempel pada Main Board. Berdasarkan tipe bus, ada beberapa tipe NIC atau Network Card, yaitu ISA dan PCI.
+
+3. Kabel jaringan
+Kabel jaringan merupakan media yang digunakan untuk menghubungkan kopmputer satu dan komputer lainnya yang terhubung ke jaringan. beberapa jenis kabel jaringan  adalah sebagai berikut:
+
+Kabel Coaxial, Tampilan fisik terdiri dari kawat tembaga sebagai inti yang dilapisi oleh isolator.
+Fiber Optik, Terbuat dari serat kaca dengan teknologi canggih dan mempunyai kecepatan transfer data yang lebih cepat.
+Twisted Pair, Terdiri dari beberapa kabel yang saling melilit. Ada dua jenis kabel Twisted Pair. Shielded Twisted Pair (STP) dan Unshielded Twisted Pair (UTP).
+
+4. Konektor
+Sebagai sarana penghubung antar kabel dengan colokan NIC.
+
+5. Hub/Switch
+Hub adalah alat yang digunakan untuk menghubungkan antar komputer dan perlatan lain dalam jaringan. Fungsi hub yaitu untuk mengarahkan informasi dalam jaringan
+Hub dan switch memiliki persamaan fungsi untuk mengarahkan informasi dalam jaringan. Namun switch memiliki nilai lebih dibandingkan hub.
+
+6. Modem
+Modem atau Modul the Modulator adalah peralatan jaringan yang digunakan untuk terhubung ke jaringan internet menggunakan kabel telpon. Dengan kata lain, modem adalah alat yang bertugas untuk mengubah data dari bentuk digital ke analog dan sebaliknya yang bisa dipahami oleh kita.
+
+7. Bridge
+Bridge adalah peralatan yang digunakan untuk memperluas atau memecah jaringan. Bridge berfungsi untuk menghubungkan dan menggabungkan media jaringan yang tidak sama.
+
+8. Router
+Router memiliki kemampuan melewatkan paket IP dari satu jaringan yang berbeda ke jaringan lain yang bukan susunan atau jaringan yang mungkin memiliki banyak jalur diantara keduanya. Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya.
+
+9. Repeater
+Repeater berguna untuk memperkuat sinyal dengan cara menerima sinyal dari suatu segmen kabel LAN lalu memancarkan kembali dengan kekuatan yang sama dengan sinyal asli pada segmen kabel lain.
+
+Kebutuhan Software :
+1. System Operasi
+Sistem operasi (bahasa Inggris: operating system ; OS) adalah seperangkat program yang mengelola sumber daya perangkat keras komputer, dan menyediakan layanan umum untuk aplikasi perangkat lunak. Contohnya, Windows, Linux, Mac OS, dll.
+
+2. Web Server
+Web Server adalah komputer server yang menyediakan informasi yang bisa dilihat oleh pengguna internet. Fungsi utama sebuah server web adalah untuk mentransfer berkas atas permintaan pengguna melalui protokol komunikasi yang telah ditentukan.
+
+3. Web Browser
+Web Browser atau dalam bahasa indonesia peramban web merupakan software yang mempunyai fungsi menampilkan halaman sebuah website. Sedangkan pengertian web browser menurut wikipedia "perangkat lunak yang berfungsi menampilkan dan melakukan interaksi dengan dokumen-dokumen yang disediakan oleh server web" .
+
+4. File Transfer Protocol
+Protokol pengiriman berkas (Bahasa inggris: File Transfer Protocol) adalah sebuah protokol Internet yang berjalan di dalam lapisan aplikasi yang merupakan standar untuk pengiriman berkas (file) komputer antar mesin-mesin dalam sebuah Antarjaringan.
+
+Analisis Jaringan Komputer di Sebuah Sekolah
+a. Kebutuhan Hardware :
+
+Personal Computer 
+Modem 
+Kabel UTP
+Konektor RJ-45
+NIC
+Access Point
+Antena
+Hub / Switch
+Router
+
+b. Kebutuhan Software :
+
+System Operasi : Windows 7
+Web Browser : Mozila Firefox, Internet Explorer
+Anti Virus (Avira)
+Software Pendukung ( WinRar, Adobe Reader)
+
+c. Topologi Jaringan :
+topologi jaringan komputer adalah suatu cara atau konsep untuk menghubungkan beberapa atau banyak komputer sekaligus menjadi suatu jaringan yang saling terkoneksi.
+
+Topilogi yang digunakan adalah topologi start, Topologi ini membentuk seperti bintang karena semua komputer di hubungkan ke sebuah hub atau switch dengan kabel UTP, sehingga hub/switch lah pusat dari jaringan dan bertugas untuk mengontrol lalu lintas data, jadi jika komputer 1 ingin mengirim data ke komputer 4, data akan dikirim ke switch dan langsung di kirimkan ke komputer tujuan tanpa melewati komputer lain. Topologi jaringan komputer inilah yang paling banyak digunakan sekarang karena kelebihannya lebih banyak.

@@ -1,0 +1,85 @@
+ARRAY DAN FUNGSI UNTUK SMK REKAYASA PERANGKAT LUNAK
+
+
+PHP SMK
+
+ARRAY DAN FUNGSI SMK
+
+ARRAY
+           array adalah sekumpulan data atau juga dapat diartikan pemetaan antara key dan value (key => value). Kumpulan data tersebut dinamakan elemen array. Elemen array tersusun secara index, elemen pertama berindex 0, elemen kedua berindex 1 dan seterusnya.
+Bentuk umum penulisan array adalah sebagai berikut:
+Array(elemen array)
+Contoh : array(”PHP”,”ASP”,”JSP”,”CFML”)
+Pengertian lain array;,
+Array di PHP adalah tipe variabel spesial, karena dengan array kita dapat mengakses sekumpulan nilai dengan menggunakan satu nama variabel. Mekanisme pengaksesan ini diatur dalam bentuk pemetaan (mapping) dari sekumpulan nilai (values) ke sekumpulan kunci (keys) atau indeks. Sebagai contoh, variabel array $hacker dapat memetakan 1, 2 dan 3 masing-masing ke "Eric S Raymond", "Richard Stallman" dan "Bruce Perens", sehingga dapat dinyatakan sebagai:
+$hacker[1]="EricSRaymond";
+$hacker[2]="RichardStallman";
+$hacker[3] = "Bruce Perens";
+di mana ekspresi 1, 2 dan 3 adalah indeks, sementara "Eric S Raymond", "Richard Stallman" dan "Bruce Perens" adalah nilai-nilainya. Array akan sangat berguna manakala kita mengolah sekumpulan data atau nilai dengan identitas serupa. Sebagai ilustrasi, katakanlah kita memiliki data berupa nama hacker dan nama cracker.
+
+      Array adalah sekelompok data sejenis yang disimpan ke dalam variabel dengan nama yang sama, dengan memberi indeks pada variabel untuk membedakan antara yang satu dengan yang lain.
+
+VARIABEL ARRAY
+nama_variabel[indeks]
+ketentuan nama variabel arrray sama dengan nama variabel biasa.
+indeks menunjukkan nomor dari variabel .
+
+DEKLARASI VARIABEL ARRAY
+BU       : tipe nama_variabel[indeks];
+Contoh            : float bil[10];
+            deklarasi variabel array dengan nama bil yang akan menampung 10 data yang bertipe  float.  Indeks  10  menunjukkan  variabel  bil  terdiri  dari  10 elemen, dimana setiap elemen akan menampung sebuah data.
+Indeks array dimulai dari nol(0) , sedang nomor elemen biasanya dimulai dari satu(1). Nomor elemen dapat dibuat sama dengan nomor indeks untuk mempermudah pembuatan program yaitu dengan memberi indeks satu lebih banyak dari jumlah data yang dibutuhkan, sehingga menjadi :
+float bil[11]
+
+INISIALISASI  ARRAY 1 DIMENSI
+          Inisialisasi  dapat dilakukan bersama dengan deklarasi atau tersendiri. Inisialisasi suatu array adalah dengan meletakkan elemen array di antara tanda kurung kurawal {}, antara elemen yang satu dengan lainnya dipisahkan koma.
+            int bil[2] = {4,1,8}
+            bil[0] = 4
+            bil[1] = 1
+            bil[2] = 8
+AUTOMATIC ARRAY adalah Inisialisasi array dilakukan di dalam fungsi tertentu. Hanya  compiler C yang berstandar ANSI C yang dapat menginisialisasikan automatic array.
+Cara menginisialisasikan  array dari compiler yg tidak mengikuti standar  ANSI C:
+1. Diinisialisasikan di luar fungsi sebagai variabel GLOBAL/EXTERNAL ARRAY.
+            int bil[2]={0,0,0};
+            main()
+2. Diinisialisasikan didlm fungsi sebagai variabel LOKAL/STATIC ARRAY.
+            main()
+            {static int bil[2]={0,0,0};
+                        .........
+Pada automatic array yang tidak diinisialisasikan , elemen array akan memiliki nilai yang tidak beraturan. Bila global & static array tidak diinisialisasi maka semua elemen array secara otomatis akan diberi nilai nol(0).
+
+Fungsi Array :
+Tipe data array memiliki pointer yang menunjukkan pada index ke berapa yang saat itu sedang
+aktif.
+Fungsi yang dapat mengetahui posisi pointer, yaitu:
+1.  Key(), berfungsi untuk mengetahui posisi pointer pada nomor index elemen array berada.
+2.  Current(), berfungsi untuk mengetahui nilai elemen tersebut.
+3.  Next(), berfungsi untuk menempatkan pointer ke posisi berikutya.
+4.  Prev(), berfungsi untuk menempatkan pointer ke posisi sebelumnya.
+5.  End(), berfungsi untuk menempatkan posisi pointer ke posisi akhir.
+6.  Reset(), berfungsi untuk menempatkan pointer ke posisi awal atau pertama.
+Contoh penerapan fungsi-fungsi tersebut :
+a.  Menampilkan Index terendah ke index Tertinggi dengan menggunakan fungsi next()
+b.  Menampilkan Index Tertinggi ke Index Terendah dengan Menggunakan Fungsi
+c.  Menampilkan Index Pertama Berikut Elemennya
+d.  Menampilkan Index Akhir Berikut Elemennya
+e.  Count()  berfungsi untuk menghitung jumlah elemen array
+f.  List() Berfungsi memberi nilai suatu variabel dari tiap-tiap elemen array.
+g.  Each() Berfungsi untuk mengembalikan pasangan key dan value. Umumnya fungsi ini diterapkan dengan fungsi List().
+h.  Sort() Berfungsi untuk mengurutkan elemen-elemen array.
+Nested Array
+Yang dimaksud nested array adalah array bersarang, array yang terdapat di dalam
+sebuah array.
+
+FUNGSI
+           Fungsi adalah sekumpulan perintah operasi program yang dapat menerima input  dan dapat memberikan hasil output berupa sebuah nilai atau sebuah hasil dari operasi. Dapat juga diartikan sekumpulan variabel atau pernyataan yang dapat melakukan proses kecil atau proses besar. Fungsi dideklarasikan dengan statemen function diikuti dengan nama fungsi dan variabel  input
+jika ada. 
+
+Dasar Sebuah Fungsi
+Fungsi bernama test() yang didalamnya tidak terdapat variabel. Function test() memiliki nilai, yaitu: ”Ini Dasar Sebuah Fungsi”. Mengapa untuk mencetak  ke browser, cukup dengan menuliskan test(), tidak menggunakan perintah  echo atau print? Alasannya, karena saat pendeklarasian function test() telah menggunakan perintah print. Jadi secara otomatis nilai tersebut telah masuk ke function test(), juga akan tercetak pada browser. Kecuali jika pada saat pendeklarasian function test() menggunakan variabel, untuk mencetak nilai tersebut di browser harus menggunakan perintah echo atau print.
+1.Argumen Fungsi
+Pada dasarnya fungsi sudah memiliki sebuah nilai, namun dapat juga sebuah fungsi disisipi
+argumen yang bersifat optional. Secara default, argumen yang dikirim ke fungsi adalah berupa
+nilai.
+2.Mengembalikan Nilai Fungsi
+Pernyataan yang digunakan untuk mengembalikan nilai suatu fungsi adalah return.

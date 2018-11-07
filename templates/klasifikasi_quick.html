@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Klasifikasi Sumber Belajar Mata Pelajaran SMK</title>
+
+    <!-- Bootstrap -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  	<div class="container">
+  		<ul class="nav nav-pills nav-justified">
+		  	<li>
+		  		<h1 class="text-center">Klasifikasi Sumber Belajar Mata Pelajaran SMK</h1>
+		  		<ul class="nav nav-tabs nav-justified">
+		  			<li>
+				  		<a href="/">DATA</a>
+				  	</li>
+				  	<li>
+				  		<a href="{{ url_for('preprocessing') }}">PREPROCESSING</a>
+				  	</li>
+				  	<li class="active">
+				  		<a href="{{ url_for('klasifikasi') }}">KLASIFIKASI</a>
+				  	</li>
+		  		</ul>
+          <ul class="nav nav-pills nav-justified">
+            <li>
+              <a href="{{ url_for('klasifikasi_custom') }}">Random Testing</a>
+            </li>
+            <li>
+              <a href="{{ url_for('klasifikasi_quick') }}">Quick Testing</a>
+            </li>
+          </ul>
+          <ul class="nav nav-pills nav-justified">
+            <li>
+              <a href="{{ url_for('quick_test') }}">Quick</a>
+            </li>
+            <li>
+              <a href="{{ url_for('klasifikasi_input') }}">Input Data</a>
+            </li>
+          </ul>
+		  	</li>
+		  </ul>
+      
+      <div style="border: 2px solid grey; border-radius: 5px;" class="container row">
+        <div class="col-md-12" style="clear: both;">
+          {% if result %}
+            <h1 class="text-center">Akurasi : {{result['akurasi']}}</h1>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Nama File</th>
+                  <th>Kelas Target</th>
+                  <th>Kelas Predict</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for data in result['datas'] %}
+                  <tr>
+                    <td>{{data['file']}}</td>
+                    <td>{{data['target']}}</td>
+                    <td>{{data['predict']}}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>          
+          {% else %}
+            <h1 class="text-center">
+              <span class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span>
+            </h1>
+          {% endif %}
+        </div>
+      </div>
+  	</div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  </body>
+</html>

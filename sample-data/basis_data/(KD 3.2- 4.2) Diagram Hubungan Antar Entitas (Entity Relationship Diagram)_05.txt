@@ -1,0 +1,70 @@
+Pengertian ERD (Entity Relationship Diagram)
+ERD merupakan suatu model untuk menjelaskan hubungan antar data dalam basis data berdasarkan objek-objek dasar data yang mempunyai hubungan antar relasi. ERD untuk memodelkan struktur data dan hubungan antar data, untuk menggambarkannya digunakan beberapa notasi dan simbol.
+
+Menurut salah satu para ahli, Brady dan Loonam (2010), Entity Relationship diagram (ERD) merupakan teknik yang digunakan untuk memodelkan kebutuhan data dari suatu organisasi, biasanya oleh System Analys dalam tahap analisis persyaratan proyek pengembangan system. Sementara seolah-olah teknik diagram atau alat peraga memberikan dasar untuk desain database relasional yang mendasari sistem informasi yang dikembangkan. ERD bersama-sama dengan detail pendukung merupakan model data yang pada gilirannya digunakan sebagai spesifikasi untuk database.
+
+Komponen penyusun ERD adalah sebagai berikut :
+
+Entitas adalah objek dalam dunia nyata yang dapat dibedakan dengan objek lain, sebagai contoh mahasiswa,dosen,departemen. Entitias terdiri atas beberapa atribut sebagai contoh atribut dari entitas mahasiswa adalah nim,nama,alamat,email, dll. Atribut nim merupakan unik untuk mengidentifikasikan / membedakan mahasiswa yg satu dengan yg lainnya. Pada setiap entitas harus memiliki 1 atribut unik atau yang disebut dengan primary key.
+
+Atribut adalah Setiap entitas pasti mempunyai elemen yang disebut atribut yang berfungsi untuk mendeskripsikan karakteristik dari entitas tersebut. Isi dari atribut mempunyai sesuatu yang dapat mengidentifikasikan isi elemen satu dengan yang lain. Gambar atribut diwakili oleh simbol elips.
+
+Ada dua jenis Atribut :
+
+Identifier (key) digunakan untuk menentukan suatuentity  secara unik (primary key).
+ Descriptor (nonkey attribute) digunakan untuk menspesifikasikan karakteristik dari suatu entity yang tidak unik.
+Relasi adalah hubungan antara beberapa entitas. sebagai contoh relasi antar mahaiswa dengan mata kuliah dimana setiap mahasiswa bisa mengambil beberapa mata kuliah dan setiap mata kuliah bisa diambil oleh lebih dari 1 mahasiswa. relasi tersebut memiliki hubungan banyak ke banyak. Berikut adalah contoh ERD.
+
+Kardinalitas menyatakan jumlah himpunan relasi antar entitias. pemetaan kardiniliat terdiri dari :
+
+one-to-one :sebuah entitas pada A berhubungan dengan entitas B paling banyak 1contoh diatas relasi pegawai dan departemen dimana setiap pegawai hanya bekerja pada 1 departemen
+one-to-many : sebuah entitas pada A berhubungan dengan entitas B lebih dari satu contoh diatas adalah 1 depertemen memiliki banyak pegawai
+many-to-many : sebuah entitas pada A berhubungan dengan entitas B lebih dari satu dan B berhubungan dengan A lebih dari satu jugan contoh diatas adalah relasi mahasiswa dengan mata kuliah.
+Berikut adalah metode/tahap untuk membuat ERD :
+
+Menentukan Entitas
+Menentukan Relasi
+Menggambar ERD sementara
+Mengisi Kardinalitas
+Menentukan Kunci Utama
+Menggambar ERD berdasar Key
+Menentukan Atribut
+Memetakan Atribut
+Menggambar ERD dengan Atribut
+Langkah-langkah untuk mengidentifikasi atau menemukan entitas
+membuat ilustrasi cerita (role of bussiness) sistem basis data. menandai setiap objek yang diwakili oleh kata benda dari ilustrasi tersebut. Untuk setiap objek atau entitas tersebut yakinkan bahwa telah memiliki karakteristik sebagai atribut. menentukan objek yang merupakan entitas, Jika memiliki karakteristik maka menjadi sebuah entitas
+
+langkah-langkah untuk mengidentifikasi atau menemukan atribut
+Mentukan dan melengkapi karakteristik dari tiap-tiap entitas Dari setiap karakteristik tersebut tentukan termasuk atribut apa. Gambarkan entitas beserta atributnya dengan notasi yang sesuai.
+
+langkah-langkah untuk menemukan atau mengidentifikasi relasi
+Dari gambaran cerita sistem, tandai setiap hubungan yang diwakili oleh kata kerja yang ada di dalam ilustrasi beserta entitas yang berhubungan Identifikasikan rasio kardinalitas dari setiap hubungan. Identifikasikan batasan partisipasi dari setiap hubungan yang ada berikut kemungkinan atribut yang muncul dari setiap hubungan.
+Gambarkan hubungan tersebut dalam bentuk notasi diagram dan gabungkan dengan notasi Entitas dan atribut yang dibuat sebelumnya.
+
+Bagian C
+Studi kasus ERD “Kantin”
+Tahap 1: Penentuan Entitas
+Penjual : menyimpan semua informasi tentang penjual
+Jual : No.Hp, nama, alamat
+barang : menyimpan semua informasi tentang kode barang, nama barang, harga barang
+Membayar: menyimpan semua informasi tentang nama pembeli, nomor handphone, tanggal alamat.
+
+Tahap 2: Penentuan Atribut
+1) Penjual: No.Hp, nama, alamat
+2) Pembeli: kd_brg, ttl_brg, jml_brg
+3) Barang: kd_brg, nm_brg, merek, jenis, stock, harga
+
+Tahap 4: Pembuatan ERD
+
+basdat
+
+basdat2
+
+credit by :
+
+http://karliramadhan.blogspot.co.id/2012/11/pengertian-arsitektur-sistem-basis-data.html
+https://aullyaarvianto.wordpress.com/2013/05/25/tujuan-dan-manfaat-basis-data/
+http://intanstemapal24.blogspot.co.id/2014/08/pengertian-erd-entity-relationship.html
+http://www.termasmedia.com/65-pengertian/69-pengertian-database.html
+https://mybiodatadianamalia.wordpress.com/
+https://adelineafigar.wordpress.com/

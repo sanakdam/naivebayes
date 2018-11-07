@@ -1,0 +1,141 @@
+Back to Home » Spesifikasi Hardware , Software , dan Kebutuhan Minimal Server
+Spesifikasi Hardware , Software , dan Kebutuhan Minimal Server
+Posted by : Mrr Aqim Sabtu, 23 Agustus 2014
+A.   Spesifikasi Komputer Server
+Server merupakan komputer yang bertugas sebagai pusat controlling akses data dalam sebuah jaringan (Server-Client) misalnya LAN,W-LAN, dan lain-lain. Server bisa mengontrol semua akses PC Client.
+Kesimpulannya adalah bahwa pada dasarnya, server dan PC merupakan sama-sama sebuah komputer, hanya saja fungsi, fitur, dan spesifikasi hardwarenya yang berbeda. Ilustrasinya, ketika beberapa PC akan melakukan pertukaran data, maka mereka bisa menaruh dan mengambil data tersebut di komputer server. Karena biasanya spesifikasi komputer server jauh lebih bagus dan besar daripada PC.
+B. Spesifikasi Hardware untuk Server
+Spesifikasi hardware yang perlu diperhatikan untuk server meliputi Mainboard, jenis dan kecepatan prosesor, kapasitas RAM, kapasitas Hardisk, Kartu Grafis (VGA), dan resolusi monitor.
+1 buah unit komputer server direkomendasikan memiliki :
+-     Prosesor: Intel Pentium 4/1,8 GHz
+-     Memory : 1 GB
+-     Hardisk: 40 GB
+-     Floppy Disk Drive:  1,44 MB 3,5”
+-     CDROM: 52x
+-     VGA Card: 64 MB share
+-     Monitor : SVGA 15”
+-     Keyboard dan Mouse: Serial/PS2
+-     Modem/LAN Card:  Internal/10/100 MBps
+-     Soundcard: Onboard
+-     Speaker/Headset: Multimedia
+-     Stabilizer: Denkyu 500 VA
+-     Instalasi Software: Windows 2000 Server, Linux, Education for Children, Software standar
+-     1 Unit printer
+-     Hub Switch 6 port
+Terdapat pula beberapa macam spesifikasi berdasarkan jenis sistem operasinya, yaitu sebagai berikut.
+-          Server ( Ubuntu Server+Squid Proxy Server )
+Prosesor Intel Dual Core (2.6 Ghz) TRAY
+Mainboard ASUS P5 KPL AM-SE ( Astrindo )
+Memory DDR2 V-gen 2 Gb
+Harddisk 20 gb SCSI 2 buah ( 2nd dan tergantung stock )
+Casing ATX E-Case + 2 FAN CPU
+Ethernet/LAN Card tambahan 1 buah
+
+
+-          Mikrotik OS :
+Prosesor Intel Pentium 4 (2.4 Ghz) TRAY
+Mainboard Amtron P4M945 LM4
+Memory DDR2 V-gen 1 Gb
+Harddisk Seagate/WDC/Maxtor 40Gb Type IDE
+Casing ATX E-Case + 2 FAN CPU
+Ethernet/LAN Card tambahan 1 buah
+C. Beda Sistem Operasi Server dan PC
+Sistem operasi jaringan atau sistem operasi komputer yang dipakai sebagai server dalam jaringan komputer hampir mirip dengan sistem operasi komputer stand alone (PC), bedanya hanya pada sistem operasi jaringan, salah satu komputer harus bertindak sebagai server bagi komputer lainnya. Sistem operasi dalam jaringan disamping berfungsi untuk mengelola sumber daya dirinya sendiri juga untuk mengelola sumber daya komputer lain yang tergabung dalam jaringan.
+Sistem operasi harus diinstal ke dalam komputer agar dapat berfungsi dengan baik. Dalam instalasi sistem operasi jaringan terdapat beberapa mode pilihan yang disediakan yaitu berupa mode text dan mode grafik. Instalasi sistem operasi berbasis text merupakan salah satu mode instalasi sistem operasi komputer dengan tampilan text.
+Mode text digunakan jika spesifikasi hardware komputer yang akan diinstal mempunyai spesifikasi yang rendah. Metode instalasi berbasis text akan mempercepat proses instalasi Metode instalasi sistem operasi berbasis text sering digunakan untuk mempercepat proses instalasi walaupun dengan tampilan yang kurang menyenangkan. Biasanya untuk spesifikasi komputer yang sederhana dibanding dengan sistem operasinya akan menggunakan metode berbasis text.
+D. Contoh Sistem Operasi Server dan PC
+Sistem operasi pada server ada berbagai macam, yaitu keluarga Microsoft Windows (Win NT, Win 2000 Server, Win Server 2003), Linux (RedHat, Mandrake, Debian, SUSE, Caldera dll), UNIX, Free BSD, Solaris.
+Sedangkan system operasi pada PC seperti DOS, Microsoft Windows, Linux, Unix, Apple Macintosh Operating System, dan lain-lain.
+E. Fitur yang terdapat di Sistem Operasi Server yang tidak ada di PC
+Sebuah sistem operasi pada server merupakan perangkat lunak yang mengendalikan jaringan dan pesan (misalnya paket) lalulintas dan antrian, control akses oleh beberapa pengguna untuk jaringan sumber daya seperti file, dan untuk menyediakan fungsi-fungsi administrative tertentu, termasuk keamanan.
+Bagian atas 5 lapisan dari OSI Reference Model memberikan fondasi yang banyak pada jaringan berbasis system operasi.
+Fiturnya antara lain : Dukungan dasar untuk mendukung hardware port. Fitur keamanan seperti otentikasi, otorisasi, login pembatasan, dan control akses. Nama layanan dan layanan direktori. File, mencetak, penyimpanan data, backup, dan replikasi layanan. Akses remote. Sistem Manajemen. Administrasi jaringan dan audit peralatan antar muka grafis. Clustering Capabilities. Serta toleransi kesalahan dan ketersediaan tinggi.
+• Spesifikasi dari PC untuk IIS Web Server
+1. Intel Pentium 4 processor 2.0 GHz
+2. Memori 256 MB
+3. Sistem Operasi Windows XP Professional
+4. Hardisk minimal
+·         System dasar  500mb
+·         Semua tugas 1GB
+• Spesifikasi dari PC untuk DNS dan DHCP Server
+1. AMD Athlon (tmXP 2100+) 1733 MHz
+2. Memori 256MB
+3. Sistem Operasi Linux Slackware 9
+4. Hardisk minimal
+·         System dasar  500mb
+·         Semua tugas 1GB
+Berikut adalah beberapa komponen yang perlu di perhatikan dari sisi hardware pada
+saat merencanakan pembangunan mail server berbasis Zimbra dengan estimasi
+jumlah account sebanyak ± 1000 user :
+Processor : Minimal Pentium 4 3 Ghz 64 bit, Rekomendasi Xeon, 64 bit
+RAM/Memory : Minimal 4 GB, rekomendasi 8 GB
+Harddisk : Double Harddisk, SATA/SCSI/SAS, H/W RAID atau S/W
+Gunakan RAID hardware jika ada, skema minimum adalah RAID 1/mirror disk,
+dengan opsi RAID-5 jika jumlah harddisk >=3
+Network : Dual Network Card Gigabit
+Bandwidth : Minimal 128 Kbps dedicated
+Selain jumlah account, spesifikasi hardware juga harus mempertimbangkan jumlah
+trafik email dan mekanisme akses. Bisa saja jumlah account sedikit namun trafik
+email cukup besar/padat dan sebaliknya.
+Jika trafik lalu lintas email cukup padat, pertimbangkan untuk memisahkan server,
+misalnya memisahkan layanan service untuk anti spam dan anti virus kedalam
+server lain.
+Jika user mengakses email menggunakan webmail, jumlah memory dan kecepatan
+server harus lebih tinggi dibandingkan jika user mengakses email menggunakan
+email client. Hal ini karena pada saat mengakses webmail, user menggunakan
+resources server.
+Sedangkan spesifikasi minimal komputer yang digunakan untuk
+database server dari sistem aplikasi lelang proyek pengadaan barang atau jasa
+pada Direktorat Jenderal Perhubungan Udara adalah sebagai berikut :
+1. Processor Intel CORE TO DUO atau setara
+2. Memory 2 GB
+3. Harddisk 120 GB 5400 Rpm
+4. Harddisk Backup 120 GB 5400 Rpm
+5. NIC ( NETWORK INTERFACE CARD )
+6. Keyboard
+7. Mouse
+8. Windows 2000 server
+9. MySQL 5.0.20
+10. Internet Explorer 6 atau diatasnya
+spesifikasi Mail Server:
+o    Processor Xeon 3 GHz (Single Core atau Multi Core)
+o    Harddisk berkisar antara 80 GB sampai dengan 200 GB (lebih besar lebih baik untuk penggunaan ke depan)
+o    NIC FastEthernet atau Gigabit Ethernet
+o    Memory 2 GB
+PROXY SERVER
+Spek PC : P3 800 Mhz, Mem 256, HD 30 Gb, 2 buah LAN Card (1 LAN onboard, 1 LAN tambahan)
+OS : Mikrotik OS 2.29.XX
+ISP : Telkom Speedy (Profesional) 1 line
+Modem merk Sanex standard bawaan speedy
+Client : 10 komputer
+FILE SERVER
+·                Processor minimal 166 megahertz atau processor yang lebih memilki kecepatan lebih tinngi.
+·                Sebuah Harddisk yang cepat dan berkapasitas besar atau kurang lebih 10 GB atau lebih. Karena fungsinya sebagai disk server tentunya kapasitas harddisk diusahakan besar singga dapat memenuhi tuntutan jaringan dalam hal penyimpanan file dalam jaringan.
+·                Sebuah RAID (Redundant Array of Inexpensive Disks).
+·                Sebuah tape untuk back up data contohnya DAT, JAZ, Zip, atau CDRW.
+·                Mempunyai banyak port network.
+·                Kartu jaringan yang cepat dan mempunyai reliabilitas kerja.
+·                Kurang lebih kapasitas 32 MB memori.
+·                Contoh Penerapan : Sebagai contoh mengelola pengiriman file database atau pengolah kata dari workstation atau salah satu node, ke node yang lain, atau menerima email pada saat yang bersamaan dengan tugas yang lain. Contohnya penerapan Samba Server pada openSUSE sebagai File Server tanpa PDC/OpenLDAP.
+DENGAN SISTEM OPERASI
+·                Microsoft Windows 2000 Server
+·                Microsoft Windows 2003 Server
+·                Microsoft Windows 2008 Server Longhorm
+·                Microsoft Windows NT
+·                Linux Operating System
+·                Unix Operating System
+·                IBM OS/2 Operating System
+·                Free BSD.
+·                FTP Server:
+·                Minimal Pentium 3
+·                PS 250 Watt
+·                Ram 256 Mb
+·                HD 10 GB
+·                CD Drive 32 X
+·                NIC 10/100
+Mail Server
+·                Processor Intel/AMD 1,5 Ghz 32bit
+·                Memory 1 GB
+·                HardDisk 80 GB SATA
+
+·                Lan Card 10/100 Mbps

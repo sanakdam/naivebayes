@@ -1,0 +1,157 @@
+Animasi computer adalah suatu karya seni modern yang menghasilkan gambar bergerak dengan komputer sebagai alatnya. Pembuatan animasi ini menggunakan sistem CGI (Computer Generated Imagery). Animasi komputer pertama kali dikembangkan di Bell telephone Laboratories pada tahun 1960 oleh Edward E. Zajac, Frank W Sinden, Kenneth. C Knowlton dan A. Michael Noll.  Teknologi CGI mula-mula diperkenalkan pada tahun 1973 pada film Westworld. Film hasil karya Michael Crichton ini merupakan film pertama yang menggunakan citra digital komputer sebagai bagian dari filmnya. Dikisahkan, di dunia Westworld, dimana semua tokohnya adalah robot (yang secara kebetulan mirip dengan kisah Surrogates). Salah satu tokohnya, robot Gunslinger (diperankan oleh Yul Brynner), mengalami kerusakan sehingga berusaha membunuh pengunjung Westworld. Komputer digunakan untuk menggamabarkan point of view dari Gunslinger secara 2D. Untuk setiap scene 10 detik dari sudut pandang si Ginslinger ini dibutuhkan waktu 8 jam proses.
+
+
+Gambar Westworld
+
+              Walaupun teknologi CGI yang digunakan saat ini adalah teknologi 2D, namun ini merupakan suatu terobosan baru dalam dunia film yang menggunakan CGI. Pada tahun 1976, film Futureworld yang merupakan sequel dari film Westworld, mengawali penggunaan CGI 3D untuk menganimasikan tangan dan wajah. Film laris Star Wars, pada tahun 1977 juga menggunakan teknologi CGI 3D untuk scene DeathStar, dan pada tahun 1978, untuk kali pertamanya dibuat film yang menggunakan teknologi CGI secara keseluruhan, yaitu The Works (film ini tidak pernah selesai).Teknologi CGI berhasil memukau publik melalui film Jurassic Park karya Stephen Spielberg pada tahun 1993. Atas kecanggihan penggunaan CGI 3D pada visualisasi dinosaurus, film ini menjadi box office dan memenangi 3 piala Oscar, yang salah satunya untuk kategori Visual Effect.Dengan berkembangnya teknologi komputer dan software, pada tahun-tahun berikutnya teknologi CGI 3D digunakan dengan lebih fantastis. Film-film box office yang tercatat menggunakan teknologi CGI ini adalah Terminator, Harry Potter, The Lord of The Rings, Spiderman, King Kong, The Dark Knight, Iron Man, Transformer, dan The Curious Case of Benjamin Button.
+Untuk bisa menghasilkan gambar pergerakan, maka gambar dipaparkan pada skrin komputer dan diganti dengan gambar baru yang selaras dengan gambar sebelumnya. Teknik ini serupa dengan bagaimana gambar bergerak dihasilkan melalui televisi dan film.
+Animasi komputer 3D pada asasnya merupakan pengganti digit bagi seni animasi stop motion patung animasi dibina pada skrin komputer dan dipasang dengan rangka siber. Kemudian anggota badan, mata, mulut, pakaian, dan lain-lain bagi patung 3D digerakkan oleh animator. Akhirnya, animasi dihasilkan.
+
+Teknik-Teknik Pembuatan Animasi Komputer
+
+1.      Multi-Sketching
+Merupakan sketsa gambar tangan menggunakan peralatan Tablet PC atau Digitalizer Tablet seperti Wacom yang dicapture langsung menjadi video. Pertama kali dikenalkan oleh Renat Zarbailov yang mengkomninasikan dua software aplikasi yaitu software sketsa dengan software screen capture.
+
+2.      Skeletal animation
+adalah sebuah teknik dalam animasi komputer, khususnya animasi yang melibatkan struktur pergerakan susunan tulang, dimana karakter dibagi menjadi 2 bagian yaitu representasi permukaan digunakan untuk menggambarkan karakter (biasa disebut skin/kulit/muka) dan susunan tulang digunakan hanya untuk meng-animasikan. Teknik ini digunakan untuk membuat/merancang strukur pertulangan, dimana setiap unsur tulang mempunyai 3 dimensi transformasi yaitu posisi, skala dan orientasi dan sebuah opsi/pilihan untuk tulang yang berhubungan dengannya. Aplikasi teknik ini sering digunakan oleh programer game komputer dan industri film juga untuk diaplikasikan pada obyek-obyek mekanik. Misalnya untuk membuat animasi robot atau monster.
+
+3.      Morph target animation atau per-vertex animation
+Merupakan sebuah metode dari 3D animasi komputer yang kadang-kadang digunakan sebagai pengganti/alternatif dari teknik sekeletal animation. Morph target animation tersimpan sebagai sebuah seri posisi vertex. Pada setiap keyframe animasi vertex-vertex tersebut bergerak sesuai dengan posisi yang berbeda sesuai target perubahan pergerakannya. Animasi morph ini digunakan misalnya untuk membuat mimik wajah/ekspresi, atau perubahan wujud dan lain sebagainya.
+
+4.      Cel-shaded animation
+Sering disebut juga Cel-Shading, Cell Shading atau Toon Shading yaitu sebuah tipe dari non photorealistic rendering yang didesain untuk membuat grafik yang dibuat dari komputer terlihat seperti digambar oleh tangan.
+
+5.      Onion skinning
+yaitu sebuah teknik dari 2D komputer grafis untuk membuat animasi kartun dan mengedit movie untuk melihat beberapa frame dalam satu tampilan. Dalam hal ini animator dapat memutuskan untuk membuat atau merubah sebuah gambar berdasarkan gambar sebelumnya. Pada animasi kartun tradisional setiap frame dalam movie gambar sebelumnya dapat dilihat melalui meja gambar yang diberikan penerangan dibawahnya. Menjadi tugas seorang Inbetweeners yang meneruskan gambar sebelum dan sesudah key animasi.
+
+6.      Analog computer animation
+berhubungan dengan Scanimate, yaitu sebuah nama untuk sistem animasi komputer analog yang dikembangkan pada antara akhir tahun 1960 an sampai awal 1980 an. Pengertian lain Scanimate adalah sistem komputer analog yang dibuat oleh Computer Image Coorporation di Denver, Colorado pada akhir tahun 60an dan awal 70an dengan produksi hanya delapan mesin. Sistem scanimate digunakan untuk memproduksi video berbasis animasi untuk televisi pada tahun 1970 an sampai tahun 1980 an untuk program commercial/iklan, promosi, dan show opening. 
+
+Metode yang Digunakan Dalam Membuat Animasi Komputer
+1. Manual.
+Metode ini mengandalkan kemampuan animator secara penuh. seluruh gerakan dibuat dengan insting dan skill animator.Biasanya digunakan untuk jenis animasi bergaya kartun, seperti cars, nemo, toy story, dan lainnya. karena sifat gerak dari karakter yang ada disitu adalah hasil rekaan manusia. dan tentu sudah di lebih-lebihkan (juga prinsip animasi yang lain)
+
+2. Motion Capture
+Adalah metode animasi yang menggunakan bantuan gerak karakter aslinya dan dipindahkan geraknya dengan alat motion capture, kemudian di aplikasikan ke objek digital kita. Teknik ini tentu akan membuat gerakan yang sama dengan aslinya. misalnya pada film Avatar, Final Fantasy, Polar Express, Beowulf, dan beberapa film dengan spesial efek, seperti Lord of the ring, Last samurai (animasi kuda)
+
+3. Dynamic simulation
+Metode ini menggunakan penghitungan secara fisika pada objek yang akan di animasikan. lalu disimulasikan secara realtime. terdapat bebebrapa penghitungan sebelum objek di animasikan, misalnya berat/massa benda, gaya gravitasi, benturan, kekuatan angin dan lain sebagainya. contoh animasi yang menggunakan metode ini: animasi bola jatuh, kain, percikan air, benda hancur, rambut dll
+
+4. Particle
+Adalah sekumpulan objek yang dapat di animasikan secara bersamaan membentuk sebuah pola. misalnya asap, daun berguguran, api, hujan, salju, segerombolan burung, dan sebagainya.
+
+Tipe Animasi Komputer
+a. Animasi 2 Dimensi
+Animasi 2 Dimensi adalah animasi yang paling sering kita jumpai, animasi ini biasa disebut dengan kartun. Animasi ini berbasis pada konsep gambar 2 dimensi.Contoh-contoh dari animasi ini adalah spongbob dan lain lain.
+Animisi 2 dimensi dapat digolongkan berdasarkan teknik/cara pembuatan (Pangestu  16), yaitu :
+1.      Animasi Frame
+Animasi ini mengandalkan perubahan gerak pada setiap frame.
+2.      Animasi Vector
+Animasi ini grafik atau gambar yang digunakan adalah grafik vektor(gambar yang dihasilkan oleh komputer).salah satu penghasil animasi vector adalah Macromedia Flash dan sekarang sudah diambil alih oleh Adobe menjadi Adobe Flash CS3.
+3.      Animasi Blend (computational animation)
+Animasi ini tidak menampilkan gambar pada frame-frame dalam menggerakkan gambar, melainkan menggunakan perhitungan matematika.
+4.      Animasi Morphing
+Gerakan dalam animasi ini muncul akibat perubahan atau transisi dari suatu bentuk ke bentuk yang lain. Setiap transisi menampilakan suatu urutan frame, dengan demikian hasil yang didapat adalah pergerakan yang mulus.
+5.      Animasi Karakter Fantasi
+Tehnik ini mampu menampilkan karakter obyek secara menonjol animasi karakter mengkhususkan diri pada pembentukan model dan gerakan baik manusia maupun binatang.
+
+Menurut Frank Thomas Ollie Jhonston
+ü  Cel (clear, frosted, paper)
+ü  Cutout (toplit)
+ü  Sillhouette/ siluet
+ü  Pastel
+ü  Sand (pasir)
+ü  Clay ( tanah liat)
+ü  Wet paint (cat)
+ü  Pinsreen (menggunakan paku sebagai media 3D namun kesan yang di dapat 2D).
+
+
+b. Animasi 3 Dimensi
+Animasi 3 Dimensi merupakan perkembangan dari animasi 2 dimensi. Dengan berdasarkan pada konsep gambar 3 dimensi sehingga menghasilkan animasi yang lebih realistis, detail dan nyata karena hampir menyerupai bentuk aslinya. Contoh dari animasi 3 Dimensi sendiri adalah smurf, avatar dan lain-lain.
+Berikut ini merupakan jenis-jenis animasi menurut Frank Thomas dan Ollie Johnston :
+ü  Puppet (stop motion dengan menggunakan boneka)
+ü  Objek apapun yang memiliki massa
+ü  Pixilation (stop motion yang menggunakan manusia)
+ü  Clay motion
+
+Jenis Animasi Komputer
+Komputer Assist
+Beberapa contoh pertama dari animasi komputer komersial secara tradisional menggunakan bantuan komputer. Hal ini bisa dalam bentuk komputer yang memproduksi " perantara" atau gambar yang menghubungkan dua inputan yang sama oleh seniman (sehingga memungkinkan seniman untuk menggambar karakter lebih sedikit). Komputer animasi pembantu pertama kali digunakan dalam sebuah film animasi di "The Mouse Detective Besar" Disney pada tahun 1986. Sebuah adegan dalam film berlangsung didalam jam, dan roda gigi mekanik kompleks benar-benar diberikan dalam komputer sebagai kawat-frame grafis sebelum dipindahkan ke sel, di mana mereka bersatu dengan unsur-unsur lain dari TKP. Teknik yang sama digunakan oleh Disney dalam film kemudian seperti "Beauty and the Beast" (1991), "Pocahontas" (1995) dan "Tarzan" (1999) .
+
+Gerak Kontrol dan Script
+Animasi komputer yang paling modern menggunakan sistem kendali gerak yang digunakan oleh animator untuk memanipulasi pembuatan sebuah objek, dan kemudian memindahkan obyek telah yang melalui serangkaian pose. Metode ini menghasilkan gerakan yang akan menghasilkan gambar gerakan akhir. Animasi gerak kontrol pertama dilakukan dengan sistem scripting seperti ASAS (Aktor Script Sistem Animasi). Dalam skenario ini, animator adalah seorang programmer komputer yang menulis kode dalam bahasa komputer untuk menghasilkan sebuah objek dan memberikan gerakan obyek itu. Sebagai animasi komputer berkembang, sistem yang lebih interaktif dikembangkan untuk memungkinkan animator untuk berinteraksi dengan gambar dan benda-benda melalui antarmuka yang lebih abstrak. Kode sekarang ditulis secara otomatis, berdasarkan masukan yang animator membuat menggunakan antarmuka visual dan memanipulasi subjek dengan mouse, keyboard atau perangkat input lainnya.
+
+CGI Compositing
+Animasi komputer juga digunakan di tempat teknik yang lebih tua dari film animasi. Sejak adanya bioskop, unsur-unsur animasi telah ditambahkan kedalam gambar difoto. Unsur-unsur lain, seperti model atau latar belakang dicat, juga digunakan dan harus susah payah dipasangkan dengan rekaman live-action. Ini melibatkan proses optik panjang di mana berbagai elemen yang kembali difoto beberapa kali agar dapat composited bersama menjadi satu gambar. Karena kompleksitas proses, efek khusus yang mahal dan jarang digunakan dalam jumlah besar oleh semua tapi film yang paling tinggi dibiayai.
+Komputer citra yang dihasilkan mengubah semua itu, yang memungkinkan pembuat film untuk menggunakan layar biru atau hijau untuk memilih bagian dari film yang nantinya dapat dengan mudah dihilangkan dengan komputer dan diganti dengan gambar dari sumber lain, baik foto atau sepotong adegan animasi. Komputer compositing animasi bahkan berfungsi di banyak konsumen tingkat program video editing.
+Motion Capture
+Motion capture adalah jenis animasi komputer yang telah memperoleh banyak minat dalam beberapa tahun terakhir. Motion capture ini bergantung pada sensor kecil yang ditempatkan pada karakter di berbagai titik di sekitar tubuh mereka. Para aktor melakukan dan gerakan mereka ditangkap oleh kamera yang dapat menemukan sensor dan melacak gerakan mereka. Gerakan ini kemudian dapat ditransfer ke komputer-tokoh yang dirancang akan bergerak dengan cara yang persis sama seperti aktor lakukan.
+Motion capture sangat signifikan bagi yang menjembatani kesenjangan antara metode tradisional pembuatan film dan teknologi baru. Beberapa contoh dari motion capture termasuk, Gollum di film "Lord of the Rings",
+
+Animasi Flash
+
+           Salah satu jenis akhir animasi komputer adalah Flash animasi. Animasi Flash merupakan salah satu nama untuk program Flash dari Adobe yang telah mereka produksi, meskipun saat ini ada program lain yang juga memungkinkan animator untuk menciptakan "flash" animasi. Walaupun keterbatasan dalam hal gerakan dan gaya, namun Flash lebih murah untuk memproduksi ,karena itu sekarang flash semakin meningkat popularitasnya. Animasi Flash sering digunakan dalam iklan dan umum sebagai konten video di situs Web.
+Animasi komputer mendukung dalam perkembangan banyak industri, tidak menentu hanya pada bidang program komputer atau siaran televisi saja tetapi pada hampir seluruh bidang seperti pada bidang pendidikan, rekayasa, produksi film, simulasi penerbangan, militer,media, medis, forensik, pendidikan dan lainnya.
+
+PenggunaanAnimasi Komputer
+           Animasi komputer mengacu pada penggunaan grafis dalam berbagai bidang. Digunakan diberbagai sektor yaitu teknologi informasi, penerbangan, medis, dan lain - lain. Ada banyak yang menggunakan animasi komputer di dunia modern saat ini. Hal ini digunakan untuk e-commerce dalam iklan produk dan jasa organisasi. Untuk memikat pelanggan dalam sektor penerbangan dapat menggunakan animasi untuk mengintegrasikan halaman web. Grafis yang digunakan untuk produksi jurnalisme atau audio film sambil mempersiapkan klip video atau film. Iklan atau hubungan masyarakat lembaga sering membutuhkan gambar animasi yang bertujuan untuk menghias, presentasi proyek atau artikel. Seseorang dalam public relation memerlukan gambar - gambar aniamasi untuk menyajikan grafik, diagram atau kolom laporan. Hal ini juga banyak digunakan dalam film dan industri hiburan. Dalam industri film, film animasi dibuat dari karakter animasi yang diciptakan bukan dari aktor film. Animasi telah memasuki berbagai jenis bidang profesional.
+Contoh Penggunaan animasi dalam berbagai bidang
+
+ • Bidang politik
+Film-film animasi ataupun hal-hal yang menyangkut dengan ‘dunia kartun’ memang begitu luar biasa cepatnya penyebarannya di dunia. Hal tersebut dapat kita dapatkan dari kutipan artikel-artikel di atas. Selain memberikan dampak yang positif dari film-film animasi ini, animasi ini juga dapat menimbulkan hal-hal yang negatif. Hal tersebut dapat kita lihat implikasi dari animasi-animasi yang kita kenal menghibur ini dalam bidang politik yaitu adanya karikatur-karikatur tokoh penting yang menghiasi sampul koran dan majalah, seperti contohnya adanya karikatur-karikatur di majalah TEMPO beberapa bulan yang lalu, yang menggambarkan wajah mantan penguasa ‘orde baru’ beserta keluarganya.Hal tersebut menuai protes yang keras terhadap manajemen pihak TEMPO yang dianggap oleh keluarganya kurang etisnya gambar tersebut. Contoh lainnya, salah satu televisi swasta juga menggunakan animasi-animasi jenaka untuk memberikan masukan serta saran-saran melalui animasi yang menyerupai salah satu tokoh politik di pemerintah.
+Bukan hanya dari contoh kasus tersebut, adanya film animasi tentang Nabi Muhammad S.A.W yang dibuat oleh kartunis Denmark menuai protes keras oleh kaum muslim hingga terjadinya demo dari berbagai negara di depan kedutaan denmark, hingga bahkan salah satu negara dari Timur Tengah mengambil jalur hukum.
+
+• Bidang ekonomi
+Inilah dunia komik dan animasi, dunia yang sering dianggap dunia “underground”, “main-main”. Hanya saja, dunia komik/animasi kini telah berkembang sedemikian rupa. Lewat jaringan hubungan dunia maya, dunia imajinasi ini juga menghasilkan uang cukup besar.
+Kalau berbicara soal jumlah uang, angka yang dihasilkan “dunia yang main-main” ini bisa jauh lebih tinggi dari yang mungkin diduga orang. Di layar lebar, ada film Shrek 2 yang menurut boxofficeguru.com mendulang pemasukan 915 juta dollar AS dari pemutaran di seluruh dunia. Sementara di dunia komik, diperkirakan penjualan 300 komik terlaku di AS menghasilkan uang rata-rata 221,73 juta dollar AS per bulan. Ini versi Diamond North America. Dan banyak lagi film-film animasi yang mendulang sukses dan mendapatkan profit keuntungan bagi perusahaan yang memproduksi film tersebut.
+Film animasi tidak akan lepas dari rumah produksi atau studio yang membuat film tersebut. Umumnya studio animasi memiliki banyak ruang produksi didalamnya dan teknologi komputer yang berspesifikasi tinggi, apalagi bila studio tersebut adalah studio animasi. Saat ini telah banyak studio yang tumbuh dan menghasilkan karya-karya animasi yang spektakuler dan box office dimana-mana. Industri animasipun berkembang sebagai salah satu alat pemacu gerak putar roda ekonomi sebuah negara, karena begitu besarnya omset ekonomi yang dihasilkan dari industri kreatif ini. Sebut saja salah satu film yang tersukses sepanjang masa dengan mampu menghasilkan pendapatan kotor sebesar $1,845,034,000 (wuihh, susah bayanginnya) yang hampir setara dengan 18 Trilyun Rupiah, hampir mendekati biaya APBN sebuah propinsi atau pulau besar di Indonesia, dan siapa studio dibalik itu yang menghasilkan film mahakarya tersebut…yaitu Paramount Pictures. Bayangkan sebuah studio mampu mengeruk omset sebesar itu, bagaimana kalo ada 10 perusahaan sejenis disebuah negara, bukan main perputaran roda ekonomi yang dihasilkan itulah yang saat ini terjadi di negara Amerika Serikat.
+
+• Bidang sosial dan budaya
+Pada tanggal 23 hingga 27 Mei 2007 tahun lalu merupakan waktu penyelenggaraan Seoul International Cartoon and Animation Festival (SICAF) 2007 untuk yang kesebelas kalinya sejak pertama kali diadakan tahun 1995. Festival animasi bertaraf internasional ini memberikan kesempatan pada khalayak penggemar film animasi terutama yang berada di Korea untuk menikmati film-film animasi unggulan, bertemu muka dengan para pembuat film animasi yang secara khusus diundang untuk hadir selain juga berkesempatan melihat karya-karya talenta-talenta muda melalui animasi amatir mereka. Terlihat jelas bahwa implikasi terhadap sosio culture dari animasi ini sangat kuat sekali, yang berawal dari negara barat hingga trend di negara asia terutama negara jepang (animasinya disebut manga).
+Implikasi dalam hal sosial budaya dapat kita lihat biasanya dalam animasi-animasi jepang atau kita sebut dengan manga. Disitu dapat kita lihat dimana alur ceritanya serta tatanan sosial yang menandakan status dalam masyarakat film di cerita merupakan kehidupan sehari-hari mereka baik dari segi berbicara, berpakaian, cara memberi salam, makan dan sebagainya. Bahkan tak sedikit yang mengambil ide-ide dari cerita-cerita mitos, legenda serta kepercayaan masyarakat setempat dalam membuat animasinya.
+Hal yang paling mengejutkan dari semua itu adalah adanya transfer sosio culture dari film-film animasi tersebut. Kita bisa lihat dlam kehidupan kita sekarang, ada yang meniru model rambut, cara berpakaian, cara berbicara, cara berjalan, hingga cara berpikir mereka. Karena hal tersebut banyak terdapat festival-festival budaya yang diselenggarakan oleh komunitas-komunitas pecinta dari film-film animasi seperti festival “cosplay” (costume player) yang merupakan ajang dimana para pecinta animasi dapat bergaya layaknya tokoh animasi idolanya. Itu merupakan implikais yang sangat luar biasa bukan saja trend di satu negara melainkan nbelahan negara manapun juga banyak yang ikut terpengaruh akan sosio culture dari film-film animasi ini.
+Perkembangan Animasi Komputer
+            Perkembangan animasi seiring dengan perkembangan dunia pertelevisian. Pada awalnya diciptakanlah animasi berbasis dua dimensi (2D Animation). Yakni objek yang dianimasi mempunyai ukuran panjang (x-axis) dan lebar (y-axis) saja. Realisasi nyata dari perkembangan animasi dua dimensi yang cukup revolusioner berupa dibuatnya film-film kartun. Seven Dwarfs (1937) dan Fantasia (1940) dari Walt Disney adalah karya-karya film kartun yang melegenda sampai sekarang. Bahkan beberapa tokoh-tokoh kartun buatan Walt Disney yang lain masih dapat bertahan dan populer sampai saat ini mekipun pembuatan film-film tersebut dikerjakan hampir 500 taun yang lalu.
+            Kalau dibandingkan, sedikit sekali tokoh-tokoh film layar lebar yang mampu bertahan sekian lamanya. Pembuatan animasi film kartun itu sendiri pada awalnya dikerjakan dengan membuat sketsa gambar yang digerakkan satu demi satu. Untuk membuat satu durasi animasi membutuhkan jumlah gambar yang cukup banyak. Sejak ditemukannya teknik animasi sel, maka pembuatannya menjadi lebih mudah. Kertas gambar yang biasa dipergunakan diganti dengan kertas transparan yang terbuat dari bahan celluloid sheet. Teknik animasi sel inilah yang kemudian diadopsi dalam animasi komputer.
+            Kertas gambar dalam pembuatan animasi sebelumnya kemudian diprogram menjadi frame di komputer. Sehingga yang semula berupa kumpulan gambar-gambar maka di komputer hal tersebut sudah merupakan kumpulan dari frame-frame yang tersusun dalam sebuah alur waktu. Adanya perubahan pergerakan suatu objek yang dianimasi oleh komputer dapat dibuat menjadi sebuah keyframe. Sehingga menjadi jauh lebih efektif dan efisien dibandingkan dengan animasiyang dilakukan manual.
+            Di tahun-tahun mendatang, dunia animasi diprediksikan akan lebih gemerlap lagi. Sebagai contoh dengan dirilisnya software eye matic face station. Dengan dukungan software animasi berbasis 3D ini maka sutradara tidak perlu lagi mendatangkan seorang aktris atau aktor yang bayarannya mahal dalam pembuatan film. Cukup dengan mempunyai foto tampak samping dan tampak depan maka wajah artis tadi dapat dimodel mirip dengan aslinya, dalam bentuk tiga dimensi tentunya.
+            Dengan program combustion yang merupakan plug in software 3D Studio Max maka pembuatan efek transisi yang dipergunakan dalam pergantian antarsekuel film di satu sisi menjadi lebih mudah dan lebih menarik. Sehingga makin luas pula lahan pekerjaan yang ditawarkan dan menjadi tantangan bagi komunitas animator Indonesia.
+
+Contoh aplikasinya:
+1.      Computer-Aided Sofware Engineering (CASE)
+CASE mirip dengan CAD tetapi digunakan dalam bidang sofware engineering. CASE digunakan Dalam memodelkan user requirement, pemodelan basisdata, workflow dalam proses bisnis, struktur program, dan sebagainya. Contoh aplikasi: Rational Rose, SyBase Power Designer.
+2.      Virtual Reality
+Virtual Reality adalah lingkungan virtual yang seakan-akan begitu nyata di mana user dapat Berinteraksi dengan objek-objek dalam suasana atau lingkungan 3 dimensi. Perangkat keras khusus digunakan untuk memberikan efek pemadangan 3 dimensi dan memampukan user beriteraksi dengan objek-objek yang ada dalam lingkungan. Contoh: aplikasi VR parachute trainer yang digunakan oleh U.S. Navy untuk latihan terjun payung. Aplikasi ini dapat memberikan keutungan berupa mengurangi resiko cedera selama latihan, mengurangi biaya penerbangan, melatih perwira sebelum melakukan terjun payung sesungguhnya.
+3.      Visualisasi Data
+Visualisasi Data adalah teknik-teknik membuat image, diagram, atau animasi untuk Mengkomunikasikan pesan. Visualisasi telah menjadi cara yang efektif dalam mengkomunikasikan baik data atau ide abstrak maupun nyata sejak permulaan manusia. Contoh: visualisasi dari struktur protein, strutur suatu website, visualisasi hasil data mining.
+
+Time Line adalah berguna untuk mengatur letak dan waktu dari animasi sebuah objek.
+Dalam Timeline ini terdapat dua bagianutama yaitu Layer dan Frame.
+
+Dalam Timeline terbagi menjadi dua bagian yaitu :
+1.      Layer Dalam bagian Layer ini berguna sebagai tempat meletakkan objek.
+2.      Frame berfungsi untuk mengatur waktu dari objek ataupun animasi akan ditampilkan. Kecepatan frame yang dimainkan sangat berpengaruh dari framerate yang digunakan. Makin tinggi framerate maka akan makin cepat pula sebuah animasi akan dimainkan. Satuan kecepatan yang digunakan frame adalah fps (frame per second).
+Keyframe : keyframe adalah frame kunci yang dapat berdiri sendiri. diumpamakan seperti kertas hvs yang berisi gambar. apabila kita tambahkan sebanyak 5 keyframe, apabila salah satu keyframe kita rubah gambarnya, itu tidak akan mempengaruhi gambar-gambar dikeyframe lain. karena keyframe dapat berdiri sendiri.
+ Blank keyframe : blank keyframe adalah keyframe yang tidak memiliki gambar/objek didalamnya. diumpamakan seperti kertas hvs yang kosong melompong, polos, suci, tanpa kotoran bahkan tidak ada 1 titikpun disana.
+ Frame : frame adalah satuan terkecil dalam video. pada program flash, frame diumpamakan seperti kertas hvs yang telah digambar, dan contoh apabila framenya kita perpanjang sebanyak 5 frame, maka diumpamakan seperti 5 kertas hvs dengan gambar yang sama.apabila kita merubah gambar salah satu frame, maka frame yang lain akan mengikuti perubahan gambar tersebut. karena frame tidak dapat berdiri sendiri.
+Layer  merupakan  lapisan  yang  memuat  artwork,  yaitu  obyek  gambar,teks,  dan  lain-lain
+
+motiontween Motion Tween : motion tween adalah salah satu fitur dari program adobe flash yang dapat memudahkan kita membuat sebuah animasi pergerakan objek tanpa harus memperbanyak gambar keyframe, hanya menentukan keyframe awal dan keyframe akhir, kita bisa menggerakkan sebuah objek menggunakan fitur ini.Tweening adalah proses menghasilkan frame menengah antara dua gambar untuk memberikan kesan bahwa gambar pertama berkembang mulus ke gambar kedua. Tweening adalah proses kunci dalam semua jenis animasi, termasuk animasi komputer. Software animasi canggih memungkinkan Anda untuk mengidentifikasi objek tertentu dalam gambar dan menentukan bagaimana mereka harus bergerak dan berubah selama proses tweening.
+"Tween" sebenarnya adalah singkatan dari "di antara", dan mengacu pada penciptaan frame berturut animasi antara frame kunci. Dalam animasi komputer, istilah ini paling sering digunakan untuk Flash "bentuk tweening" dan "gerak tweening" proses, di mana pengguna dapat menentukan dua frame kunci dan Flash secara otomatis akan menciptakan di antara frame, baik morphing satu bentuk menjadi lain melalui periode waktu yang ditetapkan atau memindahkan bentuk atau bentuk dari titik A ke titik B selama periode waktu tertentu.
+
+Jenis-Jenis Tweening
+1.      Shape Tweening (Animasi Perubahan Bentuk)
+Shape tweeningberguna untuk mengubah bentuk. Flash hanya dapat mengubah bentuk, jadi jangan mencoba untuk melakukan Shape tweenuntuk group, symbol, atau teks. Hal ini tidak akan berhasil. Anda dapat melakukan Shape Tweenpada beberapa bentuk di dalam sebuah layer, tetapi lebih baik untuk menempatkannya pada layer yang berbeda. Hal ini akan memudahkan jika kita ingin melakukan perubahan. Shape tweeningjuga memperbolehkan Anda untuk mengubah warna.
+Shape hints
+Shape hintsmemberikan kontrol untuk shape tweenyang kompleks. Anda bisa mengatur setiap titik awal dari animasi perubahan bentuk lalu titik akhir dari animasi perubahan bentuk tersebut. Dengan memberi beberapa shape  hintsmaka kita bisa mengontrol animasi perubahan bentuk sesuai dengan yang kita inginkan karena dalam animasi perubahan bentuk yang kompleks seringkali apa yang kita inginkan tidak bisa dilakukan oleh program Flash secara otomatis kecuali melalui shape hints.
+2.      Motion Tweening (Animasi gerak)
+Motion tweentidak hanya berguna untuk menggerakkan groups, simbol, atau teks yang dapat diedit dari satu tempat ke tempat lain. Motion tweenmenolong Anda untuk merubah ukuran, memutar, merubah warna dan transparansi simbol. Motion tweenhanya bisa digunakan pada satu objek pada satu layer. Jadi jika ingin mengerakkan banyak objek maka membutuhkan banyak layer.
+Animasi masking adalah animasi yang pada intinya menampilkan objek yang semula kita sembunyikan. Animasi masking mempunyai 2 metode dasar yaitu :
+1. Area masking yang bergerak, objek yang di mask diam.
+2. Area masking yang diam dan objek yang di mask yang bergerak.
+Kedua teknik tersebut akan menampilkan hasil animasi yang berbeda.. Selain itu area masking hanya boleh berupa fill. Jadi untuk outline (garis) tidak diperbolehkan.
+
+
+Mask menciptakan jendela atau bukaan yang mengungkapkan isi langsung di bawah mask dalam lapisan di bawah sambil menyembunyikan segala sesuatu yang lain pada lapisan yang mendasari. Mask dapat statis atau animasi. Flash akan mengabaikan gradien, transparansi dan warna pada objek mask.
+Sebuah Layer Mask terkait dengan layer dan menyembunyikan bagian dari lapisan dari gambar. Apa yang dicat hitam pada lapisan penyesuaian tidak akan terlihat pada gambar akhir. Apa abu-abu akan lebih atau kurang transparan tergantung pada warna abu-abu. Sebagai layer mask dapat baik diedit dan berpindah-pindah secara independen dari kedua lapisan latar belakang dan lapisan itu berlaku untuk, memberikan pengguna kemampuan untuk menguji banyak kombinasi yang berbeda dari overlay.
+Movie Clip merupakan salah satu type dari symbol. Movie clip digunakan untuk membuat objek agar dapat menggunakan beberapa fasilitas dari flash seperti animasi twee, masking, guide. Selain itu, dengan dijadikannya suatu objek menjadi movie clip maka objek tersebut dapat diberi action script. Movie clip merupakan simbol yang juga mempunyai timeline nya sendiri. Ketika sebuah simbol muvie clip di klik dua kali maka akan muncul timeline dari movie clip tersebut. Di dalam timeline ini, dibuatlah beberapa gerakan yang hendak dilakukan oleh gambar yang dimaksud. Nah, jika kita kembali ke timeline utama kita maka hanya dengan satu frame saja, sebuah movie clip sudah bergerak sesuai dengan gerakan yang dibuat di timeline movie clip tadi.

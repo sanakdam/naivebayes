@@ -1,0 +1,120 @@
+PEMROGRAMAN DASAR
+OLEH : DENASO PUNGGA AZIZY
+XI TKJ 1
+SMK ISLAM 1 BLITAR
+
+
+
+Bab I. Operator Aritmatika dan Logika
+KB 1.Operator Aritmatika 
+Operasi aritmetika
+Operasi dasar aritmetika adalah penjumlahan, pengurangan, perkalian dan pembagian, walaupun operasi-operasi lain yang lebih canggih (seperti persentase, akar kuadrat, pemangkatan, dan logaritma) kadang juga dimasukkan ke dalam kategori ini. Perhitungan dalam aritmetika dilakukan menurut suatu urutan operasi yang menentukan operasi aritmetika yang mana lebih dulu dilakukan.
+Operator aritmatika adalah operator yang digunakan untuk melakukan operasi-operasi perhitungan aritmatika seperti penjumlahan, pengurangan, pembagian, perkalian dll. Dalam bahasa pemrograman Pascal operator aritmatika dapat dibagi menjadi 2, yaitu :
+·         Operator Aritmatika Unair
+Operator aritmatika unair adalah operator aritmatika yang hanya melibatkan 1 operand saja.
+·         Operator Aritmatika Biner
+Operator aritmatika biner adalah operator aritmatika yang melibatkan 2 buah operand. (WAHYUDI, 2016)
+
+KB 2. Pemanfaatan Operator Aritmatika 
+pemanfaatan operator aritmatika bertujuan untuk menyelesaikan berbagai masalah sehari-hari dengan memanfaatkan Freepascal. Untuk menyelesaikan masalah tersebut dengan bahasa pemrograman Pascal, kita perlu merancang program yang dapat menghitung jumlah dan rata-rata, yang harus dilakukan adalah menentukan input dan tipe data yang dibutuhkan program yang akan dibuat. selanjutnya kita harus menentukan cara atau metode untuk mengolah data input menjadi data yang dikehendaki. langkah selanjutnya adalah merangkai semua komponen menjadi satu dan melengkapinya dengan komponen tambahan agar program dapat berjalan dan ditampilkan dengan baik. (pambudi, 2014)
+
+KB 3. Fungsi Aritmatika
+I. Pengertian
+Fungsi IF berfungsi untuk mengecek apakah nilai yang kita gunakan sebagai kunci benar atau salah (memenuhi syarat atau tidak)
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus
+=IF(MID(C6,3,1)=”1?,”Kepala”,IF(MID(C6,3,1)=”2?,”staff”,”oprasional”))
+Klik ENTER
+IV.2 Fungsi SUM
+Fungsi SUM berfungsi untuk melakukan penjumlahan.
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=SUM(H9,J9)
+
+Klik ENTER
+IV.3 Fungsi COUNT
+Fungsi COUNT berfungsi untuk melakukan COUNTER
+atau penjumlahan sel yang berisi data numerik
+Langakah Pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=COUNT(K6;K15)
+Tekan ENTER
+IV.4 Fungsi AVARAGE
+Fungsi AVARAGE digunakan untuk menghitung rata-rata data numeric.
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=AVARAGE(K6;K15)
+Tekan ENTER
+IV.5 Fungsi EXACT
+Digunakan untuk menghidangkan 2 buah kata, jika sama akan bernilai TRUE, jika tidak FALSE.
+Langkah Pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=EXACT(MARRIED,”married”)
+Tekan ENTER
+IV.6 Fungsi MAX
+Digunakan untuk mencari nilai terbesar dari sekumpulan data atau RANGE CELL.
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=MAX(K6;K15)
+Klik ENTER
+IV.6 Fungsi MIN
+Digunakan untuk mencari nilai terkecil dari sekumpulan data atau RANGE CELL.
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=MIN (K6;K15)
+Klik ENTER
+IV.7 Fungsi VLOOKUP
+Bantuan REFERENCES. Digunakan untuk menghasilkan nilai pad table secara Vertikal
+Langkah pengaplikasian :
+
+Klik formula bar
+Masukan rumus : (masukkan tabel bantu dengan men dragnya kemudian tekan F4)
+=VLOOKUP(LEFT(C9,1),$C$23:$E$27,2,0)
+Klik ENTER
+IV.8 Fungsi HLOOKUP
+Bantuan REFERENCES. Digunakan untuk menghasilkan nilai pad table secara Horizontal
+Langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=HLOOKUP(nama_colom;table;baris_pencarian;range_lookup)
+Klik ENTER
+IV.9 Fungsi SQRT
+Untuk menghitung akar dari bilangan X. Bilangan X tidak boleh NEGATIF
+langkah pengaplikasian :
+Klik formula bar
+Masukan rumus :
+=SQRT(25) à = 5
+Klik ENTER (Alnisa)
+KB 4. Pemanfaatan Fungsi Aritmatika
+1. Pemanfaatan fungsi Aritmatika
+Operator Aritmatika dapat digunakan untuk menyelesaikan berbagai masalah yang terkait
+dengan kehidupan sehari-hari dengan memanfaatkan Freepascal. (Maryono, 2013)
+
+2. Operasi Logika
+Suatu fungsi logika atau operasi logika yang dimaksud dalam aljabar Boolean adalah suatu kombinasi variable biner seperti misalnya pada masukan dan keluaran dari suatu rangkaian digital yang dapat ditunjukkan bahwa di dalam aljabar Boolean semua hubungan logika antara variable variable biner dapat dijelaskan oleh tiga operasi logika dasar yaitu :
+– Operasi NOT (negation)
+– Operasi AND (conjuction)
+– Operasi OR (disconjuction
+Operasi operasi tersebut dijelaskan dalam tiga bentuk yaitu :
+1. Tabel fungsi (tablel kebenaran) yang menunjukkan keadaan semua variabel masukan dan keluaran untuk setiap kemungkinan.
+2. Simbol rangkaian untuk menjelaskan rangkaian digital.
+3. Persamaan fungsi. (Aji, 2016)
+
+KB 5. Operasi Logika
+Operator Logika adalah operator yang digunakan untuk melakukan operasi logika yaitu operator yang menghasilkan nilai TRUE (benar) atau FALSE (salah). Bebarapa macam operator logika antara lain:
+
+·                     and : menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+·                     or : menghasilkan nilai TRUE jika salah satu operand bernilai TRUE
+·                     xor : menghasilkan nilai TRUE jika salah satu operand bernilai TRUE tetapi bukan     keduaduanya bernilai TRUE
+·                     ! (simbol tidak): mengasilkan nilai tidak TRUE
+·                     && (simbol AND): menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+·                     || (simbol OR): menghasilkan nilai TRUE jika salah satu operand bernailai TRUE
+
+Operator logika sering digunakan di dalam flow control berkolaborasi dengan operator pembanding untuk mendapatkah hasil yang paling sesuai dengan kondisi tertentu. (khoirunisa, 2016)

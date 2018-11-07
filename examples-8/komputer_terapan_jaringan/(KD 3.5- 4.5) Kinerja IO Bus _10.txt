@@ -1,0 +1,115 @@
+Kinerja Input/Output BUS
+by M Fiki Aryadi on February 18, 2018 
+Kinerja Input/Output BUS
+
+
+Pada kali ini saya akan membahas apa itu :
+A. Bus-Bus Masukan(Input)
+B. Bus-Bus Keluaran(Output)
+C. Spesifikasi Dan Karakteristik Tiap BUS
+D. Persyaratan atau Ketentuan Penggunaan BUS
+
+A. Bus-Bus Masukan/Input
+       Input adalah semua Data & Perintah yang dimasukkan kedalam memory komputer untuk selanjutnya diproses oleh processor. Sebuah perangkat input adalah komponen piranti keras yang memungkinkan user atau pengguna memasukkan data ke dalam komputer atau bisa juga disebut sebagai unit luar yang akan digunakan untuk memasukkan data dari luar ke dalam mikroprosesor.
+
+B. Bus-Bus Keluaran/Output
+      Output adalah data yang telah diproses menjadi bentuk yang dapat digunakan. Artinya komputer memproses data-data yang diinputkan menjadi sebuah informasi. Yang disebut sebagai perangkat output adalah semua komponen piranti keras yang menyampaikan informasi kepada orang-orang yang menggunakannya.
+
+C. Spesifikasi Dan Karakteristik Tiap BUS
+     Sebuah bus sistem terdiri dari 50 hingga 100 saluran yang terpisah. Masing-masing saluran ditandai dengan arti dan fungsi khusus. Walaupun terdapat sejumlah rancangan bus yang berlainan, fungsi saluran bus dapat diklasifikasikan menjadi 3 kelompok yaitu :
+
+1. Saluran Data (Data BUS)
+    Saluran Data memberikan lintasan bagi perpindahan data antara dua modul sistem. Saluran ini secara kolektif disebut bus data. Umumnya bus data terdiri dari 8, 16, 32 saluran, jumlah saluran diaktifkan dengan lebar bus data.
+
+2. Saluran Alamat (Address BUS)
+    Saluran Alamat digunakan untuk untuk menandakan sumber atau tujuan data pada bus data. Misalnya, apabila CPU akan membaca sebuah Word data dari memori, maka CPU akan menaruh alamat word yang dimaksud pada saluran alamat. Lebar bus alamat akan menentukan kapasitas memori maksimum sistem.
+
+3. Saluran Kontrol (Control BUS)
+    Saluran Kontrol digunakan untuk mengontrol akses kesaluran alamat dan penggunaan data dan saluran alamat. Karena data dan saluran alamat dipakai bersama oleh seluruh komponen, maka harus ada alat untuk mengontrol penggunaannya.
+
+
+Spesifikasi BUS
+
+
+
+Karakteristik BUS
+
+
+
+D. Persyaratan atau Ketentuan Penggunaan BUS
+
+A. Sifat penting dan merupakan syarat utama bus adalah media transmisi yang dapat
+digunakan bersama oleh sejumlah perangkat yang terhubung padanya. Meskipun
+digunakan secara bersama namun penggunaan jalur hanya diperuntukkan oleh satu
+perangkat pada sekali waktu. Sehingga diperlukan aturan dalam kerjanya untuk
+menghindari terjadinya tabrakan data yang sedang ditransmisikan.
+
+B. Harus memenuhi Syarat Sistem Komputer Minimal.
+
+Berikut Syarat Sistem Komputer Minimal :
+
+1. Input Device (Alat Masukan)
+Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer
+
+2. Output Device (Alat Keluaran)
+Adalah perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), ataupun berupa suara.
+
+3. I/O Ports
+Bagian ini digunakan untuk menerima ataupun mengirim data ke luar sistem. Peralatan input dan output di atas terhubung melalui port ini.
+
+4. CPU (Central Processing Unit)
+CPU merupakan otak sistem komputer, dan memiliki dua bagian fungsi operasional, yaitu: ALU (Arithmetical Logical Unit) sebagai pusat pengolah data, dan CU (Control Unit) sebagai pengontrol kerja komputer.
+
+5. Memori
+Memori terbagi menjadi dua bagian yaitu memori internal dan memori eksternal. Memori internal berupa RAM (Random Access Memory) yang berfungsi untuk menyimpan program yang kita olah untuk sementara waktu, dan ROM (Read Only Memory) yaitu memori yang haya bisa dibaca dan berguna sebagai penyedia informasi pada saat komputer pertama kali dinyalakan.
+
+6. Data Bus
+Adalah jalur-jalur perpindahan data antar modul dalam sistem komputer. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit data, maka jumlah saluran menentukan jumlah bit yang dapat ditransfer pada suatu saat. Lebar data bus ini menentukan kinerja sistem secara keseluruhan. Sifatnya bidirectional, artinya CPU dapat membaca dan menirma data melalui data bus ini. Data bus biasanya terdiri atas 8, 16, 32, atau 64 jalur paralel.
+
+7. Address Bus
+Digunakan untuk menandakan lokasi sumber ataupun tujuan pada proses transfer data. Pada jalur ini, CPU akan mengirimkan alamat memori yang akan ditulis atau dibaca. Address bus biasanya terdiri atas 16, 20, 24, atau 32 jalur paralel.
+
+8. Control Bus
+Control Bus digunakan untuk mengontrol penggunaan serta akses ke Data Bus dan Address Bus. Terdiri atas 4 sampai 10 jalur paralel.
+
+
+SOAL !!!
+
+1. Jelaskan yang dimaksud protocol jaringan pada komputer terapan !!!?
+2. Jelaskan protocol RS-232 dan RS-485 !!!?
+3. Jelaskan yang dimaksud dengan USB dan sebutkan 3 proses transaksi pada USB !!!?
+4. Sebutkan dan jelaskan secara singkat 3 jenis bus !!!?
+5. Sebutkan 2 syarat dan ketentuan pada bus !!!?
+
+Jawab :
+
+
+Protocol adalah aturan atau mengijinkan terjadinya hubungan, komunikasi dan perpindahan data antara 2 atau lebih komputer.
+- Protocol RS-232 merupakan protocol serial yang digunakan untuk berkomunikasi antara perangkat /instrumen dengan komputer melalui port COM.
+
+- Protocol RS-485 atau EIA (Electronic Industries Association) RS485 adalah jaringan balanced line dan dengan sistem pengiriman data secara half-duplex.
+
+USB adalah standar bus serial untuk perangkat penghubung, biasanya kepada komputer namun juga digunakan di perlatan lainnya seperti di consol permainan, ponsel dan PDA.
+
+1. Paket token/sinyal penanda (header yang menjelaskan data yang mengikutinya).
+2. Pilihan paket data (termasuk tingkat muatan).
+3. Status paket (untuk pemberitahuan hasil transaksi dan untuk koreksi kesalahan).
+Berdasarkan jenis busnya, bus dibedakan menjadi bus yang khusus menyalurkan data tertentu, misalnya paket data saja, atau alamat saja, jenis ini disebut dedicated bus. Namun apabila bus menyalurkan informasi yang berbeda baik data, alamat maupun sinyal kontrol dengan metode multipleks data maka bus ini disebut multiplexed bus.
+Terdapat berbagai jenis bus antarmuka terutama untuk perangkat peripheral. Diantara jenis bus yang beredar di pasaran saat ini adalah PCI, ISA, USB, SCSI, FuturaBus+, FireWire, dan lain-lain
+
+1. Bus ISA (Industry Standar Architecture), yang pada dasarnya adalah bus PC/AT yang beroperasi pada 8,33 MHz.Keuntungannya adalah bahwa pendekatan ini tetap mempertahankan kompatibilitas dengan mesin-mesin dan kartu-kartu yang ada.
+
+2. Bus PCI merupakan sistem bus yang muncul dari kebutuhan standarisasi. Bus tersebut mendukung fungsi yang terdapat dalam bus prosesor tetapi dalam format terstandarisasi yang lepas dari prosesor tertentu.
+
+3. Bus USB Tujuh vendor komputer (Compaq, DEC, IBM, Intel, Microsoft, NEC, dan Northern Telecom) bersama-sama merancang bus untuk peralatan I/O berkecepatan rendah. Standard yang dihasilkan dinamakan Universal Standard Bus (USB).Bandwidth total USB adalah 1,5 MB per detik (lowspeed) dan 12 MB per detik (fullspeed).
+
+4. Bus SCSI (Small Computer System Interface) adalah perangkat peripheral eksternal yang dipopulerkan oleh macintosh pada tahun 1984. SCSI merupakan interface standard untuk drive CDROM, peralatan audio, hard disk, dan perangkat penyimpanan eksternal berukuran besar.
+
+5. Bus P1394 / Fire Wire Dikembangkan bus performance tinggi yang dikenal dengan Fire Wire (P1394 standard IEEE). P1394 memiliki kelebihan dibandingkan dengan interface I/O lainnya, yaitu sangat cepat, murah, dan mudah untuk diimplementasikan.
+1. Sifat penting dan merupakan syarat utama bus adalah media transmisi yang dapat
+digunakan bersama oleh sejumlah perangkat yang terhubung padanya. Meskipun
+digunakan secara bersama namun penggunaan jalur hanya diperuntukkan oleh satu
+perangkat pada sekali waktu. Sehingga diperlukan aturan dalam kerjanya untuk
+menghindari terjadinya tabrakan data yang sedang ditransmisikan.
+
+2. Harus memenuhi Syarat Sistem Komputer Minimal. (Syarat System Komputer minimal ada dibagian atas) 

@@ -1,0 +1,37 @@
+Pengertian Objek 3 Dimensi / Objek 3 Dimensi / Contoh Objek 3 Dimensi
+Pengertian Objek 3 Dimensi
+
+3D (Three Dimensional) atau tiga dimensi adalah setiap objek tiga dimensi yang mempunyai lebar, tinggi, dan kedalaman (width, height, dan depth). Dengan kata lain grafik 3D adalah grafik yang dipaparkan dalam bentuk 3 dimensi pada paksi atau koordinat x, y, dan z. Setiap obyek yang dibuat menggunakan software aplikasi 3D akan mempunyai dimensi seperti yang disebutkan di atas.
+
+Objek 3 Dimensi
+
+Pengertian objek sendiri adalah benda secara fisik dan konseptual yang ada disekitar kita.
+Secara  konseptual  dalam  grafika  komputer  objek  3  dimensi  dibuat  dari rangkaian poligon. Poligon adalah sejumlah dari segmen garis yang dihubungkan antara ujung garis satu dengan yang lainnya membentuk suatu bidang tertutup.
+Objek 3 dimensi memiliki tiga ukuran yaitu panjang, lebar dan kedalaman, 
+dimana  dalam  geometri  disimbolkan  X,  Y  dan  Z. Menurut  fungsinya  objek  3 dimensi mempunyai dua variable bebas  (X dan Y) dan satu variable  tidak bebas 
+(Z, karena nilai Z  tergantung pada nilai X dan Y). Objek 3 dimensi diantaranya 
+sebagai berikut :  
+
+1.  Kubus 
+Kubus adalah balok dengan bidang­bidang sisi yang bujur sangkar. Batas­ 
+batas luar kubus membentuk poligon enam sisi (heksagonal). 
+2.   Balok 
+Balok  adalah poligon  tiga  sisi  (heksagonal) beraturan dengan bidang sisi 
+terdiri dari dua buah persegi panjang dan dua buah bujur sangkar. 
+3.  Bola 
+Bentuk bola diperoleh dengan memutar busur ½ lingkaran melalui sumbu 
+yang melalui titik pusatnya. 
+
+ POLIGON
+Poligon  adalah  bentuk  yang  disusun  dari  serangkaian  garis. Gambar  dibawah ini 
+memberikan  beberapa  contoh  poligon.  Titik  sudut  dari  poligon  disebut  vertex 
+sedangkan garis penyusun poligon disebut edge.
+
+GAMBAR POLIGON
+
+Poligon digambar dengan menggambar masing­masing edge dengan setiap 
+edge  merupakan  pasangan  dari  vertexi  –  vertexi+1  kecuali  untuk  edge  terakhir 
+merupakan pasangan dari vertexn – vertex1. 
+Jaring Poligon adalah  permukaan  yang dibuat dari kumpulan muka-­muka 
+poligon. Secara konseptual,  jarring  poligon digunakan di grafika  komputer untuk 
+menghasilkan objek 3 dimensi. 

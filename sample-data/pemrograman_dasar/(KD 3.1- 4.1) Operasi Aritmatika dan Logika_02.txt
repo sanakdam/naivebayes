@@ -1,0 +1,50 @@
+Operasi Aritmatika dan Logika
+09 Minggu Agu 2015
+Posted by arifahadi in Pemrograman Dasar XI ˜ 4 Komentar
+TagAritmatika, fungsi, Logika, Operasi, operator
+Materi Operasi Aritmatika dan Logika Kelas XI TKJ antara lain sebagai berikut :
+
+Operasi aritmatika melalui operator dan fungsi-fungsi aritmatika
+Operasi logika
+Pengertian Operator Pemrograman
+
+Operator adalah simbol-simbol khusus yang digunakan untuk mengoperasikan suatu nilai data (operand). Nilai yang dioperasikan oleh operator bersama operand membentuk suatu ekspresi.
+
+Ada beberapa jenis operator yang digunakan dalam pemrograman, antara lain Assignment Operator (Operator Penugasan), Arithmetic Operator ( Operator Aritmatika), Logical Operator (Operator Logika ) dan Comparison Operator (Operator Pembanding).
+
+Pada kesempatan ini saya lebih khusus membahas tentang Operator Arimatika dan Logika yang digunakan dalam pemrograman Pascal.
+
+1. Operator Aritmatika adalah operator yang digunakan untuk melakukan operasi penjumlahan, pengurangan, pembagian, dan perkalian atau operator yang digunakan untuk melakukan perhitungan pada bilangan.
+
+Berikut ini merupakan berberapa operator aritmatika yang digunakan pada pemrograman Pascal antara lain :
+
+* : untuk perkalian
++ : untuk penjumlahan
+– : untuk pengurangan
+/ : untuk pembagian
+% : untuk sisa pembagian (modulus)
+Untuk lebih jelasnya silahkan lihat tabel dibawah ini :
+
+Operator	Jenis Operasi	Tipe Operand	Tipe Hasil	Contoh
++	Penjumlahan	Integer, real	Integer, real	a + b
+–	Pengurangan	Integer, real	Integer, real	x – 2
+*	Perkalian	Integer, real	Integer, real	a * b
+/	Pembagian untuk bilangan riil	Integer, real	real	5 / 3
+div	Pembagian untuk bilangan bulat	Integer	Integer	13 div 3
+mod	Sisa bagi	integer	integer	12 mod 3
+2. Operator Logika adalah operator yang digunakan operasi-operasi yang menghasilkan nilai logik ( true dan false ).
+
+Berikut ini merupakan berberapa operator Logika yang digunakan pada pemrograman Pascal antara lain :
+
+Operator	Jenis Operasi	Tipe Operand	Tipe Hasil
+not	Negasi	boolean	boolean
+and	Conjunction	boolean	boolean
+or	Disjunction	boolean	boolean
+xor	Exlusive disjunction	boolean	boolean
+Operator not : Jika nilai TRUE maka menghasilkan FALSE dan sebaliknya.
+
+Operator and : Menghasilkan nilai TRUE jika kedua operand bernilai TRUE.
+
+Operator or  : Menghasilkan nilai TRUE jika salah satu, atau semua operand-nya bernilai TRUE. dan Menghasilkan nilai false apabila semua operandnya bernilai FALSE.
+
+Operator xor : Menghasilkan nilai TRUE apabila hanya terdapat satu operand yang bernilai TRUE. Apabila kedua operandnya bernilai TRUE maka operasi ini akan menghasilkan nilai FALSE.

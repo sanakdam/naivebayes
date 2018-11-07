@@ -1,0 +1,71 @@
+Animasi Komputer
+
+
+1)      Apa yang dimaksud dengan animasi komputer?
+
+Animasi komputer adalah seni menghasilkan gambar bergerak dengan sendiri melalui penggunaan komputer dan merupakan sebahagian bidang komputer grafik dan animasi. Animasi semakin banyak dihasilkan melalui grafik komputer 3D, walaupun grafik komputer 2D masih banyak ada. Kadangkala sasaran animasi adalah komputer itu sendiri, kadangkala sasaran adalah perantaraan lain, seperti filem.
+
+2)      Bagaimana animasi komputer diciptakan?
+
+Animasi komputer pada dasarnya adalah penerus digital ke stop motion teknik yang digunakan dalam animasi tradisional dengan model 3D dan frame-by-frame animasi ilustrasi 2D.
+
+3)      Kapan animasi komputer mulai ada?
+
+Animasi komputer dikembangkan di Bell Telephone Laboratories pada tahun 1960 oleh Edward E. Zajac, Frank W. Sinden, Kenneth C. Knowlton, dan A. Michael Noll. Animasi digital lainnya juga dipraktekkan di Lawrence Livermore National Laboratory. Saat ini Animasi komputer modern biasanya menggunakan komputer grafis 3D, walaupun grafik komputer 2D masih digunakan.
+
+Fitur-panjang komputer pertama film animasi adalahn film Toy Story oleh Pixar tahun 1995 . Animasi ini mengikuti petualangan mainan dan pemiliknya. Film terobosan ini adalah yang pertama dari banyak film penuh animasi komputer.Selain itu dengan Animasi komputer diciptakanlah film blockbuster seperti Toy Story 3 (2010), Avatar (2009), Shrek 2 (2004), Cars 2 (2011), dan Kehidupan Pi (2012).
+
+4)      Bagaimana cara kerja animasi komputer?
+
+
+Animasi 3D membutuhkan proses yang relatif lebih sederhana dibandingkan dengan animasi 2D karena semua proses bisa langsung dikerjakan dalam satu komputer. Proses animasi 3D dibagi menjadi 4 tahap, yaitu:
+– Modelling : Pembuatan objek – objek yang dibutuhkan pada animasi. Objek ini bisa berbentuk objek primitif seperti bola, kubus, dll.
+– Animating : Animator menentukan / membuat keyframe pada objek yang akan digerakkan. Setelah proses keyframe dibuat, komputer akan menghitung dan membuat sendiri inbetween secara otomatis.
+
+- Texturing : Proses ini menentukan karakteristik sebuah materi objek dari segi tekstur. Tekstur kemudian bisa digunakan untuk menulis berbagai variasi warna pattern, tingkat kehalusan sebuah objek secara lebih detail.
+– Rendering : Proses akhir dari keseluruhan proses pembuatan animasi komputer. Dalam rendering, semua data yang sudah dimasukkan akan diterjemahkan kedalam bentuk output.
+
+Untuk menghasilkan gambar pergerakan, gambar ditampilkan pada layar komputer dan diganti dengan gambar baru yang sejajar dengan gambar sebelumnya dengan cepat. Teknik atau cara kerja ini mirip dengan gambar bergerak yang dihasilkan di TV dan film.
+
+5)      Konsep dasar apa saja yang digunakan dalam penciptaan animasi komputer?
+
+Animasi komputer 3D pada asasnya merupakan pengganti digit bagi seni animasi gerak pegun (stop motion); patung animasi dibina pada skrin komputer dan dipasang dengan rangka siber. Kemudian anggota badan, mata, mulut, pakaian, dan lain-lain bagi patung 3D digerakkan oleh juruanimasi. Akhirnya, animasi dihasilkan.
+
+
+6)      Animasi komputer dibagi dalam berapa tipe dan jenis?
+
+Yang pertama disebut animasi komputer dibantu dan yang kedua adalah animasi komputer yang dihasilkan. Perbedaan diantara keduanya yang paling terkemuka adalah menghasilkan animasi komputer dibantu 2 gambar dimensi yang biasanya disebut dengan animasi 2D. Animasi komputer 3 dimensi yang dihasilkan menciptakan 3D.
+7)      Apa tipe dan jenis animasi komputer?
+
+Tipe animasi komputer :
+- Animasi 2 dimensi
+- Animasi 3 dimensi
+Jenis animasi komputer :
+- Komputer Assist
+-Gerak kontrol dan script
+- CGI Compositing
+- Motion capture
+- Animasi Flash
+
+8)      Apa saja contoh penggunaan animasi komputer?
+
+Monster inc contoh film animasi yang dibuat dengan komputer
+ 
+
+Contoh Animasi pembelajaran yang dibuat menggunakan komputer
+
+
+
+
+9)      Digunakan dalam bidang apa saja animasi komputer itu?
+
+Bidang pendidikan, rekayasa, produksi film, simulasi penerbangan, militer,media, medis, forensik, pendidikan dan lainnya.
+
+10)   Bagaimana perkembangan animasi komputer?
+
+Proses pembuatan animasi awalnya melibatkan penggunaan gambar tangan (manual), Dengan ditemukannya komputer maka beban yang dikerjakan oleh para animator pun terkurangi. Sebagai teknologi canggih dengan adanya komputer lebih mempermudah pembuatan animasi,dan konsep tiga dimensi (3D) animasi pun menjadi mungkin. Melalui perangkat lunak dan pengembangan perangkat keras, komputer dapat menciptakan ruang 3D virtual untuk proses animasi. Hal ini juga membuat lebih mudah untuk mengedit urutan animasi karena lebih mudah untuk mengubah informasi digital. Perbedaannya adalah seniman memiliki kontrol lebih besar atas animasi 3D dibandingkan animasi 2D. Dalam animasi 2D, jika sudut pandang perlu diaktifkan, seniman harus kembali menggambar gambar dalam sudut yang berbeda. Namun semuanya adalah model 3D dalam dunia virtual.
+
+
+
+11)   Bagaimana perkembangan teknologi yang digunakan untuk mendukung animasi komputer?
+      Beberapa ratus tahun yang lalu saat tidak ada mikroprosesor, proses pembuatan animasi lambat dan kualitas buruk. Namun, teknologi baru yang ditemukan seperti komputer, proses render film menjadi lebih mudah. Namun, karena teknologi baru memungkinkan gambar untuk memiliki resolusi sangat tinggi, daya perangkat keras pengolahan juga menjadi tantangan. Dengan "tenaga kuda" adanya komputer CPU (Central Processing Unit) dan GPU (Graphic Processing Unit), waktu render untuk gambar selama 20 tahun terakhir hanyamenghabiskan beberapa detik untuk menyelesaikannya. Namun, karena resolusi tinggi, proses render akan memakan waktu lebih lama. Perkembangan teknologi tidak akan pernah berhenti dan dengan demikian animasi juga akan berkembang.

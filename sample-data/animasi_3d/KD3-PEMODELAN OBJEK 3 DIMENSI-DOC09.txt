@@ -1,0 +1,226 @@
+Primer 3D untuk Pengembang Game: Gambaran Umum Pemodelan 3D dalam Game
+by David Silverman5 Mar 2013	Length:LongLanguages:
+3D GamesGlossaryGame Art3D Models	
+Indonesian (Bahasa Indonesia) translation by Kholisa Nurrahmah (you can also view the original English article)
+
+Hampir setiap game besar yang dirilis akhir-akhir ini dibuat dalam bentuk 3D atau menggunakan sejumlah besar aset 3D.  Meski masih banyak game buatan 2D, bahkan platform seperti Flash kini mengintegrasikan 3D.  Dalam artikel panjang bumper ini saya akan mengeksplorasi apa yang memisahkan permainan dari media lain yang menggunakan seni 3D, dan mencakup beberapa topik penting yang perlu dipertimbangkan saat membuat seni 3D untuk permainan.
+
+Pengantar
+Pada artikel ini saya akan membahas banyak topik yang berbeda, namun penting untuk diketahui bahwa artikel ini tidak akan menjadi tampilan pertama yang bagus untuk pemodelan 3D.  Jika Anda belum pernah menyentuh 3D sebelumnya dalam hidup Anda, ini bukan artikel untuk Anda.  Saya juga tidak akan membahas bagaimana menggunakan satu alat khusus, atau format file yang berbeda dengan mesin permainan yang mengharuskan Anda untuk menggunakannya.
+
+Tujuan utama dari artikel ini adalah untuk memberi seseorang yang memiliki dasar dalam 3D sebuah gagasan tentang apa yang harus mereka pelajari atau fokuskan jika mereka ingin melakukan transisi ke dalam permainan.
+
+
+ROUNDUPS 
+6 Panduan sangat mendalam untuk Pengembangan Game dan Desain untuk Pemula 
+Michael James Williams
+3D dalam Game 
+Screenshot ini adalah model dari Starcraft 2 dan UDK dengan wireframes dinyalakan sehingga Anda dapat melihat betapa kompleksnya mereka:
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Permainan adalah media yang sangat unik untuk digunakan, keduanya pada umumnya sebagai bentuk seni, karena tidak seperti hampir semua bentuk ekspresi lainnya, permainan bersifat interaktif.  Ini berarti tidak peduli berapa banyak perencanaan yang Anda lakukan, dan tidak peduli berapa banyak waktu yang Anda habiskan untuk mencoba, Anda tidak akan pernah bisa memprediksi setiap hal yang mungkin dilakukan pemain pada saat tertentu.  Karena itu, permainan berjalan di mesin permainan yang mengambil tindakan pemain dan menampilkan hasilnya, dan secara khusus mereka menggunakan Real-Time Rendering untuk membuat grafis 3D yang Anda lihat saat bermain.
+
+Real-Time Rendering adalah saat sistem komputer menghasilkan gambar atau hasil tindakan bagi pemirsa / pemain saat terjadi.  Film, Acara TV dan gambar diam semuanya diberikan sebelumnya sehingga pemirsa akan memiliki gambaran atau pengalaman yang diinginkan pencipta.  Karena media ini tidak diberikan secara real-time, pencipta bebas membuat potongan itu serumit yang mereka inginkan. 
+
+Ambil contoh film Toy Story 3. Toy Story 3 adalah film yang tampak cantik dan para seniman yang mengerjakan film ini memberi banyak waktu dan energi untuk membuat model dan tekstur dalam film itu sangat rinci dan kompleks.  Sementara film ini dibuat untuk sebuah film yang hebat, film ini juga menghasilkan biaya: waktu rendering.  Saya membaca dalam sebuah wawancara tentang film bahwa adegan paling rumit di Toy Story 3 memerlukan waktu minimal 8 jam untuk membuat setiap frame - dan (jika Anda tidak menyukai animasi) ada 23-30 frame setiap detik videonya.  Dapatkah Anda membayangkan bermain Starcraft 2 atau Call of Duty dan harus menunggu delapan jam untuk melihat hasil klik mouse Anda, atau dampak peluru Anda?  Tidak ada yang akan bermain game jika itu yang dibutuhkan, jadi mengurangi jeda game Anda penting.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Karena banyaknya karakter dalam gambar ini, rendering frame individual ini mungkin akan memakan waktu 15-20 jam. 
+Meskipun benar bahwa seiring teknologi menjadi semakin maju antara game kelas atas dan film menjadi lebih tipis, masih ada pasar utama seperti tablet, ponsel pintar, dan konsol genggam yang memiliki batasan besar mengenai apa yang dapat mereka tangani. 
+
+Saat membuat seni 3D untuk permainan, penting untuk memahami batasannya, dan bagaimana cara bekerja di dalamnya untuk menciptakan aset seni berkualitas tinggi dan bermanfaat.  Selain itu, meskipun batasannya mungkin tidak seketat dulu, memahami batasannya dan bagaimana kinerjanya, dapat membantu Anda bekerja dalam mesin permainan dengan lebih efektif, dan memungkinkan Anda menciptakan lebih banyak serbaguna. aktiva.
+
+Pemodelan: Polycounts and Optimisasi
+Tahap pertama setiap aset seni 3D berjalan, setelah semua konsep seni telah selesai, adalah tahap pemodelan.  Proses pemodelan dalam permainan sangat mirip dengan proses pemodelan di media lain, namun saat melakukan pemodelan untuk permainan, hal yang paling penting untuk dipertimbangkan adalah model model Anda, dan menjaga semua poligon Anda di kotak atau segitiga.
+
+Pertama mari kita lihat polycounts.  Model Polycount  Anda adalah jumlah total poligon segitiga yang dibutuhkan untuk menarik model Anda dalam ruang 3D.  Semakin tinggi polycount untuk model Anda, semakin lama waktu yang dibutuhkan sistem untuk membuatnya - dan seperti yang saya sebutkan sebelumnya, waktu pembuatan sangat penting. 
+
+Secara teknis, waktu pembuatan dapat dipengaruhi oleh banyak faktor yang berbeda dan tidak selalu demikian jika Anda memiliki model poli rendah, Anda juga akan memiliki waktu pembuatan yang rendah.  Namun, jika mesin permainan Anda dioptimalkan dengan baik, aset seni akan menjadi alasan utama berikutnya untuk melambat.
+
+Siluet
+Metode pertama yang ingin saya cermati untuk menjaga polycount Anda berfokus pada siluet model Anda. 
+
+Mengawasi siluet model Anda bisa sangat penting untuk mencegahnya menjadi terlalu rumit.  Saat membuat model 3D untuk game, saya ingin selalu mempertimbangkan pentingnya detail dalam membantu pemain mengidentifikasi atau memahami objek, sebelum menambahkannya ke model.  Sebagai contoh, mari kita lihat gambar kamera ini.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Jika kita melihat siluet kamera, mudah untuk melihat rincian mana yang penting, bentuk cahaya yang keluar tepat di atas bagian belakang lensa, panjang dan ukuran lensa relatif terhadap kamera, dan jalannya. jendela bidik keluar dari belakang  Rincian ini penting karena memungkinkan pemirsa untuk segera melihat objeknya, atau bagaimana bangunan itu dibangun, dan karena bukan itu yang saya sebut "detail interior": hal-hal seperti tekstur pegangan, atau item yang tidak sesuai dengan kamera tapi yang juga tidak menyumbang bentuk pandang ke siluet.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Melihat gambar asli Anda bisa melihat ada banyak detail kecil yang tampak jelas dan penting, namun akan berdampak kecil pada model atau kemampuan pemain untuk mengidentifikasinya.  Ini termasuk pegunungan yang mengelilingi lensa dan memungkinkan pengguna menyesuaikan fokus, tombol dan sakelar di seluruh kamera, dan takik di sisi yang memungkinkan pengguna membuka slot kartu SD dan port USB.  Rincian ini tidak penting untuk tahap pemodelan karena tidak menambahkan sesuatu yang substansial pada model, dan jangan mempermudah pemirsa untuk memahami apa yang mereka lihat. 
+
+Saat membuat model untuk produksi apa pun, penting untuk memperhatikan fitur mana yang harus ada pada model dan yang seharusnya berada pada tekstur, namun dalam permainan Anda harus memastikan bahwa tidak ada "ruang terbuang" pada model, dan setiap poligon yang Anda gunakan sangat berharga.
+
+ Poligon tak terlihat 
+Cara lain yang bermanfaat untuk menjaga polycount Anda turun adalah dengan menghapus poligon tak terlihat dari model Anda.  Ada beberapa skenario di mana tidak mungkin pemain melihat bagian atau sisi tertentu dari model, karena cara penggunaannya dalam permainan.  Karena pemain tidak akan pernah melihat bagian objek ini, itu benar-benar membuang limbah untuk menggunakan poligon pada mereka. 
+
+Contoh nyata dari ini adalah senjata dalam sebuah FPS.  Pada kebanyakan game FPS, mesin menggunakan model senjata detail yang lebih tinggi untuk tampilan orang pertama daripada saat pemain sedang menonton musuh dengan senjata yang sama dari kejauhan.  Hal ini dilakukan karena model orang pertama akan berada di depan pemain untuk waktu yang lama dan oleh karena itu perlu tampil setinggi mungkin.  Untuk membuat karya ini menjadi lebih efektif, pemodel akan sering menghapus bagian-bagian senapan yang terlalu kabur atau rendah di layar agar pemain dapat melihat, karena memungkinkan mereka membuat sisa pistol terlihat lebih baik.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Jika Anda melihat gambar di atas dari Link Gun dari UDK, Anda akan melihat model orang ketiga (kiri) tidak memiliki bagian model orang pertama (kanan).  Karena pemain tidak akan pernah melihat bagian ini dari sudut pistol dipegang dan dinyalakan pada orang pertama, mereka dikeluarkan dari versi terakhir. 
+
+Sementara menghilangkan bagian dan bagian yang tak terlihat dapat membantu dalam mempertahankan batas poligon Anda, Anda juga harus berhati-hati saat melakukannya karena dapat menyebabkan masalah nanti.  Misalnya, jika permainan Anda berbasis fisika berat, dan pemain bisa mengambil dan memindahkan benda apa pun yang mereka inginkan, maka Anda tidak memiliki cara untuk mengetahui wajah mana, jika ada, harus dihapus, karena akan mudah bagi pemain. untuk menempatkan objek dalam posisi yang tidak Anda duga. 
+
+Demikian pula jika Anda memiliki objek seperti pohon atau tong yang akan digunakan di banyak tempat yang berbeda, seringkali lebih baik membiarkannya tetap utuh karena mereka juga dapat bertahan pada banyak posisi dan sudut yang berbeda tergantung pada bagaimana Anda tingkat dibangun 
+
+Selama Anda menggunakan akal sehat, dan jangan gila mencoba mengurangi polisitas Anda dengan cara ini, Anda seharusnya baik-baik saja. 
+
+Triangles and Quads
+Hal utama lainnya yang ingin saya diskusikan tentang pemodelan adalah menjaga poligon Anda di Triangles and Quads.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Bila model Anda dibawa ke mesin permainan yang Anda gunakan, atau diekspor dari aplikasi 3D yang dibuatnya, setiap poligon dalam model Anda akan di triangulasi (diubah menjadi dua atau lebih segitiga) untuk perhitungan lebih mudah saat melakukan rendering.  Sistem melakukan ini dengan menciptakan tepi baru untuk menghubungkan simpul yang ada pada model Anda. 
+
+Triangulasi poligon adalah proses yang sederhana, namun semakin banyak sisi poligon, semakin banyak cara yang dapat dilakukan untuk triangulasi.  Hal ini penting karena tergantung bagaimana poligon di triangulasi, ini mungkin akan menjadi lebih kompleks daripada yang dibutuhkan.  Jika model Anda sudah direklasifikasi, sistem tidak perlu melakukan apapun, dan Anda akan memiliki kontrol lebih terhadap bagaimana model akhir Anda terlihat. 
+
+Jika model Anda dibuat seluruhnya dari Quads, ini juga tidak akan menjadi masalah utama karena Quad hanya dapat melakukan triangulasi dengan dua cara yang unik.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Seperti yang dapat Anda lihat dari gambar ini, tidak ada sisi lain yang bisa ditambahkan ke bentuk ini yang akan menciptakan segitiga dari kuadran yang diberikan. 
+Setelah poligon Anda mulai memiliki lebih dari 4 sisi, semuanya menjadi rumit dengan cepat.  Lihatlah Pentagon ini (Pent), misalnya.  Secara teknis hanya ada dua cara untuk menggunakan tepi untuk melakukan triangulasi:
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Masalahnya adalah bahwa setiap titik pada Polygon adalah objek yang benar-benar terpisah.  Ini berarti bahwa metode triangulasi pertama sebenarnya mewakili lima metode triangulasi yang unik, dan dengan demikian Pent dapat di triangulasi dengan enam cara yang berbeda.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Masalah ini hanya memburuk seiring dengan peningkatan sisi, dan akhirnya bisa menjadi masalah besar bagi model dan sistem rendering.  Intinya di sini adalah Anda harus mengawasi poligon Anda dan pastikan model akhir Anda seluruhnya dibangun dari Quads and Tris.  Ini tidak spesifik untuk permainan - ini umumnya ide yang buruk untuk memiliki poligon yang bukan Quads dan Tris tidak peduli apa yang sedang Anda kerjakan - tapi saya masih merasa harus dibawa ke sini karena ini bisa menjadi lebih penting secara real- sistem waktu.
+
+Model LOD 
+Akhirnya, sebelum saya beralih dari pembahasan pemodelan, saya ingin menyebutkan Model LOD (Level of Detail).  Model LOD adalah ketika Anda menyediakan beberapa model untuk objek yang sama dengan berbagai tingkat kompleksitas dan menampilkan model yang berbeda tergantung jarak objek dari kamera itu - dengan cara ini, semakin jauh modelnya dari kamera, semakin rendah polisinya. , dan semakin sedikit yang dibutuhkan sistem untuk membuatnya. 
+
+Memiliki model yang berbeda untuk jarak yang berbeda memungkinkan Anda menggambar lebih banyak di layar sekaligus, dan ini mempermudah pemrosesan sistem karena tidak perlu membuat model dengan detail tinggi untuk hal-hal yang hampir tidak dapat dilihat. 
+
+Di bawah ini adalah gambar Model LOD Manta dari Unreal Tournament 3 (UDK).  Untuk kenyamanan Anda, saya telah menjelaskan beberapa titik di mana perbedaan kompleksitas masing-masing model agak jelas.  Jika Anda melihat dari dekat Anda akan melihat bahwa beberapa bentuk pada model telah sangat disederhanakan, dan yang lainnya tampaknya telah dihapus seluruhnya.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Tekstur Jenis dan Kegunaan
+Setelah model Anda selesai, saatnya untuk beralih ke texturing.  Tekstur adalah aspek penting dari perpipaan seni tidak peduli apa yang sedang Anda kerjakan, dan permainan tidak terkecuali.  Seperti pemodelan, tekstur untuk permainan memiliki banyak tumpang tindih dengan tekstur di media lain, namun ada beberapa hal yang sangat umum dalam permainan dan sangat membantu untuk diketahui.  Pada bagian ini saya akan membahas jenis tekstur yang paling umum dalam permainan, penggunaan tekstur ubin, dan penggunaan decals. 
+
+Dalam permainan ada banyak jenis tekstur yang berbeda yang digunakan, namun beberapa mendapat perhatian lebih dari yang lain.  Tipe tekstur yang paling penting untuk diketahui adalah Diffuse Maps, Normal Maps, Specular Maps, dan Alpha Maps.  Mengetahui apa jenis tekstur atau peta, dan bagaimana penggunaannya, penting, tapi juga relatif universal di semua seni 3D, jadi saya tidak akan banyak mendiskusikannya; Saya hanya akan memberikan penjelasan singkat masing-masing, dengan sebuah contoh.
+
+Peta yang Membaur
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah Manta dari UDK dengan hanya Tekstur Baur.
+Peta yang membaur hanyalah warna datar untuk objek Anda.  Peta yang menyebar benar-benar hanya sebuah gambar yang melilit model Anda tanpa efek khusus yang diterapkan.  Ada beberapa skenario di mana Anda akan memiliki model tanpa peta yang menyebar. 
+
+Peta Normal
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah Manta dari UDK dengan Diffuse, Normals, dan keduanya digabungkan. (Klik untuk ukuran penuh.) (Click for full size.)
+Peta Normal adalah jenis tekstur yang berwarna biru, pink, dan hijau, dan digunakan untuk memberi ilusi detail lebih besar pada model Anda.  Jika mirip dengan peta benjolan tapi jauh lebih bertenaga. 
+
+Jika Anda kembali ke contoh model kamera dari sebelumnya, peta normal akan digunakan untuk memberi ilusi bahwa pegunungan yang mengelilingi lensa sebenarnya ada pada model dan tidak hanya teksturnya.  Peta normal juga digunakan pada kebanyakan objek, karena memberi ilusi bahwa objek di tempat Anda memiliki lebih banyak rincian bagus daripada yang sebenarnya mereka lakukan.
+
+Pos terkait ·  
+Apakah Peta Normal itu?
+Peta specular
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah Manta dari UDK hanya dengan Diffuse dan dengan tambahan Specular. 
+Peta specular digunakan untuk menambahkan specularitas, atau "shininess", ke sebuah objek.  Peta specular biasanya berwarna hitam dan putih atau abu-abu.  Peta specular tidak selalu digunakan, namun setiap kali Anda memiliki objek yang sangat mengkilap atau reflektif di beberapa area, namun tidak pada yang lain, Anda pasti akan menggunakan peta specular karena memungkinkan variasi tingkat intensitas spekular yang tinggi di satu kesatuan. model.
+
+Peta Alpha
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah kotak dasar yang saya buat dengan pola pemeriksa merah dan putih.  Pada gambar di sebelah kanan Anda bisa melihat bahwa saya telah menggunakan peta alfa untuk membuat area putih menjadi semi transparan. 
+Peta alfa atau transparansi digunakan untuk membuat bagian-bagian objek lebih transparan.  Seperti peta specular mereka biasanya hitam dan putih atau abu-abu.  Peta alfa juga tidak selalu digunakan namun relatif umum.
+
+Dua skenario yang paling umum, Anda akan menemukan peta alfa jika Anda memiliki model jendela, di mana orang akan menggunakannya untuk membuat kaca transparan atau semi transparan, atau jika Anda memiliki tanaman dengan sejumlah besar daun sehingga Anda bisa membuat Model daunnya sendiri lebih sederhana.
+
+Ubin
+Permainan juga memanfaatkan tekstur ubin secara teratur, atau tekstur yang dapat diulang tak terbatas dalam satu arah atau lebih tanpa masalah.  Hal ini karena hal-hal seperti tanah dan dinding besar seringkali sulit untuk tekstur dengan tangan dan akan sangat memakan waktu jika setiap dinding di setiap tingkat setiap permainan harus diberi tekstur satu per satu.  Untuk mengatasi masalah ini, tekstur ubin digunakan sehingga hanya satu tekstur yang perlu dibuat untuk semua dinding pada jenis tertentu.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah contoh dasar tekstur dinding bata yang ubinnya benar secara vertikal dan horizontal dan contoh yang dilapisi. 
+Ini juga tidak biasa bagi seniman tekstur untuk menciptakan banyak variasi tekstur ubin yang sama sehingga tidak terlihat persis sama dalam semua skenario.  Terkadang mereka bahkan memiliki versi khusus untuk skenario unik.  Jadi, mungkin mereka memiliki tekstur batu bata yang sama namun memiliki satu versi saat berada di tanah, satu untuk saat berada di tengah dinding, dan satu lagi ketika berada di puncak sebuah bangunan.  Variasi yang berbeda kemudian dapat dirancang bersama dalam berbagai cara untuk membuat tampilan yang jauh lebih menarik daripada hanya mengulangi tekstur yang sama ratusan kali.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Ini adalah contoh dasar dari tekstur yang sama seperti di atas namun dengan menambahkan variasi pada versi tekstur yang menyentuh tanah dan versi yang akan berada di atas bangunan.
+Decals
+Decals Hal terakhir yang ingin saya bicarakan di sini adalah decals.  Decals adalah tekstur yang diterapkan pada dinding atau benda untuk menambahkan efek ekstra.  Misalnya, kapan pun Anda memotret dinding dalam permainan dan ada lubang peluru di dinding, lubang peluru adalah stiker yang telah diaplikasikan pada tekstur dinding secara dinamis berdasarkan tempat Anda menabrak dinding.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Sebuah gambar dari beberapa lubang peluru dan splatter decals darah yang digunakan. 
+Decals digunakan dalam banyak skenario yang berbeda seperti untuk percikan darah, genangan air di level hujan, atau bahkan sebagai grafiti di gang gelap.  Gagasan tentang decal mirip dengan gaya hidup nyata, dapat diterapkan pada kebanyakan permukaan untuk menambahkan variasi pada dinding atau lantai yang tidak biasa.  Decals sering bukan objek persegi sehingga dalam kebanyakan kasus mereka menggunakan setidaknya peta diffuse dan peta alfa.
+
+Shader
+Begitu Anda memiliki semua tekstur Anda, biasanya Anda harus membangun shader untuk permainan atau mesin Anda untuk menggunakan tekstur itu, seperti yang akan Anda lakukan pada sebagian besar aplikasi pemodelan 3D.  Proses ini melibatkan gabungan semua jenis tekstur yang berbeda menjadi satu "objek" yang dikenal sebagai Shader atau Material sehingga mereka bekerja sama untuk memberi model tampilan dan nuansa yang Anda inginkan.
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Sebuah shader dibangun di UDK. 
+Saya akan membahas program ini lebih rinci nanti di artikel ini, tapi Marmoset Toolbag, UDK, dan Unity adalah alat hebat untuk mencoba membangun shader, dan semuanya mesin real-time sehingga bisa memberi Anda ide bagus tentang bagaimana model dan tekstur Anda akan muncul dalam permainan yang sebenarnya.
+
+Animasi dalam Game
+Sekarang setelah kita membahas tekstur dan pemodelan, saya ingin membahas langkah besar terakhir untuk sebagian besar model: animasi.  Animasi 3D dalam game sangat mirip dengan animasi di banyak media lainnya; Sama seperti di kebanyakan TV dan film, model Anda akan dipasang pada kerangka dan akan digerakkan dengan bingkai kunci.  Tidak seperti di film, game memiliki kebutuhan animasi kaleng dan animasi perulangan yang jauh lebih tinggi.
+
+
+Canned Animation (animasi kaleng)adalah animasi yang mewakili tindakan atau pergerakan karakter tertentu.  Tujuannya agar animasi menjadi one-off yang bisa dimainkan saat pemain melakukan tindakan tertentu.  Misalnya, jika Anda menembak, Anda mungkin harus melakukan animasi " reload " dan animasi " throw grenade " dan keduanya akan dianggap sebagai Canned Animation (Animasi Kaleng)
+
+Sementara animasi "jump" di atas melakukan loop dan dapat dianggap sebagai animasi perulangan, saya akan menganggapnya sebagai animasi kaleng karena biasanya tidak dimaksudkan untuk dilewati saat digunakan dalam permainan.
+
+
+Animasi perulangan adalah animasi yang bisa dilipat berkali-kali tanpa diperhatikan oleh pemain.  Ini akan menjadi siklus berjalan atau karakter yang melakukan penembakan dengan pistol.  Ini digunakan untuk tindakan yang dapat berlangsung selamanya tanpa henti, atau tindakan yang akan dilakukan pemain berkali-kali berturut-turut secara teratur.
+
+Merupakan hal yang tidak biasa bagi sistem game untuk memiliki cara menggabungkan beberapa animasi perulangan dan / atau animasi kaleng menjadi satu animasi.  Jadi, kembali ke contoh penembak, misal permainan Anda memiliki dua belas senjata berbeda di dalamnya, dan setiap senapan memiliki animasi menembak dan memuat ulang yang berbeda.  Mari kita juga mengatakan pemain Anda bisa berdiri diam, berjalan, atau berlari sambil menembak.  Jika Anda harus membuat versi yang berbeda dari setiap animasi penembakan untuk setiap kedudukan yang dapat dimainkan pemain saat melakukan penembakan, Anda perlu membuat banyak animasi, dan sebagian besar pekerjaan Anda akan membuat animasi yang sama, sementara kaki bergerak berbeda.  Untuk mengatasi masalah ini animator akan meng-animasikan tubuh bagian atas dan bagian bawah tubuh secara terpisah.  Animasi kemudian digabungkan secara dinamis di mesin saat Anda bermain sehingga putaran baku tembak Anda dapat digunakan dengan animasi tembak-menembak.
+
+Dalam gambar dari WoW Model Viewer ini Anda dapat melihat bagaimana pengguna memiliki kemampuan untuk mengubah item apa yang dilengkapi dengan slot yang ada di sebelah kanan.  Apa yang sebenarnya dilakukannya adalah menempelkan peralatan pada model yang dipilih pengguna ke model karakter pada bagian kerangka yang sesuai:
+
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Hal lain yang banyak game lakukan adalah membiarkan bagian pada skeleton untuk digunakan sebagai "soket".  Intinya soket adalah bagian yang berfungsi sebagai tujuan sekunder dalam sistem permainan atau mesin sebagai pemancar untuk peluru atau efek partikel atau tempat untuk menempelkan model sekunder ke model yang ada.
+
+Dalam permainan menembak, senjata akan sering memiliki soket yang digunakan sebagai titik peluru yang ditembak pada saat pemain menembakkan senapan.  RPG 3D sering menggunakan soket untuk senjata dan baju besi yang dipakainya.  Hal ini memungkinkan mesin permainan untuk secara dinamis melampirkan semua item yang telah dilengkapi pemain ke model dasar pemain, daripada harus memiliki model terpisah untuk setiap kemungkinan kombinasi senjata dan armor.
+
+Tak satu pun dari sistem yang saya sebutkan di atas akan memiliki banyak dampak pada bagaimana Anda melakukan pemodelan Anda, tapi selalu baik untuk memahami bagaimana aset Anda digunakan dalam sistem itu sendiri sehingga Anda dapat membuatnya seefektif mungkin.
+
+Alat untuk Check Out
+Ada banyak alat hebat di luar sana yang dapat Anda gunakan untuk mempercepat alur kerja Anda atau untuk menguji berbagai aspek model Anda.  Sementara saya tidak bisa menutupi semuanya, saya akan menyebutkan beberapa yang saya suka.
+
+Marmoset Toolbag
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Marmoset adalah alat yang hebat untuk menguji model dan tekstur 3D.  Marmoset adalah mesin rendering real-time tanpa mesin game yang terpasang.  Ini berarti Anda dapat melihat bagaimana model Anda tampil dan berperilaku dalam setting real-time tanpa harus bermain game untuk melakukannya.  Jika Anda membuat potongan portofolio seperti alat peraga dan tidak memiliki level atau permainan yang sebenarnya, atau jika Anda hanya ingin melakukan tes cepat untuk melihat bagaimana model atau tekstur bekerja, Marmoset adalah alat yang hebat untuk digunakan.
+
+UDK
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+UDK adalah mesin game 3D gratis yang berbasis mesin Unreal yang populer.  Seperti Marmoset, ini bisa menjadi tempat yang bagus untuk melihat model dan tekstur Anda beraksi.  Selain itu ia memiliki sistem yang hebat untuk mengimpor animasi, dan memiliki banyak alat hebat untuk desain tingkat dan desain permainan.  Jika Anda ingin melengkapi kemampuan 3D Anda dengan mempelajari bagaimana merancang tingkat atau dengan mempelajari bahasa scripting, UDK adalah pilihan tepat.
+
+Pos terkait
+How to Learn UDK  (Bagaimana cara belajar UDK)
+Unity
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Unity serupa dengan UDK dalam hal apa karakteristik mesin ini dan mengapa Anda akan menggunakannya.  Perbedaan besar antara Unity dan UDK adalah UDK diarahkan untuk game FPS, dan Unity dimulai sebagai batu tulis kosong sehingga bisa lebih mudah digunakan untuk jenis permainan lainnya.  Oleh karena itu, Unity tidak hadir dengan fitur pra-dibangun seperti UDK sehingga mungkin sedikit sulit untuk mendapatkan hasil yang dapat dimainkan.
+
+Pos terkait 
+How to Learn Unity (Bagaimana Mempelajari Kesatuan)
+Filter Forge
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Filter Forge adalah alat yang dapat digunakan untuk membuat tekstur apa pun yang Anda inginkan atau membuat filter untuk Photoshop.  Ini agak menantang saat pertama kali memulai dengan menggunakannya, namun hasilnya bisa sangat luar biasa jika Anda mempelajarinya.  Ini juga fantastis untuk membuat tekstur ubin.  Jika Anda pernah menciptakan shader atau material sebelum Anda mungkin memiliki waktu yang lebih mudah untuk menguasainya.
+
+NDo dan NDo 2
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+NDo adalah Plugin Photoshop yang digunakan untuk membuat Normal Maps.  Ini sangat hebat dan bisa sangat membantu dengan cepat memompa keluar atau memanggang peta normal berdasarkan peta yang menyebar.  Penciptanya juga baru saja meluncurkan alat lain yang disebut DDo tapi saya belum pernah menggunakannya.  NDo benar-benar gratis tapi DDo dan NDo 2 harus dibayar.
+
+Steam Workshop
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Steam Workshop bukan alat khusus melainkan semacam "inisiatif" yang dimulai oleh Valve untuk memudahkan mod permainan Uap.  Berbagai game di Steam termasuk DOTA 2, Portal 2, Team Fortress 2, Dungeon Defenders, dan beberapa lainnya telah memberi pemain kemampuan untuk mengembangkan dan mendistribusikan barang-barang, senjata, armor, dan sebagainya ke komunitas permainan secara keseluruhan.
+
+Banyak Valve bahkan mencakup kemampuan item Anda untuk dijual demi uang di dunia nyata, dan dengan demikian Anda dapat memperoleh keuntungan dari pekerjaan Anda melalui sistem ini.  Saat ini hanya ada 24 pertandingan yang merupakan bagian dari workshop, tapi yang baru ditambahkan secara semi reguler.
+
+Komunitas Seni Game 
+Akhirnya saya ingin menyebutkan tiga forum online dan komunitas yang khusus diperuntukkan bagi seniman game dan seniman 3D.  Semua komunitas yang akan saya sebutkan adalah rumah bagi profesional dan penggemar sekaligus mengadakan kompetisi reguler atau tantangan untuk membantu Anda berkembang.
+
+Polycount
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Polycount adalah komunitas yang cukup besar.  Ini bagus karena banyak anggotanya sangat aktif, mereka semua memiliki banyak kearifan untuk berbagi, dan situs tersebut sering mengadakan kompetisi di mana mereka bermitra dengan perusahaan game besar dan para pemenang akan dapat menegmbangkan barang mereka ke dalam produk akhir.  Selain itu, mereka secara teratur memperbarui situs dengan artikel tentang alat permainan seni terbaru dan terbaik.
+
+Game Artisans
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Game Artisans adalah komunitas lain yang sangat kuat.  Ini menempatkan fokus yang jauh lebih baik dalam menampilkan karya pengguna daripada yang dilakukan Polycount dan bahkan memiliki bagian Portofolio.  Game Artisans juga memiliki bagian tutorial yang baik untuk sejumlah alat yang berbeda.
+
+
+Advertisement
+CGHub
+3D Primer for Game Developers An Overview of 3D Modeling in Games
+Komunitas ini tidak spesifik untuk seni permainan tapi masih merupakan komunitas seni digital yang sangat hebat.  Seperti halnya dengan Game Artisans, ada fokus kuat pada memamerkan karya pengguna di sini.  Ini mungkin yang terbesar dari tiga komunitas yang saya sebutkan, tapi juga tidak begitu khusus seperti sebelumnya, jadi mungkin lebih sulit bagi Anda untuk menemukan saran atau informasi tepat yang Anda inginkan.
+
+Kesimpulan
+Itu semua adalah bidang yang ingin saya sampaikan pada artikel ini, tapi ada banyak hal yang bisa Anda jelajahi jika Anda meluangkan waktu.  Saya harap artikel ini memberi Anda beberapa informasi bermanfaat tentang apa yang memisahkan game dari media 3D lainnya dan tentang apa yang harus dipertimbangkan saat membuat seni 3D untuk game. 
+
+Jika Anda ingin belajar lebih banyak tentang 3D dalam game, atau secara umum, saya menemukan yang terbaik untuk hanya pergi ke sana dan melakukannya, jadi kunjungi beberapa komunitas yang saya sebutkan di atas, atau download beberapa alat tersebut, dan mulailah bekerja .
+

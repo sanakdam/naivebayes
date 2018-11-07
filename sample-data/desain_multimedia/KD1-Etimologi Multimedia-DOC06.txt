@@ -1,0 +1,223 @@
+Definisi etimologi multimedia, manfaat multimedia, tools dan penggunaanya
+2. DEFINISI ETIMOLOGI MULTIMEDIA 
+Istilah multimedia muncul melalui media masa diawal 1990. Istilah ini dipakai untuk menyatukan menyatukan teknologi digital dan analog dibidang entertainment, publishing, communications, marketing, advertising, dan juga commerce. Multimedia merupakan penggabungan dua kata ”multi” dan “media”. Multi berarti “banyak” sedangkan media atau bentuk jamaknya berarti medium.
+Sedangkan medium adalah entitas yang dilewati oleh sesuatu. Contohnya medium artistik (lukisan, sculpture) adalah kendaraan para arti  untuk menyampaikan idenya. Contoh lainya adalah “media masa” yaitu kanal komunikasi dan informasi
+Multimedia dapat diartikan sebagai penggunaan beberapa media yang berbeda untuk menggabungkan dan menyampaikan informasi dala bentuk text, audio, grafik, animasi, dan video.
+
+Beberapa definisi menurut beberapa ahli:
+Kombinasi dari komputer dan video (Rosch, 1996)
+Kombinasi dari tiga elemen: suara, gambar, dan teks (McComick, 1996)
+Kombinasi dari paling sedikit dua media input atau output. Media ini dapat berupa audio (suara, musik), animasi, video, teks, grafik dan gambar (Turban dan kawan-kawan, 2002)
+Alat yang dapat menciptakan presentasi yang dinamis dan interaktif yang mengkombinasikan teks, grafik, animasi, audio dan video (Robin dan Linda, 2001)
+Multimedia dalam konteks komputer menurut Hofstetter 2001 adalah: pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, video, dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi, dan berkomunikasi'
+
+Mengapa Multimedia?
+Multimedia dapat digunakan dalam:
+Bidang periklanan yang efektif dan interaktif
+Bidang pendidikan dalam penyampaian bahan pengajaran secara interaktif dan dapat mempermudah pembelajaran karena dididukung oleh berbagai aspek: suara, video, animasi, teks, dan grafik
+Bidang jaringan dan internet yang membantu dalam pembuatan website yang menarik, informatif, dan interaktif
+Menurut riset Computer Technology Research (CTR):
+Orang mampu mengingat 20% dari yang dilihat
+Orang mampu mengingat 30% dari yang didengar
+Orang mampu mengingat 50% dari yang didengar dan dilihat
+Orang mampu mengingat 70% dari yang didengar, dilihat, dan dilakukan. (De Porter)
+Multimedia mampu:
+Mengubah mengubah tempat kerja. Dengan adanya teleworking, para pekerja dapat melakukan pekerjaanya tidak harus dari kantor. Contoh software yang mendukung teleworking/telecommuting : Netmeeting!
+Mengubah cara belanja. Homeshopping/teleshopping dapat dilakukan dengan menggunakan internet, kemudian barang datang dengan sendirinya.
+Mengubah cara bisnis. Nokia membuat bisnis telepon seluler, banyak perusahaan menggunakan sistem jual beli online, bank menggunakan cara online-banking.
+Mengubah cara memperoleh informasi. Orang-orang mulai menggunakan internet dan berbagai software untuk mencari informasi. Misalnya: membaca koran online, detik.com, menggunakan software kesehatan, belajar gitar dari software dan masih banyak lagi.
+Mengubah cara belajar. Sekolah mulai menggunakan komputer multimedia, belajar online, menggunakan e-book.
+Internet Multimedia juga mulai bersaing dengan televisi dan radio
+
+Kategori Multimedia
+Multimedia dapat didefinisikan menjadi dua kategori yaitu multimedia content production dan multimedia communication dengan definisi sebagai berikut:
+1. Multimedia content production
+Multimedia adalah penggunaan dan pemrosesan beberapa media (text, audio,  graphics, animation, video, and interactivity) yang berbeda untuk menyampaikan informasi atau menghasilkan produk multimedia (music, video, film, game, entertaiment, dll) Atau penggunaan sejumlah teknologi yang berbeda yang memungkinkan untuk menggabungkan media (text, audio, graphics, animation, video, and interactivity) dengan cara yang baru untuk tujuan komunikasi.
+Dalam kategori ini media yang digunakan adalah :
+Media Teks
+Media Audio
+Media Video
+Media Animasi
+Media Graph / Image
+Media Interactivity
+Media Special Effect
+
+2. Multimedia communication
+Multimedia adalah menggunakan media (masa), seperti televisi, radio, cetak, dan Internet, untuk mempublikasikan/menyiarkan/mengkomunikasikan material advertising, publicity, entertaiment, news, education, dll.
+Dalam kategori ini media yang digunakan (tampak pada gambar 2.2) adalah
+TV
+Radio
+Film
+Cetak
+Musik
+Game
+Entertaiment
+Tutorial
+ICT (Internet)
+blog ini saya ambil dari: http://vicky-putri.blogspot.com/2013/02/etimologi-multimedia.html
+
+3. MANFAAT MULTIMEDIA
+
+Secara umum manfaat yang dapat diperoleh dari mempelajari multimedia adalah proses pembelajaran yang lebih menarik, lebih interaktif, dapat mengurangi waktu kerja karena dibantu oleh kecanggihan multimedia, bagi para siswa kualitas belajar dapat ditingkatkan dan proses belajar mengajar dapat dilakukan di mana dan kapan saja, serta sikap belajar siswa dapat ditingkatkan.
+Manfaat di atas akan diperoleh mengingat terdapat keunggulan dari sebuah multimedia pembelajaran, yaitu:
+1. Memperbesar benda yang sangat kecil dan tidak tampak oleh mata, seperti kuman, bakteri, elektron dll.
+2. Memperkecil benda yang sangat besar yang tidak mungkin dihadirkan ke sekolah, seperti gajah, rumah, gunung, dll.
+3. Menyajikan benda atau peristiwa yang kompleks, rumit dan berlangsung cepat atau lambat, seperti sistem tubuh manusia, bekerjanya suatu mesin, beredarnya planet Mars, berkembangnya bunga dll.
+4. Menyajikan benda atau peristiwa yang jauh, seperti bulan, bintang, salju, dll.
+5. Menyajikan benda atau peristiwa yang berbahaya, seperti letusan gunung berapi, harimau, racun, dll.
+6. Meningkatkan daya tarik dan perhatian siswa.
+Selain manfaat di atas, multimedia pun dapat digunakan dalam berbagai bidang.
+Multimedia dapat masuk dan menjadi alat bantu yang menyenangkan. Hal ini terjadi karena kekayaan elemen-elemen dan kemudahannya digunakan dalam banyak konten yang bervariasi. Beberapa bidang yang menggunakan multimedia adalah sebagai berikut:
+1. bisnis
+Aplikasi multimedia untuk bisnis meliputi presentasi, pemasaran, periklanan, demo produk, katalog, komunikasi di jaringan, dan pelatihan. Penggunaan multimedia akan membuat kelancaran dan kemudahan transaksi bisnis.
+2.sekolah
+Multimedia sebenamya sangat dibutuhkan di sekolah karena multi-media membuat pembelajaran menjadi lebih lengkap dan lebih menarik. Multimedia dapat menjadi alat pengajaran elektronik yang dapat membantu pengajar.
+3.rumah
+Multimedia dapat dimanfaatkan sebagai media hiburan dan teman di mmah, misalnya game.
+4. tempat umum
+Saat ini sudah banyak tempat-tempat umum memasang “kiosk”, yaitu produk multimedia yang berfungsi sebagai pemberi informasi, misal-nya informasi mengenai tempat yang sedang dikunjungi, kuliner, dan sebagainya.
+5. Virtual Reality (VR)
+Bidang ini biasanya menggunakan alat-alat khusus, misalnya kacamata, helm, sarung tangan, dan antarmuka pengguna yang tidak lazim, dan berusaha untuk menempatkan penggunanya “di dalam” pengalaman yang nyata.
+Dalam VR, lingkungan yang diciptakan sebenarnya merupakan ribuan objek geometris yang digambar dalam mang 3 dimensi. Semakin
+6.Multimedia Digital
+banyak objek dan titik yang mendeskripsikan objek serta semakin tinggi resolusinya, semakin realistis hasil yang akan diperoleh.
+Ketika pengguna menggerakkan objek, setiap gerakan atau aksi akan membuat komputer menghitung ulang posisi, sudut, ukuran, dan bentuk dan semua objek yang membangun tampilan. Hal ini meng¬akibatkan ribuan, bahkan jutaan komputasi untuk menggerakkan objek 30 kali per detik agar tampak halus. Oleh karena itu, VR membutuhkan komputer dengan spesifikasi tinggi agar objek yang ditampilkan benar-benar tampak nyata.
+blog ini saya ambil dari : http://ameliachy.wordpress.com/2012/04/01/manfaat-penggunaan-multimedia-3-2/
+
+4. TOOLS DAN PENGGUNAANNYA
+
+1) Microsoft Office
+
+Microsoft office adalah suatu program yang familiar di kalangan user computer.karena dengan kegunaan nya yang multi fungsi. microsoft office sendiri
+sudah mengeluarkan beberapa versi nya dri mulai office 98, 2000, 2003, 2007 dan yang terbaru office 2010. Microsoft office pun terbagi menjadi beberapa aplikasi/program yang kegunaan nya berbeda-beda yaitu :
+*Microsoft word
+*Microsoft excel
+*Microsoft power point
+*Microsoft acces
+*Microsoft info part
+*Microsoft outlook
+*Microsoft publisher
+1. Microsoft word
+Microsoft word biasa nya program yang paling sering d gunakan oleh user, khusus nya semua kalangan dri mulai anak muda,remaja,tua,pegawai,karyawan kantor,guru dosen dll.microsoft wors pun kegunaan nya yaitu untuk mebuat surat, amplop, publikasi, makalah, proposal dll.
+2. Microsoft excel
+mempunyai fungsi yang beraneka ragam. Kegunaannya adalah sebagai berikut mengurutkan data, menjumlah sub total dan grand total, mengedit teks secara langsung di sel, menjumlah secara otomatis dengan autosum, membuat grafik secara cepat dan mudah denga fungsi chard wizard, mencetak dengan proporsi bebas.
+3. Microsoft power point
+mempunyai fungsi untuk membantu kita mempresentasikan laporan. Maksudnya powerpoint bisa menyusun bahan presentasi dan menyajikannya dalam bentuk visual yang menarik dalam waktu yang singkat.
+4. Microsoft acces
+igunakan kebanyakan oleh bisnis-bisnis kecil dan menengah, di dalam sebuah organisasi yang kecil bahkan mungkin juga digunakan oleh perusahaan yang cukup besar, dan juga para programmer untuk membuat sebuah sistem buatan sendiri untuk menangani pembuatan dan manipulasi data. Access juga dapat digunakan sebagai sebuah basis data untuk aplikasi Web dasar yang disimpan di dalam server yang menjalankan Microsoft Internet Information Services (IIS) dan menggunakan Microsoft Active Server Pages (ASP).
+5. Microsoft info part
+mempunyai fungsi yaitu kemampuannya untuk membuat dan menampilkan dokumen XML dengan dukungan terhadap skema XML yang didefinisikan sendiri. Aplikasi ini juga dapat dikonfigurasikan agar dapat terhubung terhadap sistem eksternal dengan menggunakan XML Web Services melalui Microsoft XML Parser (MSXML) dan SOAP Toolkit.
+6. Microsoft outlook
+mempunyai fungsi yang unik. Fungsi ini biasanya hanya digunakan untuk mengirim dan membaca surat-e, program ini juga memiliki fungsi kalender, jadwal kerja, catatan, dan jurnal. Bila digunakan bersama dengan Microsoft Exchange Server, Outlook dapat menyediakan akses kotak surat, kalender, dan jadwal bersama. Namun karena banyak lubang keamanan dalam Outlook, program ini sering digunakan untuk memasukkan virus, misalnya lewat attachment surat-e. Beberapa contoh virus yang disebarkan lewat cara ini adalah Melissa dan Sobig.
+7. Microsoft publisher
+mempunyai fungsi yaitu digunakan untuk Desktop publishing
+2) WEB
+Nah tools multi media yang satu ini pasti dah gx asing lg bagi kalian.ya web site.
+Pasti bagi kalian yang pengguna computer khusus nya menggunakan internet pasti gx asing lg dengan yang nama nya web.ada yang tau pengertian website.?
+Ya saya mau sdikit nulas nulis tentang website
+Pengertian website
+Situs dapat diartikan sebagai kumpulan halaman-halaman yang digunakan untuk menampilkan informasi, gambar, gambar gerak, suara, dan atau gabungan dari semuanya itu baik yang bersifat statis maupun dinamis yang membentuk satu rangkaian bangunan yang saling terkait dimana masing-masing dihubungkan dengan link-link. Maka dari itu website adalah termasuk tools dari multimedia.
+3) Winamp
+
+Winamp merupakan perangkat lunak pemutar media milik Nullsoft , yang kini anak perusahaan Time Warner . Winamp merupakan perisian perisian percuma / perisian kongsi yang menampung pelbagai format dan boleh diubah kulitnya . Winamp merupakan perangkat lunak perangkat lunak gratis / lunak kongsi yang menampung berbagai format dan dapat terakhir kulitnya .
+Winamp pertama kali dikeluarkan oleh Justin Frankel pada tahun 1996. Penghargaan bagi pembangunan semasa Winamp diberi kepada Ben Allison (benski), Will Fisher , Taber Buhl, Maksim Tyrtyshny, Chris Edwards dan Stephen (Tag) Loomis. Penghargaan untuk pembangunan saat Winamp kepada Ben Allison (benski), Will Fisher , Taber Buhl, Maksim Tyrtyshny, Chris Edwards dan Stephen (Tag) Loomis.
+Pada tahun 2005 bilangan pengguna bulanan Winamp naik dari 33 juta ke lebih 57 juta, menjadikannya pemain media yang kedua paling aktif digunakan [perlu rujukan] seluruh dunia, hanya mengekori Windows Media Player.
+Versi-versi winamp
+Versi Awal
+Pertama kali muncul pada 21 April 1997, WinAmp merupakan aplikasi pemutar file MP3 yang terintergrasi untuk Windows. Versi 0.20a ini merupakan freeware, yang hanya menampilkan tombol play, open, stop, dan pause.
+Pada Mei 1997, WinAmp 0.92 diluncurkan. Versi Winamp ini disebut sebagai Winamp klasik atau Winamp GUI, berbentuk persegi panjang abu-abu gelap, dengan tombol perak 3D, volume slider hijau merah, timer dalam huruf lampu LED hijau, dengan trackname, MP3 bitrate dan "mixrate" dalam warna hijau pula, ditambah playlist. Belum ada posisi bar, dan space kosong yang mana spektrum analyzer dan analisa gelombang nantinya akan muncul.
+Winamp 1
+Hanya berselang sebulan, yaitu pada 7 Juni 1997, versi 1,006 dibuat. Ditulis dengan "Win amp" (huruf kecil), yang dimaksudkan untuk menunjukkan penganalisis spectrum. Winamp versi ini adalah shareware.
+Kemudian Winamp versi 1.90 dirilis pada 31 Maret 1998. Dengan penambahan plugin yang dapat diunduh di situs resmi Winamp, versi ini menjadi versi yang pertama yang dapat memutar audio dalam format yang lebih umum. Plugin ini termasuk plugin input dua (MOD dan MP3) dan visualisasi.
+Hanya berselang 18 hari, versi 1.91 dirilis, pada Juli 1998 Winamp telah diunduh lebih dari 3 juta kali, dalam berbagai versi.
+Winamp 2
+Winamp 2.0 pertama kali dirilis pada 8 September 1998. Versi ini meningkatkan kegunaan playlist, equalizer lebih akurat, lebih banyak plugin, dan mulai memperkenalkan plugin Skin.
+Pada 24 Maret 1999, Winamp 2.10 muncul, menyertakan versi baru dari "Llama" demo.mp3, yang menyengat dan mengembik. Kemudian, pada Juni 1999, Nullsoft dibeli oleh AOL, dengan saham US $ 80 juta.
+Pada Desember 1999, Nullsoft Winamp merilis kembali situs winamp.com, yang memberikan kemudahan pengunduhan skin, plugin, audio streaming, download lagu, forum, serta sumber daya pengembang. Tanggal 22 Juni 2000, Winamp tercatat telah melampaui 25 juta pengguna.
+Winamp 3
+Pada 9 Oktober 2001, Nullsoft merilis versi alpha dari Winamp3 yang diperuntukkan support system operasi LINUX. Pada 9 Agustus 2002, Winamp3 versi standar diluncurkan. Ditulis tanpa pemisahan “3” untuk ciri file MP3.
+Winamp3 ternyata kurang sukses sehingga banyak pengguna yang kembali memakai Winamp 2. Hal ini karena banyak pengguna menemukan kekurangan Winamp3, seperti loading lebih berat, kurang stabil, kemampuan counting total track yang menurun, skin dan plugin dari winamp 2 yang tidak sinkron.
+Akhirnya, Nullsoft mengembangkan kembali Winamp 2 hingga versi 2,91 di tahun 2003. Versi beta dari 2.92 dan 2.95 kemudian dirilis dengan memasukkan beberapa fitur Winamp 5 yang akan dirilis kemudian.
+Winamp 5
+Akhirnya Winamp 5.0 dirilis pada Desember 2003. Memang sengaja tidak ada versi 4 untuk winamp. Winamp 5 didasarkan pada basis kode Winamp 2, ditambah beberapa fitur Winamp3, seperti misalnya skin modern. Mulai versi 5.2, winamp juga terintegrasi dan mendukung iPod.
+Sebagai perayaan telah sepuluh tahun winamp dirilis, maka pada 10 Oktober 2007 diluncurkanlah Winamp 5.5. Banyak fitur baru yang disertakan, seperti penambahan pada album, player terpadu, library media, skin antarmuka. Termasuk pula merilis dukungan untuk beberapa bahasa, seperti Jerman, Polandia, Rusia dan Perancis. Versi ini tak lagi mendukung Windows 9.x.
+Perbaikan-perbaikan kelemahan dan penambahan fitur baru terus dilakukan dalam versi 5.5 ini. Hingga terakhir tercatat peluncuran Winamp versi 5.581, dikembangkan dari tahun 2009 hingga tahun 2010.
+4) Windows Movie Maker
+Nah selanjut nya tols multimedia yang berkaitan dengan tampilan, lebih jelas nya lg ialah video/Film. Ada yang sudah tau Movie Maker itu apa.,? kalo udah ada yang tau syukurlah. Dan kalo ada yang belum tau nah ini dia saya mau share tentang Windows Video Maker ya walau sedikit bahkan kurang bgitu bagus,.,hehe
+Oke kita lanjut.,.
+Windows Movie Maker merupakan salah satu software bawaan microsoft windows xp yang diberikan secara cuma-cuma alias gratis (meski barang gratisan, applikasi ini bisa digunakan untuk menciptakan sebuah film dengan sangat baik) yang mempunyai kegunaan untuk capture video dan membuat atau merancang sebuah alur video. Meskipun fasilitas yang dimiliki oleh Windows Movie Maker ini masih terbatas bila dibandingkan dengan software pengolah video lainnya seperti adobe premiere, pinacle, vegas video.
+Movie maker ini berisi fitur seperti efek, transisi, judul / kredit, audio track, timeline narasi, dan Auto Logo. Format yang diterima untuk diimpor oleh Windows Movie Maker adalah WMV,. AVI, MPG,. ASF,. WMA,. WAV, dan MP3.
+Versi windows yang pertama kali menyertakan WIndows Movie Maker adalah windows ME, kemudian microsoft selalu menyertakan versi terupdate dari Windows Movie Maker di tiap Sistem Operasi Windows yang rilis, seperti Windows XP, Windows XP Media Center Edition 2005, dan Windows Vista.
+Windows Movie Maker berfungsi sebagai alat untuk membuat, mengedit, capture foto dari sebuah video berjalan dan berbagi film-film rumahan. Mengkompilasi dan mengedit film dari video klip dengan drag-and-drop functionality. Menambahkan efek khusus, musik, dan narasi dengan mudah. Berbagi film melalui Web atau master itu ke DVD media. Kita juga dapat menyimpan film kembali ke DV tape dalam kamera. Versi ini adalah rilis pertama di CNET Download.com.
+Windows Movie Maker bukan lagi aplikasi untuk video editing yang dapat dipandang sebelah mata. Kemampuan memoles video dan audio untuk menciptakan karya yang indah dapat di wujudkan olehnya . Satu hal kelebihan dari Windows Movie Maker gampang sekali dalam menggunakannya dan ini keuntungan besar bagi mereka yang masih baru dalam dunia perfilman.
+5) Photoshop
+
+
+Oke next kita beralih ke tools multimedia yang berkaitan dengan gambar atau photo. Pasti bagi anda yang Bila aktifitas banyak bersentuhan dengan foto pasti tau dengan tools multimedia yang satu ini.,? Ya photoshop. Photoshop adalah software dari adobe yang bergelut d dunia editing photo. Pengertian simple photoshop adalah adalah sebuah software yang dapat di gunakana untuk mengedit sebuah gambar menjadi terlihat mengesan kan, dan photoshop juga dapat di jadikan sebuah lomba mengedit photo.,.hehe.,kalo yang lebih mecing nya lagi adalah perangkat lunak editor citra buatan Adobe Systems yang dikhususkan untuk pengeditan foto/gambar dan pembuatan efek. Perangkat lunak ini banyak digunakan oleh fotografer digital dan perusahaan iklan sehingga dianggap sebagai pemimpin pasar (market leader) untuk perangkat lunak pengolah gambar/foto, dan, bersama Adobe Acrobat, dianggap sebagai produk terbaik yang pernah diproduksi oleh Adobe Systems.
+Contoh-contoh kegunaan photoshop yang sering d gunakan oleh kita sebagai berikut :
+1. Graphic Designer
+2. Web Designer
+3. Photo Grapher
+4. Public Speaker
+5. Secretary
+6. Stundents
+7. Hobbyst
+Versi-versi adobe photoshop
+Photoshop 5, 6, 7, 8, cs2, cs3, cs4, dan yang terbaru adalah adobe photoshop cs5.
+6) Corell Draw
+Nah tools multimedia yang satu ini buat desain grafis/gambar yaitu corell draw. Corel draw adalah sebuah program komputer untuk melakukan editing pada garis vektor. Progam ini diproduksi oleh Corel, yaitu sebuah perusahaan software yang pusat pengembangannya berada di Ottawa, sebuah nama kota di negara Kanada. Karena kegunaan corel draw sebagai alat untuk pengolahan gambar, maka program ini sering digunakan untuk menyelesaikan perkerjan di bidang publikasi atau percetakan maupun bidang yang lain yang butuh proses visualisasi.
+Keunggulan Program Corel Draw
+Beberapa kelebihan yang dimiliki oleh program corel draw antara lain :
+• Gambar yang berbasis pada vektor bisa ditekan hingga pada tingkat terendah, namun kualitas yang dihasilkan juga setara dengan gambar yang berbasis pada bitmap atau raster.
+• Kegunaan corel draw terutama pada tool-toolnya juga mudah dipahami oleh setiap penggunanya, bahkan oleh orang yang baru pertama kali menggunakannya.
+• Dibandingkan dengan photoshop, corel draw juga tidak kalah bila digunakan untuk mengkolaborasi antara tulisan dengan gambar.
+• Komunitas dari pengguna corel draw ini sangat banyak, sehingga kita juga tidak akan kesulitan ketika ingin mempelajari corel draw dan cara pengoperasiannya secara lebih mendalam. Demikian pula dengan buku tutorialnya, sangat mudah ditemukan dan jenisnya juga bermacam-macam.
+Kegunaan dari corel draw
+Kegunaan corel draw itu sebenarnya sangat banyak, bahkan bisa dikatakan tidak terbatas. Namun oleh para penggunannya, program ini sering dimanfaatkan untuk melakukan pekerjaan yang antara lain :
+• Menciptakan desain simbol atau logo
+Ini adalah kegunaan corel draw yang sering dimanfaatkan oleh penggunanya, terutama gambar logo dua dimensi.
+• Membuat desain undangan, brosur dan lain-lain
+Kegunaan corel draw yang lain adalah untuk menciptakan desain undangan (pernikahan, khitanan, dll) atau brosur dan media publikasi lainnya. Selain itu corel draw juga memiliki banyak jenis font sehingga akan memudahkan para desainer untuk mengeksplorasi desain atau bentuk tulisan yang akan dibuat.
+• Membuat cover buku
+Para pembuat cover buku atau majalah saat ini juga sering memanfaatkan kegunaan corel draw untuk kemudahan desain tugas-tugas mereka. Karena corel draw juga bisa dimanfaatkan untuk menciptakan desain sampul dengan teknik perwarnaan yang lebih sempurna. Detail gambarnya juga bisa lebih jelas terlihat.
+• Membuat gambar ilustrasi
+Para pembuat gambar ilustrasi juga tidak mau kalah dalam memanfaatkan kegunaan corel draw. Karena gambar yang dihasilkan bisa lebih berkualitas. Terutama ketika melakukan perhitungan tentang besaran derajat lengkung, garis atau sudut. Demikian pula untuk membuat garis atau bidang yang datar. Ukuran yang diperoleh dijamin sangat tepat dan akurat.
+7) 4Videosoft Video Converter Ultimate
+
+Software yang satu ini adalah software video converter. 4Videosoft Video Converter Ultimate sangat profesional namun mudah untuk digunakan sebagai perangkat lunak converter, aplikasi ini tidak hanya bisa rip DVD untuk semua video populer dan audio tetapi juga mengkonversi antara format video termasuk MPG , MPEG , MP4 , H. 264 , SWF , FLV , VOB , MOD , M4V , AVI , WMV , 3GP , 3GPP , MOV , DivX , XviD , QuickTime Video , bersama dengan video HD dan mengekstrak audio dari video tersebut.Tidak hanya video 4Videosoft Video Converter Ultimate juga mampu mengkonversi semua format audio termasuk MP3 , MP2 , AAC , AC3 , WAV , WMA , M4A , OGG , FLAC , dengan konversi kecepatan super cepat dan kualitas yang sangat baik .
+Convert paling populer aplikasi ini format audio dan video ke dalam audio lainnya dengan dukungan video untuk MPG , MPEG , MPEG2 , VOB , MP4 , M4V , RM , RMVB , WMV , MP3 , MP2 , AAC , AC3 , WAV , MID , MIDI , WMA , M4A , RA , RAM , OGG , APE , AU , FLAC dan format lainnya.
+Features:
+Convert most popular audio and video formats into other audio and video formats
+Support MPG, MPEG, MPEG2, VOB, MP4, M4V, RM, RMVB, WMV, MP3, MP2, AAC, AC3, WAV, MID, MIDI, WMA, M4A, RA, RAM, OGG, APE, AU, FLAC, and Other formats
+Support for iPod, Apple TV, PSP, PS3, Zune, Archos, iRiver, Creative Zen audio and video formats
+Convert videos from one format to another
+Batch conversion
+Selection and quality setting, resolution, bitrate, freymreyda and other parameters
+Preview result in the embedded player
+8) Gom Player
+
+
+Nah nah nah Gom Player adalah software pemutar video yang saya sangat sangat sukai,,hehehe,.,jadi saya milih posting gom player kedalam 10 tools multimedia ne, pasti semua nya agan2 n eteh2 dah gx asing lagi ama software yang satu ini.
+Video player asal Korea Selatan buatan Gretech Corporation ini selain gratis, juga sudah mendukung lebih banyak codec daripada Windows Media Player Standard. Adapun built-in codecnya antara lain : AC3, OGG, XVID, DIV1, DIV2, DIV3, DIV4, DIV5, DIV6, DIVX, DX50, MP41, MP42, MP43, H263, AP41, MPG4, MP4S, M4S2, MP4V, BLZO, MJPG, RMP4, DXGM, H264. GOM dapat dijalankan di system Windows XP, Vista atau ME.
+9) Autocad
+
+AutoCAD merupakan sebuah perisian yang biasa digunakan untuk tujuan am dalam merekabentuk serta melakar dengan berbantukan komputer dalam pembentukan model serta lakaran dua dan tiga dimensi atau lebih dikenali sebagai “Computer-aided drafting and design program” (CAD). Perisian ini boleh digunakan dalam semua bidang kerja terutama sekali dalam bidang-bidang yang memerlukan kepakaran seperti bidang kejuruteraan Mekanikal, Awam, Senibina, Rekabentuk Grafik, dan semua bidang yang berkaitan dengan penggunaan CAD.
+Sistem perisian lukisan terbantu komputer ini akan membekalkan kemudahan dalam penghasilan model yang tepat untuk memenuhi keperluan piawaian di samping segala informasi di dalam lakaran boleh digunakan dalam bentuk laporan, Penilaian Baham (BOM), kaedah kawalan dan numerical dan sebagainya. Dengan bantuan sistem ini dapat menghasilkan sesuatu kerja pada tahap kecekapan dan yang tinggi ketepatan di samping menjimatkan masa dengan hanya perlu memberi beberapa arahan yang mudah.
+Lukisan yang dibentuk melalui perisian ini boleh dipindahbentuk untuk kegunaan perisian grafik yang lain melalui beberapa format seperti DXF ( Data Exchanged File), IGES, dan SLD. Tambahan pula berbantukan perisian ini juga, berkemampuan untuk membentuk dan menganalisa model pepejal dalam kerja-kerja rekabentuk kejuruteraan. Untuk memenuhi keperluan yang lebih canggih, perisian ini mampu membawa pengguna mengautomasikan kerja-kerja penggunaan pengaturcaraan sokongan seperti LISP, dan ADS untuk membentuk arahan tambahan tersendiri.
+Sebelum sesuatu kerja dilakukan, asas mengetahui sesuatu sistem perkomputeran beroperasi adalah penting bagi memudahkan segala kerja yang dilakukan supaya tidak timbul sebarang masalah sama ada sebelum atau selepas penggunaan sistem tersebut.Oleh itu, perkara asas yang perlu diketahui sebelum pengendalian sesuatu komputer adalah seperti pengetahuan dalam penggunaan sistem operasi (operating system), penggunaan “hardware” dan “software”.
+10) Steinberg Nuendo
+
+Nah sobat semua dah ada yang tau belum software yang satu ini,.,? Steinberg Nuendo,.,? ko bias masuk dalam kategori tools multimedia sih,.,?
+Ya steinberg nuendo yang akrab di kenal dengan nuendo ini adalah software editing audio, lebih jelas nya lagi adalah software rekaman. Nuendo pun gx kalah hebat dengan software rekaman lain nya seperti vegas, Fruity loops, n-track dll. Buat kalian yang sering nguprek d dunia music pasti gx asing lagi dengan software yang satu ini. Tp klo bagi kalian yang awam saya akan sedikit ngejelasin tentang nuendo ne, walau sdikit,,hehe
+Steinberg Nuendo adalah salah satu software yang paling sering digunakan oleh studio rekaman untuk melakukan proses tracking, editing dan mixing. Namun, kini teknologi telah berkembang. kamu tidak perlu lagi ke studio rekaman dan harus mebayar mahal. Karena proses Home recording telah menjamur dan menjadi trend saat ini. Dengan software ini kamu dapat mempelajari dan melakukan sendiri semua proses yang dilakukan oleh para sound enginer studio musik di rumah (kamar) kamu sendiri.
+Features :
+• 1. State-of-the-art digital audio production environment
+• 2. Crystal-clear 32-bit audio engine with full surround throughout
+• 3. Faster, more efficient workflow with dedicated tools, options and features
+• 4. Complete set of next-generation VST3 surround effect plug-ins
+• 5. Utilizes best available audio and computer hardware and plug-ins, including Advanced Integration of Steinberg and Yamaha hardware
+• 6. Advanced new automation system for full control
+• 7. Powerful Control Room integrates into any monitoring setup
+• 8. Innovative Network Collaboration for multi-seat projects via LAN or WAN
+• 9. Full project exchange with other leading audio and video editing systems
+• 10. Cross platform for latest Windows and Macintosh operating systems

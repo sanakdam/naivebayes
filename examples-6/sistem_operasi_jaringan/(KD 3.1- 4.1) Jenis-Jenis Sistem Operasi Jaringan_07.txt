@@ -1,0 +1,8 @@
+SOJ Open Source dan Close Source
+Sistem Opersi Jaringan adalah Sistem Operasi yang fungsi utamanya menyediakan dan mengatur alokasi sumber daya jaringan, sumber daya jaringan tersebut antara lain koneksi internet, bandwith, kecepatan, file server, web server, printer, keamanan jaringan dan masih banyak lagi.
+
+Open Source VS Closed Source
+Varian sistem operasi Linux dianggap sebagai sistem operasi jaringan yang paling banyak diimplementasikan, hal ini tidak lepas karena varian Linux menggunakan konsep Open Source.
+Open Source artinya, sebuah software/sistem operasi yang dapat dilihat kode sumbernya, sehingga pengguna bisa melihat, menambah/mengurangi dan membuat duplikasinya tanpa perlu membayar. Oleh karena itu, banyak pihak yang akhirnya tertarik untuk bergerak bersama mengembangkan sistem operasi Linux, baik membuat varian baru atau melengkapi dan mengatasi masalah yang muncul pada varian yang sudah ada. Kebalikan dari Open Source adalah closed source.
+
+Closed Source adalah software yang kode sumbernya tidak dapat diakses oleh setiap orang, hanya orang/pihak tertentu yang diperkenankan melihat kode aslinya, dengan alasan hak cipta/patent perusahaan, biasanya yang dapat mengaksesnya adalah para developer perusahaan pemilik software tersebut, contoh aplikasi close source adalah Adobe Photoshop, Ms. Word, Corel Draw dan lain2, sementara operasi sistem Closed source contohnya adalah semua keluarga Microsoft Windows (Windows 1.0, Windows 3.1,  Windows 95, Windows 98, Windows NT, Windows Me, Windows 2000, Windows 2000 Server,  Windows XP, Windows 2003 Server, Windows Vista, Windows 7, Windows 2008 Server, Windows 2012 Server dan Windows 8) serta keluarga Mac OS X (Leopard, Panther, Jaguar, Cheetah, Puma, Maverick,

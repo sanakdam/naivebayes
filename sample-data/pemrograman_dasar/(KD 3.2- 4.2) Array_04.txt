@@ -1,0 +1,108 @@
+Array 1 dimensi dan aray multidimensi: pengertian dan contoh kasus lengkap
+Untuk pemula yang baru mengenal dunia pemrograman, saya yakin akan sedikit binngung memahami array ini, agar anda lebih mudah dalam memahami array maka terlebih dahulu anda harus sudah mengerti tentang variable dan juga tipedata variable, jika anda memahami kedua istilah tersebut maka anda akan lebih mudah untuk memahami array.
+
+Array atau bisa disebut sebagai larik adalah koleksi data atau kumpulan data yang memiliki nama variable dan jenis tipe data yang sama dan memiliki index, index tersebut digunakan untuk mengakses (baca/tulis) elemen atau isi array tersebut.
+
+
+
+Jika anda sulit memahami array, sebagai ilustrasi array bisa anda bayangkan sebagai sebuah lemari pakaian yang didalamnya berisi laci-laci, dimana setiap laci diberi label angka 1, 2, 3, 4, dan seterusnya.
+
+Dari ilustrasi tersebut Lemari bisa disebut sebagai nama variable array, pakaian adalah tipe data array (jenis isinya), Label disetiap kotak yaitu  1, 2, 3 dan seterusnya bisa di disebut sebagai index array, sedangkan isi yang terdapat di dalam setiap kotak yang terdapat di lemari tersebut bisa disebut sebagai elemen array
+
+
+Jadi ciri dari variable array adalah:
+memiliki nama, 
+memiliki index
+memiliki tipe data dan
+memiliki elemen
+
+Kenapa harus menggunakan variable array?
+Di dalam dunia pemrograman array sangat dibutuhkan sekali dengan tujuan untuk mempersingkat dan mempermudah proses penulisan kode program yang melibatkan banyak sekali variable yang memiliki tipe data yang sama, dengan adanya array variable bisa ditulis lebih sederhana jika dibandingkan tanpa menggunakan array.
+
+Misalnya anda diminta untuk membuat sebuah program yang dapat menghitung angka yang diinput oleh pengguna sebanyak 100 buah, jika tanpa menggunakan array, maka terpaksa kita harus menyediakan variable sebanyak 100 buah dengan nama variable berbeda untuk menampung input pengguna, dapat dibayangkan bukan bagaimana repotnya kita menulis kode program untuk kasus tersebut.
+
+Sedangkan jika menggunakan array, penulisan variable tersebut dapat dibuat lebih singkat dan praktis hanya cukup satu baris saja dengan satu nama variable dan tipe data yang sama yang memiliki index sebanyak 100, sehingga penulisan program lebih sederhana dan lebih mudah. 
+
+Deklarasi Array dalam algoritma
+Contoh deklarasia atau penulisan variable array di dalam algoritma adalah sebagai berikut:
+
+1. Array satu dimensi
+Pengertian Array 1 dimensi adalah sekelompok data yang memiliki nama variable dan tipe data yang sama yang dapat diakses menggunakan 1 buah index saja.  
+ var nama_variable: array[range_index] of tipe_data
+
+Sebagai contoh, buatlah deklarasi array dengan nama  variable deret yang memiliki kapasitas 10 dengan tipe data integer, deklarasi variable array untuk contoh diatas adalah:
+
+ var deret:array[10] of integer
+Deklarasi diantas dapat didefinisikan, membuat variable array dengan nama deret yang dapat menampung angka dalam bentuk integer (bilangan bulat) sebanyak 10 buah.
+
+Mengisi elemen array 1 dimensi
+Menulis atau mengisi elemen array satu dimensi formatnya adalah:
+ nama_aray[index_array]<- nilai
+
+Misal: mengisi variale array dengan nilai 10 pada index ke 1 untuk nama array deret, maka penulisanya adalah sebagai berikut:
+ deret[1]<-10
+Dengan penulisan diatas, index ke 1 array deret akan berisi nilai 10.
+
+Membaca Array satu dimensi 
+Untuk membaca elemen array 1 dimensi formatnya adalah:
+ nama_aray[index_aray]
+Misal membaca elemen array yang terdapat di index ke 3 pada array dengan nama deret maka pemulisannya adalah:
+ deret[3]
+
+
+
+
+
+2. Array 2 dimensi
+Pengertian Array dua dimensi adalah kumpulan data yang memiliki nama dan tipe data yang sama dimana elemennya dapat diakses menggunakan 2 buah index, bisa juga disebut sebagai index baris dan index kolom.
+
+
+Array 2 dimensi bisa di gambarkan sebagai table, yang memiliki index baris dan index kolom, index tersebut digunakan untuk mengakses elemen aray 2 dimensi.
+
+Format Deklarasi variable array dua dimensi di dalam algoritma adalah seabgai berikut:
+ var nama_variable:array[index_baris][index_kolom] of tipe_data
+Contoh:
+Deklarasikan variable array yang memiliki index baris 10 dan index kolom 5 dengan nama data yang memiliki tipedata integer atau bilangan bulat, sebagai berikut:
+ var data:array[10][5] of integer
+
+Membaca variable array 2 dimensi
+
+Sama halnya seperti membaca variable array 1 dimensi namun harus melibatkan index baris dan kolim, misalnya, baca array data index kolom 1 dan baris 2
+ data[2][1]
+
+Mengisi menyimpan nilai pada variable array 2 dimensi
+Menyimpan ke dalam array itu artinya menyimpan data ke dalam memori komputer untuk diproses.
+
+Penyimpanan data pada array multi dimensi dengan sebuah nilai harus melibatkan index baris dan juga index kolomnya, sebagai contoh misalnya mengisi array data pada index baris 3 dan index kolom 4 dengan nilai 10, maka perintahnya adalah:
+ data[3][4]<-10
+
+Contoh Kasus Pemecahan Program dalam algoritma menggunakan array
+1. Buatlah sebuah algoritma untuk menjumlahkan 3 buah bilangan bulat yang diinput oleh pengguna menggunakan variable array.
+
+Jawab:
+ program penjumlahan
+var
+angka:array[3]of integer
+hasil:integer 
+
+algoritma:
+read(x[0],x[1],x[2])
+hasil<-x[0]+x[1]+x[2]
+write(hasil)
+Bandingkan jika tidak menggunakan variable array:
+ program penjumlahan
+var
+angka1:integer
+angka2:integer
+angka3:integer
+hasil:integer
+
+algoritma:
+read(angka1,angka2,angka3)
+hasil<- angka1+angka2+angka3
+write(hasil)
+
+Tanpa array ternyata penulisan program lebih panjang, itu baru hanya 3 variable saja, dapat dibayangkan jika variable yang dilibatkan ada 100 buah, tentu akan menyilitkan programmer dalam menulis program. 
+
+Kesimpulan:
+Ada 2 pilihan ketika memproses sebuah kasus di dalam bahasa pemrograman atau algoritma, jika melibatkan banyak variable dengan tipe data yang sama maka sebenarnya bisa menggunakan array atau bisa juga tanpa menggunakan array, namun cara paling praktis tentu saja lebih baik menggunakan array agar program tidak terlalu panjang, tidak membebani programmer. karena tersedianya konsep array untuk membantu programmer agar bisa menyederhanakan penulisan program.

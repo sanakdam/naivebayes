@@ -1,0 +1,94 @@
+Penjelasan singkat mengenai 3D Modelling
+00.02    No comments
+Tentang 3D Modelling
+          Modeling itu sendiri memeliki arti yaitu "Suatu konsep yang digunakan  untuk mewakili objek, proses dan memisahkan ide dengan cara membuat pemahaman menjadi lebih sederhana." Sedangkan 3D modeling adalah grafis yang menggunakan tiga dimensi geometris representasi data yang disimpan dalam komputer untuk melakukan perhitungan maupun rendering.
+          Gambar tersebut nantinya dapat menampilkan atau untuk gambaran real-time (waktu sebenarnya). Selain membuat grafik, model terkandung dalam file data grafis.
+          Sebuah model 3D adalah representasi matematis dari setiap tiga-dimensi benda (baik benda mati atau hidup). Dalam 3D modeling terdapat yang disebut dengan namanya 3DRendering  yaitu suatu proses pada sebuah model yang dapat ditampilkan secara visual sebagai gambar dua dimensi .
+          Dalam 3D modeling juga memiliki banyak teknik yang bisa digunakan  untuk menciptakan objek dalam sebuah scene namun juga memiliki  aspek yang harus dipertimbangkan bila membangun model obyek, semuanya memberi kontribusi pada kualitas hasil akhir. Hal-hal tersebut meliputi metoda untuk mendapatkan atau membuat data yang mendeskripsikan obyek, tujuan dari model, tingkat kerumitan, perhitungan biaya, kesesuaian dan kenyamanan, serta kemudahan manipulasi model.
+
+          Proses pemodelan 3D membutuhkan perancangan yang dibagi dengan beberapa tahapan untuk pembentukannya. Seperti obyek apa yang ingin dibentuk sebagai obyek dasar, metoda pemodelan obyek 3D, pencahayaan dan animasi gerakan obyek sesuai dengan urutan proses yang akan dilakukan.
+
+
+
+
+
+
+
+ 
+          Adapun tujuan dan fungsi dari masing-masing bagian tersebut adalah proses yang akan dijelaskan sebagai berikut:
+
+          A. Motion Capture/Model 2D
+          Yaitu langkah awal untuk menentukan bentuk model obyek yang akan dibangun dalam bentuk 3D.
+          Penekanannya adalah obyek berupa gambar wajah yang sudah dibentuk intensitas warna tiap pixelnya dengan metode Image Adjustment Brightness/Contrast, Image Color Balance, Layer Multiply, dan tampilan Convert Mode RGB dan format JPEG. Dalam tahap ini digunakan aplikasi grafis seperti Adobe Photoshop atau sejenisnya. 
+
+       B. Dasar Metode Modeling 3D
+          Ada beberapa metode yang digunakan untuk pemodelan 3D. Ada 3 jenis metode pemodelan obyek yang disesuaikan dengan kebutuhannya seperti dengan nurbs dan polygon ataupun subdivision. Modeling polygon merupakan bentuk segitiga dan segiempat yang menentukan area dari permukaan sebuah karakter.   Setiap polygon menentukan sebuah bidang datar dengan meletakkan sebuah jajaran polygon sehingga kita bisa menciptakan bentuk-bentuk permukaan. Untuk mendapatkan permukaan yang halus, dibutuhkan banyak bidang polygon. Bila hanya menggunakan sedikit polygon, maka object yang didapat akan terbag sejumlah pecahan polygon. Sedangkan Modeling dengan NURBS (Non-Uniform Rational Bezier Spline) merupakan metode paling populer untuk membangun sebuah model organik. Kurva pada Nurbs dapat dibentuk dengan hanya tiga titik saja. Dibandingkan dengan kurva polygon yang membutuhkan banyak titik (verteks) metode ini lebih memudahkan untuk dikontrol. Satu titik CV (Control verteks) dapat mengendalikan satu area untuk proses tekstur.
+
+
+          C. Proses Rendering
+          Tahap-tahap di atas merupakan urutan yang standar dalam membentuk sebuah obyek untuk pemodelan, dalam hal ini texturing sebenarnya bisa dikerjakan overlap dengan modeling, tergantung dari tingkat kebutuhan.   Rendering adalah "Proses akhir dari keseluruhan proses pemodelan ataupun animasi komputer." Dalam rendering, semua data-data yang sudah dimasukkan dalam proses modeling, animasi, texturing, pencahayaan dengan parameter tertentu akan diterjemahkan dalam sebuah bentuk output. Dalam standard PAL system, resolusi sebuah render adalah 720 x 576 pixels.
+          Bagian rendering yang sering digunakan:
+         
+          -Field Rendering
+          Field rendering sering digunakan untuk mengurangi strobing effect yang disebabkan gerakan cepat dari sebuah obyek dalam rendering video.
+
+          - Shader
+          Shader adalah sebuah tambahan yang digunakan dalam 3D software tertentu dalam proses special rendering. Biasanya shader diperlukan untuk memenuhi kebutuhan special effect tertentu seperti lighting effects, atmosphere, fog dan sebagainya.
+
+          D. Texturing
+          Proses texturing ini untuk menentukan karakterisik sebuah materi obyek dari segi tekstur. Untuk materi sebuah object bisa digunakan aplikasi properti tertentu seperti reflectivity, transparency, dan refraction. Texture kemudian bisa digunakan untuk meng-create berbagai variasi warna pattern, tingkat kehalusan/kekasaran sebuah lapisan object secara lebih detail.
+
+       E. Image dan Display
+          Merupakan hasil akhir dari keseluruhan proses dari pemodelan. Biasanya obyek pemodelan yang menjadi output adalah berupa gambar untuk kebutuhan koreksi pewarnaan, pencahayaan, atau visual effect yang dimasukkan pada tahap teksturing pemodelan.
+          Output images memiliki Resolusi tinggi berkisar Full 1280/Screen berupa file dengan JPEG,TIFF, dan lain-lain. Dalam tahap display, menampilkan sebuah bacth Render, yaitu pemodelan yang dibangun, dilihat, dijalankan dengan tool animasi. Selanjutnya dianalisa apakah model yang dibangun sudah sesuai tujuan. Output dari Display ini adalah berupa *.Avi, dengan Resolusi maksimal Full 1280/Screen dan file *.JPEG.
+          Metode yang digunakan untuk pemodelan 3D. Metode pemodelan obyek disesuaikan dengan kebutuhannya seperti dengan nurbs dan polygon ataupun subdivision. Modeling polygon merupakan bentuk segitiga dan segiempat yang menentukan area dari permukaan sebuah karakter. Setiap polygon menentukan sebuah bidang datar dengan meletakkan sebuah jajaran polygon sehingga kita bisa menciptakan bentuk-bentuk permukaan. Untuk mendapatkan permukaan yang halus, dibutuhkan banyak bidang polygon. Bila hanya digunakan sedikit polygon, maka object yang didapatkan akan terbagi menjadi pecahan-pecahan polygon. Sedangkan Modeling dengan Nurbs (Non-Uniform Rational Bezier Spline) adalah metode paling populer untuk membangun sebuah model organik. Hal ini dikarenakan kurva pada Nurbs dapat dibentuk dengan hanya tiga titik saja. Dibandingkan dengan kurva polygon yang membutuhkan banyak titik (verteks) metode ini lebih memudahkan untuk dikontrol. Satu titik CV (Control verteks) dapat mengendalikan satu area untuk proses tekstur (Fleming, 1999).
+
+          Pada model 3 dimensi atau yang sering disebut 3d modeling dibedakan menjadi 3 macam yaitu :
+          1.       Constructive Solid Geometry sering disebut dengan primitive modeling, merupakan salah satu teknik dasar teknik pemodelan 3D. Modeling dibuat dari objek primitive yang sudah ada seperti kubus, bola, silinder, dsb.
+          2.       Implicit Surfaces atau yang sering disebut dengan NURBS Modeling yang merupakan teknik pemodelan yang menggunakan perhitungan matematika.
+          Biasanya menggunakan curve Subdivision Surface merupakan teknik yang pertama dikenalkan oleh Ed Catmull dan Clark dari Pixar pada tahun 1978.
+          Awalnya teknik ini hanya digunakan untuk merepresentasikan bidang yang halus, namun belakangan dimanfaatkan bersamaan dengan teknik yang bernamasculpting (pahat), sehingga memungkinkan seseorang memahat objek 3D dalam bentuk digital.
+
+
+
+          Berikut penjelasan tentang cara merepresentasikan model  yaitu
+          - Polygonal Modeling, merupakan modeling yang terdiri darivertices(vertex/titik), yang jika disambungkan akan membentuk sebuahedge(garis), sehingga jika disambungkan dengan edge lain dapat membentuk sebuah face (bidang).
+          Bidang yang dibentuk oleh vertex,edges maupun face ini salah satunya adalah primitive objek yang juga termasuk dalam teknik pemodelan.
+
+          Curve Modeling merupakan modeling yang memanfaatkan curve untuk membentuk sebuah bidang. Tidak ada yang namanya vertex dalam curve, namun dapat membuat sebuah bidang dengan perhitungan matematika sama seperti implicit surfaces / NURBS
+         
+          Digital sculpting merupakan modeling yang terbentuk dari hasil pahatan sebuah model yang memiliki tingkat kehalusan bidang tinggi sehingga dapat digunakan untuk membuat detail pada model. Detail yang tinggi tersebut pun terdiri dari vertex, edge, dan face dalam jumlah besar. Sehingga bisa dikategorikan dalam polygonal modeling. Yang membedakan adalah proses pembuatan modelnya yang dipahat menggunakan alat digital.
+         
+
+          Membuat Objek
+          Pembuatan model 3D bisa dilakukan dengan menggunakan software seperti 3Ds Max, Blender atau yang lainnya, namun pada pembahasan ini kita menggunakan software 3Ds Max.
+          Objek-objek bisa dibuat dalam 3Ds Max seperti:
+Objek shapes:
+1. Garis/Line
+2. Lingkaran/Circle
+3.  Garis busur/Arc
+4.  Poligon/NGon
+5.  Elips/Ellipse
+6.  Kotak/Rectangle
+7.  Donut
+8. Bintang/Star
+9.  Spiral/Helix
+10.  Kisi-kisi Kotak/Section  
+
+          Objek geometry:
+ 1. Kubus/Box
+   2. Bola/Sphere
+   3. Silinder/Cylinder
+   4. Torus
+   5. Teapot
+   6. Cone
+   7. GeoSphere
+   8. Tube
+   9. Pyramid
+  10. Plane
+
+          Untuk membuat objek-objek tersebut sudah tersedia pada tools yang terdapat pada 3Ds Max, misalnya saja ingin membuat sebuah kotak/kubus, maka pada panel sebelah kanan lembar kerja 3Ds Max kita tinggal memilih panel create pilih shapes dan klik tombl rectangle pada bagian Object Type.
+
+          Software 3D ini memang sudah menyediakan objek-objek dasar sehingga mudah dalam mendesain/waktu menjadi semakin efektik.
+          Untuk pembuatan karakter seperti tokoh kartun, cara membentuknya dengan objek-objek dasar tersebut, misalnya karakter tokoh spongebob yang seperti spons dibuatnya dengan objek dasar kubus yang dimodifikasi vertexnya (titik-titiknya). Ini baru model karakternya saja, nanti karakter model yang sudah dibuat bisa dibuat animasinya. seperti mulutnya akan bergerak-gerak, objeknya seakan-akan berjalan dan lain-lain.
+

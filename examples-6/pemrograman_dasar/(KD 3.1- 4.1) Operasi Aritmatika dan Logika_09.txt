@@ -1,0 +1,91 @@
+Operasi Aritmatika dan Logika
+Oleh : Zuva Lutfiana
+
+Operator Aritmatika 
+Operator aritmatika adalah operator yang digunakan untuk melakukan operasi-operasi perhitungan aritmatika seperti penjumlahan, pengurangan, pembagian, perkalian dll. Dalam bahasa pemrograman Pascal operator aritmatika dapat dibagi menjadi 2, yaitu : 
+·         Operator Aritmatika Unair
+Operator aritmatika unair adalah operator aritmatika yang hanya melibatkan 1 operand saja. 
+·         Operator Aritmatika Biner
+Operator aritmatika biner adalah operator aritmatika yang melibatkan 2 buah operand. (Pambudi, 2014)
+
+Operator aritmatika merupakan operator yang sehari hari kita gunakan dalam rumus matematika dasar, yakni ka-ba-ta-ku (kali, bagi, tambah, dan kurang). Selain itu terdapat tambahan operator div dan mod. 
+Jenis – jenis operator aritmatika :
+Simbol
+Nama operator
+Contoh penggunaan
++
+Operator penjumlahan
+n = n + 1;
+–
+Operator pengurangan
+n = n – 1;
+*
+Operator perkalian
+n = n * 1;
+/
+Operator pembagian
+n = n / 1;
+%
+Operator sisa pembagian
+n = n % 1;
++
+Operator penyambung string
+n = “saya “+”tidur”;
+
+(Nasrul, 2016)
+
+
+
+Pemanfaatan Operator Aritmatika
+pemanfaatan operator aritmatika bertujuan untuk menyelesaikan berbagai masalah sehari-hari dengan memanfaatkan Freepascal. Untuk menyelesaikan masalah tersebut dengan bahasa pemrograman Pascal, kita perlu merancang program yang dapat menghitung jumlah dan rata-rata, yang harus dilakukan adalah menentukan input dan tipe data yang dibutuhkan program yang akan dibuat. selanjutnya kita harus menentukan cara atau metode untuk mengolah data input menjadi data yang dikehendaki. langkah selanjutnya adalah merangkai semua komponen menjadi satu dan melengkapinya dengan komponen tambahan agar program dapat berjalan dan ditampilkan dengan baik. (Firdaus, 2016)
+Fungsi Aritmatika
+1) Fungsi IF
+Ø  berfungsi untuk mengecek apakah nilai yang kita gunakan sebagai kunci benar
+atau salah (memenuhi syarat atau tidak)
+2) Fungsi SUM
+Ø  berfungsi untuk melakukan penjumlahan.
+3) Fungsi COUNT
+Ø  berfungsi untuk melakukan COUNTER atau penjumlahan sel yang berisi data
+numerik.
+4) Fungsi AVARAGE
+Ø  digunakan untuk menghitung rata-rata data numeric.
+5) Fungsi EXACT
+Ø  digunakan untuk menghidangkan 2 buah kata, jika sama akan bernilai TRUE,
+jika tidak FALSE.
+6) Fungsi EXACT
+Ø  digunakan untuk menghidangkan 2 buah kata, jika sama akan bernilai TRUE,
+jika tidak FALSE.
+7) Fungsi MIN
+Ø  digunakan untuk mencari nilai terkecil dari sekumpulan data atau RANGE
+CELL.
+8) Fungsi VLOOKUP
+Ø  bantuan REFERENCES. Digunakan untuk menghasilkan nilai pad table secara
+Vertikal.
+9) Fungsi HLOOKUP
+Ø  bantuan REFERENCES. Digunakan untuk menghasilkan nilai pad table secara
+Horizon
+10) Fungsi SQRT 
+            Ø  untuk menghitung akar dari bilangan X. Bilangan X tidak boleh NEGATIF 
+
+#         =.> Fungsi operator aritmatika
+
+a. + (plus) Penambahan, Contoh: 3+3
+b. – (minus) Pengurangan/Negatif, Contoh: 3–1 atau –1
+c. * (asterisk/bintang) Perkalian, Contoh: 3*3
+d. / (garis miring) Pembagian, Contoh: 3/3
+e. % (persen) Persentase, Contoh: 20%
+f. ^ (caret/tanda sisipan) Eksponen/Pangkat, Contoh: 3^2
+
+           =>  Keterangan :
+
++ : penjumlahan , contoh =a2+b2
+- : Pengurangan , contoh =a2-b2
+* : Perkalian, conton : =a2*b2
+/ : Pembagian , contoh : =a2/b2
++- */ : penggabungan , contoh : =a2-b2+c3 (Kiki, 2016)
+
+Bibliography
+Firdaus. (2016, september 08). operator aritmatik, pemanfaatan operator aritmatik & fungsi aritmatik. Retrieved from Tentang Komputer: http://design-aladewa.blogspot.co.id/2016/09/operator-aritmatik-pemanfaatan-operator.html
+Kiki. (2016, september 08). PEMROGRAMAN DASAR OPERASI ARITMATIKA DAN LOGIKA. Retrieved from niatingsunngibadah: http://niatingsunngibadah.blogspot.co.id/2016/09/pemrograman-dasar-kelas-xi.html
+Nasrul. (2016, september 08). operasi aritmatika & logika. Retrieved from materi teknik komputer dan jaringan: http://laskar21.blogspot.co.id/2016/09/operasi-aritmatika-logika.html
+Pambudi, D. (2014). Pemograman Dasar. Jakarta: Kementerian Pendidikan dan Kebudayaan.

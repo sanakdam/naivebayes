@@ -1,0 +1,49 @@
+Analisis Kebutuhan Perangkat Lunak Server
+Kali
+DIBAGIKAN
+Share ke FacebookShare Share ke G+Share Share ke TwitterShare  
+Analisis Kebutuhan Perangkat Lunak Server - Kebutuhan dalam kaitannya dengan pengembangan komputer server merupakan sebuah kondisi atau kemampuan yang diharapkan ada pada komputer server dan diinginkan oleh user.
+
+Komputer server dalam hal ini merupakan perangkat yang didalamnya terinstal sistem operasi jaringan, yang sengaja dibangun untuk melayani berbagai komunikasi data dari user (klien). Komputer klien umumnya adalah komputer dengan sistem operasi klien baik desktop ataupun mobile.
+
+Analisa perlu dilakukan untuk mengetahui server seperti apa yang akan dibangun. Penentuan kebutuhan akan sistem operasi jaringan dapat diketahui dengan memahami user yang akan memakai sistem tersebut.
+
+Sistem yang dipilih diharapkan merupakan sistem yang mampu menjalankan semua kebutuhan aplikasi yang diinginkan oleh user, termasuk didalamnya perangkat keras yang mendukung untuk menjalankan hal tersebut. Kecocokan perangkat keras dan perangkat lunak yang ada dalam sistem komputer ini biasa dikenal dengan istilah kompatibilitas.
+
+Analisis Kebutuhan Perangkat Lunak Server
+Analisis Kebutuhan Perangkat Lunak Server
+
+
+IDENTIFIKASI KEBUTUHAN APLIKASI
+Sistem operasi yang dipilih nantinya haruslah sistem operasi yang kompatibel dengan berbagai aplikasi yang ada didalamnya. Ini dapat dilakukan melalui identifikasi berbagai kebutuhan aplikasi dari user.
+Artikel terkait : Analisis Kebutuhan Perangkat Lunak Server
+
+Instalasi Sistem Operasi Jaringan
+Instalasi Sistem Operasi Jaringan - Instalasi me ...
+
+Pengertian Sistem Operasi Jaringan dan Contohnya
+Pengertian Sistem Operasi Jaringan dan Contohnya ...
+Jika akan digunakan dalam jaringan, identifikasi juga kompatibilitasnya dengan sistem operasi lainnya. Kompatibilitas ini dapat diketahui melalui tipe jaringan yang digunakan. Jaringan Linux mampu menghubungkan berbagai distro linux termasuk juga dari berbagai versi dari sistem operasi Windows dan Mac Os.
+
+Berikut merupakan panduan yang dapat digunakan untuk menentukan sistem operasi terbaik untuk perangkat server sesuai kebutuhan user.
+
+a. Apakah ada kebutuhan pengolahan data dengan aplikasi khusus? Bila ada maka penentuan sistem operasi dapat dilihat berdasarkan aplikasi khusus tersebut.
+
+b. Apakah aplikasi-aplikasi tersebut mendukung lingkungan multi-user atau user tunggal? Ini dapat menentukan apakah akan diinstall di komputer server atau client. Selain itu ini dapat digunakan untuk menentukan bagian mana dari pengolahan data nanti yang bisa disimpan di server.
+
+c. Apakah ada data (file) yang dibagi dalam jaringan? Jika ada, maka sebaiknya memakai sistem operasi jaringan yang mampu menjaga kompatibilitas format datanya.
+
+Sebagai contoh, jika dalam jaringan ada kegiatan berbagi dokumen teks seperti file berekstensi .doc, maka server dapat menyediakan aplikasi seperti LibreOffice atau WPS Office untuk dapat digunakan oleh user untuk membuka file tersebut termasuk juga menyediakan layanannya seperti server FTP.
+
+DOKUMENTASI SPESIFIKASI KEBUTUHAN
+Hasil dari semua analisa kebutuhan selanjutnya dibuatkan dokumentasi yaitu dokumen spesifikasi kebutuhan perangkat lunak server. Dokumen ini hendaknya dibuat sejelas mungkin agar pada saat implementasi semua kebutuhan user dapat terpenuhi.
+
+Baca juga: Jenis Jenis Sistem Operasi Komputer 
+
+
+REVIEW (UJI) KEBUTUHAN
+Langkah ini diperlukan untuk mendapatkan sinkronisasi akhir sebelum spesifikasi kebutuhan perangkat lunak benar-benar diterapkan pada server.
+
+Ringkasan
+Analisa kebutuhan perangkat lunak server memerlukan pemahaman mendalam tentang kebutuhan user akan aplikasi-aplikasi yang digunakan. Saat ini ada banyak alternatif pilihan aplikasi untuk satu kebutuhan. Selain memahami kebutuhan user, kompatibilitas aplikasi dengan sistem operasi yang ada juga perlu diperhatikan. Dari gambaran ini nantinya akan dapat ditemukan sistem operasi apa yang paling pas diterapkan pada sistem tersebut, termasuk juga aplikasi-aplikasi yang akan digunakan oleh klien.
+#SISTEM OPERASI JARINGAN

@@ -1,0 +1,274 @@
+KINERJA INPUT & OUTPUT BUS
+Posted on 7 Maret 2015 by ayuendahprihatin
+UNIT MASUKAN DAN KELUARAN
+Sistem komputer memiliki tiga komponen utama, yaitu : CPU, Memory (primer & sekunder), dan peralatan masukan/keluaran (I/O) seperti printer, monitor, keyboard, mouse dan modem. dalam menjalankan fungsinya sebagai masukan dan keluaran diperlukan modul I/O. Modul I/O merupakan peralatan antarmuka (interface) bagi sistem bus atau switch sentral dan mengontrol satu atau lebih perangkat periperhal. Modul I/O tidak hanya sekedar mosul penghubung, tetapi sebuah piranti yang berisi logika dalam melakukan fungsi komunikasi antara perperhal dan bus komputer.
+Ada beberapa alasan kenapa tidak langsung dihubungkan dengan bus komputer yaitu:
+1.	Bervariasinya metode operasi piranti periperhal, sehingga tidak praktis apabila sistem komputer harus menangani berbagai macam sistem operasi periperhal tersebut.
+2.	Kecepatan transfer data piranti periperhal umumnya lebih lambat daripada laju transfer data pada CPU
+3.	Format dan panjang data pada piranti periperhal seringkali berbeda dengan CPU, sehingga perlu modul untuk menselaraskannya.
+Dari beberapa alasan diatas, modul I/O memiliki 2 buah fungsi utama, yaitu :
+1.	Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+2.	Sebagaimana piranti antarmuka dengan peralatan periperhal lainnya menggunakan link data tertentu.
+Sistem Masukan dan Keluaran Komputer
+
+Bagaimana modul I/O dapat menjalankan tugasnya, yaitu menjembatani CPU dan memori dengan dunia luar merupakan hal terpenting untuk kita ketahui. Inti mempelajari sistem I/O komputer adalah mengetahui fungsi dan struktur kerja modul I/O.
+Fungsi Modul Input/Output
+
+Modul I/O adalah sebuah komponen dalam sistem komputer yang bertanggung jawab atas pengontrolan sebuah perangkat luar atau lebih dan bertanggung jawab juga terhadap pertukaran data antara perangkat luar tersebut dengan memori utama ataupun register-register dalam CPU. Dalam mewujudkan fungsi tersebut, diperlukan antarmuka internal dengan komputer (CPU dan memori utama) dan antarmuka dengan perangkat eksternalnya untuk menjalankan fungsi-fungsi pengontrolan.
+Fungsi dalam menjalankan tugas, modul I/O dapat dibagi menjadi beberapa kategori, yaitu:
+•	Kontrol dan pewaktuan
+•	Komunikasi CPU
+•	Komunikasi dengan perangkat eksternal
+•	Pem-buffer-an data
+•	Deteksi kesalahan
+Fungsi kontrol dan pewaktuan (control & timming) merupakan hal yang penting untuk mensinkronkan kerja masing-masing komponen penyusun komputer. Dalam sekali waktu CPU berkomunikasi dengan satu atau lebih perangkat dengan pola tidak menentu dan kecepatan transfer data yang beragam, baik dengan perangkat internal seperti register-register, memori utama, memori sekunder, perangkat periperhal. Proses tersebut bisa berjalan apabila ada fungsi kontrol dan pewaktuan yang mengatur sistem secara keseluruhan. Contoh kontrol pemindahan data dari periperhal ke CPU melalui sebuah modul I/O meliputi langkah-langkah sebagai berikut:
+1.	Permintaan dan pemeriksaan status perangkat dari CPU ke modul I/O.
+2.	Modul I/O memberikan jawaban atas permintaan CPU tersebut.
+3.	Apabila perangkat eksternal telah siap untuk transfer data, maka CPU akan mengirimkan perintah ke modul I/O
+4.	Modul I/O akan menenrima paket data dengan panjang tertentu dari periperhal.
+5.	Selanjutnya data dikirim ke CPU setelah diadakan seinkronisasi panjang data dan kecepatan transfer oleh modul I/O sehingga paket-paket data dapat diterima CPU dengan baik.
+Transfer data tidak akan lepas dari penggunaan sistem bus, maka interaksi CPU dan modul I/O akan melibatkan kontrol dan pewaktuan sebuah arbitrasi bus atau lebih. Ada fungsi komunikasi antara CPU dan modul I/O meliputi proses-proses berikut ini :
+•	Command Decoding, yaitu modul I/O menerima perintah-perintah dari CPU yang dikirimkan sebagai sinyal bus kontrol. Misalnya, sebuah modul I/O untuk disk dapat menerima perintah : Read sector, Scan Record ID, Format disk.
+•	Data, pertukaran data antara CPU dan modul I/O melalui bus data.
+•	Status Reporting, yaitu pelaporan kodisi status modul I/O maupun perangkat periperhal, umumnya berupa status kondisi busy atau ready. Juga status bermacam-macam kodisi kesalahan (error).
+•	Address recognition, bahwa peralatan atau komponen penyusun komputer dapat dihubungi atau dipanggil maka harus memiliki alamat yang unik, begitu pula pada perangkat periperhal, sehingga setiap modul I/O harus mengetahui alamat periperhal yang dikontrolnya
+Pada sisi modul I/O ke perangkat periperhal juga terdapat komunikasi yang meliputi komunikasi data, kontrol maupun status.
+
+Fungsi selanjutnya adalah buffering. Tujuan utama buffering adalah mendapatkan penyesuaian data sehubungan perbedaan laju transfer data dari perangkat periperhal dengan kecepatan pengolahan pada CPU . Umumnya laju transfer data pada dari perangkat periperhal lebih lambat dari kecepatan CPU maupun media penyimpanan.
+Fungsi terakhir adalah deteksi kesalahan. Apabila pada perangkat periperhal terdapat masalah sehingga proses tidak dapat dijalankan, maka modul I/O akan melaporkan kesalahan tersebut. Misalnya informasi pada periperhal printer seperti: kertas tergulung, kertas habis, tinta habis, dan lain-lain. Teknik yang umum untuk deteksi kesalahan adalah penggunaan bit paritas.
+
+Unit Masukan dan Keluaran
+Sistem Komputer
+Sistem komputer memiliki tiga komponen utama, yaitu : CPU, Memory (primer & sekunder), dan peralatan masukan/keluaran (I/O) seperti printer, monitor, keyboard, mouse dan modem. dalam menjalankan fungsinya sebagai masukan dan keluaran diperlukan modul I/O. Modul I/O merupakan peralatan antarmuka (interface) bagi sistem bus atau switch sentral dan mengontrol satu atau lebih perangkat periperhal.
+Modul I/O tidak hanya sekedar mosul penghubung, tetapi sebuah piranti yang berisi logika dalam melakukan fungsi komunikasi antara perperhal dan bus komputer. Ada beberapa alasan kenapa tidak langsung dihubungkan dengan bus komputer yaitu:
+1.	Bervariasinya metode operasi piranti periperhal, sehingga tidak praktis apabila sistem komputer harus menangani berbagai macam sistem operasi periperhal tersebut.
+2.	Kecepatan transfer data piranti periperhal umumnya lebih lambat daripada laju transfer data pada CPU
+3.	Format dan panjang data pada piranti periperhal seringkali berbeda dengan CPU, sehingga perlu modul untuk menselaraskannya.
+Dari beberapa alasan diatas, modul I/O memiliki 2 buah fungsi utama, yaitu :
+1.	Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+2.	Sebagaimana piranti antarmuka dengan peralatan periperhal lainnya menggunakan link data tertentu.
+Sistem Masukan dan Keluaran Komputer
+Bagaimana modul I/O dapat menjalankan tugasnya, yaitu menjembatani CPU dan memori dengan dunia luar merupakan hal terpenting untuk kita ketahui. Inti mempelajari sistem I/O komputer adalah mengetahui fungsi dan struktur kerja modul I/O.
+
+Gambar 1. model generik dari suatu modul I/O
+Fungsi Modul Input/Output
+Modul I/O adalah sebuah komponen dalam sistem komputer yang bertanggung jawab atas pengontrolan sebuah perangkat luar atau lebih dan bertanggung jawab juga terhadap pertukaran data antara perangkat luar tersebut dengan memori utama ataupun register-register dalam CPU. Dalam mewujudkan fungsi tersebut, diperlukan antarmuka internal dengan komputer (CPU dan memori utama) dan antarmuka dengan perangkat eksternalnya untuk menjalankan fungsi-fungsi pengontrolan.
+Dua fungsi utama Modul I/O ialah :
+• Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+• Sebagai piranti antarmuka dengan peralatan peripheral lainnya dengan menggunakan link data tertentu
+Fungsi dalam menjalankan tugas, modul I/O dapat dibagi menjadi beberapa kategori, yaitu:
+•	Kontrol dan pewaktuan
+•	Komunikasi CPU
+•	Komunikasi dengan perangkat eksternal
+•	Pem-buffer-an data
+•	Deteksi kesalahan
+Fungsi kontrol dan pewaktuan (control & timming) merupakan hal yang penting untuk mensinkronkan kerja masing-masing komponen penyusun komputer. Dalam sekali waktu CPU berkomunikasi dengan satu atau lebih perangkat dengan pola tidak menentu dan kecepatan transfer data yang beragam, baik dengan perangkat internal seperti register-register, memori utama, memori sekunder, perangkat periperhal. Proses tersebut bisa berjalan apabila ada fungsi kontrol dan pewaktuan yang mengatur sistem secara keseluruhan. Contoh kontrol pemindahan data dari periperhal ke CPU melalui sebuah modul I/O meliputi langkah-langkah sebagai berikut:
+1.	Permintaan dan pemeriksaan status perangkat dari CPU ke modul I/O.
+2.	Modul I/O memberikan jawaban atas permintaan CPU tersebut.
+3.	Apabila perangkat eksternal telah siap untuk transfer data, maka CPU akan mengirimkan perintah ke modul I/O
+4.	Modul I/O akan menenrima paket data dengan panjang tertentu dari periperhal.
+5.	Selanjutnya data dikirim ke CPU setelah diadakan seinkronisasi panjang data dan kecepatan transfer oleh modul I/O sehingga paket-paket data dapat diterima CPU dengan baik.
+Transfer data tidak akan lepas dari penggunaan sistem bus, maka interaksi CPU dan modul I/O akan melibatkan kontrol dan pewaktuan sebuah arbitrasi bus atau lebih. Ada fungsi komunikasi antara CPU dan modul I/O meliputi proses-proses berikut ini :
+•	Command Decoding, yaitu modul I/O menerima perintah-perintah dari CPU yang dikirimkan sebagai sinyal bus kontrol. Misalnya, sebuah modul I/O untuk disk dapat menerima perintah : Read sector, Scan Record ID, Format disk.
+•	Data, pertukaran data antara CPU dan modul I/O melalui bus data.
+•	Status Reporting, yaitu pelaporan kodisi status modul I/O maupun perangkat periperhal, umumnya berupa status kondisi busy atau ready. Juga status bermacam-macam kodisi kesalahan (error).
+•	Address recognition, bahwa peralatan atau komponen penyusun komputer dapat dihubungi atau dipanggil maka harus memiliki alamat yang unik, begitu pula pada perangkat periperhal, sehingga setiap modul I/O harus mengetahui alamat periperhal yang dikontrolnya
+Pada sisi modul I/O ke perangkat periperhal juga terdapat komunikasi yang meliputi komunikasi data, kontrol maupun status.
+
+Gambar 2. Skema suatu perangkat periperhal
+Fungsi selanjutnya adalah buffering. Tujuan utama buffering adalah mendapatkan penyesuaian data sehubungan perbedaan laju transfer data dari perangkat periperhal dengan kecepatan pengolahan pada CPU . Umumnya laju transfer data pada dari perangkat periperhal lebih lambat dari kecepatan CPU maupun media penyimpanan.
+Fungsi terakhir adalah deteksi kesalahan. Apabila pada perangkat periperhal terdapat masalah sehingga proses tidak dapat dijalankan, maka modul I/O akan melaporkan kesalahan tersebut. Misalnya informasi pada periperhal printer seperti: kertas tergulung, kertas habis, tinta habis, dan lain-lain. Teknik yang umum untuk deteksi kesalahan adalah penggunaan bit paritas.
+Struktur Modul Input/Output
+Terdapat berbagai macam modul I/O seiring perkembangan komputer itu sendiri, contoh yang sederhana dan fleksibel adalah intel 8255A yang sering disebut PPI (Programmable Periperhal Interface). Bagaimanapun komplesitas suatu modul I/O terdapat kemiripan struktur,.
+Antarmuka modul I/O ke CPU melalui bus sistem komputer terdapat tiga saluran, yaitu saluran data, saluran alamat dan saluran kontrol. Bagian terpenting adalah blok logika I/O yang berhubungan dengan semua peralatan antarmuka periperhal, terdapat fungsi pengaturan dan switching pada blok ini.
+Teknik Masukan dan Keluaran
+Terdapat tiga buah teknik operasi I/O, yaitu : I/O terprogram, interrupt-driven I/O, dan DMA (Dirrect Memory Access). Ketiganya memiliki keunggulan dan kelemahan, yang penggunanya disesuaikan sesuai unjuk kerja masing-masing teknik.
+I/O Terprogram
+Pada I/O terprogram, data saling dipertukarkan antara CPU dan modul I/O. CPU mengeksekusi program yang memberikan operasi I/O kepada CPU secara langsung seperti pemindahan data, pengiriman perintah baca atau tulis dan monitoring perangkat.
+I/O terprogram mempunyai kelemahan sebagai berikut :
+• CPU akan menunggu sampai operasi I/O selesai dilakukan modul I/O sehingga akan membuang waktu, CPU lebih cepat proses operasinya.
+• Dalam teknik ini, modul I/O tidak dapat melakukan interupsi kepada CPU terhadap proses – proses yang diinteruksikan padanya.
+• Seluruh proses merupakan tanggung jawab CPU sampai operasi lengkap dilaksanakan
+Untuk melaksanakan perintah-perintah I/O, CPU akan mengeluarkan sebuah alamat bagi modul I/O dan perangkat periperhalnya sehingga terspesifikasi secara khusus dan sebuah perintah I/O yang akan dilakukan. Terdapat empat klasifikasi perintah input/output, yaitu:
+1.	Perintah Control yaitu perintah yang digunakan untuk mengaktivasi perangkat periperhal dan memberitahukan tugas yang diperintahkan kepadanya.
+2.	Perintah Test, yaitu perintah yang digunakan CPU untuk menguji berbagai kondisi status modul I/O dan periperhalnya. CPU perlu mngetahui perangkat periperhalnya dalam keadaan aktif dan siap digunakan, juga untuk megetahui operasi-operasi I/O yang dijalankan serta mendeteksi kesalahannya.
+3.	Perintah Read, yaitu perintah pada modul I/O untuk mengambil suatu paket data kemudian menaruhnya di dalam buffer internal. Proses selanjutnya paket data dikirim melalui bus data setelah terjadi sinkronisasi data maupun kecepatan transfernya.
+4.	Perintah Write, Perintah ini kebalikan dari read. CPU memerintahkan modul I/O untuk mengambil data dari bus data untuk diberikan pada perangkat periperhal tujuan data tersebut.
+Dalam teknik I/O terprogram, terdapat dua macam implementasi perintah I/O yang tertuang dalam instruksi I/O, yaitu memory mapped I/O dan isolated I/O.
+Dalam memory mapped I/O, terdapat ruang tunggal untuk lokasi memori dan perangkat I/O. CPU memperlakukan register status dan register data pada modul I/O sebagai lokasi memori dan menggunakan instruksi mesin yang sama untuk mengakses baik memori maupun perangkat I/O. Konsekuensinya adalah diperlukan saluran tunggal untuk pembacaan dan saluran tunggal untuk penulisan. Keuntungan memory mapped ini adalah efisien dalam pemrograman namun memakan banyak ruang memory alamat.
+Dalam teknik isolated I/O, dilakukan pemisahan ruang pengalamatan bagi memori dan ruang pengalamatan bagi I/O. Dengan teknik ini diperlukan bus yang dilengkapi dengan pembacaan dan penulisan memori ditambah dengan saluran perintah output. Kesuntungan isolated I/O adalah sedikitnya instruksi I/O.
+Interrupt – Driven I/O
+Teknik interupt driven I/O memungkinkan proses memungkinkan proses tidak membuang-buang waktu. Prosesnya adalah CPU mengeluarkan perintah I/O pada modul I/O, bersamaan perintah I/O dijalankan oleh modul I/O, maka CPU melakukan eksekusi perintah-perintah lainnya. Apabila modul I/O telas selesai menjalankan instruksi yang diberikan padanya, maka modul I/O tersebut kemudian akan memberikan interupsi pada CPU bahwa tugasnya telah selesai.
+Dalam teknik ini kendali perintah masih menjadi tanggung jawab CPU, baik pengambilan perintah dari memori maupun pelaksanaan isi perintah tersebut. Terdapat selangkah kemajuan dari teknik sebelumnya, yaitu CPU melakukan multitasking beberapa perintah sekaligus sehingga tidak ada waktu tunggu bagi CPU.
+Cara kerja teknik interupsi di sisi modul I/O adalah modul I/O menerima perintah, misalnya read. Kemudian modul I/O melaksanakan perintah pembacaan dari periperhal dan meletakkan paket data ke register data modul I/O, selanjutnya modul mengeluarkan sinyal interupsi ke CPU melalui saluran kontrol. Kemudian mosul menunggu datanya diminta CPU. Saat permintaan terjadi, modul meletakkan data pada bus data dan modul siap menerima perintah selanjutnya.
+Pengolahan interupsi saat perangkat I/O telah menyelesaikan sebuah operasi I/O adalah sebagai berikut:
+1.	Perangkat I/O akan mengirimkan sinyal interupsi ke CPU.
+2.	CPU menyelesaikan operasi yang sedang dijalankan kemudian merespon interupsi.
+3.	CPU memeriksa interupsi tersebut, kalau valid maka CPU akan mengirimkan sinyal acknoledgement ke perangkat I/O untuk menghentikan interupsinya.
+4.	CPU mempersiapkan pengontrolan transfer routine interupsi. Hal yang dilakukan adalah menyimpan informasi yang diperlukan untuk melanjutkan operasi yang tadi dijalankan sebulum adanya interupsi. Informasi yang diperlukan berupa : Status Processor, berisi register yang dipanggil PSW (Program Status Word) dan Lokasi intruksi berikutnya yang akan dieksekusi
+5.	Kemudian CPU akan menyimpan PC (Program Counter) eksekusi sebelum interupsi ke stack pengontrol bersama informasi PSW. Selanjutnya mempersiapkan PC untuk penanganan interupsi.
+6.	Selanjutnya CPU memproses interupsi sampai selesai.
+7.	Apabila pengolahan interupsi selesai, CPU akan memanggil kembali informasi yang telah disimpan pada stack pengontrol untuk meneruskan operasi sebelum interupsi.
+Terdapat bermacam teknik yang digunakan CPU untuk menangani interupsi ini diantaranya adalah Multiple interupt lines, Software poll, Daisy Chain, Arbitrasi bus. Teknik yang paling sederhana adalah menggunakan saluran interupsi berjumlah banyak (Multiple Interupt Lines) antara CPU dengan modul-modul I/O. Namun tidak praktis untuk menggunakan sejumlah saluran interupsi modul – modul I/O.
+Alternatif lainnya menggunakan software poll. Prosesnya apabila CPU mengetahui adanya interupsi, maka CPU akan menuju ke routine layanan interupsi yang tugasnya melakkukan poll seluruh modul I/O untuk menentukan modul yang akan melakukan interupsi. Kerugian software poll adalah memerlukan waktu yang lama karen aharus mengidentifikasi seluruh modul untuk mengetahui modul I/O yang melakukan interupsi.
+Teknik yang lebih efisien adalah daisy chain, yang menggunakan hardware poll. Seluruh modul yang tersambung dalam saluran interupsi CPU secara melingkar (chain). Apabila ada permintaan interupsi, maka CPU akan menjalankan sinyal acknoledgement yang berjalan pada saluran interupsi sampai menjumpai modul I/O yang mengirimkan interupsi.
+Teknik berikutnya adalah arbitrasi bus. Dalam metode ini, pertama-tama modul I/O memperoleh kontrol bus sebelum modul sebelum modul ini menggunakan saluran permintaan interupsi. Dengan demikian hanya akan terdapat sebuah modul I/O yang dapat melakukan interupsi.
+
+Struktur Dasar Komputer dan Organisasi Komputer
+Struktur Dasar Komputer
+Suatu sistem komputer terdiri dari lima unit struktur dasar, yaitu:
+•	Unit masukan (Input Unit)
+•	Unit kontrol (Control Unit)
+•	Unit logika dan aritmatika (Arithmetic & Logical Unit / ALU)
+•	Unit memori/penyimpanan (Memory / Storage Unit)
+•	Unit keluaran (Output Unit)
+Control Unit dan ALU membentuk suatu unit tersendiri yang disebutCentral Processing Unit (CPU). Hubungan antar masing-masing unit yang membentuk suatu sistem komputer dapat dilihat pada gambar berikut:
+
+Data diterima melalui Input Device dan dikirim ke Memory. Di dalam Memory data disimpan dan selanjutnya diproses di ALU. Hasil proses disimpan kembali ke Memory sebelum dikeluarkan melalui Output Device. Kendali dan koordinasi terhadap sistem ini dilakukan oleh Control Unit. Secara ringkas prinsip kerja komputer adalah Input – Proses – Output, yang dikenal dengan singkatan IPO.
+
+Fungsi Utama dari masing-masing Unit akan dijelaskan berikut ini:
+•	Unit Masukan (Input Unit)
+Berfungsi untuk menerima masukan (input) kemudian membacanya dan diteruskan ke Memory / penyimpanan. Dalam hubungan ini dikenal istilah peralatan masukan (input device) yaitu alat penerima dan pembaca masukan serta media masukan yaitu perantaranya.
+
+•	Unit Kontrol (Control Unit)
+Berfungsi untuk melaksanakan tugas pengawasan dan pengendalian seluruh sistem komputer. Ia berfungsi seperti pengatur rumah tangga komputer, memutuskan urutan operasi untuk seluruh sistem, membangkitkan dan mengendalikan sinyal-sinyal kontrol untuk menyesuaikan operasi-operasi dan arus data dari bus alamat (address bus) dan bus data (data bus), serta mengendalikan dan menafsirkan sinyal-sinyal kontrol pada bus kontrol (control bus) dari sistem komputer. Pengertian mengenai bus dapat dilihat di bagian bawah halaman ini.
+
+•	Unit Logika & Aritmatika (Arithmetical & Logical Unit)
+Berfungsi untuk melaksanakan pekerjaan perhitungan atau aritmatika & logika seperti menambah, mengurangi, mengalikan, membagi dan memangkatkan. Selain itu juga melaksanakan pekerjaan seperti pemindahan data, penyatuan data, pemilihan data, membandingkan data, dll, sehingga ALU merupakan bagian inti dari suatu sistem komputer. Pada beberapa sistem komputer untuk memperingan dan membantu tugas ALU dari CPU ini diberi suatu peralatan tambahan yang disebut coprocessorsehingga khususnya proses perhitungan serta pelaksanaan pekerjaan pada umumnya menjadi lebih cepat. Pengertian mengenai coprocessor dapat dilihat di bagian bawah halaman ini.
+
+•	Unit Memori / Penyimpan (Memory / Storage unit)
+Berfungsi untuk menampung data/program yang diterima dari unit masukan sebelum diolah oleh CPU dan juga menerima data setelah diolah oleh CPU yang selanjutnya diteruskan ke unit keluaran. Pada suatu sistem komputer terdapat dua macam memori, yang penamaannya tergantung pada apakah alat tersebut hanya dapat membaca atau dapat membaca dan menulis padanya. Bagian memori yang hanya dapat membaca tanpa bisa menulis padanya disebut ROM (Read Only Memory), sedangkan bagian memori yang dapat melaksanakan membaca dan menulis disebut RAM (Random Access Memory).
+
+•	Unit Keluaran (Output Unit)
+Berfungsi untuk menerima hasil pengolahan data dari CPU melalui memori. Seperti halnya pada unit masukan maka pada unit keluaran dikenal juga istilah peralatan keluaran (Output device) dan media keluaran (Output media).
+
+Pengertian BUS
+Bus adalah sekelompok lintasan sinyal yang digunakan untuk menggerakkan bit-bit informasi dari satu tempat ke tempat lain, dikelompokkan menurut fungsinya Standar bus dari suatu sistem komputer adalah bus alamat (address bus), bus data (data bus) dan bus kontrol (control bus). Komputer menggunakan suatu bus atau saluran bus sebagaimana kendaraan bus yang mengangkut penumpang dari satu tempat ke tempat lain, maka bus komputer mengangkut data. Bus komputer menghubungkan CPU pada RAM dan periferal. Semua komputer menggunakan saluran busnya untuk maksud yang sama.
+
+Pengertian Coprocessor
+Coprocessor adalah Mikroprosesor tambahan (auxiliary processor) untuk membantu tugas dari prosesor utama (CPU). Sebenarnya latar belakang adanyacoprocessor ini dimaksudkan untuk menutupi kelemahan dalam perhitungan matematika dan aritmatika pada prosesor Intel 8088. Tugas utamanya untuk melaksanakan perhitungan matematika dan aritmatika sehingga tidak menjadi beban prosesor Intel 8088.
+
+Set Instruksi arsitektur
+1.	ISA adalah antarmuka antara perangkat lunak dan perangkat keras.
+2.	Ini adalah set instruksi yang menjembatani kesenjangan antara bahasa tingkat tinggi dan perangkat keras.
+3.	Untuk prosesor untuk memahami perintah, itu harus dalam biner dan tidak dalam Bahasa Tingkat Tinggi. ISA mengkodekan nilai-nilai ini.
+4.	ISA juga mendefinisikan item di komputer yang tersedia untuk programmer. Misalnya, ia mendefinisikan tipe data, register, mode pengalamatan, organisasi memori dll
+5.	Register mode Mengatasi tinggi adalah cara di mana instruksi menemukan operan mereka.
+
+Organisasi Komputer
+1. Komponen Utama CPU
+????????????• Arithmetic and Logic Unit (ALU), bertugas membentuk fungsi fungsi pengolahan data computer.
+????????????• Control Unit, bertugas mengontrol operasi CPU dan secara keseluruhan mengontrol komputer sehingga terjadi sinkronisasi kerja antar komponen dalam menjalankan fungsi fungsi operasinya.
+????????????• Registers, adalah media penyimpan internal CPU yang digunakan saat proses pengolahan data.
+????????????• CPU Interconnections, adalah sistem koneksi dan bus yang menghubungkan komponen internal CPU, yaitu ALU, unit kontrol dan register register dan juga dengan bus bus eksternal CPU yang menghubungkan dengan sistem lainnya.
+
+2. Fungsi CPU
+????????????• Fungsi CPU adalah penjalankan program program yang disimpan dalam memori utama dengan cara mengambil instruksi instruksi, menguji instruksi tersebut dan mengeksekusinya satu persatu sesuai alur perintah.
+????????????• Proses Eksekusi Program adalah dengan mengambil pengolahan instruksi yang terdiri dari dua langkah, yaitu : operasi pembacaan instruksi (fetch) dan operasi pelaksanaan instruksi (execute).
+
+3. Siklus Fetch-Eksekusi
+????????????• CPU awalnya akan membaca instruksi dari memori.
+????????????• Terdapat register dalam CPU yang berfungsi mengawasi dan menghitung instruksi selanjutnya, yang disebut Program Counter (PC).
+????????????• PC akan menambah satu hitungannya setiap kali CPU membaca instruksi.
+????????????• Instruksi instruksi yang dibaca akan dibuat dalam register instruksi (IR).
+
+4. Aksi-Aksi CPU
+????????????• CPU Memori, perpindahan data dari CPU ke memori dan sebaliknya.
+????????????• CPU – I/0, perpindahan data dari CPU ke modul I/O dan sebaliknya.
+????????????• Pengolahan Data, CPU membentuk sejumlah operasi aritmatika dan logika terhadap data.
+????????????• Kontrol, merupakan instruksi untuk pengontrolan fungsi atau kerja. Misalnya instruksi pengubahan urusan eksekusi.
+
+5. Siklus Instruksi
+????????????• Instruction Addess Calculation (IAC), yaitu mengkalkulasi atau menentukan alamat instruksi berikutnya yang akan dieksekusi. Biasanya melibatkan penambahan bilangan tetap ke alamat instruksi sebelumnya.
+????????????• Instruction Fetch (IF), yaitu membaca atau pengambil instruksi dari lokasi memorinya ke CPU.
+????????????• Instruction Operation Decoding (IOD), yaitu menganalisa instruksi untuk menentukan jenis operasi yang akan dibentuk dan operand yang akan digunakan.
+????????????• Operand Address Calculation (OAC), yaitu menentukan alamat operand, hal ini dilakukan apabila melibatkan referensi operand pada memori.
+????????????• Operand Fetch (OF), adalah mengambil operand dari memori atau dari modul I/O.
+????????????• Data Operation (DO), yaitu membentuk operasi yang diperintahkan dalam instruksi.
+????????????• Operand store (OS), yaitu menyimpan hasil eksekusi ke dalam memori.
+
+6. Fungsi Interrupt
+?????????????• Fungsi interupsi adalah mekanisme penghentian atau pengalihan pengolahan instruksi dalam CPU kepada routine interupsi. Hampir semua modul (memori dan I/O) memiliki mekanisme yang dapat menginterupsi kerja CPU.
+?????????????• Tujuan interupsi secara umum untuk menejemen pengeksekusian routine instruksi agar efektif dan efisien antar CPU dan modul modul I/0 maupun memori.
+?????????????• Setiap komponen komputer dapat menjalankan tugasnya secara bersamaan, tetapi kendali terletak pada CPU disamping itu kecepatan eksekusi masing masing modul berbeda sehingga dengan adanya fungsi interupsi ini dapat sebagai sinkronisasi kerja antar modul.
+
+7. Sinyal Interupsi
+????????????• Program, yaitu interupsi yang dibangkitkan dengan beberapa kondisi yang terjadi pada hasil eksekusi program. Contohnya: arimatika overflow, pembagian nol, oparasi illegal.
+????????????• Timer, adalah interupsi yang dibangkitkan pewaktuan dalam prosesor. Sinyal ini memungkinkan sistem operasi menjalankan fungsi tertentu secara regular.
+????????????• I/O, sinyal interupsi yang dibangkitkan oleh modul I/O sehubungan pemberitahuan kondisi error dan penyelesaian suatu operasi.
+???????????• Hardware failure, adalah interupsi yang dibangkitkan oleh kegagalan daya atau kesalahan paritas memori.
+
+8. Mekanisme Interupsi
+????????????• Saat suatu modul telah selesai menjalankan tugasnya dan siap menerima tugas berikutnya maka modul ini akan mengirimkan permintaan interupsi ke prosesor.
+???????????• Prosesor akan menghentikan eksekusi yang dijalankannya untuk menghandel routine interupsi.
+???????????• Setelah program interupsi selesai maka prosesor akan melanjutkan eksekusi programnya kembali.
+???????????• Saat sinyal interupsi diterima prosesor ada dua kemungkinan tindakan, yaitu interupsi diterima/ditangguhkan dan interupsi ditolak.
+
+9. Interupsi Ditangguhkan
+?????????????• Prosesor menangguhkan eksekusi program yang dijalankan dan menyimpan konteksnya. Tindakan ini adalah menyimpan alamat instruksi berikutnya yang akan dieksekusi dan data lain yang relevan.
+?????????????• Prosesor menyetel program counter (PC) ke alamat awal routine interrupt handler.
+
+10. Interupsi Ganda
+?????????????• Menolak atau tidak mengizinkan interupsi lain saat suatu interupsi ditangani prosesor. Kemudian setelah prosesor selesai menangani suatu interupsi maka interupsi lain baru di tangani. Pendekatan ini disebut pengolahan interupsi berurutan / sekuensial.
+?????????????• Prioritas bagi interupsi dan interrupt handler mengizinkan interupsi berprioritas lebih tinggi ditangani terlebih dahulu. Pedekatan ini disebut pengolahan interupsi bersarang.
+
+11. Interupsi Bersarang
+????????????• Sistem memiliki tiga perangkat I/O: printer, disk, dan saluran komunikasi.
+????????????• Pada awal sistem melakukan pencetakan dengan printer, saat itu terdapat pengiriman data pada saluran komunikasi sehingga modul komunikasi meminta interupsi.
+????????????• Proses selanjutnya adalah pengalihan eksekusi interupsi mudul komunikasi, sedangkan interupsi printer ditangguhkan.
+????????????• Saat pengeksekusian modul komunikasi terjadi interupsi disk, namun karena prioritasnya lebih rendah maka interupsi disk ditangguhkan.
+????????????• Setelah interupsi modul komunikasi selesai akan dilanjutkan interupsi yang memiliki prioritas lebih tinggi, yaitu disk.
+????????????• Bila interupsi disk selesai dilanjutkan eksekusi interupsi printer.
+????????????• Selanjutnya dilanjutkan eksekusi program utama.
+
+Sumber Referensi :
+http://ajiscfld.blogspot.sg/2014/10/s.html
+http://seedqyandy.wordpress.com/2013/01/17/organisasi-komputer-dasar/
+Pengertian Sistem Bus
+
+Bus adalah Jalur komunikasi yang dibagi pemakai Suatu set kabel tunggal yang digunakan untuk menghubungkan berbagai subsistem. Karakteristik penting sebuah bus adalah bahwa bus merupakan media transmisi yang dapat digunakan bersama. Sistem komputer terdiri dari sejumlah bus yang berlainan yang menyediakan jalan antara dua buah komponen pada bermacam-macam tingkatan hirarki sistem komputer.
+
+Suatu Komputer tersusun atas beberapa komponen penting seperti CPU, memori, perangkat Input/Output. setiap computer saling berhubungan membentuk kesatuan fungsi. Sistem bus adalah penghubung bagi keseluruhan komponen computer dalam menjalankan tugasnya. Transfer data antar komponen komputer sangatlah mendominasi kerja suatu computer. Data atau program yang tersimpan dalam memori dapat diakses dan dieksekusi CPU melalui perantara bus, begitu juga kita dapat melihat hasil eksekusi melalui monitor juga menggunakan system bus.
+
+BUS SLOTS
+Cara Kerja Sistem Bus
+Pada sistem komputer yang lebih maju, arsitektur komputernya akan lebih kompleks, sehingga untuk meningkatkan performa, digunakan beberapa buah bus. Tiap bus merupakan jalur data antara beberapa device yang berbeda. Dengan cara ini RAM, Prosesor, GPU (VGA AGP) dihubungkan oleh bus utama berkecepatan tinggi yang lebih dikenal dengan nama FSB (Front Side Bus) . Sementara perangkat lain yang lebih lambat dihubungkan oleh bus yang berkecepatan lebih rendah yang terhubung dengan bus lain yang lebih cepat sampai ke bus utama. Untuk komunikasi antar bus ini digunakan sebuah bridge.
+
+ELEMEN-ELEMEN RANCANGAN BUS
+
+a. Jenis BUS
+
+Saluran bus dapat dipisahkan menjadi dua tipe umum, yaitu dedicated dan multiplexed. Suatu saluran bus didicated secara permanen diberi sebuah fungsi atau subset fisik komponen-komponen komputer.
+Sebagai contoh dedikasi fungsi adalah penggunaan alamat dedicated terpisah dan saluran data, yang merupakan suatu hal yang umum bagi bus. Namun, hal ini bukanlah hal yang penting. Misalnya, alamat dan informasi data dapat ditransmisikan melalui sejumlah salurah yang sama dengan menggunakan saluran address valid control. Pada awal pemindahan data, alamat ditempatkan pada bus dan address valid control diaktifkan. Pada saat ini, setiap modul memilki periode waktu tertentu untuk menyalin alamat dan menentukan apakah alamat tersebut merupakan modul beralamat. Kemudian alamat dihapus dari bus dan koneksi bus yang sama digunakan untuk transfer data pembacaan atau penulisan berikutnya. Metode penggunaan saluran yang sama untuk berbagai keperluan ini dikenal sebagai time multiplexing.
+Keuntungan time multiplexing adalah memerlukan saluran yang lebih sedikit, yang menghemat ruang dan biaya. Kerugiannya adalah diperlukannya rangkaian yang lebih kompleks di dalam setiap modul. Terdapat juga penurunan kinerja yang cukup besar karena event-event tertentu yang menggunakan saluran secara bersama-sama tidak dapat berfungsi secara paralel.
+Dedikasi fisik berkaitan dengan penggunaan multiple bus, yang masing-masing bus itu terhubung dengan hanya sebuah subset modul. Contoh yang umum adalah penggunaan bus I/O untuk menginterkoneksi seluruh modul I/O, kemudian bus ini dihubungkan dengan bus utama melalui sejenis modul adapter I/O. keuntungan yang utama dari dedikasi fisik adalah throughput yang tinggi, harena hanya terjadi kemacetan lalu lintas data yang kecil. Kerugiannya adalah meningkatnya ukuran dan biaya sistem.
+
+b. Metode Arbitrasi
+
+Di dalam semua sistem keculai sistem yang paling sederhana, lebih dari satu modul diperlukan untuk mengontrol bus. Misalnya, sebuah modul I/O mungkin diperlukan untuk membaca atau menulis secara langsung ke memori, dengan tanpa mengirimkan data ke CPU. Karena pada satu saat hanya sebuah unit yang akan berhasil mentransmisikan data melalui bus, maka diperlukan beberapa metodi arbitrasi. Bermacam-macam metode secara garis besarnya dapat digolongkan sebagi metode tersentraslisasi dan metode terdistribusi. Pada metode tersentralisasi, sebuah perangkat hardware, yang dikenal sebagai pengontrol bus atau arbitrer, bertanggung jawab atas alokasi waktu pada bus. Mungkin perangkat berbentuk modul atau bagian CPU yang terpisah. Pada metode terdistribusi, tidak terdapat pengontrol sentral. Melainkan, setiap modul terdiri dari access control logic dan modul-modul bekerja sama untuk memakai bus bersama-sama. Pada kedua metode arbitrasi, tujuannya adalah untuk menugaskan sebuah perangkat, baik CPU atau modul I/O, bertindak sebagai master. Kemudian master dapat memulai transfer data (misalnya, membaca atau menulis) dengan menggunakan perangkat-perangkat lainnya, yang bekerja sebagai slave bagi pertukaran data yang khusus ini.
+
+Struktur Bus
+Sebuah bus sistem terdiri dari 50 hingga 100 saluran yang terpisah. Masing-masing saluran ditandai dengan arti dan fungsi khusus. Walaupun terdapat sejumlah rancangan bus yang berlainan, fungsi saluran bus dapat diklasifikasikan menjadi tiga kelompok, yaitu saluran data, saluran alamat, dan saluran kontrol. Selain itu, terdapat pula saluran distribusi daya yang memberikan kebutuhan daya bagi modul yang terhubung.
+
+1. Saluran Data
+
+Saluran data memberikan lintasan bagi perpindahan data antara dua modul sistem. Saluran ini secara kolektif disebut bus data. Umumnya bus data terdiri dari 8, 16, 32 saluran, jumlah saluran diakitakan denang lebar bus data. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit, maka jumlah saluran menentukan jumlah bit yang dapat dipindahkan pada suatu saat. Lebar bus data merupakan faktor penting dalam menentukan kinerja sistem secara keseluruhan. Misalnya, bila bus data lebarnya 8 bit, dan setiap instruksi panjangnya 16 bit, maka CPU harus dua kali mengakses modul memori dalam setiap siklus instruksinya.
+2. Saluran Alamat
+
+Saluran alamat digunakan untuk menandakan sumber atau tujuan data pada bus data. Misalnya, bila CPU akan membaca sebuah word data dari memori, maka CPU akan menaruh alamat word yang dimaksud pada saluran alamat. Lebar bus alamat akan menentukan kapasitas memori maksimum sistem. Selain itu, umumnya saluran alamat juga dipakai untuk mengalamati port-port input/outoput. Biasanya, bit-bit berorde lebih tinggi dipakai untuk memilih lokasi memori atau port I/O pada modul.
+3. Saluran Kontrol
+
+Saluran kontrol digunakan untuk mengntrol akses ke saluran alamat dan penggunaan data dan saluran alamat. Karena data dan saluran alamat dipakai bersama oleh seluruh komponen, maka harus ada alat untuk mengontrol penggunaannya. Sinyal-sinyal kontrol melakukan transmisi baik perintah maupun informasi pewaktuan diantara modul-modul sistem. Sinyal-sinyal pewaktuan menunjukkan validitas data dan informasi alamat. Sinyal-sinyal perintah mespesifikasikan operasi-operasi yang akan dibentuk. Umumnya saluran kontrol meliputi : memory write, memory read, I/O write, I/O read, transfer ACK, bus request, bus grant, interrupt request, interrupt ACK, clock, reset.
+
+Contoh – Contoh Bus
+Banyak perusahaan yang mengembangakan bus-bus antarmuka terutama untuk perangkat peripheral. Diantara jenis bus yang beredar di pasaran saat ini adalah, PCI, ISA, USB, SCSI, FuturaBus+, FireWire, dan lain-lain. Semua memiliki keunggulan, kelemahan, harga, dan teknologi yang berbeda sehingga akan mempengaruhi jenis-jenis penggunaannya.
+
+Bus ISA : Industri computer personal lainnya merespon perkembangan ini dengan mengadopsi standarnya sendiri, bus ISA (Industry Standar Architecture), yang pada dasarnya adalah bus PC/AT yang beroperasi pada 8,33 MHz. Keuntungannya adalah bahwa pendekatan ini tetap mempertahankan kompatibilitas dengan mesin-mesin dan kartu-kartu yang ada.
+
+Bus PCI : Peripheral Component Interconect (PCI) adalah bus yang tidak tergantung prosesor dan berfungsi sebagai bus mezzanine atau bus peripheral. Standar PCI adalah 64 saluran data pada kecepatan 33MHz, laju transfer data 263 MB per detik atau 2,112 Gbps. Keunggulan PCI tidak hanya pada kecepatannya saja tetapi murah dengan keping yang sedikit.
+
+Bus USB : Semua perangkat peripheral tidak efektif apabila dipasang pada bus kecepatan tinggi PCI, sedangkan banyak peralatan yang memiliki kecepatan rendah seperti keyboard, mouse, dan printer. Sebagai solusinya tujuh vendor computer (Compaq, DEC, IBM, Intel, Microsoft, NEC, dan Northen Telecom) bersama-sama meranccang bus untuk peralatan I/O berkecepatan rendah. Standar yang dihasilakan dinamakan Universal Standard Bus (USB).
+
+Bus SCSI : Small Computer System Interface (SCSI) adalah perangkat peripheral eksternal yang dipo[ulerkan oleh macintosh pada tahun 1984. SCSI merupakan interface standar untuk drive CD-ROM, peralatan audio, hard disk, dan perangkat penyimpanan eksternal berukuan besar. SCSI menggunakan interface paralel dengan 8,16, atau 32 saluran data.
+
+Bus P1394 / Fire Wire : Semakin pesatnya kebutuhan bus I/O berkecepatan tinggi dan semakin cepatnya prosesor saat ini yang mencapai 1 GHz, maka perlu diimbangi dengan bus berkecepatan tinggi juga. Bus SCSI dan PCI tidak dapat mencukupi kebutuhan saat ini. Sehingga dikembangkan bus performance tinggi yang dikenal dengan FireWire (P1393 standard IEEE). P1394 memiliki kelebihan dibandingkan dengan interface I/O lainnya, yaitu sangat cepat, murah, dan mudah untuk diimplementasikan. Pada kenyataan P1394 tidak hanya popular pada system computer, namun juga pada peralatan elektronik seperti pada kamera digital, VCR, dan televise. Kelebihan lain adalah penggunaan transmisi serial sehingga tidak memerlukan banyak kabel.

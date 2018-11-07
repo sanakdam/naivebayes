@@ -1,0 +1,87 @@
+Materi 1 Sistem operasi sistem : Jenis-Jenis Sistem Operasi Jaringan
+Kegiatan Belajar 1 : Jenis-Jenis Sistem Operasi Jaringan
+a. Tujuan Pembelajaran
+Setelah mengikuti kegiatan belajar ini siswa diharapkan dapat :
+1) Mengetahui sistem operasi jaringan kode tertutup dan terbuka
+2) Memahami perbedaan sistem operasi jaringan kode tertutup dan terbuka
+
+
+
+b. Uraian Materi
+
+SISTEM OPERASI
+Sistem operasi memiliki peranan penting saat ini dalam mendukung perkembangan teknologi informasi. Ini karena hampir semua aplikasi yang dikembangkan saat ini berjalan diatas diatas sistem operasi. Sistem operasi merupakan sebuah program yang mengendalikan semua fungsi yang ada pada komputer. Sistem operasi menjadi basis landasan pengembangan aplikasi untuk user. Secara umum semua sistem operasi memiliki empat fungsi berikut.
+-          Pengendalian akses terhadap berbagai perangkat keras yang terhubung ke komputer. (Manajemen perangkat keras)
+-          Pengelolaan file dan folder (Manajemen file dan folder)
+-          Penyediaan user interface sebagai jembatan antar user dengan perangkat keras komputer (Manajemen interaksi user)
+-          Pengelolaan aplikasi user (Manajemen aplikasi)
+-           
+Pengendalian Perangkat Keras
+Akses terhadap berbagai perangkat keras yang terhubung pada komputer disediakan oleh sistem operasi melalui suatu aplikasi yang dikenal dengan istilah driver. Setiap driver dibuat untuk mengendalikan satu perangkat keras.
+Instalasi aplikasi driver ini dilakukan sendiri sistem operasi pada saat instalasi ataupun waktu perangkat keras dihubungkan ke komputer. Mekanisme instalasi secara otomatis saat perangkat dihubungkan ini dikenal dengan istilah Plug and Play (PnP).
+Pengelolaan File dan Folder
+Hal ini dimungkinkan oleh sistem operasi karena pada saat instalasi sistem operasi ada proses format untuk harddisk. Melalui proses tersebut ruang harddisk akan ditata sedemikian rupa sehingga memiliki blok-blok tertentu untuk menyimpan file. Proses ini mirip seperti penempatan rak-rak pada ruangan kosong untuk diisi buku-buku nantinya. Sebuah file adalah kumpulan blok yang saling terkait dan memiliki sebuah nama. Folder merupakan sebuah penampung yang dapat berisi file-file ataupun sub-folder lainnya. Setiap file-file yang terkait dengan program komputer ditempatkan dalam folder tersendiri untuk memudahkan pencarian file.
+Manajemen Interaksi
+User dapat menggunakan komputer melalui aplikasi yang ada (terinstall) di komputer. Setiap aplikasi menyediakan interface untuk menerima interaksi yang mungkin dari user. Terdapat dua jenis interface yang dapat digunakan untuk berinteraksi dengan user, yakni:
+Command Line Interface (CLI)
+
+Interaksi user dengan sistem dilakukan dengan mengetikan serangkaian kalimat perintah untuk dikerjakan oleh komputer.
+
+
+
+
+Graphical User Interface (GUI)
+Disini interaksi user dilakukan melalui sekumpulan menu dan icon yang dapat dipilih oleh user untuk memberikan berbagai perintah ke komputer.
+
+
+Manajemen Aplikasi
+Setiap aplikasi yang dijalankan oleh sistem operasi dengan mencari lokasi file program tersebut dan meindahkan isinya ke memori untuk kemudian mengirimkan setiap perintah pada file tersebut untuk dijalankan oleh komputer. Aplikasi user disini merupakan aplikasi yang digunakan oleh user untuk menyelesaikan suatu tujuan tertentu. Fungsi manajemen pada aplikasi user ini dapat meliputi:
+-          Install, proses menempatkan file-file program pada sistem komputer termasuk konfigurasi program tersebut.
+-          Uninstall, proses untuk menghapus file-file program beserta konfigurasi dari komputer.
+-          Update/Upgrade, proses untuk memperbarui file-file dari program yang telah terinstall.
+
+Selain memiliki fungsi-fungi manajemen diatas, sistem operasi modern juga dapat memiliki kemampuan sebagai berikut:
+-          Multi-user – dua atau lebih user dapat bekerja sama untuk saling berbagi pakai penggunaan aplikasi dan sumber daya seperti printer pada waktu yang bersamaan.
+-          Multi-tasking – sistem operasi dapat menjalankan lebih dari satu aplikasi user.
+-          Multi-processing – sistem operasi dapat menggunakan lebih dari satu CPU (Central Processing Unit).
+-          Multi-threading – setiap program dapat dipecah ke dalam thread-thread untuk kemudian dapat dijalankan secara terpisah (pararel) oleh sistem operasi. Kemampuan ini juga termasuk bagian dari multitasking pada aplikasi.
+
+Sistem Operasi 32-bit dan 64-bit
+Terdapat dua perbedaan antara sistem operasi 32-bit dan 64-bit.
+-          Sistem operasi 32-bit hanya mampu menerima RAM maksimal 4 GB, sedangkan sistem operasi 64-bit mampu menggunakan lebih dari 128 GB RAM.
+-          Manajemen memori dari sistem 64-bit juga lebih baik, sehingga mampu menjalankan proses pada aplikasi lebih cepat.
+
+Windows, Ubuntu dan OpenSuSE merupakan beberapa contoh sistem operasi yang mendukung arsitektur 32-bit.
+Dilihat dari penggunaannya sistem operasi dapat dibedakan menjadi dua kelompok besar, yakni:
+-          Sistem operasi desktop, yang banyak digunakan di kantor-kantor, Small Office/Home Office (SOHO), dengan jumlah user yang sedikit.
+-          Sistem operasi jaringan, Network Operating System (NOS), didesain untuk dapat melayani user dalam jumlah besar untuk berbagai keperluan dan banyak digunakan pada perusahaan berskala besar.
+
+SISTEM OPERASI DESKTOP
+Sistem operasi desktop memiliki karakteristik sebagai berikut:
+-          Mendukung penggunaan oleh satu orang user
+-          Berbagi file dan folder dalam jaringan kecil dengan keamanan minimal
+
+Saat ini di pasar, sistem operasi desktop yang paling banyak digunakan terbagi ke dalam tiga kelompok besar, yakni Microsoft Windows, Apple Mac Os, dan UNIX/Linux.
+Microsoft Windows
+Merupakan sistem operasi desktop proprietari yang dikembangkan oleh perusahaan Microsoft dengan pendirinya Bill Gates. Versi pertama sistem operasi ini adalah Windows 1.01 dirilis pada tahun 1985. Windows 8.1 adalah produk terbaru dari sistem operasi besutan Microsoft ini, yang dirilis oktober tahun 2013.
+Apple Mac Os
+Apple Mac Os sama dengan Microsoft Windows merupakan sistem operasi proprietari yang dikembangkan oleh Apple. Sistem ini didesin sebagai sistem operasi yang ramah terhadap pengguna (user-friendly). Versi terkini dari sistem ini merupakan pengembangan dari sistem operasi UNIX.
+UNIX/Linux
+UNIX, diperkenalkan akhir tahun 1960-an, merupakan salah satu sistem operasi tertua. Kode program dari sistem operasi ini dibuka sehingga dapat diadopsi oleh berbagai perusahaan. Dari UNIX inilah sekarang banyak lahir sistem operasi baru yang merupakan turunannya. Linux juga merupakan sistem operasi turunan UNIX yang sama-sama membuka kode programnya untuk umum. Linux dikembangkan pertama kali oleh Linus Torvalds dan versi 0.0.1 dirilis pada tahun 1991. Debian merupakan salah satu distribusi Linux yang dikembangkan oleh perusahaan komunitas Debian. Debian 7 Wheezy, merupakan versi teranyar dari sistem operasi Linux ini. Selain debian masih banyak lagi distro Linux lainnya seperti Fedora, Ubuntu, OpenSuSE, dan Slackware. Android sebagai sistem operasi mobile juga termasuk turunan dari sistem operasi Linux.
+SISTEM OPERASI JARINGAN
+Sistem operasi jaringan memiliki kakrakteristik sebagai berikut:
+-          Mendukung penggunaan oleh lebih dari satu user
+-          Menjalankan aplikasi yang mampu digunakan oleh lebih dari satu user
+-          Stabil (robust), dimana kecil kemungkinan untuk terdapat error pada program. Robustness adalah istilah untuk menunjukkan kemampuan suatu sistem komputer menangani masalah yang terjadi selama digunakan oleh user.
+-          Memiliki tingkat keamanan data yang lebih tinggi dari sistem operasi desktop.
+
+Berikut ini adalah sistem operasi jaringan yang banyak digunakan saat ini.
+-          UNIX/Linux, ini merupakan sistem operasi yang paling banyak digunakan sebagai server saat ini, contoh sistem operasi jaringan dengan linux diantaranya adalah Red Hat, Caldera, SuSE, Debian, Fedora, Ubuntu dan Slackware.
+-          Novell Netware, di tahun 1980-an, ini merupakan sistem operasi pertama yang memenuhi semua persyaratan untuk membangun sebuah jaringan komputer lokal.
+-          Microsoft Windows, masih dari perusahaan yang sama, Microsoft juga mengeluarkan Windows Server sebagai sistem operasi jaringannya, mulai dari versi awalnya adalah Windows Server 2000, hingga yang terakhir Windows Server 2012.
+
+Sistem Operasi Close Source (Proprietari) Sistem operasi proprietari merupakan sistem operasi yang dikembangkan secara internal oleh seseorang, perkumpulan ataupun perusahaan. Sistem operasi yang tergolong proprietari ini adalah Windows dan Mac Os.
+Sistem Operasi Open Source (Terbuka) Sistem Operasi Terbuka merupakan sistem operasi yang kode programnya dibuka untuk umum sehingga dapat dikembangkan oleh yang lainnya. Sistem operasi yang termasuk terbuka adalah UNIX, Linux dan turunannya. Linux sendiri memiliki banyak varian, seperti Debian, Slackware, Redhat dan SuSE. Varian ini lebih dikenal dengan nama distro.
+Di awal pengembangan sistem operasi hanya ada beberapa saja. Namun, saat ini telah ada sangat banyak yang beredar. Berikut ini ditampilkan grafik perkembangan sistem operasi UNIX beserta turunannya dari tahun ke tahun.
+
+Dari sejarah ini dapat diketahui bahwa dua sistem operasi populer saat ini, yakni Linux dan Mac Os merupakan turunan dari sistem operasi UNIX. Sampai saat ini sistem operasi UNIX tetap terus berkembang menelurkan generasi-generasi baru berikutnya.

@@ -1,0 +1,70 @@
+Penjelasan Tentang Basis Data dan Hierarki Database
+
+
+
+Tugas 1 System Basis Data
+
+
+Materi :
+Penjelasan Tentang Basis Data Hierarki Database
+
+
+1.Penjelasan Tentang Basis Data      
+
+     Trisatya Blog.Istilah “basis data” berawal dari ilmu komputer. Meskipun kemudian artinya semakin luas, memasukkan hal-hal di luar bidang elektronika, Catatan yang mirip dengan basis data sebenarnya sudah ada sebelum revolusi industri yaitu dalam bentuk buku besar, kwitansi dan kumpulan data yang berhubungan dengan bisnis.
+
+-          Secara luas basis data merupakan : representasi dari fakta dunia yang mewakili suatu objek yang di rekam dalam bentuk angka,huruf,gambar,bunyi, dll
+
+Definisi basis data :
+
+·         Himpunan kelompok data yang saling berhubungan yang di organisasi sedemikian rupa agar kelak dapat di manfaatkan kembali dengan cepat dan mudah
+
+·         Kumpulan data yang saling berhubungan yang di simpan secara bersama sedemikian rupa dan tanpa pengulangan (redundancy) yang tidak perlu,untuk memenuhi berbagai kebutuhan
+
+·         Kumpulan file / table /arsip yang saling berhubungan yang di simpan di dalam media penyimpanan tertentu.
+
+Konsep dasar dari basis data adalah :
+
+·         kumpulan dari catatan-catatan, atau potongan dari pengetahuan. Sebuah basis data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya: penjelasan ini disebut skema. Skema menggambarkan obyek yang diwakili suatu basis data, dan hubungan di antara obyek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur basis data: ini dikenal sebagai model basis data atau model data. Model yang umum digunakan sekarang adalah model relasional, yang menurut istilah layman mewakili semua informasi dalam bentuk tabel-tabel yang saling berhubungan dimana setiap tabel terdiri dari baris dan kolom (definisi yang sebenarnya menggunakan terminologi matematika). Dalam model ini, hubungan antar tabel diwakili denga menggunakan nilai yang sama antar tabel. Model yang lain seperti model hierarkis dan model jaringan menggunakan cara yang lebih eksplisit untuk mewakili hubungan antar tabel.
+
+Istilah Basis data (bahasa Inggris: database), atau sering pula dieja basisdata, merupakan:
+
+·         kumpulan informasi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. Perangkat lunak yang digunakan untuk mengelola dan memanggil kueri (query) basis data disebut sistem manajemen basis data (database management system, DBMS). Jika konteksnya sudah jelas, banyak administrator dan programer menggunakan istilah basis data untuk kedua arti tersebut.
+
+Perangkat Lunak untuk membuat Basis Data diantara lain :
+
+    1.DB2                                       18.dbXL
+    2.Microsoft SQL Server            19.Quiksilver
+    3.Oracle                                     20.Clipper
+    4.Sybase                                    21.flagShip
+    5.Interbase                                 22.harbour
+    6.XBase                                     23.Visual dBase
+    7.Firebird                                   24.Lotus Smart suite Approach
+    8.MySQL
+    9.PostgreSQL
+    10.Microsoft Access
+    11.dBase III
+    12.Paradox
+    13.FoxPro
+    14.FoxPro
+    15.Arago Force
+    16.Recital
+    17.dbFast
+
+2.Hierarki Database
+
+·         Sebelum masuk ke Urutan atau hierarki database sangatlah penting untuk mengetahui urutan dari data seperti digambarkan dalam gambar sbb :
+
+Hirarki data :
+
+
+
+1.      Database  : kumpulan dari file /table yang membentuk suatu basis data
+
+2.      File            : terdiri dari record record yang menggambarkan satu kesatuan data yang sejenis
+
+3.      Record     : menggambarkan satu unit individu yang tertentu kumpulan dari record .kumpulan dari record membentuk suatu file
+
+4.      Field         : mempresentasikan suatu atribut dari record yang menunjukan suatu item dari data seperti misalnya nama, alamat DLL.kumpulan field membentuk record.
+
+5.      Character : bagian data yang terkecil ,dapat berupa numeric ,huruf ataupun karakter2 kusus yang membentuk suatu item data field.

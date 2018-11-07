@@ -1,0 +1,108 @@
+MERANCANG DOKUMEN TAHAP PRA-PRODUKSI
+
+Metodologi yang paling umum dipakai pada proses produksi Multimedia adalah yang biasa disebuat dengan alur produksi 3 tahap. Secara umum, proses produksi multimedia dirancang dengan menjalankan 3 tahap sebagai berikut;
+Pra produksi / Pre-Production
+Produksi / Production
+pasca produksi / Post-Production
+ 1.    PRA-PRODUKSI
+Tahap pra produksi adalah segala kegiatan yang berhubungan dengan persiapan sebelum melakukan produksi. Tahap ini biasanya berjalan sangat lama bahkan terkadang sampai menyita sumber daya waktu 75 % dari keseluruhan produksi. Tahap pra produksi terdiri dari beberapa langkah, antara lain:
+1. Proses Pre Production (Pra Produksi) Multimedia
+Pra Produksi merupakan sebuah proses tahap awal dalam membuat produk multimedia, berupa pengumpulan semua data dan elemen yang berkaitan dengan produksi. Jika dalam produksi sebuah film proses pra produksi adalah proses penyiapan semua elemen yang terlibat dalam sebuah produksi (shoting) film/video. Dari mulai pengaturan budget, pemilihan sutradara, aktor, cameramen, crew, lokasi, peralatan, kostum/wardrobe dll.
+Pada prinsipnya proses ini meliputi proses:
+penuangan ide (proposal) produk,
+perencanaan produk,
+perencanaan proses produksi,
+penyusunan dokumentasi,
+penyusunan tim,
+membangun prototipe,
+pengurusan hak cipta dan
+penandatangan kontrak dan pembiayaan
+
+Gambar proses pre production (pra produksi)
+A. Penentuan Konsep/Ide (Concept Definition)
+Menentukan konsep atau ide merupakan realisasi dari pemikiran dasar dan gagasan awal yang bertujuan untuk menuangkannya ke dalam audio visual, berupa ide awal, tema yang akan diangkat. Pada tahap ini ditentukan sasaran judul, target audience, gaya yang ingin ditampilkan, keinginan dari pasar, perkiraan kebutuhan biaya, dan rencana kerja.
+B. Desain (Design)
+Desain merupakan proses pengumpulan data dan fakta yang relevan, berupa image, audio, video, dan lain-lainya yang berkaitan dengan konsep/ide perancangan produksi yang akan dilakukan. Pada langkah ini ditentukan bentuk isi cerita yang ingin ditampilkan, informasi properti yang akan digunakan, gambar yang akan ditampilkan baik berupa video, animasi, maupun image, kebutuhan sound/audio, masalah-masalah teknis yang dihadapi, interaksi antara content yang akan dimunculkan, serta navigasi atau link yang akan digunakan pada produk.
+C. Perencanaan Produksi (Production Plan)
+Perencanaan produksi merupakan tahap membuat konsep kerja terhadap apa yang akan dilakukan. Dalam melaksanakan perencanaan produksi, langkah-langkah yang dilakukan adalah pembuatan storyboard content outline., perincian anggaran produksi, jadwal kerja, kebutuhan peralatan, pembentukan anggota tim yang akan bekerja, melakukan evaluasi terhadap langkah-langkah yang telah dilakukan sebelumnya.
+D.  Dokumentasi (Documentation)
+Dokumentansi merupakan sebuaha tahap pengumpulan semua jenis data, baik teks, video, image, ataupun audio. Dalam tahap dokumentasi, dilakukan juga desain produksi dan perencanaan produksi. Dokumentansi meliputi segala hal mengenai data dan
+informasi keseluruhan produksi dari awal produksi hingga akhir produksi yaitu proses penggarapan proyek yang dituturkan secara lisan dan menjadi panduan seluruh proses produksi.
+E. Membantuk Tim (Team Assemble)
+Membentuk tim yaitu melalui pembentukan anggota tim melalui seleksi yang sesuai dengan keutuhan produksi dan diharapkan setiap anggota tim dapat bekerja secara professional sesuai dengan tugasnya masing-masing. Adapaun kebutuhan tim antara lain:
+1)   Desainer;
+2)   Produser
+3)   Desainer teknik;
+4)   Art director;
+5)   Audio producer;
+6)   Penulis;
+7)   Editor;
+8)   Grapichs artist;
+9)   Cameramen;
+10) Programmer;
+11) Pencipta lagu (composer/soun engineer);
+12) Content specialist;
+13) Technical assistant;
+14) Asisten produksi;
+15) Rights dan researcher;
+16) pengacara
+F . Membuat Rancangan Desain (Building Prototype)
+Membuat rancangan desain merupakan sebuah tahap bentuk dasar rancangan/ desain telah dapat diperlihatkan untuk dilakukan tes dan ditentukan layak atau tidak untuk diproduksi. Keputusan ini diambil oleh pimpinan produksi.
+Selanjutnya, proyek ini harus dapat dibuktikan keasliannya dengan dibuatkan hak cipta. Tujuannya ialah agar produk mempunyai kekuatan hokum yang menyatakan produk tersebut baru dan tidak meniru atau menggunakan hak cipta orang lain.
+Langkah terkahir dalam building prototype adalah melakukan brain storming, yaitu membahas rancangan desain yang telah dibuat bersama-sama dengan anggota tim dank lien guna mencari masukan dan pendapat untuk melakukan perbaikan.
+G. Penyempurnaan (Clear Right)
+Penyempurnaan adalah sebuah proses evaluasi dari beberapa tahap sebelumnya. Ketika masuk pada bagian ini, semua tahap yang dlakukan sebelumnya harus seudah benar-benar jelas, dengan melalui kontrol dan koreksi pada tiap-tiap bagian. Diharapkan, setelah tahap ini tidak ada lagi kesalahan/kekurangan yang terjadi.
+H. Penandatanganan Kontrak Dan Pembiayaan (Client Sign Off And Funding)
+Penandatanganan kontrak dan pembiayaan merupakan tahap terakhir dari pra produksi. Pada tahap ini dilakukan penandatanganan kontrak kerja dan pembayaran biaya sesuai dengan kesepakatan antara perusahaan dan pelanggan. Selanjutnya proyek ini siap untuk diproduksi.
+Proses Kerja Pre Production Multimedia
+Secara singkat praproduksi yaitu menentukan ide cerita kemudian mensketsakan beberapa adegan penting ke dalam bentuk naskah cerita.
+Lalu dibuat Storyboard untuk menerjemahkan naskah menjadi cerita yg lebih mendetail. Dibuat Karakter tokoh & background awal. Lalu membuat Keyframe.
+Test Shot, yaitu sebuah rangkaian pendek gambar yang dirender dengan full color untuk memastikan teknik pergerakan dan renderingnya.
+Sebelum proses cells animation sendiri dimulai, dibutuhkan konsep cerita yang harus dibuat dalam bentuk narasi.
+ 
+ 2.    PRODUKSI (PRODUCTION)
+Tahap produksi merupakan tahap implementasi pra-produksi dimana semua anggota tim pengembang multimedia bekerja. Secara umum tahap produksi multimedia adalah sebagai berikut :
+CONTENT CREATION
+ELEMEN, SPECIAL EFFECTS, MUSIC,
+CONTENT PROCESING
+PROOFING, EDITING, ASEMBLY, FORMATING, COMPRESSION
+INTEGRATION OF CONTENT AND SOFTWARE
+TESTING, REVISE, DOCUMENTATION
+REVISE DESIGN
+EVALUATION
+BUILD BETA VERSION
+BUILD ALPHA VERSION
+Konten
+Konten adalah obyek-obyek yang terdapat pada aplikasi yang sedang dikembangkan.
+Pemrosesan isi
+Proofing, editing, assembly, formatting, compression
+Pengintegrasian isi dan software
+Produk harus memudahkan  pengguna untuk mengakses atau menggunakannya, serta software yang digunakan harus up  date
+Merevisi isi dan software
+Menetapkan desain akhir, produk yang terbaik biasanya hasil dari umpan balik (dari tester)yang berkesinambungan dan modifikasi yang diimplemantasikan pada seluruh proses produksi
+Membangun / membuat versi alfa
+Ditetapkannya fungsionalitas, kelengkapan implementasi utama, mengintegrasikan semua modul dalam satu kesatuan.
+Evaluasi :
+Mengevaluasi setiap hambatan yang terjadi, hasil evaluasi harus dibuat catatannya serta catatan antisipasinya ini penting untung pegangan proyek berikutnya yang akan dibahas pada saat memulai proyek selanjutnya, untuk menge-liminir kesalahan serta gangguan
+Merevisi software dan isi berdasarkan evaluasi
+Temuan-temuan dijadikan acuan untuk merevisi kekurangan baik, itu berupa software atau isi.
+Membangun / membuat versi beta
+Versi alfa direvisi dan di launching ulang sebagai versi beta.
+3.    PASCA PRODUKSI 
+Adalah tahap penyelesaian produksi mutimedia menjadi hasil akhir. Tahap Pasca produksi/Post Production diterapkan terutama pada bidang multimedia broadcasting; program television, video, audio recording, photography dan animasi.
+Setelah aplikasi beta diuji dan direvisi, itu memasuki tahap pengemasan. Produk akhir bisa dibakar ke CD-ROM atau dipublikasikan di internet sebagai sebuah konten web.
+BETA TESTING
+PROOF CONTENT, PROOF TESTING, CHECK FOR UNEXPECTED ERRORS
+EVALUATIONN
+ACHIEVE ALL PRODUCTION MATERIAL
+DOCUMENTATION, AFTER SALES,SOURCE ASSET, MASTER DIGITAL FILES, FINAL ASSETS,
+REVISE
+CONTENT AND SOFTWARE
+RELEASE GOLDEN MASTER
+ 
+Evaluasi
+Evaluasi terakhir dilakukan setelah mendapat umpan balik dari beta testing.
+Merevisi 
+Revisi pada pasca produksi berarti melakukan penyesuaian akhir pada produk berdasarkan hasil evaluasi sebelum produk dilaunching.
+Meluncurkan produk jadi
+Produk disebarkan kepada pengguna atau diserahkan kepada klien.

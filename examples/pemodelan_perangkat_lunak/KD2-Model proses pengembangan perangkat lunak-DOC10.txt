@@ -1,0 +1,76 @@
+Ragam Model Proses Pengembangan Perangkat lunak
+Posted: 19 Januari 2016 in Tak Berkategori	
+0
+1). Model Waterfall
+
+Biasa juga disebut siklus hidup perangkat lunak. Mengambil kegiatan dasar seperti spesifikasi, pengembangan, validasi, dan evolusi dan merepresentasikannya sebagai fase-fase proses yang berbeda seperti spesifikasi persyaratan, perancangan perangkat lunak, implementasi, pengujian dan seterusnya.
+
+waterfallmodel.jpgKeterangan di atas adalah sebagai berikut :
+
+Analisis dan Definisi Persyaratan : Pelayanan, batasan, dan tujuan sistem ditentukan melalui konsultasi dengan user sistem.
+Perancangan sistem dan Perangkat Lunak : Proses perancangan sistem membagi persyaratan dalam sistem perangkat keras atau perangkat lunak. Menentukan arsitektur sistem secara keseluruhan.
+Implementasi dan pengujian unit : Perancangan perangkat lunak direalisasikan sebagai serangkaian program atau unit program. Pengujian unit melibatkan verifikasi bahwa setiap unit telah memenuhi spesifikasinya.
+Integrasi dan Pengujian Sistem : Unit program atau program individual diintegrasikan dan diuji sebagai sistem yang lengkap untuk menjamin bahwa persyaratan sistem telah dipenuhi. Setelah pengujian sistem, PL dikirim ke User.
+Operasi dan Pemeliharaan : Biasanya merupakan fase siklus yg paling lama (walaupun tidak seharusnya). Sistem diinstall dan di pakai. Pemeliharaan mencakup koreksi dan berbagai error yg tdk ditemukan pada tahap-tahap sebelumnya, perbaikan atas implementasi unit sistem dan pengembangan pelayanan sistem.
+Kekurangan model waterfall:
+
+Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+Hal ini mengakibatkan sulitnya untuk merespon perubahan kebutuhan pengguna (user).
+Model air terjun harus digunakan hanya ketika persyaratan dipahami dengan baik.
+ 
+
+2). Model Prototype
+
+Prototype adalah proses pembuatan model sederhana software yang mengijinkan pengguna memiliki gambaran dasar tentang program serta melakukan pengujian awal. Prototype memberikan fasilitas bagi pengembang dan pemakai untuk saling berinteraksi selama proses pembuatan, sehingga pengembang dapat dengan mudah memodelkan perangkat lunak yang akan di buat.
+
+Metode ini menyajikan gambaran yang lengkap dari sistem, terdiri atas model kertas, model kerja dan program. Pihak pengembang akan melakukan identifikasi kebutuhan pemakai, menganalisa sistem dan melakukan studi kelayakan serta studi terhadap kebutuhan pemakai, meliputi model interface, teknik prosedural dan teknologi yang akan dimanfaatkan.
+
+prototype-model-1new1.jpg
+
+ Keunggulan model ini adalah sifatnya yang sangat interaktif sehingga pengembang dan pengguna (pemakai) dapat terus berinteraksi selama pengerjaan tahapan–tahapan tersebut. Peran aktif pemakai ini dapat menghemat waktu dalam pengembangan sistem dan bila terdapat kesalahan atau ketidaksesuaian keinginan, pemakai dapat segera memberitahukannya sehingga pengembang dapat secepatnya melakukan penyesuaian.
+
+Kelemahan model ini antara lain, akibat adanya quick design, kadang pemakai tidak menyadari bahwa perangkat lunak yang ditunjukkan masih berupa blue print sehingga tidak ada jaminan terhadap kualitas secara keseluruhan dan pemeliharaan jangka panjangnya. Dari sisi pengembang, karena ingin menyegerakan selesainya proyek, sering menggunakan bahasa pemrograman yang sederhana dalam membuat prototipe tanpa memikirkan lebih lanjut program yang lebih kompleks untuk membangun sistem yang sebenarnya.
+
+Model Prototyping ini sangat sesuai diterapkan untuk kondisi yang beresiko tinggi di mana masalah-masalah tidak terstruktur dengan baik, terdapat fluktuasi kebutuhan pemakai yang berubah dari waktu ke waktu atau yang tidak terduga, bila interaksi dengan pemakai menjadi syarat mutlak dan waktu yang tersedia sangat terbatas sehingga butuh penyelesaian yang segera. Model ini juga dapat berjalan dengan maksimal pada situasi di mana sistem yang diharapkan adalah yang inovatif dan mutakhir sementara tahap penggunaan sistemnya relatif singkat.
+
+ 
+
+3). RAD Model (Rapid Aplication Development)
+
+RAD adalah proses pembangunan Perangkat Lunak yang menekankan pada siklus pengembangan yang pendek dan singkat. Model ini mengawinkan model waterfall dan model component based construction.
+
+rad1.gif
+
+Kelebihan model RAD: tahap-tahap RAD membuatnya mampu untuk menggunakan kembali komponen yang ada (reusable object), karena setiap komponen software dikerjakan secara terpisah dengan tim-tim tersendiri sehingga dapat digunakan juga untuk aplikasi lain yang pada akhirnya akan menghemat waktu.  Penggunaan tim yang terpisah untuk mengerjakan pekerjaan yang berbeda membuat pekerjaan lebih cepat dalam proses integrasi dan efisien terhadap waktu tanpa mengacaukan aplikasi.
+
+Kelemahan model RAD: Tidak begitu cocok untuk proyek dengan skala besar karena dibutuhkan sumber daya manusia yang semakin banyak seiring dengan semakin banyaknya komponen yang dikerjakan, selain itu, semakin besar proyek, semakin kompleks pula koordinasi yang dibutuhkan.  Dalam waktu yang singkat, rasanya sulit untuk pengembang dan pemakai berkomitmen untuk melaksanakan berbagai kegiatan untuk melengkapi sistem. Apalagi bila sistem ternyata tidak dapat dimodularisasi sementara sistem mempunyai resiko teknik yang tinggi.
+
+Model RAD sangat tepat diterapkan untuk sistem yang telah jelas dan lengkap kebutuhannya, di mana terdapat komponen-komponen yang dapat dipakai kembali dalam proyek yang berskala kecil dengan waktu pengembangan perangkat lunak yang singkat.
+
+ 
+
+4). Spiral Model
+
+Model ini mengadaptasi dua model perangkat lunak yang ada yaitu model prototyping dengan pengulangannya dan model waterfall dengan pengendalian dan sistematikanya.  Model ini dikenal dengan sebutan Spiral Boehm. Pengembang dalam model ini memadupadankan beberapa model umum tersebut untuk menghasilkan produk khusus atau untuk menjawab persoalan-persoalan tertentu selama proses pengerjaan proyek.
+
+spiral-process-a-software-designing-model2.jpg
+
+Kelebihan model ini adalah sangat mempertimbangkan resiko kemungkinan munculnya kesalahan sehingga sangat dapat diandalkan untuk pengembangan perangkat lunak skala besar. Pendekatan model ini dilakukan melalui tahapan-tahapan yang sangat baik dengan menggabungkan model waterfall ditambah dengan pengulangan-pengulangan sehingga lebih realistis untuk mencerminkan keadaan sebenarnya. Baik pengembang maupun pemakai dapat cepat mengetahui letak kekurangan dan kesalahan dari sistem karena proses-prosesnya dapat diamati dengan baik.
+
+Kekurangan model ini adalah waktu yang dibutuhkan untuk mengembangkan perangkat lunak cukup panjang demikian juga biaya yang besar. Selain itu, sangat tergantung kepada tenaga ahli yang dapat memperkirakan resiko. Terdapat pula kesulitan untuk mengontrol proses. Sampai saat ini, karena masih relatif baru, belum ada bukti apakah metode ini cukup handal untuk diterapkan.
+
+Model Boehm sangat cocok diterapkan untuk pengembangan sistem dan perangkat lunak skala besar di mana pengembang dan pemakai dapat lebih mudah memahami kondisi pada setiap tahapan dan bereaksi terhadap kemungkinan terjadinya kesalahan. Selain itu, diharapkan juga waktu dan dana yang tersedia cukup memadai.
+
+ 
+
+5).  Model Teknik Generasi ke-4/4GT
+
+Istilah Fourth Generation Techniques (4GT) mencakup seperangkat peralatan perangkat lunak yang berfungsi sebagai perangkat bantu yang memudahkan seorang pengembang software mengaplikasi beberapa karakteristik software pada tingkat yang tinggi, yang akan menghasilkan source code dan object code secara otomatis sesuai dengan spesifikasi (persyaratan khusus) yang dibuat oleh sang pengembang perangkat lunak.
+
+4g1.gif Dewasa ini, 4GT tools dipakai sebagai bahasa non prosedur untuk DataBase Query, Pembentukan laporan (Report Generation), Manipulasi data, Definisi dan interaksi layar (screen), Pembentukan object dan source (Object and source generation ), Kemampuan grafik yang tinggi, dan Kemampuan spreadsheet.
+
+Kelebihan model ini adalah pengurangan waktu dan peningkatan produktivitas yang besar.
+
+Kekurangan model ini adalah kemungkinan akan sulit memanfaatkan alat bantu/peralatan/tools 4GT dibandingkan dengan menggunakan bahasa pemrograman yang konvensional, selain itu terdapat juga masalah dalam hal kode sumber yang tidak efisien. Di samping itu, pemeliharaan sistem software besar yang dikembangkan oleh 4GT juga masih sedang dalam proses pengkajian.
+
+Model ini diaplikasikan untuk mengembangkan perangkat lunak yang memakai bentuk bahasa khusus atau notasi grafik yang dieksekusi/diselesaikan dengan syarat atau ketentuan yang dipahami oleh pemakai/pengguna/kustomer.

@@ -1,0 +1,41 @@
+Pengertian Entity Relationship Diagram (ERD)
+ Ibeng  12:59:00 AM
+Pengertian Entity Relationship Diagram (ERD)
+Pengertian Entity Relationship Diagram (ERD) - ERD adalah suatu model untuk menjelaskan mengenai hubungan antar data dalam basis data berdasarkan objek-objek dasar data yang memiliki hubungan antar relasi. Entity Relationship Diagram oyi untuk memodelkan struktur data serta hubungan antar data, untuk dapat menggambarkannya digunakan beberapa notasi serta simbol.
+
+Pengertian Entity Relationship Diagram (ERD)
+Pengertian Entity Relationship Diagram (ERD)
+
+baca juga artikel terkait , pengertian Basis data menurut para ahli . Menurut Brady serta Loonam (2010), Entity Relationship diagram adalah suatu teknik yang digunakan untuk dapat memodelkan kebutuhan data dari sebuah organisasi, biasanya oleh System Analys didalam tahap analisis persyaratan proyek pengembangan sistem .
+
+Komponen Penyusun Entity Relationship Diagram (ERD) - Komponen dalam menyusun Entity Relationship Diagram (ERD) antara lain sebagai berikut :
+Entitas merupakan suatu objek dalam dunia nyata yang bisa dibedakan dengan objek lain, sebagai contoh murid ,guru ,yayasan . Entitias tersebut terdiri dari beberapa atribut sebagai contoh , 
+atribut dari entitas murid ialah 
+NIS,
+nama ,
+alamat ,
+umur , dan lain sebagainya
+Atribut NIS adalah atribut yang unik yang digunakan untuk mengidentifikasikan atau  membedakan siswa dengan siswa yang lain . Pada tiap-tiap entitas harus memiliki 1 atribut unik yang dikenal dengan  sebutan primary key.
+
+Pengertian Atribut dalam Entity Relationship Diagram (ERD)
+pendidikanku - Atribut merupakan entitas pasti yang memiliki elemen yang berfungsi untuk dapat mendeskripsikan karakteristik dari suatu entitas tersebut seperti contoh di atas . Isi dari atribut tersebut memiliki sesuatu yang bisa mengidentifikasikan isi elemen yang satu dengan yang lainnya. 
+
+Terdapat dua jenis Atribut antara lain sebagai berikut :
+Identifier (key) yang berfungsi sebagai penentu entity  secara unik (primary key).
+Descriptor (nonkey attribute) digunakan untuk dapat menspesifikasikan karakteristik dari sebuah entity yang tidak unik.
+Relasi adalah suatu hubungan antara beberapa entitas. contoh relasi antar mahasiswa dengan mata kuliah atau pelajaran yang diambil ,  yang mana pada tiap-tiap mahasiswa dapat mengambil beberapa mata kuliah serta setiap mata kuliah itu juga bisa diambil \lebih dari 1 mahasiswa. relasi itu mempunyai hubungan banyak ke banyak (one-to-many).
+
+himpunan relasi antar entitias p, emetaan kardiniliat terdiri dari :
+one-to-one 
+one-to-many 
+many-to-many 
+Berikut merupakan metode atau tahap untuk dapat membuat ERD :
+Menentukan Entitas
+Menentukan Relasi
+Menggambar ERD sementara
+Mengisi Kardinalitas
+Menentukan Kunci Utama
+Menggambar ERD berdasar Key
+Menentukan Atribut
+Memetakan Atribut
+Menggambar ERD dengan Atribut

@@ -1,0 +1,85 @@
+Bentuk-Bentuk Array
+Filed under: Uncategorized — Tinggalkan komentar Januari 6, 2012
+1. Array Satu Dimensi
+
+Array satu dimensi yaitu kumpulan elemen-elemen identik yang hanya terdiri dari satu baris atau hanya satu kolom saja alamat penyimpanan data (indeks). Elemen-elemen tersebut memiliki tipe data yang sama, tetapi isi dari elemen tersebut boleh berbeda.
+
+Bentuk umum :
+
+Tipe_data namaArray[n] = {elemen0, elemen1, elemen2,…..,n};
+
+n = jumlah elemen
+
+contoh pada progam : int ukur[5] = {39, 40. 41, 38, 40};
+
+–      int adalah tipe data yang berupa bilangan bulat.
+
+–      Ukur adalah nama variabel array.
+
+–      [5] adalah ukuran untuk menyatakan jumlah maksimal elemen array.
+
+–      {..} adalah tempat pemberian nilai/elemen array.
+
+ 
+
+2. Array Dua Dimensi
+
+Array dua dimensi sering digambarkan sebagai sebuah matriks, merupakan perluasan dari array satu dimensi. Jika array satu dimensi hanya terdiri dari sebuah baris dan beberapa kilom elemen, maka array dua dimensi terdiri dari beberapa baris dan beberapa kolom elemen bertipe sama sehingga dapat digambarkan sebagai berikut :
+
+Bentuk umum :
+
+Tipe_data namaArray [m][n] = {{a,b,…z},{1,2,…,n-1}};
+
+contoh : int lulus[4][3];
+
+–      Nilai 4 untuk menyatakan banyaknya baris dan 3 untuk menyatakan banyaknya kolom.
+
+Pendeklarasian array dua dimensi hampir sama dengan pendeklarasian array satu dimensi, kecuali bahwa array dua dimensi terdapat dua jumlah elemen yang terdapat dikurung kurung siku dan keduanya boleh tidak sama. Elemen array dua dimensi diakses dengan menuliskan kedua indeks elemennya dalam kurung.
+
+Pemetaan (mapping) array dua dimensi ke storage :
+
+Terbagi dua cara pandang (representasi) yang berbeda :
+
+@M[i][j] = M[0][0] + {(j – 1) * K + (i – 1)} * L
+
+Secara kolom per kolom (coloumn major order / CMO)
+
+ 
+
+@M[i][j] = M[0][0] + {(i – 1) * N + (j – 1)} * L
+
+Secara baris per baris (row major order / RMO)
+
+ 
+
+Keterangan    :
+
+–    @M[i][j] = Posisi array yang di cari.
+
+–    M[0][0] = Posisi alamat awal indeks array.
+
+–    i = Baris
+
+–    j = Kolom
+
+–    L = Ukuran memory type data
+
+–    K = Banyaknya elemen per kolom
+
+–    N = Banyaknya elemen per baris.
+
+ 
+
+3. Array MultiDimensi
+
+Array ini seperti array dimensi dua tetapi dapat memiliki ukuran yang lebih besar. Sebenarnya array dimensi banyak ini tidak terlalu sering digunakan, tetapi sewaktu-waktu kalau dimensi yang dibutuhkan banyak, maka array ini sangat memegang peranan yang penting.
+
+Bentuk umum pendeklarasian array multidimensi :
+
+Tipe_data namaArray[ukuran1][ukuran2]…[ukuranN];
+
+Sebagai contoh :
+
+int data_huruf[2][8][8];
+
+contoh di atas merupakan pendeklarasian array data_huruf sebagai array berdimensi tiga.

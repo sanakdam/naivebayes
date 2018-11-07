@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Klasifikasi Sumber Belajar Mata Pelajaran SMK</title>
+
+    <!-- Bootstrap -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  	<div class="container">
+  		<ul class="nav nav-pills nav-justified">
+		  	<li>
+		  		<h1 class="text-center">Klasifikasi Sumber Belajar Mata Pelajaran SMK</h1>
+		  		<ul class="nav nav-tabs nav-justified">
+		  			<li>
+				  		<a href="/">DATA</a>
+				  	</li>
+				  	<li class="active">
+				  		<a href="{{ url_for('preprocessing') }}">PREPROCESSING</a>
+				  	</li>
+				  	<li>
+				  		<a href="{{ url_for('klasifikasi') }}">KLASIFIKASI</a>
+				  	</li>
+		  		</ul>
+          <ul class="nav nav-pills nav-justified">
+            <li>
+              <a href="{{ url_for('train') }}">Proses</a>
+            </li>
+          </ul>
+		  	</li>
+		  </ul>
+      
+      <div style="border: 2px solid grey; border-radius: 5px;" class="container row">
+        <div class="col-md-12" style="clear: both;">
+          {% if result %}
+            <div id="myGroup">
+              <ul class="nav nav-pills nav-justified">
+                <li>
+                  <a data-toggle="collapse" data-target="#tokenisasi" data-parent="#myGroup">Tokenisasi</a>
+                </li>
+                <li>
+                  <a data-toggle="collapse" data-target="#stopword" data-parent="#myGroup">Stopword Removal</a>
+                </li>
+                <!-- <li>
+                  <a data-toggle="collapse" data-target="#stemming" data-parent="#myGroup">Stemming</a>
+                </li> -->
+                <li>
+                  <a data-toggle="collapse" data-target="#pembobotan" data-parent="#myGroup">Pembobotan</a>
+                </li>
+              </ul>
+
+              <div class="accordion-group">
+                <div class="collapse indent" id="tokenisasi">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>Hasil Tokenisasi</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for token in result['tokenize'] %}
+                        <tr>
+                          <td>{{token}}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+                
+                <div class="collapse indent" id="stopword">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>Hasil Stopword Removal</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for stopword, value in result['stopword'].iteritems() %}
+                        <tr>
+                          <td>{{value}}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+<!-- 
+              <div class="accordion-group">
+                <div class="collapse indent" id="stemming">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>Hasil Stemming</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for token in result['stemming'] %}
+                        <tr>
+                          <td>{{token}}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div> -->
+                
+                <div class="collapse indent" id="pembobotan">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <th>Kata</th>
+                        <th>Bobot</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for word, value in result['word_counts'].iteritems() %}
+                        {% for n, v in value.iteritems() %}
+                          <tr>
+                            <td>{{n}}</td>
+                            <td>{{v}}</td>
+                          </tr>
+                        {% endfor %}
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+            </div>
+          {% else %}
+            <h1 class="text-center">
+              <span class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span>
+            </h1>
+          {% endif %}
+        </div>
+      </div>
+  	</div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript">
+      jQuery('button').click( function(e) {
+          jQuery('.collapse').collapse('hide');
+      });
+    </script>
+  </body>
+</html>

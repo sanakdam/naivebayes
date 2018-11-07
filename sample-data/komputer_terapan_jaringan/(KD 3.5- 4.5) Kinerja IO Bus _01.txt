@@ -1,0 +1,109 @@
+Kinerja I/O BUS pada Komputer Terapan Jaringan
+ komjar
+
+NAMORZ - Oke sobat, kali ini kita akan membahas tentang Kinerja I/O BUS pada mata pelajaran Komputer Terapan Jaringan.Mungkin ini juga merupakan artikel pertama saya tentang Komputer Terapan Jaringan.Nah, tujuan kita belajar kinerja I/O BUS pada kali ini adalah untuk memahami kinerja dari I/O BUS.Semoga yang saya Share ini bisa bermanfaat untuk sobat yang ingin belajar mengenai hal tersebut.Oke, langsung saja kita mulai.
+
+
+
+
+
+BUS Masukan
+Oke, yang pertama kita akan membahas tentang Input/Masukkan.Apa itu Input? Input adalah semua data dan perintah yang dimasukkan ke dalam memori komputer untuk selanjutnya diproses lebih lanjut oleh prosesor.Nah, sebuah perangkat input itu biasanya berbentuk komponen piranti keras yang memungkinkan user atau pengguna memasukkan data ke dalam komputer atau kita juga bisa sebut juga sebagai unit luar yang digunakan untuk memasukkan data dari luar ke dalam mikroprosesor.
+
+
+
+BUS Keluaran
+Yang kedua ada terusan dari yang pertama, yang kedua ini adalah Output/Keluaran.Apa itu Output? Output adalah data yang di proses menjadi bentuk yang dapat digunakan.Apa maksudnya? maksudnya adalah Komputer nantinya akan memproses data-data yang diinputkan menjadi sebuah informasi.Nah, yang disebut perangkat Output/Keluaran adalah semua komponen piranti keras yang menyampaikan informasi kepada orang-orang yang menggunakannya.
+
+
+
+Spesifikasi Dan Karakteristik BUS
+
+
+Setelah kita membahas 2 hal penting dari materi ini yaitu Input dan Output, kita akan membahas juga hal yang tidak kalah penting yaitu tentang Spesifikasi dan Karakteristik dari BUS.Sebuah BUS sistem ternyata terdiri dari 50 sampai 100 saluran yang terpisah loh sobat, dan masing-masing saluran ditandai dengan arti dan fungsi khusus.Walaupun terdapat sejumlah rancangan bus yang berbeda, fungsi saluran bus ternyata dapat dibagi menjadi 3 kelompok, yaitu :
+
+a. Saluran Data
+Pertama saluran data atau Data BUS, fungsinya adalah memberikan lintasan bagi perpindahan data antara 2 modul sistem.Saluran ini secara kolektif disebut BUS Data dan umumnya terdiri dari 8, 16, dan 32 saluran serta jumlah saluran diaktifkan dengan lebar BUS Data.
+
+b. Saluran Alamat
+Kedua yaitu saluran alamat atau Address BUS, fungsinya adalah untuk menandakan sumber atau tujuan data pada BUS Data.Misalnya, bila CPU akan membaca sebuah word data dari memori, maka CPU akan menaruh alamat word yang dimaksud pada saluran alamat.Lebar Address BUS akan menentukan kapasitas memori maksimum sistem.
+
+c. Saluran Kontrol
+Dan yang ketiga yaitu Saluran Kontrol atau Control BUS, fungsinya untuk mengontrol akses ke saluran dan penggunaan data dan juga saluran alamat.Karena data dan saluran alamat dipakai bersama oleh seluruh komponen, maka harus ada alat untuk mengontrol penggunanya bukan? untuk itulah Control BUS ini diperlukan.
+
+Karakteristik
+
+
+Persyaratan dan Ketentuan Penggunaan BUS
+a. Syarat utama BUS adalah dari media transmisi yang dapat digunakannya bersama dengan sejumlah perangkat yang terhubung padanya.Meskipun digunakan secara bersamaan, ternyata penggunaan jalur ini hanya diperuntukkan untuk 1 perangkat pada waktu yang sama sehingga diperlukan aturan dalam kerjanya untuk menghindari terjadinya tabrakan data yang sedang ditransmisikan.
+b. Harus memenuhi Syarat Sistem Komputer Minimal.Bagi sobat yang belum tau atau ingin tau syaratnya adalah sebagai berikut :
+
+1. Input Device (Alat Masukan)
+Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer.
+2. Output Device (Alat Keluaran)
+Adalah perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), ataupun berupa suara.
+3. I/O Ports
+Bagian ini digunakan untuk menerima ataupun mengirim data ke luar sistem. Peralatan input dan output di atas terhubung melalui port ini.
+4. CPU (Central Processing Unit)
+CPU merupakan otak sistem komputer, dan memiliki dua bagian fungsi operasional, yaitu: ALU (Arithmetical Logical Unit) sebagai pusat pengolah data, dan CU (Control Unit) sebagai pengontrol kerja komputer.
+5. Memori
+Memori terbagi menjadi dua bagian yaitu memori internal dan memori eksternal. Memori internal berupa RAM (Random Access Memory) yang berfungsi untuk menyimpan program yang kita olah untuk sementara waktu, dan ROM (Read Only Memory) yaitu memori yang haya bisa dibaca dan berguna sebagai penyedia informasi pada saat komputer pertama kali dinyalakan.
+6. Data Bus
+Adalah jalur-jalur perpindahan data antar modul dalam sistem komputer. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit data, maka jumlah saluran menentukan jumlah bit yang dapat ditransfer pada suatu saat. Lebar data bus ini menentukan kinerja sistem secara keseluruhan. Sifatnya bidirectional, artinya CPU dapat membaca dan menirma data melalui data bus ini. Data bus biasanya terdiri atas 8, 16, 32, atau 64 jalur paralel.
+7. Address Bus
+Digunakan untuk menandakan lokasi sumber ataupun tujuan pada proses transfer data. Pada jalur ini, CPU akan mengirimkan alamat memori yang akan ditulis atau dibaca. Address bus biasanya terdiri atas 16, 20, 24, atau 32 jalur paralel.
+8. Control Bus
+Control Bus digunakan untuk mengontrol penggunaan serta akses ke Data Bus dan Address Bus. Terdiri atas 4 samapai 10 jalur paralel
+
+ULANGAN HARIAN KOMPUTER TERAPAN
+1. Jelaskan yang dimaksud dengan protocol jaringan pada komputer terapan!
+2. Jelaskan protocol RS-232 dan RS-485!
+3. Jelaskan yang dimaksud dengan USB dan sebutkan 3 proses transaksi pada USB!
+4. Sebutkan dan jelaskan secara singkat 3 jenis BUS!
+5. Sebutkan 2 syarat dan ketentuan pada BUS!
+
+Jawab 
+
+1. Protokol jaringan adalah suatu aturan yang telah di set untuk bisa mengatur sebuah komunikasi online yang terdiri dari beberapa komputer yang terdapat pada suatu jaringan.
+
+2. Protokol RS 232 adalah protokol yang digunakan PC untuk melakukan komunikasi dengan perangkat lain secara serial. Sistem komunikasi RS 232 adalah one to one, artinya hanya bisa melayani 2 device yang saling berkomunikasi.RS 232 beroperasi pada mode full duplex, artinya dapat melakukan pengiriman dan penerimaan data secara bersamaan karena menggunakan jalur transmitter dan receiver yang terpisah.
+
+Protokol RS 485 dikembangkan tahun 1983 memiliki kemampuan berkomunikasi one to many, artinya mengijinkan sebuah komputer menggunakan jalur yang sama untuk berhubungan dengan beberapa slave device. Mode transmisi RS 485 adalah balanced differential, artinya pengiriman dan penerimaan data menggunakan 2 kabel yang saling inverting, jika kabel A bernilai high, maka kabel B pasti bernilai low. Hal ini dimaksudkan untuk menjaga resiko noise akibat gangguan medan elektromagnet dalam proses transmisinya.
+
+3. USB (Universal Serial Bus) adalah singkatan dari Universal Serial Bus. USB merupakan suatu teknologi yang memungkinkan kita untuk menghubungkan alat eksternal (peripheral) seperti scanner, printer, mouse, papan ketik (keyboard), alat penyimpan data (zip drive), flash disk, kamera digital atau perangkat lainnya ke komputer kita.
+
+Proses Transaksi USB itu adalah :
+1. Paket token/sinyal penanda (header yang menjelaskan data yang mengikutinya).
+2. Pilihan paket data (termasuk tingkat muatan).
+3. Status paket (untuk pemberitahuan hasil transaksi dan untuk koreksi kesalahan).
+
+4. BUS PROSESOR.
+Bus ini merupakan bus tercepat dalam sistem dan menjadi bus inti dalam chipset dan motherboard. Bus ini utamanya digunakan oleh prosesor untuk meneruskan informasi dari prosesor ke cache atau memori utama ke chipset kontrolir memori (Northbridge, MCH, atau SPP).
+
+BUS AGP (ACCELERATED GRAPHIC PORT).
+Bus ini merupakan bus yang didesain secara spesifik untuk kartu grafis. Bus ini berjalan pada kecepatan 66 MHz (mode AGP 1x), 133 MHz (mode AGP 2x), atau 533 MHz (mode AGP 8x) pada lebar jalur 32-bit, sehingga bandwidth maksimum yang dapat diraih adalah 2133 MByte/s.
+
+BUS PCI (PERIPHERALS COMPONENT INTERCONNECT).
+Bus PCI tidak tergantung prosesor dan berfungsi sebagai bus peripheral. Bus ini memiliki kinerja tinggi untuk sistem I/O berkecepatan tinggi. Bus ini berjalan pada kecepatan 33 MHz dengan lebar lajur 32-bit.
+
+5.  
+a. Syarat utama BUS adalah dari media transmisi yang dapat digunakannya bersama dengan sejumlah perangkat yang terhubung padanya.Meskipun digunakan secara bersamaan, ternyata penggunaan jalur ini hanya diperuntukkan untuk 1 perangkat pada waktu yang sama sehingga diperlukan aturan dalam kerjanya untuk menghindari terjadinya tabrakan data yang sedang ditransmisikan.
+
+b. Harus memenuhi Syarat Sistem Komputer Minimal.Bagi sobat yang belum tau atau ingin tau syaratnya adalah sebagai berikut :
+
+1. Input Device (Alat Masukan)
+Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer.
+2. Output Device (Alat Keluaran)
+Adalah perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), ataupun berupa suara.
+3. I/O Ports
+Bagian ini digunakan untuk menerima ataupun mengirim data ke luar sistem. Peralatan input dan output di atas terhubung melalui port ini.
+4. CPU (Central Processing Unit)
+CPU merupakan otak sistem komputer, dan memiliki dua bagian fungsi operasional, yaitu: ALU (Arithmetical Logical Unit) sebagai pusat pengolah data, dan CU (Control Unit) sebagai pengontrol kerja komputer.
+5. Memori
+Memori terbagi menjadi dua bagian yaitu memori internal dan memori eksternal. Memori internal berupa RAM (Random Access Memory) yang berfungsi untuk menyimpan program yang kita olah untuk sementara waktu, dan ROM (Read Only Memory) yaitu memori yang haya bisa dibaca dan berguna sebagai penyedia informasi pada saat komputer pertama kali dinyalakan.
+6. Data Bus
+Adalah jalur-jalur perpindahan data antar modul dalam sistem komputer. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit data, maka jumlah saluran menentukan jumlah bit yang dapat ditransfer pada suatu saat. Lebar data bus ini menentukan kinerja sistem secara keseluruhan. Sifatnya bidirectional, artinya CPU dapat membaca dan menirma data melalui data bus ini. Data bus biasanya terdiri atas 8, 16, 32, atau 64 jalur paralel.
+7. Address Bus
+Digunakan untuk menandakan lokasi sumber ataupun tujuan pada proses transfer data. Pada jalur ini, CPU akan mengirimkan alamat memori yang akan ditulis atau dibaca. Address bus biasanya terdiri atas 16, 20, 24, atau 32 jalur paralel.
+8. Control Bus
+Control Bus digunakan untuk mengontrol penggunaan serta akses ke Data Bus dan Address Bus. Terdiri atas 4 samapai 10 jalur paralel

@@ -1,0 +1,159 @@
+RAGAM MODEL PROSES PENGEMBANGAN PERANGKAT LUNAK
+Pemodelan Perangkat Lunak banyak macamnya, berikut 7 model Pengembangan Perangkat Lunak yang akan saya jelaskan sebagai berikut;
+
+Model  Waterfall
+1
+
+ 
+
+Pada model Waterfall atau disebut  model air terjun, ada beberapa fase yang harus kita terapkan, yaitu:
+
+Analisi kebutuhan lalu pendefenisiannya
+Perancangan Sistem dan Perangkat lunaknya
+Implementasi dan unit testing
+Integrasi dan pengujian system
+Pengoprasian dan persawatan
+Sebuah proses akan kembali ke state sebulumnya agar tidak ada perubahan setelah proses menuju state di bawahnya sebab sangat sulit.
+
+Kekurangan Model Waterfall:
+
+Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+Hal ini mengakibatkan sulitnya untuk merespon perubahan kebutuhan pengguna (user).
+Model air terjun harus digunakan hanya ketika persyaratan dipahami dengan baik.
+ 
+
+Kelebihan Model Waterfall:
+
+Bisa digunakan jika suatu persyaratan untuk membuat suatu software sudah dipahami dengan baik dan sudah lengkap semua persyaratan yang ada.
+
+2. Model Prototype
+2
+
+ 
+
+Metode prototyping adalah sistem informasi yang menggambarkan hal-hal penting dari sistem informasi yang akan datang. Prototipe sistem informasi bukanlah merupakan sesuatu yang lengkap, tetapi sesuatu yang harus dimodifikasi kembali, dikembangkan, ditambahkan atau digabungkan dengan sistem informasi yang lain bila perlu.
+
+ 
+
+Prototyping terbagi 4, yaitu:
+
+Feasibility prototyping– untuk menguji kelayakan dari teknologi yang akan digunakan untuk system informasi yang akan disusun.
+Requirement prototyping– untuk mengetahui kebutuhan aktivitas bisnis user.
+Desain Prototyping– untuk mendorong perancangan system informasi yang akan digunakan.
+Implementation prototyping – lanjutan dari rancangan protipe, prototype ini langsung disusun sebagai suatu system informasi yang akan digunakan.
+ 
+
+Keunggulan Prototyping:
+
+User dapat berpartisipasi aktif
+Penentuan kebutuhan lebih mudah diwujudkan
+Mempersingkat waktu pengembangan SI
+ 
+
+Kelemahan Prototyping :
+
+Proses analisis dan perancangan terlalu singkaT
+Mengesampingkan alternatif pemecahan masalah
+Bisanya kurang fleksible dalam mengahadapi perubahan
+Prototype yang dihasilkan tidak selamanya mudah dirubah
+Prototype terlalu cepat selesai
+3. Model RAD
+
+ RAD
+
+ 
+
+ 
+
+Rapid Aplication Model (RAD) adalah sebuah proses perkembangan perangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek. Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
+
+ 
+
+Kelebihan Penggunaan Model RAD
+
+Dimungkinkan dalam proses pembuatan membutuhkan waktu yang sangat singkat (60-90 hari).
+Menghemat biaya, karena penekannya adalah penggunaan komponen-komponen yang sudah ada.
+RAD menggunakan kembali komponen-komponen yang sudah ada, maka beberapa komponen program sudah diuji sehingga kita dapat melakukan penghematan waktu dalam uji coba
+ 
+
+ 
+
+Kekurangan Penggunaan Model RAD
+
+Seperti semua proses model yang lain, pendekatan RAD memiliki kekurangan-kekurangan
+
+sebagi berikut :
+
+Bagi proyek yang besar tetapi berskala, RAD memerlukan sumber daya manusia yang memadai untuk menciptakan jumlah tim RAD yang baik.
+RAD menuntut pengembangan dan pelanggan yang memiliki komitmen di dalam aktifitas rapid-fire yang diperlukan untuk melengkapi sebuah sistem, di dalam kerangka waktu yang sangat diperpendek. Jika komitmen tersebut tidak ada, proyek RAD akan gagal. RAD menekankan perkembangan komponen program yang bisa dipakai kembali. Reusable menjadi batu pertama teknologi objek dan ditemui di dalam proses rakitan komponen
+Tidak semua aplikasi sesuai untuk RAD. Bila sistem tidak dapat dimodulkan dengan teratur, pembangunan komponen penting pada RAD akan menjadi sangat problematis.
+RAD menjadi tidak sesuai jika risiko teknisnya tingggi. Hal ini terjadi bila sebuah aplikasi baru memforsir teknologi baru atau bila perangkat lunak baru membutuhkan tingkat interoperabilitas yang tinggi dengan program komputer yang ada.
+4. Model Spiral
+
+ spiral1
+
+ 
+
+ 
+
+Model ini cukup baru ditemukan,yaitu tahun 1988 oleh Barry Boehm. Spiral adalah salah satu bentuk evolusi yang menggunakan metode iterasi natural yang dimiliki oleh model prototyping dan digabungkan dengan aspek sistematis yang dikembangkan model waterfall.
+
+ 
+
+Berikut adalah aktivitas-aktivitas yang dilakukan dalam spiral model :
+
+Customer communication.Aktivitas yang dibutuhkan untuk membangun komunikasi yang efektif antara developer dengan user / customer terutama mengenai kebutuhan dari customer.
+Aktivitas perencanaan ini dibutuhkan untuk menentukan sumberdaya, perkiraan waktu pengerjaan, dan informasi lainnya yang dibutuhkan untuk pengembangan software.
+Analysis risk. Aktivitas analisis resiko ini dijalankan untuk menganalisis baik resiko secara teknikal maupun secara manajerial. Tahap inilah yang mungkin tidak ada pada model proses yang juga menggunakan metode iterasi, tetapi hanya dilakukan pada spiral model.
+Aktivitas yang dibutuhkan untuk membangun 1 atau lebih representasi dari aplikasi secara teknikal.
+Construction & Release.Aktivitas yang dibutuhkan untuk develop software, testing, instalasi dan penyediaan user / costumer support seperti training penggunaan software serta dokumentasi seperti buku manual penggunaan software.
+Customer evaluation.Aktivitas yang dibutuhkan untuk mendapatkan feedback dari user / customer berdasarkan evaluasi mereka selama representasi software pada tahap engineering maupun pada implementasi selama instalasi software pada tahap construction and release.
+ 
+
+Kelebihan model Spiral :
+
+Dapat disesuaikan agar perangkat lunak bisa dipakai selama hidup  perangkat lunak komputer.
+Lebih cocok untuk pengembangan sistem dan perangkat lunak skala besar
+Pengembang dan pemakai dapat lebih mudah memahami dan bereaksi terhadap resiko setiap   tingkat evolusi karena perangkat lunak terus bekerja selama proses
+Kelemahan model Spiral:
+
+Sulit untuk menyakinkan pelanggan bahwa pendekatan evolusioner ini bisa dikontrol.
+Memerlukan penaksiran resiko yang masuk akal dan akan menjadi masalah yang serius jika resiko mayor tidak ditemukan dan diatur.
+Butuh waktu lama untuk menerapkan paradigma ini menuju kepastian yang absolute.
+5. Fourth Generation Techniques (4GT)
+
+ 5
+
+ 
+
+ 
+
+Istilah generasi keempat, mengarah ke perangkat lunak yang umum yaitu tiap pengembang perangkat lunak menentukan beberapa karakteristik perangkat lunak pada level tinggi.Saat ini pengembangan perangkat lunak yang mendukung 4GT, berisi tool-tool berikut :
+
+Bahasa non prosedural untuk query basis data;
+report generation
+Data manipulation
+Interaksi layar
+Kemampuan grafik level tinggi
+Kemampuan spreadsheet .
+Tiap tool ini ada tapi hanya untuk sauatu aplikasi khusus.
+ 
+
+Menggunakan perangkat bantu (tools) yang akan membuat kode sumber secara otomatis berdasarkan spesifikasi dari pengembang perangkat lunak. Hanya digunakan untuk menggunakan perangkat lunak yang menggunakan bahasa khusus atau notasi grafik yang diselesaikan dengan syarat yang dimengerti pemakai. Cakupan aktivitas 4GT :
+
+ 
+
+Pengumpulan kebutuhan, idealnya pelanggan akan menjelaskan kebutuhan yang akan ditranslasikan ke prototipe operasional.
+Translasi kebutuhan menjadi prototipe operasional, atau langsung melakukan implementasi secara langsung dengan menggunakan bahasa generasi keempat (4GL) jika aplikasi relatif kecil.
+Untuk aplikasi yang cukup besar, dibutuhkan strategi perancangan sistem walaupun 4GL akan digunakan.
+Membuat dokumentasi.
+Melaksanakan seluruh aktivitas untuk mengintegrasikan solusi-solusi yang membutuhkan paradigma rekayasa perangkat lunak lainnya.
+ 
+
+Salah satu keuntungan penggunaan model 4GT adalah pengurangan waktu dan peningkatan produktivitas secara besar, sementara kekurangannya terletak pada kesulitan penggunaan perangkat bantu (tools) dibandingkan dengan bahasa pemrograman, dan juga kode sumber yang dihasilkannya tidak efisien.
+
+ 
+
+ 
+
+Untuk aplikasi yang yang kecil, adalah mungkin untuk langsung berpindah dari pengumpulan kebutuhan ke implementasi dengan menggunakan 4GL. Tapi untuk aplikasi yang besar, dibutuhkan pengembangan strategi desain untuk sistem, walau digunakan 4GL. Penggunaan 4GT tanpa perencanaan yang matang (untuk proyek skala besar) akan meyebabkan kesulitan yang sama (kualitas dan pemeliharaan yang jelek, ketidakpuasan pelanggan) seperti dengan metode konvensional.

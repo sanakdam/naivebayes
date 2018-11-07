@@ -1,0 +1,253 @@
+1.    Pengertian Animasi Komputer
+Animasi komputer (CGI animation )adalah seni membuat gambar bergerak dengan menggunakan komputer. animasi komputer merupakan bagian dari Grafika komputer dan animasi. Grafika komputer (Computer Graphic) dapat diartikan sebagai seperangkat alat yang terdiri dari hardware dan software untuk membuat gambar, grafik atau citra realistik untuk seni, game komputer, foto dan animasi komputer. Follow Through and Overlapping Action
+
+2. Perkembangan Animasi Komputer
+     Perkembangan Dunia Animasi Dunia Animasi Komputer Menggairahkan Perkembangan dunia animasi komputer yang pesat dewasa ini memerlukan waktu puluhan tahun dalam proses penciptaaannya. Animasi secara harfiah berarti membawa hidup atau bergerak. Secara umum, menganimasi suatu objek memiliki makna menggerakkan objek tersebut agar menjadi hidup. Makna ini dalam dunia animasi komputer untuk selanjutnya mengalami perluasan karena sebuah objek yang diam juga termasuk animasi. Animasi diam (none motion) ini dipergunakan jika sebuah objek hendak diperkenalkan secara detail pada pola penonton. Animasi mulai dikenal secara luas sejak populernya media televisi yang mampu menyajikan gambar-gambar bergerak hasil rekaman kegiatan dari makhluk hidup, baik manusia, hewan, maupun tumbuhan. Jika dikomparasikan dengan gambar foto atau lukisan yang diam (tidak bergerak) maka secara umum animasi lebih disukai penonton karena mampu membangkitkan antusiasme dan emosi.
+
+Perkembangan animasi seiring dengan perkembangan dunia pertelevisian. Pada awalnya diciptakanlah animasi berbasis dua dimensi (2D Animation). Yakni objek yang dianimasi mempunyai ukuran panjang (x-axis) dan lebar (y-axis) saja. Realisasi nyata dari perkembangan animasi dua dimensi yang cukup revolusioner berupa dibuatnya film-film kartun. Seven Dwarfs (1937) dan Fantasia (1940) dari Walt Disney adalah karya-karya film kartun yang melegenda sampai sekarang. Bahkan beberapa tokoh-tokoh kartun buatan Walt Disney yang lain masih dapat bertahan dan populer sampai saat ini mekipun pembuatan film-film tersebut dikerjakan hampir 500 tahun yang lalu. Kalau dibandingkan, sedikit sekali tokoh-tokoh film layar lebar yang mampu bertahan sekian lamanya. Pembuatan animasi film kartun itu sendiri pada awalnya dikerjakan dengan membuat sketsa gambar yang digerakkan satu demi satu. Untuk membuat satu durasi animasi membutuhkan jumlah gambar yang cukup banyak. Sejak ditemukannya teknik animasi sel, maka pembuatannya menjadi lebih mudah. Kertas gambar yang biasa dipergunakan diganti dengan kertas transparan yang terbuat dari bahan celluloid sheet. Teknik animasi sel inilah yang kemudian diadopsi dalam animasi komputer. Kertas gambar dalam pembuatan animasi sebelumnya kemudian diprogram menjadi frame di komputer. Sehingga yang semula berupa kumpulan gambar-gambar maka di komputer hal tersebut sudah merupakan kumpulan dari frame-frame yang tersusun dalam sebuah alur waktu. Adanya perubahan pergerakan suatu objek yang dianimasi oleh komputer dapat dibuat menjadi sebuah keyframe. Sehingga menjadi jauh lebih efektif dan efisien dibandingkan dengan animasi yang dilakukan manual.
+
+ANIMATOR
+Pendesain animasi di komputer yang lebih umum disebut animator, hanya perlu untuk menganimasikan objek
+antarkeyframe. Tidak perlu lagi membuat animasi frame demi frame seperti dalam pembuatan animasi gambar demi gambar dalam pembuatan film kartun konvensional. Sedangkan frame-frame antar keyframe tersebut akan diterjemahkan sendiri oleh komputer menjadi sebuah gerakan seperti yang diinginkan aniator. Perkembangan dunia animasi komputer sekarang sudah sangat pesat. Apalagi sejak diciptakannya animasi berbasis tiga dimensi (3D Animation) yang mempunyai ukuran panjang, lebar, dan tinggi (Z-axis) maka objek dan pergerakannya hampir mendekati kenyataan aslinya. Hanya saja objek tersebut dibuat di dunia maya (virtual reality).Perkembangan ini dibarengi pula dengan cukup banyaknya perangkat lunak yang mendukungnya seperti misalnya Macromedia Flash, GlF Animation, dan Corel Rave sebagai software-software pengusung animasi dua dimensi. Sedangkan 3D MAX Studio, Alias Wave Front AMA, Light Wave, dan Cinema 4D, sebagai software-software inti populer pendukung animasi 3D. Dengan perkembangan ini maka pada era sekarang animasi tidak hanya sebatas pada menggerakkan sebuah objek saja. Tetapi sudah masuk pada pemberian tekstur dan pewarnaan, pemodifikasian struktur dan karakter objek, objek morfing, pemberian cahaya dan kamera, serta pemberian efek-efek dan partikel pada sebuah objek yang sedemikian rupa. Sehingga output yang dihasilkan berupa sebuah animasi objek yang benar-benar mendekati aslinya dalam kehidupan. MAKIN LUAS Adapun sisi positif dari fenomena ini bertambah luasnya lahan pekerjaan bagi seorang animator. Tidak hanya sebagai animator film dalam pembuatan sekuel film, tetapi seorang animator dapat berperan dalam pembuatan sebuah iklan multimedia, pengisi special effect dalam pembuatan video klip musik/film.Juga berperan dalam pembuatan presentasi multimedia, turut mendesain sebuah web yang dinamis dan interaktif serta masih banyak lagi lahan pekerjaan yang menuntut peranan seorang animator.
+3.Prinsip Animasi Komputer
+
+
+12 Prinsip Animasi
+- squesh n strech
+
+- anticipations
+
+- staging
+
+- straight ahead actions and pose to pose
+
+- follow-through and overlaping actions
+
+- slow in-slow out
+
+- arcs
+
+- secondary actions
+
+- timing
+
+- exaggeration
+
+- solid drawing
+
+- appeal
+
+
+Frank Thomas dan Ollie Johnston animator walt disney adalh 2 tokoh yang merumuskan 12 prinsip animasi ini. 12 prinsip animasi ini muncul atas dasar Seorang Animator profesional sepertinya harus mengetahui dan memahami bagaimana sebuah animasi dibuat sedemikian rupa sehingga didapatkan hasil animasi yang menarik, dinamis dan tidak membosankan.
+
+Dua belas prinsip dasar animasi ini ditemukan oleh animator Disney kawakan bernama Ollie Johnston dan Frank Thomas dan ditulis ke dalam buku berjudul The Illusion of Life: Disney Animation di tahun 1981.Buku ini jadi maha penting karena berisi rangkuman teknik membuat animasi di Disney Animation sejak tahun 1930. Meski harganya cukup mahal, buku ini sangat bagus untuk pengetahuan dan teknik awal animasi.
+
+
+
+
+PRINSIP-PRINSIP ANIMASI
+12 prinsip dasar animasi pertama kali diperkenalkan oleh animator kawakan dari Walt Disney Studios, yaitu Frank Thomas dan Ollie Johnston, sekitar tahun 1930 yang ditulis dalam bukunya berjudul
+“ The Illussion of Life ”.
+Mereka pada waktu itu masih muda dan mempunyai semangat untuk meneliti dan mengembangkan bentuk seni baru.
+Prinsip dasar ini merupakan hasil eksperimen dan latihan mereka serta atas keinginan dari Disney untuk memikirkan suatu cara bagaimana membuat sebuah animasi semirip mungkin dengan gerakan nyata sebuah obyek baik itu benda, hewan maupun manusia.  Selain itu juga untuk menunjukkan bagaimana ekspresi dan kepribadian suatu karakter
+Fungsi dari prinsip animasi adalah agar setiap animasi yang dibuat kelihatan menarik, dramatis, dengan gerakan yang alami. .
+1. Squash and stretch (Pengkerutan dan peregangan )
+Squash and Stretch.  Berguna untuk menunjukkan volume, berat obyek, efek gravitasi serta gerakan pada sebuah obyek.  Sehingga gerakan obyek tersebut akan lebih kelihatan nyata.  Ketika obyek sedang dalam gerakan mengkerut dan melonggar volumenya akan tetap sebaliknya ukuranya kelihatan berubah.
+Prinsip ini banyak digunakan secara luas dalam animasi, dari gerakan pantulan bola, berat badan/efek gravitasi serta gerakan berjalan seseorang.Prinsip ini merupakan unsur paling penting, menjadi acuan utama dalam animasi dan akan seringkali digunakan dalam pembuatan animasi.
+Squash and stretch ini juga sangat berguna untuk menganimasikan dialog dan ekspresi wajah.Ke ekstriman penggunaan prinsip ini tergantung pada kebutuhan dalam pembuatan suatu animasi
+
+
+
+A. Tanpa Squash and Stretch
+B. Dengan Squash and Stretch
+Contoh gerakan dengan Squash and Stretch:
+
+Squash and Stretch
+
+Squash and Stretch
+2. Anticipation (Antisipasi/awalan)
+Anticipation adalah persiapan sebelum aksi, yang diikuti oleh sebuah aksi kemudian penyelesaian aksi tersebut. Hal ini dapat membangkitkan ketegangan atau kelucuan pada suatu aksi tertentu. Bagaimana antisipasi ini digunakan tergantung pada banyaknya aksi yang akan digunakan.
+Seorang penari tidak hanya melangkah di lantai. Gerakan ke belakang akan dilakukan sebelum gerakan melangkah ke depan.
+Gerakan belakang itulah yang disebut gerak awalan/anticipation. Hampir semua gerakan nyata menggunakan gerak ini.
+Misalnya, awalan untuk lari, melompat atau perubahan ekspresi.
+
+Anticipation
+
+Anticipation
+3. Staging (Pementasan)
+Karena keterbatasan waktu dalam pembuatan sebuah film, maka setiap sequence, scene dan frame harus berhubungan dengan cerita secara menyeluruh.
+Jangan sampai membingungkan audience dengan terlalu banyak aksi dalam satu stage, gunakanlah satu aksi yang jelas menguraikan suatu ide cerita, kecuali memang kita sengaja menggambarkan suatu kekacauan atau kebingungan.
+Staging dapat mengarahkan perhatian audience pada cerita atau ide yang dibuat. Pementasan melibatkan tindakan pengaturan yang jelas dan meyakinkan. Memahami konsep di balik pementasan animasi akan membantu kita membuat semua yang diperlukan untuk berbicara dengan penonton.
+Arah
+Tujuan dari pementasan ini adalah untuk mengarahkan mata penonton agar fokus pada apa yang penting pada saat tertentu. Orang melihat animasi harus melihat persis di mana mereka perlu melihat selama aksi. Terlalu banyak kegiatan hanya akan mengalihkan perhatian pemirsa. Dengan menerapkan prinsip arahan, Anda memfokuskan mata pada setiap tindakan seperti itu terjadi. Staging membutuhkan komposisi dan simetri. Latar belakang harus stabil dan seimbang
+Kepribadian
+Sebuah komponen kunci untuk pementasan adalah suatu karakter harus mudah dikenali ciri-ciri kepribadianya. Kepribadian terutama dapat dilihat dari ekspresi wajah, jadi bila wajah membelakangi penontong kepribadian suatu karakter juga akan tersembunyi.
+Suatu karakter dengan wajah hambar akan terlihat membosankan dengan sedikit menambahkan senyum maka penonton akan tersenyum juga. Kepribadian yang terlibat dalam aksi akan langsung terhubung ke penonton.
+Begron
+Lingkungan begron  membantu mengaktifkan suasana hati audiens Anda. Sebuah hutan gelap, sebuah kastil seram dan tokoh misterius akan membawa  pikiran pemirsa pada suasana yang menakutkan.
+Mendesain begron dengan baik dapat mengatur suasana hati. Latar belakang yang flat akan membosankan Daerah terlalu gelap atau terang akan menarik mata penonton.
+
+
+
+Suatu karakter sebaiknya dapat mengkomunikasikan sikap, suasana hati, reaksi atau ide secara jelas kepada audience yang berhubungan dengan isi cerita.
+Teknik pengambilan gambar seperti long, medium, atau close up shots, serta camera angles/sudut kamera yang efektif juga dapat membantu memperjelas isi cerita.
+4. Straight Ahead Action and Pose to Pose (Menggambar secara spontan berurutan dan Kunci Gambar)
+Straight Ahead Action adalah pembuatan gambar dalam animasi secara spontan yang dimulai dari gambar pertama sampai gambar terakhir yang dilakukan oleh seorang animator. Kemungkinan ada perbedaan ukuran, volume, dan proporsi dengan metode ini, namun akan menciptakan ilusi, gerakan lebih cair dan dinamis, dan lebih baik untuk memproduksi rangkaian tindakan yang realistis.
+Metode tersebut sering dilakukan dalam teknik animasi cut-outs, clay, paint-on-glass, charcoal on paper dll, yang menguraikan metode ‘straight-ahead animation‘ secara bebas dalam pembuatan animasi dari awal sampai akhir.
+Contohnya adalah film animasi buatan William Kentridge yang menggambar dengan karbon pada lembaran kertas yang besar.
+Atau menggambar langsung pada Flash dengan graphics tablet menggunakan ‘light box’ / ‘onion skin’ tool.
+Namun apa yang terjadi jika karakter yang dibuat dengan teknik cut-outs atau clay kehilangan patokan?
+Jika salahsatu bagian bergeser, gambar tercoret dan rusak atau bahan plastik/lilin berubah bentuk, akan sangat sulit untuk kembali ke bentuk awal dan memperbaikinya.
+Cara mengatasi masalah ini yaitu dengan ‘key drawing’ (kunci gambar), yang disebut ‘pose to pose‘ animation.
+Pose to Pose merupakan metode pembuatan animasi yang lebih terencana dan terpeta dengan kunci gambar pada interval tertentu, dari suatu pose ke pose selanjutnya, karenanya disebut ‘pose to pose’ animation.
+Ukuran, volume, dan proporsi akan lebih mudah diatur dengan teknik ini, dalam suatu aksi.
+Lead animator akan memetakan dan membuat kunci pada animasi kemudian diserahkan ke pada inbetweener.
+Inbetweener dapat mengisi gerakan diantara kunci gerakan yang telah dibuat oleh lead animator.
+Sehingga animator tidak usah membuat seluruh gambar pada scene dan lebih terkonsentrasi pada perencanaan animasi yang lain.
+‘Key poses’, ‘key drawings’ atau hanya disebut ‘key’ adalah kerangka acuan yang digunakan untuk menandai suatu posisi ekstrim karakter dalam animasi atau obyek, menggambarkan titik lintasan gerakan, atau tekanan ekspresi serta suasana tertentu.
+Memungkinkan seorang animator merencanakan dan memetakan aksi dengan ‘menandai tempat’ dan memetakanya pada ‘exposure sheets’ atau ‘dope sheets’ (lembar keterangan), bisa juga pada timeline pada komputer. Teknik ‘key pose’ ini bisa digunakan pada animasi 2D maupun 3D.
+5. Follow Through and Overlapping Action (Gerakan lanjutan dan Penumpukan)
+Pada saat tubuh dari karakter berhenti dari suatu arah gerakan tertentu secara tiba-tiba misalnya, maka semua bagian/elemen padah tubuh karakter tersebut tidak serta-merta berhenti, tapi akan melanjutkan arah gerak semula. Misalnya bagian tangan, rambut yang panjang, belali gajah, pakaian, atau ekor yang panjang. Hal inilah yang dinamakan follow through.
+Overlapping action adalah gerakan karakter yang berubah arah pada saat bagian/elemen karakter akan melanjutkan gerakan awal karakter, sehingga terjadi tabrakan gerakan.
+Karakter tersebut bergerak ke arah  baru, yang akan diikuti oleh bagian/elemen karakter yang lain berapa frame berikutnya.
+
+Follow Through and Overlapping Action
+
+Follow Through and Overlapping Action
+6. Slow In and Slow Out (Gerakan Percepatan dan Perlambatan)
+Pengaturan jarak/spasi antar gambar dalam inbetween, prinsip ini sangat berkaitan dengan prinsip timing.
+Pada saat suatu gerakan akan dimulai, kita bisa menempatkan gambar lebih banyak pada awal pose, satu atau dua di tengah dan beberapa gambar di akhir pose.
+Teknik “slow out” biasanya ditempatkan pada akhir suatu gerakan/pose dan “slow in” ditempatkan pada awal pose berkutnya.
+Gambar yang lebih sedikit membuat gerakan lebih cepat
+Gambar yang lebih banyak membuat gerakan menjadi lambat
+Slow-ins dan slow-outs akan memperhalus gerakan, membuatnya kelihatan lebih hidup. Untuk adegan yang lucu, kita bisa menghilangkan nenerapan gerakan slow-out atau slow-ins untuk menggambarkan keterkejutan atau kekagetan.
+Slow in-slow out
+
+Slow in-slow out 2
+
+Gerakan dengan prinsip slow in-slow out
+7. Arcs  (Kelengkungan)
+Semua lintasan gerakan dalam animasi selalu berupa garis lengkung (kecuali gerakan mekanik suatu peralatan).
+Di alam ini garis lengkung merupakan rute yang paling mudah dilakukan oleh beda yang berpindah tempat. Misalnya ayunan pendulum, semua gerakan tangan, dan gerakan bola mata.
+Bentuk lengkung ini menjadikan gerakan dalam animasi terlihat lebih bagus dan natural.
+
+Dengan prinsip arch
+
+
+
+
+Dengan prinsip arch
+Tanpa prinsip arch
+
+
+Tanpa prinsip arch
+
+8. Secondary Action  (Gerakan Sekunder/tambahan)
+Merupakan gerakan menambah dan memperkaya gerakan utama
+Contoh:
+Gerakan pada lengan yang sedang mengayun dengan gerakan jai-jarinya
+Sebuah karakter yang marah berjalan menuju karakter lain. Berjalan kuat, agresif, dan condong ke depan.  gerakan kaki hanya singkat berjalan menghentak.
+Juga, kemungkinan dialog yang disampaikan pada waktu yang bersamaan dengan kepala miring dan gerakan berjalan.
+Semua gerakan harus bekerja sama dalam mendukung satu sama lain. Pikirkan berjalan sebagai tindakan primer dan ayunan lengan, bouncing kepala dan semua tindakan tubuh lainnya sebagai tindakan sekunder atau pendukung.
+9. Timing  (Pengaturan Waktu)
+Keahlian dalam pengaturan waktu dalam animasi diperoleh dengan pengalaman dan eksperimen pribadi, menggunakan metode trial and error dalam menyempurnakan teknik.
+Gambar yang jumlahnya banyak akan menghasilkan gerakan lambat dan halus. Gambar sedikit menghasilkan gerakan lebih cepat dan lebih kasar.
+Berbagai waktu lambat dan cepat dalam adegan menambahkan tekstur dan menarik bagi gerakan. Juga, ada waktu dalam akting dari karakter untuk membangun suasana hati, emosi, dan reaksi terhadap karakter lain atau situasi.
+Mempelajari gerakan aktor dan penyanyi di atas panggung dan di film berguna ketika menghidupkan karakter manusia atau hewan.
+Agar timing akurat, diperlukan pengaturan dope sheets pada animasi manual maupun timeline pada animasi digital, yang berisi keterangan tentang gerakan, dialog dan waktu.
+
+
+Keterangan tersebut sangat berguna apabila suatu karakter harus melakukan gerakan tertentu dengan waktu yang sudah ditetapkan atau apabila beberapa aksi harus di singkronisasi secara akurat dengan sound track.
+Selain itu juga digunakan untuk memastikan suatu karakter agar dapat datang pada suatu tempat pada schene tertentu pada waktu yang tepat. Urutan atau rangkaian proses animasi dengan mudah di cek dan diteliti kembali untuk memperoleh hasil yang akurat pada saat proses pengambilan gambar atau merender animasi.
+Metode ini juga sangat berguna untuk memisah atau membagi pekerjaan sehinga pekerjaan dapat ditangani oleh banyak orang dalam rantai pembuatan animasi.
+Walk timing 1
+Leap timing
+Walk timing 1
+Walk timing
+
+10. Exaggeration (Aksi Berlebihan)
+Berlebihan tidak distorsi ekstrim dari gambar atau sangat luas, aksi kekerasan sepanjang waktu. Its seperti karikatur fitur wajah, ekspresi, pose, sikap dan tindakan. Aksi ditelusuri dari film live action dapat akurat, tapi kaku dan mekanik. Dalam fitur animasi, karakter harus bergerak lebih luas untuk melihat alam. Hal yang sama juga terjadi pada ekspresi wajah, tapi tindakan tidak boleh seluas dalam gaya kartun singkat. Berlebihan dalam berjalan atau gerakan mata atau bahkan giliran kepala akan memberikan film Anda lebih menarik. Gunakan rasa yang baik dan akal sehat untuk menjaga dari menjadi terlalu berlebihan dan teater animasi.
+11. Solid Drawing  (Gambar Solid/Memiliki Dimensi)
+Prinsip-prinsip dasar menggambar bentuk, berat, soliditas volume dalam bentuk ilusi 3 dimensi.
+Cara menggambar kartun, menarik dalam arti klasik, dengan menggunakan sketsa pensil dan gambar untuk produksi animasi.
+Gerakan memberikan karakter ilusi tiga-dan empat-dimensi kehidupan, Tiga dimensi adalah gerakan dalam ruang. Dimensi keempat adalah gerak waktu.
+
+Solid Drawing
+Solid Drawing
+
+12. Appeal (Daya Tarik)
+Sebuah karakter animasi memiliki daya tarik, tidak berarti hanya menjadi lucu atau imut, tapi sebuah karakter yang mampu menarik perhatian mata pemirsa.
+Semua karakter harus memiliki daya tarik apakah mereka heroik, jahat, horor atau lucu.
+Contoh: karakter sinchan… Apakah bentuk karakter sinchan benar2 lucu atau imut?
+Banyak karakter yang ditujukan untuk anak2 ternyata disukai oleh orang dewasa.
+
+Appeal
+Appeal 
+4. Efek Animasi Komputer
+ Ada 3 macam efek animasi yang digunakan dalam multimedia: – Animasi berbasis Piksel ~ kumpulan dari gambar berbasis piksel yang dimainkan berurutan berkelanjutan yang menimbulkan kesan sebuah gerakan (berkas MPEG, file .mov QuickTime , AVI atau tipe berkas lain yang serupa.) – Animasi berbasis Vektor ~ animasi dihasilkan dengan manipulasi penentuan geometri dan vektor gambar (Flash adalah format standar industri untuk animasi berbasis vektor.) – Animasi Hibrid ~ Animasi berdasarkan pergerakan piksel dan atau elemen-elemen yang berbasis vektor, gambar atau film oleh authoring software misalnya Power Point.
+ 
+ 5. Bahasa Animasi Komputer
+
+Bahasa Animasi 
+ 
+Ada 3 kategori bahasa animasi: 
+ 
+1. Linier-list Notations 
+Semua event dalam animasi ditulis dengan sebuah awal dan akhir 
+nomor frame dan sebuah aksi yang akan dilakukan pada suatu 
+koordinat tertentu. 
+42, 53, B, ROTATE “PALM”,1,30 
+Artinya: antara frame 42,53, rotate obyek yang bernama PALM pada 
+koordinat X = 1 dengan sudut 30 derajat dengan menggunakan tabel 
+informasi dari tabel B. 
+Contoh: program Scefo (SCEne FOrmat). 
+2. General Purpose Language 
+Dilakukan dengan menempelkan animasi pada bahasa pemrograman 
+biasa.  Nilai dari variabel pada bahasa pemrograman tersebut dijadikan 
+sebagai parameter untuk prosedur, untuk membuat animasi. 
+Contoh: ASAS adalah bahasa yang dibuat dengan menggunakan LISP 
+3. Graphical Language 
+Graphical Language adalah bahasa visual yang mampu 
+memvisualisasikan aksi dari perintah-perintah untuk membangun 
+animasi. 
+Contoh: GENESYS, DIAL, dan S-Dynamics System.  
+Metode untuk mengontrol animasi 
+1. Full Explicit Control 
+Animator mengatur seluruh kontrol animasi dengan segala perintah-
+perintah yang akan dilakukan dalam animasi, bahkan untuk data-data 
+seperti interpolasi dan rotasi dilakukan secara eksplisit atau 
+berdasarkan inputan dari mouse, keyboard, atau joystick. 
+2. Procedural Control 
+Berdasarkan komunikasi antar obyek untuk mendapatkan property nya.  
+Control yang terjadi adalah control antara satu obyek dengan obyek 
+yang lain.  Misalnya: suatu obyek bola tidak boleh melewati obyek 
+dinding. 
+3. Constraint-based System 
+Pengontrolan terjadi karena pengaruh obyek lain, dimana obyek 
+tersebut berinterakasi. 
+4. Tracking Live Action 
+Pengontrolan terjadi berdasarkan kenyataan yang ada sesuai dengan 
+dunia nyata. 
+5. Kinematics and Dynamics 
+Kinematik berdasarkan posisi dan kecepatan dari point.
+6.teknik pembuatan animasi komputer
+Cara pembuatan animasi secara konvensional, dengan animasi frame demi frame, pergerakan ilusi dibuat dengan membuat film gambar tangan dan memainkan gambar dibelakang layar dengan kecepatan tinggi, umumnya 14-39 frame/detik. Dalam digital animation, seni diciptakan dengan menggunakan program-program komputer, frame demi frame, kemudian direkam, di edit, dan diputar ulang.
+Teknik animasi komputer bersifat realtime, dimana frame dibuat menggunakan komputer dan langsung ditampilkan pada layar monitor. Teknik ini menghilangkan langkah merekam gambar digital; bagaimanapun animasi realtime tidak memproduksi kualitas baik atau hasil yang detail. ini lebih cocok untuk membuat animasi dalam video game.
+Teknik animasi
+Dalam membuat animasi terdapat beberapa cara yang dapat dilakukan. Teknik itu terbagi dari yang mudah sampai yang sulit. Dalam bahasan ini akan dibahas teknik-teknik yang dapat dilakukan.
+1.	Digital 3D
+Model animasi 3D dimanipulasi oleh seorang animator. Animasi yang dibuat dari software komputer, menggunakan beberapa teknik yang dapat diaplikasikan seperti formula matematika (gravitasi, koordinat), melakukan simulasi untuk rambut atau bulu-bulu, melakukan berbagai efek seperti air dan api, dan menggunakan motion capture sehingga animasi yang dibuat terlihat sangat mirip dengan yang aslinya dan dapat dilihat dari berbagai sudut. Animasi 3D banyak dipakai dalam film-film layar lebar dengan menampilkan efek-efek luar biasa.
+Proses Animasi 
+Cara pembuatan animasi secara konvensional, dengan animasi frame demi frame, pergerakan ilusi dibuat dengan membuat film gambar tangan dan memainkan gambar dibelakang layar dengan kecepatan tinggi, umumnya 14-39 frame/detik. Dalam digital animation, seni diciptakan dengan menggunakan program-program komputer, frame demi frame, kemudian direkam, di edit, dan diputar ulang.
+Teknik animasi komputer bersifat realtime, dimana frame dibuat menggunakan komputer dan langsung ditampilkan pada layar monitor. Teknik ini menghilangkan langkah merekam gambar digital; bagaimanapun animasi realtime tidak memproduksi kualitas baik atau hasil yang detail. ini lebih cocok untuk membuat animasi dalam video game.
+Teknik animasi
+Dalam membuat animasi terdapat beberapa cara yang dapat dilakukan. Teknik itu terbagi dari yang mudah sampai yang sulit. Dalam bahasan ini akan dibahas teknik-teknik yang dapat dilakukan.
+1.	Digital 3D
+Model animasi 3D dimanipulasi oleh seorang animator. Animasi yang dibuat dari software komputer, menggunakan beberapa teknik yang dapat diaplikasikan seperti formula matematika (gravitasi, koordinat), melakukan simulasi untuk rambut atau bulu-bulu, melakukan berbagai efek seperti air dan api, dan menggunakan motion capture sehingga animasi yang dibuat terlihat sangat mirip dengan yang aslinya dan dapat dilihat dari berbagai sudut. Animasi 3D banyak dipakai dalam film-film layar lebar dengan menampilkan efek-efek luar biasa.
+2.	Collage
+Collage (dari bahasa perancis: coller, yang artinya lem) adalah sebuah hasil kerja dari seni formal, digunakan dalam visual arts, dibuat dari susunan bentuk yang berbeda-beda untuk membuat suatu hasil baru yang utuh.
+Collage termasuk klipping koran, pita, potongan dari kertas buatan tangan, porsi artwork yang lain, fotografi dan objek lain yg ditemukan, di tempelkan dalam satu kertas atau kanvas. Asal muasal collage dapat ditemukan dari ratusan tahun lalu, tapi teknik ini dikemukakan kembali pada awal abad 20 sebagai bentuk seni.3.	Stopmotion
+Stop motion (atau frame-by-frame) adalah sebuah teknik animasi untuk memanipulasi suatu obyek yang terlihat bergerak dengan sendirinya. Obyek ini bergerak sedikit demi sedikit dengan frame fotografi, membuat suatu ilusi gerakan saat frame-frame tersebut dimainkan secara berulang-ulang. Figur dari bahan tanah liat sering menjadi bahan animasi stop motion, dikenal juga sebagai claymation untuk kemudahan dalam memposisikan kembali.4.	Rotoscoping
+Rotoscoping adalah teknik animasi dimana animator mengambil gerakan nyata suatu dari film, secara frame by frame, dan digunakan untuk film animasi. Awalnya, pre-rekaman film live action, gambar yang diproyeksikan ke sebuah panel kaca yang beku dan digambar ulang oleh animator. Peralatan proyeksi ini disebut peralatan rotoscope, walaupun perangkat ini telah digantikan oleh komputer dalam beberapa tahun terakhir. Dalam industri efek visual, istilah rotoscoping merujuk kepada teknik secara manual dalam piringan live-action agar dapat dikomposisikan dalam background lain.
+5.	Digital 2D
+Figur animasi 2D diuat dan/atau diedit dengan computer yang menggunakan grafik bitmap 2D atau dibuat dan diedit dengan 2D vector grafik. Termasuk versi otomatis komputerisasi dari tradisional teknik animasi seperti tweening, morphing, onion skinning, dan interpolasi rotoscoping

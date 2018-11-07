@@ -1,0 +1,35 @@
+STANDAR KOMUNIKASI
+A.  standar organisasi
+              Standar organisasi  adalah suatu hal penting dalam menciptakan dan pemeliharaan sebuah  kompetisi dasar dari pada manufaktur perangkat komunikasi danmenjadi jaminan interoperability data dalam proses komunikasi. ada beberapa macam organisasi standar yang berperan dalam jaringan komputer diantaranya sebagai berikut: 
+
+1. Internet Engineering Task Force (IETF)
+2. International Telecomunications Union (ITU)
+3. Electronic Industries Association (EIA)
+4. Federal Communitations Commision (FCC)
+5. International Standards Organization (ISO)
+6. International Telecommunications Union (ITU)
+7. Electronic Industries Association (EIA)
+
+B.  OSI (open system interconecction )
+              OSI adalah standar komunikasi yang ada didalam jaringan komputeritu sendiri, oleh karena itu semua alt komunikasi saling berkomunikasi melalui jaringan.OSI dibuat iso tahun 1977di eropa.
+
+
+
+berikut susunan komponen pada 7 osi layer:
+Application layer
+Presentation layer
+Session layer
+Transport layer
+Network layer
+Data link layer
+Physical layer.
+Fungsi dari komponen osi:
+Application layer berfungsi sebagai antarmuka dengan aplikasi dengan fungsionalitas jaringan mengatur bagaimana aplikasi dapat mengakses jaringan dan kemudian membuat pesan-pesan kesalahan.
+ Presentation layer berfungsi untuk mentranslasikan data yang hendak ditransmisikan oleh aplikasi kedalam format yang dapat ditransmisikan melalui jaringan.
+Session layer berfungsi untuk mendefinisikan bagaimana koneksi dapat dibuat dipelihara atau di hancurkan.
+Transport layer berfungsi  untuk memecahkan data kedalam paket-paket tersebut sehingga dapat disusun kembali pada sisi tujuan yang telah diterima.
+Network layer berfungsi  untuk mendefinisikan alamat-alamat IP membuat header untuk paket-paket dan kemudian melakukan routing melalui internet-working dengan menggunakan router dan switch layer 3.
+Data link layer berfungsi untuk menentukan bagaimana bit-bit data dikelompokan menjadi format yang disebut sebagai frame.
+Physical layer berfungsi untuk mendefinisikan media transmisi jaringan, metode pensinyalan, sinkronisasi bit, arsitektur jaringan (seperti halnya ethernet atau token ring), topologi jaringan dan pengkabelan.
+   C.Internet standar
+           Dalam teknik jaringan komputer,  Internet standar  (disingkat ''STD'') adalah spesifikasi normatif teknologi atau metologi yang berlaku ke internet.standar internet diciptakan dan diterbitkan oleh Internet Engineering Task Force (IETF). internet dimulai pada tahun 1969 ketika departemen Pertahanan Amerika, U.S. Defense Advanced Research Projects Agency(DARPA) memutuskan untuk mengadakan riset tentang bagaimana caranya menghubungkan sejumlah komputer sehingga membentuk jaringan organik.

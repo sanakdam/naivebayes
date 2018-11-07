@@ -1,0 +1,5 @@
+Animasi komputer adalah seni menghasilkan gambar bergerak dengan sendiri melalui penggunaan komputer dan merupakan sebagian bidang komputer grafik dan animasi. Terkadang sasaran animasi adalah komputer itu sendiri, atau pun perantaraan lain, seperti film.
+
+Untuk menghasilkan gambar pergerakan, image dipaparkan pada screen komputer dan diganti dengan gambar baru yang serasi dengan gambar sebelumnya. Teknik ini serupa dengan bagaimana gambar bergerak dihasilkan melalui televisi dan film.
+
+Sesuai dengan namanya, animasi ini secara keseluruhan dikerjakan dengan menggunakan komputer. Dari pembuatan karakter, mengatur gerakkan “pemain” dan kamera, pemberian suara, serta special effeknya semuanya di kerjakan dengan komputer. Animasi semakin banyak dihasilkan melalui grafik komputer 3D, walaupun grafik komputer 2D masih banyak ada .

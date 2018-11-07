@@ -1,0 +1,109 @@
+3-TAHAP ALUR PRODUKSI MULTIMEDIA
+Posted by Aditama
+Metodologi yang paling umum dipakai pada proses produksi Multimedia adalah yang biasa disebuat dengan alur produksi 3 tahap. Secara umum, proses produksi multimedia dirancang dengan menjalankan 3 tahap sebagai berikut;
+Pra produksi / Pre-Production
+Produksi / Production
+pasca produksi / Post-Production
+ 
+ 1.    PRA-PRODUKSI
+Tahap pra produksi adalah segala kegiatan yang berhubungan dengan persiapan sebelum melakukan produksi. Tahap ini biasanya berjalan sangat lama bahkan terkadang sampai menyita sumber daya waktu 75 % dari keseluruhan produksi. Tahap pra produksi terdiri dari beberapa langkah, antara lain:
+PENDIFINISIAN KONSEP
+VISI DAN KONSEP, TUJUAN, TARGET AUDIEN, AUTHORING TOOL, MEDIUM DELIVERY,  PLANNING
+
+ 
+PRODUCTION PLAN
+STORY BOARD, CONTENT OUTLINE, BUDGETING, SCHEDULING, ASSET MANAGEMENT, TESTINGSATFFING
+BUILDING PROTOTYPE
+LEGAL ASPECT
+COPYRIGHT/HAK CIPTA , LEGALITAS,ROYALTY
+CLIENT SIGN OFF AND FUNDING
+BRAINSTORMING,  UP DATE TECHNOLOGY
+ASSEMBLE TEAM
+DESIGNER, STORYBOARDER, DIRECTOR , MUSIC COMPOSER, PRODUCER, ECT
+DESAIN
+KONTEN, SERVICES, ARSITEKTUR INFORMASI, INTERAKSI, NAVIGASI,THUMBNAIL, MOCK UP
+ Konseptualisasi atau ide
+Proses pembuatan multimedia dimulai dengan sebuah “gagasan” atau “visi” yang merupakan titik awal konseptual. Ide harus bisa menjawab pertanyaan mengapa mengembangkan sebuah proyek multimedia;
+–  Apakah multimedia merupakan opsi yang terbaik, atau paling efektif jika dibandingkan dengan bentuk print media ?
+–   Apakah konsep atau ide mengandung nilai jual tinggi(profitable)?
+–   Siapa yang akan menjadi pengguna akhir dari produk multimedia ini?
+–   seperti apa platform pemutar multimedia mereka?
+Tujuan proyek
+Pengembang multimedia  harus menentukan tujuan yang harus dicapai oleh produk akhir multimedia tersebut. Tujuan harus bisa dihitung(measurable) dan ditelaah dari sudut pandang pengguna.
+Target Audience
+Kepada siapa produk multimedia akan ditujukan bisa dilihat berdasarkan demografinya:
+–   Umur
+–   Gender
+–   Latar belakang pendidikan
+–   Strata sosio ekonomi
+–   Latar belakang etnis
+–   Bahasa
+–   Profesi
+–   Ekspektasi
+Media
+Bagaimana pesan/konten bisa menjangkau pengguna, media apa yang paling sesuai digunakan;
+–   CD-ROM
+–   Disk
+–   web
+–   Intranet
+–   kiosk
+–   Perangkat apa yang dimiliki oleh pengguna
+–   Hambatan teknis apa yang harus dilalui
+Authoring Tools
+Pengembang menentukan tool-tool authoring apa yang digunakan. Authoring adalah sarana untuk menggabungkan semua elemen; Text, graphics, animation, Sound, video.
+ Planning
+Dalam tahapan ini perlu adanya perencanaan yang matang pada awal sebelum project dimulai. Perencanaan meliputi:
+– Time Planning
+membuat timeline project secara detail mulai dari proses konsep, desain, sampai produksi.
+– Work Planning
+Membuat workflow yang jelas. Tahapan demi tahapan disebutkan secara detail
+– Financial Planning/Budgeting
+Membuat perhitungan biaya yang jelas dan rasional.
+Legalitas
+Produsen dan pengguna program multimedia harus menyadari dan mematuhi undang-undang hak cipta. Multimedia, menurut definisi, menggabungkan berbagai unsur dari berbagai sumber, maka dari itu adalah penting untuk mengetahui bagaimana penggunaan materi-materi diatur dalam batasan hukum. Juga penting untuk mendapatkan hak cipta untuk produksi sendiri, setelah produksi selesai.
+2. PRODUCTION
+Tahap produksi merupakan tahap implementasi pra-produksi dimana semua anggota tim pengembang multimedia bekerja. Secara umum tahap produksi multimedia adalah sebagai berikut :
+CONTENT CREATION
+ELEMEN, SPECIAL EFFECTS, MUSIC,
+CONTENT PROCESING
+PROOFING, EDITING, ASEMBLY, FORMATING, COMPRESSION
+INTEGRATION OF CONTENT AND SOFTWARE
+TESTING, REVISE, DOCUMENTATION
+REVISE DESIGN
+EVALUATION
+BUILD BETA VERSION
+BUILD ALPHA VERSION
+Konten
+Konten adalah obyek-obyek yang terdapat pada aplikasi yang sedang dikembangkan.
+Pemrosesan isi
+Proofing, editing, assembly, formatting, compression
+Pengintegrasian isi dan software
+Produk harus memudahkan  pengguna untuk mengakses atau menggunakannya, serta software yang digunakan harus up  date
+Merevisi isi dan software
+Menetapkan desain akhir, produk yang terbaik biasanya hasil dari umpan balik (dari tester)yang berkesinambungan dan modifikasi yang diimplemantasikan pada seluruh proses produksi
+Membangun / membuat versi alfa
+Ditetapkannya fungsionalitas, kelengkapan implementasi utama, mengintegrasikan semua modul dalam satu kesatuan.
+Evaluasi :
+Mengevaluasi setiap hambatan yang terjadi, hasil evaluasi harus dibuat catatannya serta catatan antisipasinya ini penting untung pegangan proyek berikutnya yang akan dibahas pada saat memulai proyek selanjutnya, untuk menge-liminir kesalahan serta gangguan
+Merevisi software dan isi berdasarkan evaluasi
+Temuan-temuan dijadikan acuan untuk merevisi kekurangan baik, itu berupa software atau isi.
+Membangun / membuat versi beta
+Versi alfa direvisi dan di launching ulang sebagai versi beta.
+3. TAHAP PASCA-PRODUKSI
+Adalah tahap penyelesaian produksi mutimedia menjadi hasil akhir. Tahap Pasca produksi/Post Production diterapkan terutama pada bidang multimedia broadcasting; program television, video, audio recording, photography dan animasi.
+Setelah aplikasi beta diuji dan direvisi, itu memasuki tahap pengemasan. Produk akhir bisa dibakar ke CD-ROM atau dipublikasikan di internet sebagai sebuah konten web.
+BETA TESTING
+PROOF CONTENT, PROOF TESTING, CHECK FOR UNEXPECTED ERRORS
+EVALUATIONN
+ACHIEVE ALL PRODUCTION MATERIAL
+DOCUMENTATION, AFTER SALES,SOURCE ASSET, MASTER DIGITAL FILES, FINAL ASSETS,
+REVISE
+CONTENT AND SOFTWARE
+RELEASE GOLDEN MASTER
+ 
+Evaluasi
+Evaluasi terakhir dilakukan setelah mendapat umpan balik dari beta testing.
+Merevisi 
+Revisi pada pasca produksi berarti melakukan penyesuaian akhir pada produk berdasarkan hasil evaluasi sebelum produk dilaunching.
+Meluncurkan produk jadi
+Produk disebarkan kepada pengguna atau diserahkan kepada klien.

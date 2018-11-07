@@ -1,0 +1,67 @@
+Entity Relationship Diagram (ERD)
+ May 15, 2017   Pemrograman Dasar
+
+Kali ini saya akan membahas tentang Entity Relationship Diagram yang merupakan salah satu bentuk pemodelan basis data yang sering digunakan dalam pengembangan sistem informasi. Berikut pembahasannya :
+
+
+Pengertian ERD
+
+Dalam rekayasa perangkat lunak, sebuah Entity-Relationship Model (ERM) merupakan abstrak dan konseptual representasi data. Entity-Relationship adalah salah satu metode pemodelan basis data yang digunakan untuk menghasilkan skema konseptual untuk jenis/model data semantik sistem. Dimana sistem  seringkali memiliki basis data relasional, dan ketentuannya bersifat top-down.
+
+Jadi, apakah ERD itu?
+
+ERD ( Entity Relationship Diagram ) adalah suatu diagram yang menggambarkan hubungan antar
+Entity didalam database
+
+Skema tentang diagram pertama kali diresmikan oleh Charles Bachman pada tahun 1960-an. Beberapa model ERD yang dikemukakan oleh ahli terdapat  2 versi yaitu Peter Chen dan James Martin. Perbedaan keduanya terletak pada relation (hubungannya). Akan tetapi, orang-orang lebih umum menggunakan ERD versi Peter Chen
+
+Komponen objek ERD :
+
+1. Entity
+
+Entity adalah objek data yang utama dimana informasi dikumpulkan. Biasanya menunjukkan orang, tempat, benda / kejadian yang bersifat informasional.
+
+2. Relationship
+
+Relationship menggambarkan hubungan antara 1/lebih entity. Yang digambarkan dalam bentuk diamond. Biasanya menunjukkkan hubungan cardinalitas rasio
+
+one-to-one
+one-to-many
+many-to-many
+Penghubung antara himpunan relasi dengan himpunan entitas & himpunan entitas dengan atribut dinyatakan dalam bentuk garis.
+
+Contoh : 
+one-to-one
+
+
+Dari tampilan diatas Siswa dan Nilai adalah Entity, dan Melihat adalah Relationship dengan gpenghubung yang dinyatakan dalam bentuk garis
+
+one-to-many
+
+
+Dari tampilan diatas dapat dinyataka bahwa guru-mengisi-nilai yang bermasksud 1 guru mengisi banyak Nilai
+
+many-to-many
+
+
+
+Dari tampilan diatas adalah many (banyak) mahasiswa Mengambil banyak Mata Kuliah
+
+
+3. Attributes
+Atribut merupakan pendeskripsian karakteristik dari entity. Atribut digambarkan dalam bentuk lingkaran atau elips. 
+
+Terdapat 2 type attributes:
+
+- Identifiers : Menetapkan bagian yang unik dari sebuah entity, atau disebut juga dengan key (diberi garis bawah). 
+Contoh : ID, NIS
+
+-Descriptor : Menspesifikasikan karakteristik yang non-unik dari bagian entity. 
+Contoh : Nama, alamat, dll
+
+Contoh ERD sederhana tentang Nilai Sekolah
+
+
+
+
+Itulah pembahasan saya kali ini mengenai Flowchart, semoga bermanfaat!

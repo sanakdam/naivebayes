@@ -1,0 +1,96 @@
+Peripheral-Peripheral Jaringan Pada Komputer Terapan
+By andik mindai05.12No comments
+
+Peripheral-Peripheral Jaringan Pada Komputer Terapan
+
+Memahami jenis-jenis periperal jaringan pada komputer terapan jaringan.
+
+Peripheral adalah hardware tambahan yang disambungkan ke komputer, biasanya dengan bantuan kabel ataupun sekarang sudah banyak perangkat peripheral wireless. Peripheral ini bertugas membantu komputer menyelesaikan tugas yang tidak dapat dilakukan oleh hardware yang sudah terpasang didalam casing.
+a.     Peripheral utama (main peripheral)
+Yaitu peralatan yang harus ada dalam mengoperasikan komputer. Contoh periferal utama yaitu: monitor, keyboard dan mouse.
+b.    Peripheral pendukung (auxillary peripheral)
+Yaitu peralatan yang tidak mesti ada dalam mengoperasikan komputer tetapi diperlukan untuk kegiatan tertentu. Contohnya yaitu: printer, scanner, modem, web cam dan lain-lain.
+
+Sedangkan berdasarkan proses kerjanya dalam mendukung pengoperasian komputer terbagi menjadi:
+1.    Perangkat masukan (input)
+Adalah perangkat yang digunakan untuk memasukkan data atau perintah ke dalam komputer. Perangkat tersebut antara lain keyboard, mouse, scanner, digitizer, kamera digital, microphone, dan periferal lainnya
+2.    Perangkat keluaran (output)
+Adalah peralatan yang kita gunakan untuk menampilkan hasil pengolahan data atau perintah yang dilakukan oleh komputer. Perangkat tersebut antara lain monitor, printer, plotter, speaker, dan lain lainnya.
+
+A.  Universal Asynchronous Receiver Transmitter (UART)
+UART atau Universal Asynchronous Receiver-Transmitter adalah bagian perangkat keras komputer yang menerjemahkan antara bit-bit paralel data dan bit-bit serial. UART biasanya berupa sirkuit terintegrasi  yang digunakan untuk komunikasi serial pada komputer atau port serial perangkat periperal. UART sekarang ini termasuk di dalam beberapa mikrokontroler (contohnya, PIC16F628).
+UART atau Universal Asynchronous Receiver Transmitter adalah protokol komunikasi yang umum digunakan dalam pengiriman data serial antara device satu dengan yang lainnya. Sebagai contoh komunikasi antara sesama mikrokontroler atau mikrokontroler ke PC. Dalam pengiriman data, clock antara pengirim dan penerima harus sama karena paket data dikirim tiap bit mengandalkan clock tersebut. Inilah salah satu keuntungan model asynchronous dalam pengiriman data karena dengan hanya satu kabel transmisi maka data dapat dikirimkan. Berbeda dengan model synchronous yang terdapat pada protokol SPI (Serial Peripheral Interface) dan I2C (Inter-Integrated Circuit) karena protokol membutuhkan minimal dua kabel dalam transmisi data, yaitu transmisi clock dan data. Namun kelemahan model asynchronous adalah dalam hal kecepatannya dan jarak transmisi. Karena semakin cepat dan jauhnya jarak transmisi membuat paket-paket bit data menjadi terdistorsi sehingga data yang dikirim atau diterima bisa mengalami error. Asynchronous memungkinkan transmisi mengirim data tanpa sang pengirim harus mengirimkan sinyal detak ke penerima. Sebaliknya, pengirim dan penerima harus mengatur parameter waktu di awal dan bit khusus ditambahkan untuk setiap data yang digunakan untuk mensinkronkan unit pengiriman dan penerimaan. Saat sebuah data diberikan kepada UART untuk transmisi Asynchronous, "Bit Start" ditambahkan pada setiap awal data yang akan ditransmisikan. Bit Start digunakan untuk memperingatkan penerima yang kata data akan segera dikirim, dan memaksa bit-bit sinyal di receiver agar sinkron dengan bit-bit sinyal di pemancar. Kedua bit ini harus akurat agar tidak memiliki penyimpangan frekuensi dengan lebih dari 10% selama transmisi bit-bit yang tersisa dalam data. (Kondisi ini ditetapkan pada zaman teleprinter mekanik dan telah dipenuhi oleh peralatan elektronik modern.)
+
+Setelah Bit Start, bit individu dari data yang dikirim, dengan sinyal bit terkecil yang pertama dikirim. Setiap bit dalam transmisi ditransmisikan serupa dengan jumlah bit lainnya, dan penerima mendeteksi jalur di sekitar pertengahan periode setiap bit untuk menentukan apakah bit adalah 1 atau 0. Misalnya, jika dibutuhkan dua detik untuk mengirim setiap bit, penerima akan memeriksa sinyal untuk menentukan apakah itu adalah 1 atau 0 setelah satu detik telah berlalu, maka akan menunggu dua detik dan kemudian memeriksa nilai bit berikutnya , dan seterusnya.
+
+
+ 
+
+
+Gambar UART
+Tipe-tipe UART
+1.   8250 UART pertama pada seri ini. Tidak memiliki register scratch, versi 8250A merupakan versi perbaikan dari 8250 yang mampu bekerja dengan lebih cepat;
+2.    8250A UART ini lebih cepat dibandingkan dengan 8250 pada sisi bus. Lebih mirip secara perangkat lunak dibanding 16450;
+3.       8250B Sangat mirip dengan 8250;
+4.   16450 Digunakan pada komputer AT dengan kecepatan 38,4 Kbps, masih banyak digunakan saat ini.
+5.    16550 Generasi pertama UART yang memiliki penyangga, dengan panjang 16-byte, namun tidak bekerja (produk gagal) sehingga digantikan dengan
+6.         16550A;
+a. 16550A UART yang banyak digunakan pada komunikasi kecepatan tinggi, misalnya 14,4 Kbps atau 28,8 Kbps;
+b. 16650 UART baru, memiliki penyangga FIFO 32-byte, karakter Xon/Xoff terprogram dan mendukung manajemen sumber daya;
+7.  16750 Diproduksi oleh Texas Instrument, memiliki FIFO 64-byte!
+
+B.  Universal Synchronous Asynchronous Receiver Transmitter (USART)
+USART merupakan komunikasi yang memiliki fleksibilitas tinggi, yang dapat digunakan untuk melakukan transfer data baik antar mikrokontroler maupun dengan modul-modul eksternal termasuk PC yang memiliki fitur UART. USART memungkinkan transmisi data baik secara syncrhronous maupun asyncrhronous, sehingga dengan memiliki USART pasti kompatibel dengan UART. Pada ATmega8535, secara umum pengaturan mode syncrhronous maupun asyncrhronous adalah sama. Perbedaannya hanyalah terletak pada sumber clock saja. Jika pada mode asyncrhronous masing-masing peripheral memiliki sumber clock sendiri, maka pada mode syncrhronous hanya ada satu sumber clock yang digunakan secara bersama-sama. Dengan demikian, secara hardware untuk mode asyncrhronous hanya membutuhkan 2 pin yaitu TXD dan RXD, sedangkan untuk mode syncrhronousharus 3 pin yaitu TXD, RXD dan XCK.
+Komunikasi serial data antara master dan slave pada SPI diatur melalui 4 buah pin yang terdiri dari SCLK, MOSI, MISO, dan SS sbb:
+§  SCLK dari master ke slave yang berfungsi sebagai clock
+§  MOSI jalur data dari master dan masuk ke dalam slave
+§  MISO jalur data keluar dari slave dan masuk ke dalam master
+§  SS (slave select) merupakan pin yang berfungsi untuk mengaktifkan slave 
+
+C.  Serial Peripheral Interface (SPI)
+    Serial Peripheral Interface (SPI) adalah protokol data serial sinkron digunakan oleh mikrokontroler untuk berkomunikasi dengan satu atau lebih perangkat periferal cepat jarak pendek. Hal ini juga dapat digunakan untuk komunikasi antara dua mikrokontroler. Dengan koneksi SPI selalu ada perangkat satu master (biasanya mikrokontroler) yang mengontrol perangkat periferal.
+Serial Peripheral Interface ( SPI ) merupakan salah satu mode komunikasi serial synchrounous kecepatan tinggi yang dimiliki oleh Atmega 328.
+Komunikasi SPI membutuhkan 3 jalur yaitu MOSI, MISO, dan SCK. Melalui komunikasi ini data dapat saling dikirimkan baik antara mikrokontroller maupun antara mikrokontroller dengan peripheral lain di luar mikrokontroller.
+Penjelasan 3 jalur utama dari SPI adalah sebagai berikut :
+Ø MOSI : Master Output Slave Input Artinya jika dikonfigurasi sebagai master maka pin MOSI sebagai output tetapi jika dikonfigurasi sebagai slave maka pin MOSI sebagai input.
+Ø  MISO     : Master Input Slave Output Artinya jika dikonfigurasi sebagai master maka pin MISO sebagai input tetapi jika dikonfigurasi sebagai slave maka pin MISO sebagai output.
+Ø  CLK  : Clock Jika dikonfigurasi sebagai master maka pin CLK berlaku sebagai output  tetapi  jika dikonfigurasi  sebagai  slave  maka  pin  CLK berlaku sebagai input
+Untuk mengatur mode kerja komunikasi SPI ini dilakukan dengan menggunakan register SPCR (SPI Control Register), SPSR (SPI Status Register) dan SPDR (SPI Data Register).
+
+D. Serial Communication Interface (SCI)
+Sebuah komunikasi serial interface (SCI) adalah perangkat yang memungkinkan seri (satu bit pada satu waktu) pertukaran data antara mikroprosesor dan peripheral seperti printer, drive eksternal, scanner, atau tikus.  SCI adalah komunikasi dimana pengiriman data dilakukan per bit, sehingga lebih lambat dibandingkan komunikasi parallel seperti pada port printer yang mampu mengirim 8 bit sekaligus dalam sekali detak.
+Dalam hal ini, mirip dengan perangkat antarmuka serial ( SPI). Tapi di samping itu, SCI memungkinkan komunikasi serial dengan mikroprosesor lain atau dengan jaringan eksternal. Istilah SCI diciptakan oleh Motorola di tahun 1970-an. Dalam beberapa aplikasi itu dikenal sebagai universal asynchronous receiver / transmitter ( UART). SCI berisi konverter paralel-to-serial yang berfungsi sebagai pemancar data, dan konverter serial-to-paralel yang berfungsi sebagai penerima data. Kedua perangkat clock secara terpisah, dan menggunakan independen memungkinkan dan mengganggu sinyal. SCI beroperasi dalam nonreturn-to-nol ( NRZ ) format, dan dapat berfungsi dalam half-duplexmodus (hanya menggunakan receiver atau hanya pemancar) atau full duplex (menggunakan receiver dan transmitter secara bersamaan). Kecepatan data diprogram.
+Antarmuka Serial memiliki keunggulan tertentu atas paralel interface. Keuntungan yang paling signifikan adalah kabel sederhana. Selain itu, kabel interface serial bisa lebih panjang daripada kabel antarmuka paralel, karena ada interaksi jauh lebih sedikit (crosstalk) di antara konduktor dalam kabel.
+Istilah SCI kadang-kadang digunakan dalam referensi ke port serial. Ini adalah konektor ditemukan pada kebanyakan komputer pribadi, dan dimaksudkan untuk digunakan dengan perangkat periferal serial.
+Ada 2 macam cara komunikasi data serial yaitu Sinkron dan Asinkron.
+1.    Komunikasi data serial sinkron, clock dikirimkan bersama sama dengan data serial,  tetapi clock tersebut dibangkitkan sendiri – sendiri baik pada sisi pengirim maupun  penerima. 
+2.    Komunikasi serial asinkron tidak diperlukan clock karena data  dikirimkan dengan kecepatan tertentu yang sama baik pada pengirim / penerima. 
+Devais pada komunikasi serial ada 2 kelompok yaitu:
+1.       Data Communication Equipment (DCE)
+Contoh dari DCE ialah modem, plotter, scanner dan lain lain
+2.       Data Terminal Equipment (DTE).
+Contoh dari DTE ialah terminal  di komputer.
+Keuntungan penggunaan port serial.
+Pada komunikasi dengan kabel yang panjang, masalah cable loss tidak akan menjadi masalah besar daripada menggunakan kabel parallel. Port serial mentransmisikan “1” pada level tegangan   -3 Volt sampai -25 Volt dan “0” pada level tegangan +3 Volt sampai +25 Volt, sedangkan port parallel mentransmisikan “0” pada level tegangan 0 Volt dan “1” pada level tegangan 5 Volt.
+Dubutuhkan jumlah kabel yang sedikit, bisa hanya menggunakan 3 kabel yaitu saluran Transmit Data, saluran Receive Data, dan saluran Ground (Konfigurasi Null Modem)
+Saat ini penggunaan mikrokontroller semakin populer. Kebanyakan mikrokontroller sudah dilengkapi dengan SCI (Serial Communication Interface) yang dapat digunakan untuk komunikasi dengan port serial komputer. 
+
+E.  Analog to Digital Converter (ADC)
+Analog To Digital Converter (ADC) adalah perangkat elektronik yang digunakan untuk mengkonversi sinyal masukan dalam bentuk analog (tegangan, arus, muatan electrik) menjadi sinyal keluaran dalam bentuk digital. Fungsi dari ADC adalah untuk mengubah data analog menjadi data digital yang nantinya akan masuk ke suatu komponen digital yaitu mikrokontroller AT89S51.
+ADC (Analog to Digital Converter) memiliki 2 karakter prinsip, yaitu kecepatan sampling dan resolusi. Kecepatan sampling suatu ADC menyatakan seberapa sering sinyal analog dikonversikan ke bentuk sinyal digital pada selang waktu tertentu. Kecepatan sampling biasanya dinyatakan dalam sample per second (SPS). Pengaruh Kecepatan Sampling ADC Resolusi ADC menentukan ketelitian nilai hasil konversi ADC.  Sebagai contoh: ADC 8 bit akan memiliki output 8 bit data digital, ini berarti sinyal input dapat dinyatakan dalam 255 (2n – 1) nilai diskrit. ADC 12 bit memiliki 12 bit output data digital, ini berarti sinyal input dapat dinyatakan dalam 4096 nilai diskrit. Dari contoh diatas ADC 12 bit akan memberikan ketelitian nilai hasil konversi yang jauh lebih baik daripada ADC 8 bit.
+Prinsip kerja ADC adalah mengkonversi sinyal analog ke dalam bentuk besaran yang merupakan rasio perbandingan sinyal input dan tegangan referensi. Sebagai contoh, bila tegangan referensi (Vref)  5 volt, tegangan input 3 volt, rasio input terhadap referensi adalah 60%. Jadi, jika menggunakan ADC 8 bit dengan skala maksimum 255, akan didapatkan sinyal digital sebesar 60% x 255 = 153 (bentuk decimal) atau 10011001 (bentuk biner).
+
+
+Diagram konfigurasi pin ADC0804 ditunjukkan pada gambar 1. Pin 11 sampai 18 ( keluaran digital ) adalah keluaran tiga keadaan, yang dapat dihubungkan langsung dengan bus data bilamana diperlukan. Apabila CS ( pin 1 ) atau RD (pin2) dalam keadaan high (“1”), pin 11 sampai 18 akan mengambang ( high impedanze ), apabila CS dan RD rendah keduanya, keluaran digital akan muncul pada saluran keluaran. Sinyal mulai konversi pada WR (pin 3). Untuk memulai suatu konversi, CS harus rendah. Bilamana WR menjadi rendah, konverter akam mengalami reset, dan ketika WR kembali kepada keadaan high, konversi segera dimulai.
+Konversi detak konverter harus terletak dalam daereh frekuensi 100 sampai 800kHz. CLK IN ( pin 4) dapat diturunkan dari detak mikrokontroller, sebagai kemungkinan lain, kita dapat mempergunakan pembangkit clock internal dengan memasang rangkaian RC antara CLN IN ( pin 4) dan CLK R ( pin 19).
+Pin 5 adalah saluran yang digunakan untuk INTR, sinyal selesai konversi. INTR akan menjadi tinggi pada saat memulai konversi, dan akan aktiv rendah bila konversi telah selesai. Tepi turun sinyal INTR dapat dipergunakan untuk menginterupsi sistem mikrokontroller, supaya mikrokontroller melakukan pencabangan ke subrutine pelayanan yang memproses keluaran konverter.
+Pin 6 dan 7 adalah masukan diferensial bagi sinyal analog. A/D ini mempunyai dua ground, A GND (pin 8) dan D GND ( pin10). Kedua pin ini harus dihubungkan dengan ground. Pin 20 harus dihubungkan dengan catu daya +5V A/D ini mempunyai dua buah ground, A GND ( pin 8 ) dan D GND ( pin 10). Keduanya harus dihubungkan dengan catu daya, sebesar +5V. Pada A/D 0804 merupakan tegangan referensi yang digunakan untuk offset suatu keluaran digital maksimum. A/D ini dapat dirangkai untuk menghasilkan konversi secara kontinu. Untuk melaksanakannya, kita harus menghubungkan CS, dan RD ke ground dan menyambungkan WR dengan INTR seperti pada gambar dibawah ini. Maka dengan ini keluaran digital yang kontinu akan muncul, karena sinyal INTR menggerakkan masukan WR. Pada akhir konversi INTR berubah menjadi low, sehingga keadaan ini akan mereset konverter dan mulai konversi.
+F.   Digital to Analog Converter (DAC)
+DAC adalah perangkat untuk mengkonversi sinyal masukan dalam bentuk digital menjadi sinyal keluaran dalam bentuk analog (tegangan, arus, muatan electrik). Fungsi DAC adalah pengubah data digital yang masih berbentuk biner seperti data yang ada pada CD menjadi data analog . berikut adalah tahapan data digital menjadi analog. fisik CD dibaca Data digital CD DAC Buffer Line out. Sebuah DAC menerima informasi digital dan mentransformasikannya ke dalam bentuk suatu tegangan analog. Informasi digital adalah dalam bentuk angka biner dengan jumlah digit yang pasti.
+Konverter D/A dapat mengonversi sebuah word digital ke dalam sebuah tegangan analog dengan memberikan skala output analog berharga nol ketika semua bit adalah nol dan sejumlah nilai maksimum ketika semua bit adalah satu.Angka biner sebagai angka pecahan. Aplikasi DAC banyak digunakan sebagai rangkaian pengendali (driver) yang membutuhkan input analog seperti motor AC maupun DC, tingkat kecerahan pada lampu, Pemanas (Heater) dan sebagainya. Umumnya DAC digunakan untuk mengendalikan peralatan computer. Untuk aplikasi modern hampir semua DAC berupa rangkaian terintegrasi (IC), yang diperlihatkan sebagai kotak hitam memiliki karakteristik input dan output tertentu.
+1.         Input Digital : Jumlah bit dalam sebuah word biner paraleldisebutkan di dalam lembar spesifikasi.
+2.        Catu Daya : Merupakan bipolar pada level ± 12 V hingga ± 18 V seperti yangdibutuhkan oleh amplifier internal.
+3.   Suplai Referensi : Diperlukan untuk menentukan jangkauan tegangan output dan resolusi dari konverter. Suplai ini harus stabil, memiliki riple yang kecil.
+4.     Output : Sebuah tegangan yang merepresentasikan input digital. Tegangan iniberubah dengan step sama dengan perubahan bit input digital. Output aktual dapat berupa bipolar jikakonverter didesain untuk menginterpretasikan input digital negatif.
+5.    Offset : Karena DAC biasanya di implementasikan dengan op-amp, maka mungkin adanya tegangan output offset dengan sebuah input nol. Secara khusus, koneksi akan diberikan untuk mendukung pengesetan ke harga nol dari output DAC dengan input word nol.
+6.  Mulai konversi : Sejumlah rangkaian DAC memberikan sebuah logika input yang mempertahankan konversi dari saat terjadinya hingga diterimanya sebuah perintah logika tertentu (1atau 0). Dalam ini, word input digital diabaikan hingga diterimanya input logika tertentu. Dalam sejumlah hal, sebuah buffer input diberikan untuk memegang (hold)word digital selama dilakukannya konversi hingga selesai.

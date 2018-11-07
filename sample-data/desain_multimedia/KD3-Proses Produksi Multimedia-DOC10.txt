@@ -1,0 +1,38 @@
+Pra Produksi Multimedia
+Pada dasarnya, alir proses produksi produk multimedia terbagi menjadi tiga tahap, yaitu pra-produksi, produksi dan pasca produksi
+
+
+Preproduction atau pra produksi pada prinsipnya meliputi proses penuangan ide produk (proposal), perencanaan produk, perencanaan proses produksi, penyusunan dokumentasi, penyusunan tim, pembuatan prototype, pengurusan hak cipta, dan penandatanganan kontrak serta pembiayaan.
+Proses produksi terdiri dari pembuatan content multimedia yang diperlukan, pemrosesan content, pembuatan program/software yang diperlukan, mengintegrasikan content dan software, merevisi design membangun Apha version (hampir semua fungsi produk sudahdibangun diimplementasikan dan diintegrasikan),pengujian awal produk, mengevaluasi produk dan merevisi software dan content berdasarkan pada hasil evaluasi, dan membangun Beta version (semua fungsi produk sudah dibangun diimplementasikan dan diintegrasikan tetapi belum diuji secara lengkap).
+Proses post production ini terdiri dari proses pengujian Beta version, mengevaluasi dan merevisi software dan content berdasarkan pada hasil pengujuan versi Beta, merelease Golden Master (final product) dari produk multimedia dan menyimpan semua material yang dipakai dalam proses produksi.
+Secara garis besar ada tiga jenis proyek multimedia berupa video, yaitu naratif, dokumenter dan non-naratif atau seni.
+1)    Proyek naratif
+Proyek naratif berarti menceritakan sebuah kisah. Karakteristik utamanya adalah hubungan antar scene dan semua scene saling berkaitan sehingga membentuk sebuah kisah. Untuk membuat sebuah proyek naratif, kita harus mengetahui jalan ceritanya, harus memiliki script yang berisi semua dialog yang akan dilakukan oleh aktor, deskripsi tempat dan suasana.
+o   Karakter
+Sebuah kisah adalah tentang karakter, pelaku utama dari setiap kejadian yang diceritakan dalam kisah tersebut. Jika kita membuat proyek naratif, maka kita harus meluangkan waktu untuk memikirkan tentang karakter yang akan dibuat. Karakter yang dipilih sebaiknya menarik dan memberi arti pada penonton.
+o   Situasi
+Sebuah kisah adalah tentang karakter dalam situasi tertentu. Kita perlu mengetahui situasi seperti apa yang akan dihadapi oleh karakter.
+o   Setting lokasi
+Cerita yang dibuat harus terjadi disuatu tempat. Pada saat membuat cerita, perhatikanlah bahwa setting lokasi yang kompleks akan menyulitkan pada saat produksi, dan setiap seting yang berbeda akan akan mengakibatkan perpindahan lokasi syuting
+2)    Proyek dokumenter
+Proyek dokumenter memiliki tujuan utama untuk melaporkan suatu fakta yang terjadi. Kebanyakan proyek dokumenter berbentuk naratif dengan tambahan wawancara didalamnya. 
+3)    Proyek non-naratif/seni
+Proyek non-naratif tidak menceritakan sebuah kisah tertentu. Misalnya video seni atau paduan suara. Dalam sebuah proyek seni, tetap harus dibuat pula tahapan pra produksinya.
+Pra produksi merupakan proses sebelum dilakukanya kegiatan produksi, pra-produksi merupakan tahap perencanaan . Pada intinya tujuan pra produksi adalah mempersiapkan segala sesuatunya agar proses produksi dapat berjalan sesuai konsep.
+Pra produksi terdiri dari beberapa tahap.Diagram berikut menggambarkan kegiatan-kegiatan yang harus dilaksanakan pada tahap praproduksi, terutama untuk produksi video/film
+
+
+Berikut ini adalah penjelasan dari setiap kegiatan yang dilakukan dalam tahap pra produksi
+1)    Ide
+Setiap proyek diawali dengan ide. Membangun ide merupakan tantangan pertama dalam membuat sebuah proyek, Mimpi, brainstorming, dan memutuskan apa yang akan diungkapkan dan bagaimana cara untuk mengungkapkannya.
+2)    Penulisan
+Setelah ide diperoleh, selanjutnya adalah penulisan script.  Skenario merupakan bentuk transformasi ide menjadi bagian yang lebih detail. selanjutnya setiap bagian dipecah menjadi sebuah cerita.
+Setiap cerita terdiri dari bagian pembuka, inti cerita dan penutup. Pada bagian pembukaan, penonton diperkenalkan pada setting cerita.  karakter tokoh dan masalah yang ada. Pada bagian inti cerita, digambarkan tokoh utama berjuang melawan orang-orang yang berusaha mencegahnya untuk meraih apa yang diinginkannya. Inilah inti ceritanya, masalah dan konflik terjadi secara terus menerus, musuh bermunculan, dan tokoh utama membuat keputusan-keputusan yang dapat memperpanjang cerita. Semua ini akan menuju sebuah klimaks, saat semua tantangan dapat diatasi dan tujuan utama tercapai. Pada bagian penutup ditunjukkan bagaimana karakter tokoh utama berubah dan mengubah pula dunia disekitar mereka
+Konflik merupakan mesin pengendali cerita. Tokoh utama, atau protagonis, membutuhkan atau menginginkan sesuatu, namun masalah atau antagonis menghalangi langkahnya. Perselisihan diantara kedua kubu ini menciptakan konflik. Protagonis dapat menyelesaikan masalahnya dengan membuat beberapa keputusan dan melakukan beberapa tindakan yang dapat digunakan untuk mengembangkan plot dari cerita.
+3)    Pra visualisasi
+Setelah penulisan script selesai, langkah selanjutnya adalah menterjemahkan teks ke dalam bentuk gambar. Film merupakan bahasa visual yang kompleks yang terdiri dari beberapa klip video. Setiap klip merupakan gambar yang dilengkapi dengan pencahayaan, penentuan frame, unjuk kerja dan perpindahan. Tantangan dalam pra visualisasi adalah bagaimana menggunakan elemen-elemen tersebut untuk membuat visualisasi secara nyata gambar-gambar dalam script yang telah dibuat. Semakin detail bagian ini, semakin mudah tahap produksi dan pasca produksi.
+           Pra visualisasi dapat terdiri dari beberapa bentuk. Storyboard menggunakan perangkat lunak atau keertas dan pensil. Dapat pula berupa gambar diam untuk frame-frame kunci dalam tiap segmen. Dapat pula menggunakan kamera video untuk membuat draft kasar dari script yang telah ditulis.
+4)    Perencanaan produksi
+Perencanaan produksi yaitu pembuatan perencanaan berdasarkan semua bidang pekerjaan yang akan dilakukan sehingga proses syuting akan berjalan lancar. Perencanaan proyek bukanlah pekerjaan yang menarik dan kreatif. Namun pekerjaan ini dapat digunakan untuk memastikan apakah segala sesuatunya bekerja sesuai rencana ataukah ada yang tidak sesuai, misalnya anggaran keuangan yang membesar, waktu yang menjadi semakin lama. 
+Langkah pertama yang harus dilakukan adalah membaca kembali script dan menandai elemen-elemen fisik yang dibutuhkan dalam kegiatan syuting setiap scene. Elemen-elemen fisik ini meliputi lokasi, actor, wardrobe, property dan sebagainya. Selanjutnya, aturlah elemen-elemen ini berdasarkan kelompoknya, hal ini akan memudahkan dalam membuat jadwal shooting.
+Sebagai contoh, jika ada sepuluh scene pada script yang mengambil setting lingkungan di dalam rumah, maka syuting kesepuluh scene ini dapat dilakukan dalam waktu bersamaan sehingga menghemat waktu dan mengurangi kerepotan saat berpindah-pindah lokasi syuting.

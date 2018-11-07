@@ -1,0 +1,37 @@
+
+Multimedia (multi = Banyak; media =  medium/alat dan cara untuk mengkomunikasikan informasi) 
+Multimedia adalah penggunaan komputer untuk menyajikan dan menggabungkan teks, suara, gambar, animasi dan video dengan alat bantu ([tool]) dan koneksi ([link]) sehingga pengguna dapat ber([navigasi]), berinteraksi, berkarya dan berkomunikasi. 
+Multimedia sering digunakan dalam dunia hiburan. Selain dari dunia hiburan, Multimedia juga diadopsi oleh dunia Game.
+
+Multimedia dimanfaatkan juga dalam dunia pendidikan dan bisnis. 
+Di dunia pendidikan, multimedia digunakan sebagai media pengajaran, baik dalam kelas maupun secara sendiri-sendiri.
+Di dunia bisnis, multimedia digunakan sebagai media profil perusahaan, profil produk, bahkan sebagai media kios informasi dan pelatihan dalam sistem e-learning.
+Perkembangan teknologi Multimedia telah memberikan dampak yang banyak kepada bidang industri, yaitu:
+1.    Industri komputer.  
+2.    Industri telekomunikasi (telecommunication) 
+3.    Industri penyiaran (broadcasing)
+
+Komponen Multimedia
+Ciri-ciri umum Sistem Komputer Multimedia 
+Ciri ini akan membedakan antara video dan televisi  yang juga  mengandungi gabungan teks, suara, animasi, musik dan klip video
+
+Ciri-ciri umum Sistem Komputer Multimedia 
+1.    Mempunyai kemampuan untuk merubah Informasi dari analog seperti suara, musik dan video ke bentuk digital dan sebaliknya.   
+2.    Interaktif yaitu pengguna bisa berkomunikasi walaupun tidak secara langsung. dengan  data-data multimedia
+
+Empat Sifat Penting Produk Multimedia
+1.    Komputer, untuk melakukan koordinasi tentang apa yang dilihat dan didengar oleh pemakai 
+2.    Links, yang menghubungkan dengan informasi 
+3.    Navigational tools, yang memungkinkan pemakai untuk menjelajahi informasi yang ditampilkan 
+4.    Cara, untuk berbagi, memproses, dan mengkomunikasikan informasi dan ide pemakai
+
+Keunggulan multimedia : 
+1. Menarik perhatian  karena manusia memiliki keterbatasan daya ingat 
+2. Media alternatif dalam penyampaian pesan diperkuat dengan teks, suara, gambar, video, dan animasi 
+3. Meningkatkan kualitas penyampaian informasi 
+4. Interaktif
+
+• Kelemahan multimedia : 
+1. Design yang buruk menyebabkan kebingungan dan kebosanan  pesan tidak tersampaikan dengan baik 
+2. Kendala bagi orang dengan kemampuan terbatas / cacat / disable 
+3. Tuntutan terhadap spesifikasi komputer yang memadai

@@ -1,0 +1,207 @@
+OS open source dan close source
+bagus23111999@blogspot.comAgustus 01, 2017 Tidak ada komentar
+Assalamu'alaikum WR.WB
+Hai kawan semua pada artikel yang saya tulis ini, saya akan membahas tentang open dan closenya operasi sistem dan perkembangannya
+
+OS (Operation System)
+Operasi sistem terbagi menjadi 2 yaitu:
+1.CLOSE SOURCE
+Pengertian Closed Source Pengertian Closed Source Software adalah perangkat lunak atau software yang dipublikasikan tanpa diberikan kode sumbernya, pada software  jenis closed source hanya terdiri dari file binari saja tanpa adanya ruang untuk mengakses ke kode sumber software tersebut. Secara umum, software closed source memiliki lisensi atau hak cipta yang bertujuan untuk melindungi software tersebut dari penggunaan yang dapat merugikan si pembuat software dan menguntungkan pihak ketiga. Software Closed Source bersifat terbatas dalam penggunaan, penyalinan, juga modifikasi. Bagi seseorang atau perusahaan yang bermaksud ingin mengakses kode sumber maka dibutuhkan perjanjian khusus yang dinamakan perjanjian non-disclosure.
+Ø  Sistem Operasi Close Source
+Sistem operasi closed source adalah sistem operasi yang kodenya tidak dibuka untuk umum , pemilik kode close source bisa membagikan codenya melalui lisense secara gratis maupun dengan membayar
+Pada Sistem Operasi Close Source ini paket program tidak dapat didistribusikan lagi selain oleh Pembuat/Vendor Program tersebut. Jika ada pendistribusian yang bukan dari Vendor Program tersebut, maka dianggap sebagai pembajakan software
+·     keuntungan/kelebihan close source
+-kestablian sistem terjamin
+-support/dukungan langsung dari pemilik program
+-lebih mudah digunakan
+·     Kerugian/Kekurangan Close Source
+-Celah yang terbuka
+-Adanya lisensi yang mengharuskan pengguna menyediakan dana
+-Pengembangan terbatas
+-Diperlukan antivirus
+-Harga lisensi mahal
+Ø  Contoh Sistem Operasi Close Source
+Sistem Operasi
+Berikut adalah beberapa contoh perangkat lunak dalam kelompok Sistem Operasi yang menggunakan lisensi Closed Source adalah Microsoft Windows
+
+Penemu microsoft Windows untuk pertama kalinya adalah dua orang yang saling bersahabat sejak kecil yaitu Bill Gates dan Paul Allen.                                                                                                   
+
+
+Sejarah perkembangan Windows Sampai 2017
+
+1. Windows 1.0 - Tahun 1985
+Windows ini merupakan Versi pertama dari penemu Windows yang disebut dengan Windows 1.0, dirilis pada tanggal 20 November 1985. Versi ini memiliki banyak kekurangan dalam beberapa fungsionalitas, sehingga kurang populer di pasaran. Windows 1.0 bukanlah sebuah sistem operasi yang lengkap, tapi hanya memperluas kemampuan MSDOS dengan tambahan antarmuka grafis. Selain itu, Windows 1.0 juga memiliki masalah dan kelemahan yang sama yang dimiliki oleh MS-DOS. 
+
+2. Windows 2.0 - Tahun 1987 
+Windows 2.0 mulai diperkenalkan untuk menggantikan versi 1.0 . Pada versi ini, penggunaan kartu grafis VGA mulai diperkenalkan sehingga Windows 2.0 mampu menampilkan resolusi yang lebih baik dari versi sebelumnya. Program aplikasi tambahan yang disertakan adalah Microsoft Excel dan Microsoft Word. Selain itu, program aplikasi yang mulai dapat diinstal pada sistem operasi ini adalah corel draw dan pagemarker.
+
+3. Windows 3.X( 3.0 DAN 3.1 Tahun 1990 dan 1992) 
+Tahun 1990- Windows 3.0 : Keluaran ketiga dari Windows platform menawarkan peningkatan performa, advanced graphic dengan dukungan 16-colors, dan dukungan penuh Prosesor yang lebih kuat dari Intel 386. Berbagai PC yang memiliki Prosesor Intel 386 yang menawarkan fitur yang lengkap dan kapabilitas Tahun 1992- Windows 3.1 :   Versi Windows disertai TrueType font yang prainstal. Hal ini secara efektif untuk pertama kalinya Windows membuat sebuah desktop publishing platform fungsional.
+
+4. Windows for Workgroups - Tahun 1992
+Sebenarnya ide untuk mengeluarkan system operasi berbasis wokrsgroup sudah dimunculkan pada Windows 3.1. Namun, pengembangan lebih lanjut terdapat padaversi 3.1.1. Versi ini merupakan cikal bakal dari system operasi windows yang bebasis jaringan (network). 
+
+5. Windows NT
+Selama waktu itu, penemu Windows sekaligus Pendiri Microsoft Corporation terus melanjutkan pengembangan sistem operasi yang barunya, yang disebut dengan Windows NT. Arsitek utama dari Windows NT adalah Dave Cutler, yang merupakan salah satu dari pemimpin arsitek sistem operasi VMS di perusahaan Digital Equipment Corporation (DEC), yang kemudian dibeli oleh Compaq yang sekarang bagian dari Hewlett-Packard. Microsoft merekrut Cutler pada tahun 1988 untuk membuat sebuah versi OS/2 yang bersifat portabel, tapi akhirnya Cutler malahan membuat sistem operasi baru. 
+
+6. Windows 95 - Tahun 1995
+Windows 95 sudah terintegrasi dengan 32-bit TCP/IP (Transmission Control Protocol/Internet Protocol) dan sudah mendukung jaringan Internet, dial-up networking, dan dukungan Plug and Play, dimana kita bisa menginstall Device dengan hanya mencolok kabel hardwarenya. Versi 32 bit dari Windows 95 terdapat peningkatan kapabilitas multiedia, fitur yang lebih kaya untuk mobile computing, dan Networking yang sudah diintegrasikan.
+
+7. Windows 98 - Tahun 1998
+Windows 98 mulai dipasarkan pada 25 Juni 1998. Di versi inilah Windows mulai support dengan port USB secara gila-gilaan. USB hub, USB scanner, USB mouse, USB keyboard, USB joystick, dan berbagai device USB lainnya.
+
+8. Windows Millenium Edition (ME) – Tahun 2000
+Windows ME dirancang khusus bagi pengguna computer rumahan. Namun, rupanya versi ini kurang disukai oleh masyarakat karena banyaknya isu yang beredar bahwa windows ME tidak sekompatibel Windows 98SE dalam menjalankan beberapa aplikasi tambahan.
+
+9. Windows Experience ( XP )- Tahun 2001
+Windows XP membawa hawa segar bagi dunia komputer. Peningkatan dari Windows 2000, Windows XP membawa reliabilitas tinggi, keamanan, dan performa. Dengan tampilan yang segar, Windows XP memiliki fitur untuk bisnis dan juga home computing. Termasuk remote desktop connection, file system yang dapat di enkrip, dan System Restore dan juga advanced networking. Untuk pengguna Mobile, terdapat dukungan wireless 802.1x network, Windows Messenger, dan Remote Assistance. 
+
+10. Windows Vista – Tahun 2007
+Windows vista adalah system operasi terbaru keluaran Microsoft dari para pengembang atau penemu Windows. Fitur-fitur pada Windows Vista perubahannya boleh dikatakan radikal, terutama pada bagian userinterface. Kemampuan sekuritas juga ditambahkan oleh Microsoft, sehingga Microsoft megklaim versi terbarunya ini lebih stabil,aman, dan memanjakan pengguna computer (walaupun menurut banyak orang hal-hal tersebut sudah ada pada Windows XP).
+
+11. Windows 7 – Tahun 2010
+Microsoft membuat Windows 7 lebih handal daripada windows vista. Selain itu, tingkat responsifitas windows 7 ditingkatkan, serta membuat proses booting dan shutdown lebih cepat lagi. Pengguna computer diharapkan lebih mudah dalam menyelesaikan tugas sehari-hari, membuat koeksi dan sikronisasi antarperngkat lebih mudah, dan menjelajah dunia internet lebih memuaskan .
+
+12. Windows 8 – Tahun 2011
+Pengembangan Windows 8 dimulai sebelum Windows 7 diluncurkan pada tahun 2009. Tanggal 13 September 2011, build 8102 (Windows 8 Developer Preview) dirilis ke publik. Build ini terbuka penuh untuk pertama kalinya dan dilengkapi Start Screen baru, antarmuka pengguna Metro dan sejumlah sampel aplikasi buatan para karyawan magang di Microsoft. Pada tanggal 29 Februari 2012, Microsoft meluncurkan Windows 8 Consumer Preview, versi beta dari Windows 8, build 8250. Untuk pertama kalinya sejak Windows 95, tombol Start tidak lagi muncul di taskbar, meski layar Start-nya masih harus dibuka dengan mengklik sudut kiri bawah layar dan tombol Start di kotak Charm. Pada tanggal 1 Agustus 2012, Windows 8 (build 9200) dirilis dengan nomor build 6.2.9200.16384. Microsoft mengadakan acara peluncuran pada 25 Oktober 2012 dan meluncurkan Windows 8 untuk publik keesokan harinya.
+
+
+13. Windows 8.1 - Tahun 2013
+Rilis selanjutnya setelah Windows 8 adalah Windows 8.1, yang sebelumnya dikenal dengan sebutan Blue. Tanggal 26 Juni 2013, build 9431 (Windows 8.1 Free Preview) dirilis ke publik. Build ini terbuka penuh untuk pertama kalinya dan dilengkapi dengan tombol Mulai baru, booting langsung ke desktop, layar kunci yang disempurnakan dan sejumlah aplikasi Metro yang baru. Pada tanggal 27 Agustus 2013, Windows 8.1 (build 9600) dirilis dengan nomor build 6.3.9600.16384. Microsoft mengadakan acara peluncuran pada 17 Oktober 2013 dan meluncurkan Windows 8.1 untuk publik keesokan harinya.
+
+14. Windows 10 – Tahun 2015
+
+Windows 10 merupakan rilisan dari pengembang atau penemu Windows yang akan dirilis mendatang dari sistem operasi Microsoft Windows. Diperkenalkan pada tanggal 30 September 2014, akan dirilis pada akhir tahun 2015.
+
+
+
+15. Windows 10 versi 1607 –Tahun 2016
+
+Windows versi ini merupakan pembaruan fitur yang dirilis untuk ketiga kalinya. Berdasarkan masukan dari berbagai organisasi yang kini hijrah ke Windows 10, ini adalah pembaruan terakhir untuk di tahun 2016 silam.
+
+2.OPEN SOURCE
+    Open source adalah perangkat lunak dimana kode program terbuka dan disediakan oleh pengembangnya secara umum agar dapat dipelajari, diubah atau dikembangkan lebih lanjut dan disebar luaskan. Jika ada pembuat perangkat lunak yang tidak mengizinkan kode programnya diubah atau dimodifikasi, maka bukanlah disebut sebagai open source walaupun kode program dari perangkat lunak tersebut tersedia.
+       Open source (kode program terbuka) dipopulerkan tahun 1998. Sejarah perangkat lunak open source lahir sejak kultur hacker berkembang di laboratorium-laboratorium komputer di universitas-universitas Amerika seperti Stanford, Berkeley, Carnegie Mellon, dan MIT pada tahun 1960-an dan 1970-an.Sistem operasi open source dinggap menguntungkan, khususnya oleh para pengguna open source. Beberapa keuntungan dan kerugian dari open source :
+
+   Keuntungan
+1.      Banyak tenaga (SDM) yang berperan mengerjakan proyek
+2.      Kesalahan (bugs, error) lebih cepat ditemukan dan diperbaiki
+3.      Kualitas hasil lebih terjamin karena komunitas melakukan evaluasi
+4.      Lebih aman
+5.      Hemat biaya
+6.      Tidak mengulangi development
+
+ Kekurangan
+1.      Kurangnya SDM yang dapat memanfaatkan open source
+2.      Tidak adanya proteksi terhadap HAKI
+
+
+Contoh Sistem operasi yang termasuk Open Source adalah
+
+1.LINUX – Tahun 1983
+Nama "Linux" berasal dari nama pembuatnya, yang diperkenalkan tahun 1991 oleh Linus Benedict Torvalds. Sistemnya, peralatan sistem dan pustakanya umumnya berasal dari sistem operasi GNU, yang diumumkan tahun 1983 oleh Richard Stallman. Kontribusi GNU adalah dasar dari munculnya nama alternatif GNU/Linux.
+2.BSD – Tahun 1982
+Bill Jolitz pertama kali mengumumkan mengenai keinginannya untuk membuat versi FREEï dari Berkeley Software Distribution untuk mesin 386.
+1.OpenBSD – Tahun 1990
+Pada awal 1990, Theo de Raadt bertanggunjawab untuk melakukan porting NetBSD pada mesin-mesin SPARC. Namun karena terjadi ketidakcocokan antara Theo dan NetBSD core team untuk masalah pengembangan NetBSD, membuat Theo hengkang dengan mendirikan proyek baru bernama OpenBSD.
+2. Free BSD – Tahun 1992
+Sejarah kelahiran FreeBSD berawal pada tahun 1992 ketika Jordan K Hubbard, Rod Grimes, dan Nate Williams (mereka adalah orang-orang yang menangani proyek 386BSD) merilis sebuah paket yang dikenal sebagai Unofficial 386BSD Patchkitï. Dari sanalah lahir mekanisme baru yang membentuk 386BSD 0.5½.
+
+3.SOLARIS – Tahun 1982
+Pada tanggal 12 Februari 1982, Vinod Khosla, Andy Bechtolsheim dan Scott McNealy dan mereka merupakan siswa lulusan Stanford menemukan Sun Microsystems dan Bill Joy dari Berkeley yang merupakan pengembang utama dari BSD yang bergabung setelahnya, juga merupakan salah satu penemuSun Microsystems dan SUN mulai menguntungkan pada Juli 1982. Persembahan Sun inisial publik adalah pada tahun 1986 di bawah simbol SUNW ( Sun Workstation) dan simbol SUN pada tahun 2007 dirubah ke JAVA karena SUN berasosiasi dengan JAVA Platform dan logo SUN yang berbentuk matahari dunia di desain oleh PROF.Vaughan Pratt. SUN workstation yang pertama menjalankan UNIX versi 7 dengan 68000 prosesor.
+
+Perkembangan dan Jenis OS Solaris
+
+Solaris 1.x
+SunOS 4.1.x
+1991-1994
+Solaris 2.0
+SunOS 5.0
+Juni 1992
+Solaris 2.1
+SunOS 5.1
+Desember 1992
+Solaris 2.2
+SunOS 5.2
+Mei 1993
+Solaris 2.3
+SunOS 5.3
+November 1993
+Solaris 2.4
+SunOS 5.4
+November 1994
+Solaris 2.5
+SunOS 5.5
+November 1995
+Solaris 2.5.1
+SunOS 5.5.1
+May 1996
+Solaris 2.6
+SunOS 5.6
+Juli 1997
+Solaris 7
+SunOS 5.7
+November 1998
+Solaris 8
+SunOS 5.8
+February 2000
+Solaris 9
+SunOS 5.9
+28 Mei 2002
+Solaris 10
+Solaris OS 5.10
+31 Januari 2005
+
+4.ANDROID – Tahun 2004
+Andy Rubin. Ia lahir pada tanggal 22 Juni 1946 di New Bedford, Amerika Serikat. Dia dikenal sebagai Penemu dari Android OS yang merupakan sistem operasi yang banyak digunakan di smartphone saat ini. Dan pada Juli 2005, Perusahaan Andorid Inc pun di beli oleh Raksasa Google dan Andy Rubin pun ikut bergabung ke Google.
+Perkembangan dan Jenis OS Android
+
+Android versi 1.0 (Beta) –Tahun 2007
+
+Versi Beta ini dirilis pada 5 November 2007, kemudian pada 23 September 2008 dirilis versi komersialnya dengan memasukkan berbagai fitur seperti Android Market, Web Browser, Gmail, Maps, dan lain sebagainya.
+
+
+
+Android versi 1.1 - 9 maret 2009
+
+Pada 9 Maret 2009 telah dirilis Android versi 1.1 dimana pembaharuan fitur pun terjadi seperti penambahan fitur mulai Google Mail Service (GMS), Alarm Clock, Voice Search, hingga tersedianya File Attachment pada pesan.
+
+
+Android versi 1.5 (Cupcake) 30 april 2009
+
+Setelah perilisan Android versi 1.5 Cupcake pada 30 April 2009 mulailah fitur-fitur baru yang bermunculan, seperti kemampuan untuk mengupload video ke Youtube, integrasi home screen dan widgets, copy paste pada browser, dan masih banyak lagi.
+
+
+
+Android versi 1.6 (Donut) 15 september 2009
+
+Versi Donut dirilis pada 15 September 2009 dan dibekali dengan fitur utama yakni integrasi kamera, video dan galeri, kemudian mendukung layar resolusi WVGA, serta Perbaikan Google Play (Android Market).
+
+Android versi 2.0 - 2.1 (Eclair) – 9 desember 2009 
+Tak lama kemudian dirilis Android Eclair (v2.0 - 2.1) pada 9 Desember 2009 dengan beragam fitur yang menarik, seperti support Google Maps Beta, Pencarian SMS, hingga Bluetooth 2.1 yang memungkinkan untuk mentransfer data secara lebih cepat.
+
+Android versi 2.2 - 2.3 (Froyo = Frozen Yoghurt) – 20 mei 2010
+Pada 20 Mei 2010 telah dirilis Android versi 2.2 Froyo dengan penambahan fitur utama, seperti support Adobe Flash, Hotspot Portable, serta perekaman video dengan kualitas HD.
+
+Android versi 2.3 - 2.3.7 (Gingerbread) – 6 desember 2010
+Setelah itu Android meresmikan peluncuran Android Gingerbread (versi 2.3, 2.3.2, 2.3.3, 2.3.7) pada 6 Desember 2010. Pada versi ini telah dilakukan perbaikan antarmuka hemat energi, support terhadap NFC, keyboard virtual, dan peningkatan fasilitas copy paste.
+
+Android versi 3.0 - 3.2 (Honeycomb) – 22 februari 2011
+Android versi ini lebih diperuntukkan bagi pengguna tablet dengan antarmuka atau interface yang lebih user friendly, fitur multi tasking, dan fitur-fitur lainnya yang disesuaikan untuk perangkat komputer tablet.
+
+Android versi 4.0 (Ice Cream Sandwich) – 19 oktober 2011
+Secara resmi dirilis pada tanggal 19 Oktober 2011, Android versi 4.0 ICS ini dibekali dengan fitur baru yakni fitur membuka kunci dengan pengenalan wajah (Face Unlock), perbaikan input teks dan suara, serta tombol virtual yang dapat menggantikan tombol fisik.
+
+Android versi 4.1 - 4.3 (Jelly Bean) – 9 juli 2012
+Kemudian pada 9 Juli 2012, telah dirilis Android untuk versi 4.1 yang dinamakan Jelly Bean. Terdapat banyak sekali fitur-fitur baru yang ditambahkan ke dalam Android Jelly Bean ini, antara lain fitur Google Now, user interface, lock screen widget, dan bluetooth smart ready.
+
+
+Android versi 4.4 (KitKat) – 31 oktober 2013 
+
+Pada 31 Oktober 2013 lalu diperkenalkan Android versi 4.4 dengan KitKat sebagai penamaannya. Pembaharuan yang dapat dilihat pada Android versi ini, antara lain antarmuka atau interface yang lebih canggih, fitur screen recording, support wireless printing, peningkatan fitur keamanan dan performa.
+
+
+
+Android versi 5.0 (Lollipop) – 25 juni 2015
+
+Sistem operasi Android mengalami peningkatan versi yakni Android versi 5.0 yang merupakan penerus dari versi sebelumnya yakni Android versi 4.4 KitKat. Android ini mengalami beberapa perubahan yang signifikan, antara lain Material Design yakni desain antarmuka atau interface yang lebih berwarna dan responsif tentunya.

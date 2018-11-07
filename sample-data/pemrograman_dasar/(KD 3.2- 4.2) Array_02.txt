@@ -1,0 +1,62 @@
+Kegunaan Array,Perbedaan Array 1 dimensi, 2 dimensi, dan multidimensi, dan contohnya
+1.Kegunaan Array dalam bahasa pemrograman
+2.Perbedaan Array 1 dimensi, 2 dimensi, dan multidimensi
+3.Contoh sederhana Array
+
+Jawaban
+1.Kegunaan Array dalam bahasa pemrograman
+-Array merupakan struktur data yang sering digunakan dalam pemrograman untuk menyimpan
+data yang akan diolah atau di proses seperti proses sorting.Array adalah struktur data yang terdiri dari kumpulan variable yang bertipe sama.Beberapa bahasa pemrograman mendukung struktur array statis dan dinamis. Pada C/C++array yang didukung adalah array statis.Pada C/C++ array merupakan pointer yang mempunyai alokasi memory tetap (pointerconstant).Array adalah suatu tipe data terstuktur yang berupa sejumlah data sejenis (bertipe data sama) yangjumlahnya tetap dan diberi suatu nama tertentu. Elemen-elemen array tersusun secara sekuensial didalam memori sehingga memiliki alamat yang berdekatan. Array dapat berupa array 1 dimensi, 2dimensi, bahkan n-dimensi. Elemen-elemen array bertipe data sama tapi bisa bernilai sama atauberbeda-beda. Array digunakan untuk menyimpan data-data yang diinputkan masing-masing kedalammemory komputer. Jadi jumlah datanya banyak namun satu jenis.
+-Kegunaan array.
+Array dapat digunakan untuk menyimpan data yang cukup banyak namun memiliki tipe yang sama.
+Bagaimana array melakukan penyimpanan datanya di memory komputer? Ilustrasi array satu dimensi
+
+Contoh:
+pada memory komputer adalah sebagai berikut:Array menyimpan data secara berurutan pada memory komputer. Sekali array dideklarasikan (dibuat),maka akan dialokasikan sejumlah tempat di memory komputer yang selalu letaknya berdekatan(bersebelahan). Array memiliki indeks dan nilai data itu sendiri. Sedangkan jarak antar elemen padaarray disesuaikan dengan lebar data untuk masing-masing tipe data array. Misalnya pada tipe data
+integer, maka jarak antar elemennya bernilai 2 s/d 4 byte. Indeks array pada C++ selalu dimulai dari indeks ke 0, dan seterusnya indeks ke-1, 2, 3, dan lain-lain.Array 1
+
+
+2.Perbedaan Array 1 dimensi, 2 dimensi, dan multidimensi.
+Array 1 dimensi.
+Elemen-elemen array dapat diakses oleh program menggunakan suatu indeks tertentu. Pengaksesan
+elemen array dapat dilakukan berurutan atau random berdasarkan indeks tertentu secara langsung.
+Pengisian dan pengambilan nilai pada indeks tertentu dapat dilakukan dengan mengeset nilai atau
+menampilkan nilai pada indeks yang dimaksud.
+
+Array 2 dimensi
+Array dua dimensi sering kali digambarkan/dianalogikan sebagai sebuah matriks atau bentuk grid. Jika
+array berdimensi satu hanya terdiri dari 1 baris dan banyak kolom, array berdimensi dua terdiri dari banyak baris dan banyak kolom yang bertipe sama.
+
+Array multidimensi
+Array multi dimensi berarti array yang kita deklasaikan dapat dikembangkan ke array dimensi 2 danseteruanya. Array multi dimensi merupakan topik yang menarik dalam matematika. Setiap dimensidalamarraydirepresentasikan sebagai sub bagian dalam array. Oleh karena itu, array dua dimensiarray memilikidua sub bagian, sebuah array tiga-dimensi memiliki tiga sub bagian dansebagainya. Sebuah contoh bentuk nyata yang baik dari array duadimensi adalah sebuah papan catur.Satu dimensinya merupakan delapan baris, sedangkan dimensi lainnya merupakan delapan kolom.
+
+3.Contoh sederhana Array.
+Dicontohkan array Satu dimensi.
+-----------------------------------------------
+-Bentuk umum deklarasi array satu dimensi:
+
+tipe_data nama_var_array;
+Dimana:
+tipe_data : menyatakan jenis tipe data elemen larik (int, char, float, dll)
+nama_var_array : menyatakan nama variabel yang dipakai.
+ukuran : menunjukkan jumlah maksimal elemen larik.
+
+Coontoh:
+char huruf[9];
+int umur[10];
+int kondisi[2] = {0,1};
+int arr_dinamis[] = {1,2,3};
+
+
+Penjelasan contoh.
+char huruf[9]: berarti akan memesan tempat di memori komputer sebanyak 9 tempat denganindeks dari 0-8, dimana semua elemennya bertipe data karakter semuanya.
+Kalau satu karakter berukuran 1 byte, berarti membutuhkan memori sebesar 9
+byte.int umur[10]: berarti akan memesan tempat di memori komputer sebanyak 10 tempat dengan
+indeks dari 0-9, dimana semua elemennya bertipe data integer semuanya.Kalau satu integer berukuran 4 bytes, berarti membutuhkan memori sebesar 4 x10 = 20 bytes.int kondisi[2]: berarti akan memesan tempat di memori komputer sebanyak 2 tempat denganindeks 0-1, dimana semua elemennya bertipe data integer semuanya. Dan padacontoh di atas isi elemen-elemennya yang sebanyak 2 buah diisi sekaligus(diinisialisasi) yaitu pada elemen kondisi[0] bernilai 0, dan elemen kondisi[1]bernilai 1.int arr_dinamis[]:berarti mendeklarasikan array dengan ukuran maksimum array tidak diketahui,namun ukuran tersebut diketahui berdasarkan inisialisasi yaitu sebanyak 3elemen, yang isinya 1,2, dan 3. Ingat bahwa array dinamis tidak bisa dibuat
+tanpa inisialisasi.Tanda [] disebut juga “elemen yang ke- “. Misalnya “kondisi[0]“ berarti elemen yang ke nol. Array yangsudah dipesan, misalnya 10 tempat tidak harus diisi semuanya, bisa saja hanya diisi 5 elemen saja, baik
+secara berurutan maupun tidak. Namun pada kondisi yang tidak sepenuhnya terisi tersebut, tempat
+pemesanan di memori tetap sebanyak 10 tempat, jadi tempat yang tidak terisi tetap akan terpesan dandibiarkan kosong.
+
+Untuk contoh array satu dimensi contoh kode bisa dilihat di lampiran
+
+Sumber :http://nice.or.id/qtcurriculum/hol/chapter3.pdf

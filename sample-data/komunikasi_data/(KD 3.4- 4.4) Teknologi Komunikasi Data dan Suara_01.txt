@@ -1,0 +1,60 @@
+Teknologi Komunikasi Data dan Suara
+By Ichda Al Farizah | 23.36 Leave a Comment
+
+
+
+
+A. KOMUNIKASI DATA
+? Pengertian
+Komunikasi data merupakan proses pengiriman informasi (data) yang telah diubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmis dari pengirim (sender) ke penerima (receiver).
+
+? Jenis
+Salah satu jenis komunikasi data berdasarkan medianya :
+a. Menggunakan kabel
+Contoh : Coaxial, UTP/STP, DAN FO
+b. Nirkabel (tidak menggunakan kabel)
+Contoh : wireless, bluetooth
+? Syarat
+Sebuah proses komunikasi data akan terjadi bila memenuhi syarat sebagai berikut :
+a. Ada pengirim (sender)
+b. Ada penerima (receiver)
+c. Ada data yang dikirim oleh sender
+d. Ada media transmisi untuk mengirimkannya
+? Proses
+Proses komunikasi data diawali dengan dihubungkannya antara device milik sender dan receiver dalam sebuah jaringan. Setelah itu data akan dikirim melalui sebuah media transmisi. Pada saat proses pengiriman data, data akan dijadikan paket-paket, lalu dijadikan bit-bit biner. Proses perubahan bentuk tersebut dilakukan oleh 7 osi layer
+? Hambatan
+Hambatan ketika melakukan komunikasi data antara lain :
+a. Hambatan yang bersifat teknis, yaitu pesan tidak dapat utuh diterima receiver
+b. Hambatan bahasa, yaitu pesan yang kita kirimkan tidak dapat ditafsirkan secara sempurna oleh receiver
+c. Hambatan bola salju, yaitu pesan semakin lama semakin membesar
+? Pemikiran dalam komunikasi data
+a. Menyalurkan informasi secepat mungkin dengan kesalahan sedikit mungkin;
+b. Mengintegrasikan semua jenis komunikasi menjadi satu sistem, yaitu ISDN (Integrated Service Digital Network ) atau Jaringan Digital PelayananTerpadu;
+? Tujuan Komunikasi Data
+a. Memungkinkan pengiriman data dalam jumlah besar efesien, tanpa kesalahan dan ekonomis dari suatu tempat ketempat yang lain.
+b. Memungkinkan penggunaan sistem komputer dan peralatan pendukung dari jarak jauh (remote computer use).
+c. Memungkinkan penggunaan komputer secara terpusat maupun secara tersebar sehingga mendukung manajemen dalam hal kontrol, baik desentralisasi maupun sentralisasi;
+d. Mempermudah kemungkinan pengelolaan dan pengaturan data yang ada dalam berbagai macam sistem komputer.
+e. Mengurangi waktu untuk pengolahan data;
+f. Mendapatkan data langsung dari sumbernya (mempertinggi kehandalan).
+g. Mempercepat penyebarluasan informasi.
+
+B. KOMUNIKASI SUARA
+? Pengertian
+Proses komunikasi yang hanya dapat ditangkap indera pendengaran
+? Jenis
+Jenis komunikasi suara dibagi secara dua, yaitu :
+a. Komunikasi radio satu arah
+b. Komunikasi radio dua arah
+? Proses
+Proses komunikasi suara diawali dengan pengiriman sebuah suara melalui gelombang radio. Dan nanti suara terebut akan ditangkap oleh media yang sesuai.
+? Hambatan
+Hambatan dalam melakukan komunikasi suara adalah :
+a. Suara yang tidak dapat diterima dengan baik karena pengaruh sinyal
+b. Suara menjadi berbeda
+? Contoh dari komunikasi suara adalah :
+a. Komunikasi siaran radio / radio broadcasting Informasi dipancarkan ke segala arah dan siapapun diperbolehkan menerima informasi tersebut. Dan informasi yang dikirimkan bersifat umum. Contoh : Radio RRI
+b. Komunikasi radio amatir Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas pada mereka yang mempunyai izin beroperasi. Informasi bersifat pribadi. Contoh : ORARI
+c. Komunikasi radio 2 arah Informasi terbatas pada pengirim dan penerima yang beroperasi dengan saluran / frequensi / gelombang yang sama dan jarak jangkauannya terbatas sehingga sifat pribadinya dapat terjaga. Contoh : Handy-talky
+d. Komunikasi radio antar penduduk / citizen band Hubungan komunikasi bersifat pribadi, jangkauannya terbatas dan kerahasiaan tidak terjamin karena semua pesawat penerima sistem komunikasi dapat menerima informasi yang disampaikan. Contoh : Intercom
+e. Komunikasi radio panggil / paging system Digunakan untuk memanggil penerima yang merupakan pelanggan dari pengirim, jarak jangkauannya terbatas. Contoh : Pager f. Komunikasi telpon Bersifat pribadi murni / niaga, jumlah informasi yang disampaikan tidak terbatas, kerahasian terjaga, jarak jangkauannya paling luas. Menggunakan manajemen pertukaran. Contoh : Telephone dial, Handphone.

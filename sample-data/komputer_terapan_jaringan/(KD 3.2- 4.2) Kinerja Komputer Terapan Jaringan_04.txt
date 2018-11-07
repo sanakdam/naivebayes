@@ -1,0 +1,78 @@
+KINERJA KOMPUTER TERAPAN JARINGAN
+February 28, 2017 
+
+
+
+Ø  Fungsi spesifik piranti pendukung jsaringan komunikasi data
+Gambar terkait
+                1.Menggunakan sistem komputer minimalis
+                                1. Input Device (Alat Masukan)
+Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer
+2. Output Device (Alat Keluaran)
+Adalah perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), ataupun berupa suara.
+3. I/O Ports
+Bagian ini digunakan untuk menerima ataupun mengirim data ke luar sistem. Peralatan input dan output di atas terhubung melalui port ini.
+4. CPU (Central Processing Unit)
+CPU merupakan otak sistem komputer, dan memiliki dua bagian fungsi operasional, yaitu: ALU (Arithmetical Logical Unit) sebagai pusat pengolah data, dan CU (Control Unit) sebagai pengo  ntrol kerja komputer.
+5. Memori
+Memori terbagi menjadi dua bagian yaitu memori internal dan memori eksternal. Memori internal berupa RAM (Random Access Memory) yang berfungsi untuk menyimpan program yang kita olah untuk sementara waktu, dan ROM (Read Only Memory) yaitu memori yang haya bisa dibaca dan berguna sebagai penyedia informasi pada saat komputer pertama kali dinyalakan.
+6. Data Bus
+Adalah jalur-jalur perpindahan data antar modul dalam sistem komputer. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit data, maka jumlah saluran menentukan jumlah bit yang dapat ditransfer pada suatu saat. Lebar data bus ini menentukan kinerja sistem secara keseluruhan. Sifatnya bidirectional, artinya CPU dapat membaca dan menirma data melalui data bus ini. Data bus biasanya terdiri atas 8, 16, 32, atau 64 jalur paralel.
+7. Address Bus
+Digunakan untuk menandakan lokasi sumber ataupun tujuan pada proses transfer data. Pada jalur ini, CPU akan mengirimkan alamat memori yang akan ditulis atau dibaca. Address bus biasanya terdiri atas 16, 20, 24, atau 32 jalur paralel.
+8. Control Bus
+Control Bus digunakan untuk mengontrol penggunaan serta akses ke Data Bus dan Address Bus. Terdiri atas 4 samapai 10 jalur paralel.
+
+                2.Menggunakan PC
+                Agar sebuah pc bisa terhubung dalam komunkasi jaringan atau data diperlukan hardware pendukung dan software pendukung.diantaranya yaitu:
+Berikut Ini Adalah Macam - Macam Hardware Pendukung Jaringan Internet
+1.       MODEM
+
+Modem berasal dari singkatan MOdulator DEModulator. Modulator merupakan bagian yang mengubah sinyal informasi kedalam sinyal pembawa (Carrier) dan siap untuk dikirimkan, sedangkan Demodulator adalah bagian yang memisahkan sinyal informasi (yang berisi data atau pesan) dari sinyal pembawa (carrier) yang diterima sehingga informasi tersebut dapat diterima dengan baik. Modem merupakan penggabungan kedua-duanya, artinya modem adalah alat komunikasi dua arah. Setiap perangkat komunikasi jarak jauh dua-arah umumnya menggunakan bagian yang disebut “modem”, seperti VSAT, Microwave Radio, dan lain sebagainya, namun umumnya istilah modem lebih dikenal sebagai Perangkat keras yang sering digunakan untuk komunikasi pada komputer.
+2. Switch
+
+Adalah sebauha alat jarigan yang melakukan penjembatan tak tampak (penghubung penyekatan /segmentation) banyak jaringan dengan pengalihan berdasarkan alamat MAC.
+Switch jaringan dapat digunakan sebagi penghubung komputer atau penghala pada satu area terbatas,pengalih juga bekerja pada lapisan taut data,cara kerja switch hampir sama seperti bridge.tetapi switch memiliki sejumlah porta sehingga sering dinamakan  jembatan pancaporta (Multi-port bridge)
+3. Router
+
+Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+
+4. Kartu Jaringan (NIC)
+ Hasil gambar untuk nic
+Kartu jaringan / network interface card disingkat NIC adalah sebuah kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna
+5.Bridge
+Hasil gambar untuk bridge dalam komputer
+Adalah sebuah perangkat yang membagi satu buah jaringan kedalam dua buah
+jaringan, ini digunakan untuk mendapatkan jaringan yang efisien, dimana kadang
+pertumbuhan network sangat cepat makanya di perlukan jembatan untuk itu.
+Kebanyakan Bridges dapat mengetahui masing-masing alamat dari tiap-tiap segmen
+komputer pada jaringan sebelahnya dan juga pada jaringan yang lain di sebelahnya
+pula. Diibaratkan bahwa Bridges ini seperti polisi lalu lintas yang mengatur di
+persimpangan jalan pada saat jam-jam sibuk. Dia mengatur agar informasi di antara
+kedua sisi network tetap jalan dengan baik dan teratur. Bridges juga dapat di gunakan
+untuk mengkoneksi diantara network yang menggunakan tipe kabel yang berbeda
+ataupun topologi yang berbeda pula.
+
+6.Printer Server
+http://komputercenter.com/images/catalog_dlink/DP-G301_main.jpg
+ adalah perangkat yang menghubungkan printer ke komputer klien melalui jaringan . Ia menerima pekerjaan cetak dari komputer dan mengirimkan pekerjaan ke printer yang tepat, antrian pekerjaan lokal untuk mengakomodasi fakta bahwa pekerjaan mungkin tiba lebih cepat dari printer benar-benar dapat menangani. fungsi tambahan mencakup kemampuan untuk memeriksa antrian pekerjaan untuk diproses, kemampuan untuk menyusun ulang atau menghapus menunggu pekerjaan cetak, atau kemampuan untuk melakukan berbagai macam akuntansi (seperti halaman menghitung, yang mungkin melibatkan membaca data yang dihasilkan oleh printer ( s)).
+Print server dapat mendukung berbagai protokol pencetakan standar industri atau proprietary termasuk Internet Printing Protocol , Jalur protokol Printer Daemon , NetWare , NetBIOS / NetBEUI , atau JetDirect .
+Sebuah server print mungkin komputer jaringan dengan satu atau lebih printer bersama. Atau server cetak mungkin perangkat khusus pada jaringan, dengan koneksi ke LAN dan satu atau lebih printer. peralatan dedicated server cenderung cukup sederhana di kedua konfigurasi dan fitur. fungsi print server dapat diintegrasikan dengan perangkat lain seperti router nirkabel, firewall, atau keduanya. Sebuah printer mungkin memiliki server cetak built-in.
+Semua printer dengan jenis yang tepat dari konektor yang kompatibel dengan semua server cetak; produsen server membuat daftar yang tersedia dari printer yang kompatibel karena server tidak dapat melaksanakan semua fungsi komunikasi dari printer (sinyal tinta misalnya rendah).
+7.Harddisk
+Hasil gambar untuk harddisk
+Adalah media penyimpanan data yang fungsinya sudah pasti untuk menyimpan data,data tersebut bisa berupa file,gambar,video dan sebagainya.harddisk juga bisa berfungsi sebagai media penyedia data,data yang dibutuhkan sebuah laptop disimpan di sebuah harddisk.
+8.Wireless Acces Point (WAP)
+
+Adalah sebuah hardware jaringan yang memiliki fungsi agar sebuah device atau sebuah pc dan laptop bisa terkoneksi ke internet tanpa menggunakan kabel,tapi WAP juga tersedia untuk support kabel.dan dengan terkoneksikanya device kita ke internet memungkinkan kita untuk berkomunikasi data secara luas.
+Berikut Ini Adalah Software Pendukung Jaringan Internet
+1. Sistem Operasi jaringan
+Sistem operasi jaringan adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service, dan lain sebagainya
+Dan Berikut Ini Adalah Sistem Operasi Jaringan Yang Umum Dijumpai Antara Lain :
+·         Microsoft MS-NET
+·         Microsoft LAN Manager
+·         Novell NetWare
+·         Microsoft Windows NT Server
+·         GNU/Linux
+·         Banyan VINES
+·         Beberapa varian UNIX, seperti SCO OpenServer, Novell UnixWare, atau Solaris

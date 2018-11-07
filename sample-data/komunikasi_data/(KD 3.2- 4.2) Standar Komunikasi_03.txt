@@ -1,0 +1,204 @@
+Komunikasi Data | Materi 2 : Standar Komunikasi
+August 9, 2017 ~ zaenudinudin83
+Jaringan telekomunikasi dirancang untuk melayani beragam pengguna yang menggunakan berbagai macam perangkat yang berasal dari vendor yang berbeda.
+
+Untuk merencanakan dan membangun suatu   jaringan secara   efektif, diperlukan suatu standard yang menjamin interoperability, compatibility, dan   kinerja yang dipersyaratkan secara ekonomis.
+
+Suatu standard yang terbuka (open standard) diperlukan untuk memungkinkan interkoneksi sistem, perangkat maupun jaringan yang berasal dari vendor maupun operator yang berbeda.
+
+Standar berfungsi sebagai acuan bagi siapa saja yang akan merancang perangkat keras, perangkat lunak dan protokol komunikasi data. Jika tidak demikian, setiap pabrik akan membuat perangkat sesuai dengan spesifikasi sendiri, akibatnya tidak terjadi inter-operabilitas apabila dihubungkan dengan perangkat komunikasi yang dibuat oleh perusahaan lain.
+
+Terdapat dua macam model standar yang dipakai secara luas untuk komunikasi data pada saat ini, yaitu model Open System Interconnection (OSI) dan model TCP/IP yang telah menjadi standar defacto Internet. Mari kita urai satu-persatu.
+
+Standar semacam ini perlu untuk menjaga inter-operabilitas antar peralatan yang dibuat oleh pabrik yang berbeda-beda.
+
+Yang menetapkan standard resmi suatu negara tertentu dapat dilihat berikut ini:
+
+Indonesia : Menkominfo
+Inggris : British Standard Institute (BSI)
+Jerman : Deutsche Industrie- Normen (DIN)
+Amerika   :   American   National
+Standard Institute (ANSI)
+
+BRT   :   Badan   Regulasi Telekomunikasi >> BadanStandar Indonesia
+Protokol adalah sebuah aturan atau standar yang mengatur atau mengijinkan terjadinya hubungan, komunikasi, dan perpindahan data antara dua atau lebih titik komputer. Protokol dapat diterapkan pada perangkat keras, perangkat lunak atau kombinasi dari keduanya. Pada tingkatan yang terendah, protokol mendefinisikan koneksi perangkat keras.
+
+Protokol perlu diutamakan pada penggunaan standar teknis, untuk menspesifikasi bagaimana membangun komputer atau menghubungkan peralatan
+
+perangkat keras. Protokol secara umum digunakan pada komunikasi real-time dimana standar digunakan untuk mengatur struktur dari informasi untuk penyimpanan jangka panjang.
+
+Sangat susah untuk menggeneralisir protokol dikarenakan protokol memiliki banyak variasi di dalam tujuan penggunaanya. Kebanyakan protokol memiliki salah satu atau beberapa dari hal berikut:
+
+Melakukan deteksi adanya koneksi fisik atau ada tidaknya komputer atau mesin lainnya.
+Melakukan metode “jabat- tangan” (handshaking).
+Negosiasi berbagai macam karakteristik hubungan.
+Bagaimana mengawali dan mengakhiri suatu pesan.
+Bagaimana format pesan yang digunakan.
+Yang harus dilakukan saat terjadi kerusakan pesan atau pesan yang tidak sempurna.
+Mendeteksi rugi-rugi pada hubungan jaringan dan langkah-langkah yang dilakukan selanjutnya.
+Mengakhiri suatu koneksi. Organisasi Standar Teknologi Komunikasi dan Data Internasional
+Berikut ini berbagai Badan atau Organisasi yang menangani standarisasi Teknologi Komunikasi Data International.
+
+Badan Standard Eropa
+
+ETSI:  European Telecommunications Standards Institute > Suatu badan independent yang menetapkan standard untuk komunitas Eropa, Contoh : standard GSM
+CEN/CENELEC: European Committee   for   Electrotechnical Standardization/European Committee for Standardization > Badan   standardisasi   teknologi informasi
+CEPT: Conférence Européenne des Administrations des Postes et des Telecommunications > Sebelum ada ETSI, melakukan pekerjaan yang dilakukan ETSI
+Badan Standard Amerika
+
+IEEE : Institute of Electrical and Electronics Engineers > Asosiasi engineer elektro internasional, Contoh standard : LAN
+EIA:     Electronic     Industries Association > Organisasi pabrik perangkat elektronika Amerika, Contoh standar: RS232
+FCC: Federal Communications Commission > Badan regulasi pemerintah Amerika
+TIA: Telecommunications Industry Association > Bertugas mengadaptasi standard dunia ke dalam lingkungan Amerika
+Organisasi GlobalITU : International Telecommunication. Union > Badan khusus PBB yang
+
+bertanggung jawab di dalam bidang telekomunikasi dibagi ke dalam dua badan standard:
+
+1. ITU-T (huruf T berasal dari kata telekomunikasi)
+
+Berasal     dari     CCITT (Comité Consultatif International de Télégraphique et Téléphonique, atau International   Telegraph and Telephone Consultative Committee). Mempublikasikan rekomendasi untuk jaringan telekomunikasi publik
+
+2. ITU-R (huruf R berasal dari kata radio)
+
+Berasal dari CCIR (Comité Consultatif   International des Radiocommunications atau International Radio Consultative Committee). Mempublikasikan rekomendasi yang berhubungan dengan aspek-aspek radio seperti penggunaan frekunsi di seleuruh dunia
+
+3. ISO/IEC : The International Standards Organization/International Electrotechnical Commission
+
+Organisasi standard bidang teknologi informasi. ISO berperan dalam standard dan protokol komunikasi data. IEC berperan di dalam standard yang meliputi aspek electromechanical (seperti konektor), lingkungan dan keselamatan.
+
+4. IETF: Internet Engineering Task Force
+
+> Bertanggung jawab terhadap arsitektur Internet dan Mengatu standardisasi protokol TCP/IP untuk Internet
+
+5. ITU – International Telecommunication Union
+
+Mengembangkan standar teknologi telekomunikasi dunia
+
+6. CCITT – Consultative Committee for International Telegraph and Telephone. Bertanggungjawab mengembangkan standar komunikasi
+
+7. IEEE – Institute of Electrical and Electronic Engineers.
+
+8. ISO – International Standardization Organization.
+
+Bertanggungjawab untuk standarisasi dalam range yang luas, termasuk di dalamnya standar jaringan.
+
+9. ANSI – American National Standards Institute. Membuat standar dalam skala US, untuk dapat diterima di standar internasional.
+
+10. IAB – Internet Architecture Board. Peneliti Internetwork yang mendiskusikan arsitektur internet.
+
+11. IETF – Internet Engineering Task Force. Terdiri dari 80 tim kerja yang bertanggungjawab   mengembangkan standar dalam internet.
+
+Model Open Systems Interconnection (OSI) diciptakan oleh International Organization for Standardization (ISO) yang menyediakan kerangka logika terstruktur bagaimana proses komunikasi data berinteraksi melalui jaringan. Standard ini dikembangkan untuk industry komputer agar komputer dapat berkomunikasi pada jaringan yang berbeda secara efisien.
+
+Model OSI adalah model atau acuan arsitektural utama untuk network yang men deskripsikan bagaimana data dan informasi network dikomunikasikan dari sebuah aplikasi computer ke aplikasi komputer lain melalui sebuah media transmisi.
+
+Model OSI ditetapkan oleh sebuah badan standar internasional yang bernama International Standards Organization (ISO) pada tahun 1947. Standar ISO ini mencakup seluruh aspek komunikasi data dengan model Open System Interconnection. Yang dimaksud dengan open system adalah bahwa seperangkat protokol yang ada di dalam model ini menjamin terjadinya komunikasi sekalipun dua atau lebih sistem yang saling terhubung memiliki arsitektur yang berbeda. Model OSI ini bukan protokol. Juga bukan perangkat lunak atau perangkat keras. OSI adalah sebuah model untuk memahami dan mendesain arsitektur jaringan   komunikasi yang fleksibel dan memiliki inter-operabilitas tinggi.
+
+“Open” dalam OSI adalah untuk menyatakan model jaringan yang melakukan interkoneksi tanpa memandang perangkat keras/ “hardware”  yang digunakan,   sepanjang software komunikasi sesuai dengan standard. Hal ini secara tidak langsung menimbulkan “modularity” (dapat dibongkar pasang).
+
+“Modularity” mengacu pada pertukaran protokol di level tertentu tanpa mempengaruhi atau merusak hubungan atau fungsi dari level lainnya. Dalam sebuah layer, protokol saling dipertukarkan, dan memungkinkan komunikasi terus berlangsung. Pertukaran ini berlangsung   didasarkan   pada   perangkat keras “hardware” dari vendor yang berbeda dan bermacam-macam alasan atau keinginan yang berbeda.
+
+Model OSI menetapkan 7 lapis proses, yaitu Application layer, Presentation layer, Session layer, Transport layer, Network layer, Data- link layer dan Physical layer. Ketujuh lapis ini berada dalam susunan hirarkis. Karena itu antara lapis satu dengan yang lain tidak boleh dibolak-balik. Seringkali lapis yang terbawah (physical layer) disebut sebagai lapis pertama, sedangkan lapis teratas (application layer) disebut sebagai lapis ketujuh. Setiap layer bertanggungjawwab secara   khusus pada proses komunikasi data. Misal, satu layer bertanggungjawab untuk membentuk koneksi antar perangkat, sementara layer lainnya bertanggungjawab untuk mengoreksi terjadinya “error” selama proses transfer data berlangsung.
+
+Model Layer OSI dibagi dalam dua group: “upper layer” dan “lower layer”. “Upper layer” focus pada applikasi pengguna dan bagaimana file direpresentasikan di komputer. Untuk Network Engineer, bagian utama yang menjadi perhatiannya adalah pada “lower layer”. Lower layer adalah intisari komunikasi data melalui jaringan aktual.
+
+Application Layer
+
+Lapis ini memungkinkan pengguna melakukan akses terhadap jaringan komunikasi melalui aplikasi antar muka (interface), misalnya: aplikasi mail browser memungkinkan pengguna menulis, membaca, mengambil, mengirim serta mengorganisasi pesan. Contoh aplikasi antar muka yang lain, antara lain: akses file dan direktori secara remote, akses informasi melalui web, akses database dan berbagai layanan jaringan komunikasi yang lain.
+
+Presentation Layer
+
+Lapis ini memiliki   fungsi   khusus yang berkaitan dengan translasi informasi di antara dua buah sistem, melakukan proses enkripsi untuk data-data yang penting dan melakukan proses kompresi dengan satu tujuan untuk memperkecil jumlah bit yang akan dikirimkan melalui jaringan komunikasi. Proses translasi informasi dibutuhkan karena setiap sistem mungkin memiliki cara yang berbeda untuk mengkodekan (encode) informasi dari karakter atau bilangan menjadi data dalam bentuk bit. Karena itu lapis ini bertugas untuk menjamin adanya inter-operabilitas di antara sistem-sistem yang memiliki metode encoding berbeda.
+
+Session Layer
+
+Lapis ini melakukan kendali terhadap percakapan (dialog control) yang terjadi di antara dua buah sistem. Model dialog yang mungkin dilakukan adalah: simplex, half-
+
+duplex dan full-duplex. Tugas kedua dari lapis ini adalah melakukan proses sinkronisasi pengiriman dan penerimaan data agar tidak terjadi kesalahan pembacaan data di sisi penerima.
+
+Transport Layer
+
+Transport layer merupakan lapis yang menangani proses komunikasi dari titik ke titik yang sebenarnya. Bandingkan dengan tiga lapis teratas (application, presentation, session) yang hanya menangani proses pemformatan data, pengaturan data dan pengaturan persiapan komunikasi.
+
+Pesan (message) yang diterima oleh tranport layer akan dipecah-pecah ke dalam segmen- segmen kecil dengan ukuran sesuai dengan yang disyaratkan   oleh   protokol. Proses dikenal dengan istilah segmentation. Lalu data dalam bentuk segmen-segmen itulah dikirimkan. Tentunya di sisi penerima akan ada proses sebaliknya untuk menggabungkan kembali rangkaian segmen tersebut. Proses penggabungan ini dikenal sebagai reassembly. Dengan adanya error control dan flow   control pada lapis ini, tranport layer menjamin bahwa setiap segmen dari pesan akan tiba di tempat tujuan dengan benar dan berurutan. Error control mendeteksi adanya kesalahan dan melakukan aksi untuk memperbaiki kesalahan tersebut, sedangkan flow control menjamin sinkronisasi pengiriman segmen antara sisi pengirim dan penerima, agar tidak terjadi penumpukan data di sisi penerima.
+
+Network Layer
+
+Network layer bertanggung jawab untuk pengiriman paket data dari alamat sumber ke alamat tujuan. Termasuk di dalamnya adalah mengatur rute perjalanan masing-masing paket melintasi jaringan komunikasi. Proses ini dikenal dengan nama routing. Berbeda dengan transport layer yang melihat pesan sebagai satu kesatuan utuh, network layer memperlakukan setiap paket secara terpisah. Karena setiap paket telah dilengkapi dengan alamat sumber dan alamat tujuan, maka network layer menjamin agar masing-masing paket sampai di tempat tujuan dengan benar.
+
+Data-link Layer
+
+Di dalam proses komunikasi data sangat mungkin sekali terdapat berbagai macam peralatan yang membentuk sebuah jaringan komunikasi di antara titik sumber dan titik tujuan. Titik-titik lain yang berada di tengah- tengah di atanra titik sumber dan titik tujuan ini kita sebut dengan istilah intermediate node. Tugas utama dari datalink layer adalah menghantarkan data dalam bentuk frame- frame kecil dari titik sumber ke intermediate node, atau dari intermediate node ke intermediate node, atau dari intermediate node ke titik tujuan. Dengan kata lain data- link layer hanya bertanggung jawab untuk menghantar frame dalam satu hop saja. Hop satu dengan hop yang lain dimungkinkan memiliki protokol   yang berbeda. Dalam proses pengiriman data dari hop ke hop, data link juga akan melakukan error control, flow control dan access control. Tugas dari error control dan flow control pada data-link layer mirip dengan tugas error control dan flow control pada transport layer. Perbedaan di
+
+antara keduanya jelas. Transport layer menangani pengiriman dari titik sumber ke tujuan, sedangkan data-link menangani pengiriman dari hop ke hop. Sedangkan access-control menjamin agar media komunikasi dapat digunakan bersama-sama oleh beberapa terminal   yang terhubung dalam sebuah jaringan komunikasi.
+
+Physical Layer
+
+Lapis ini bertanggung jawab untuk membawa bit-bit data melalui media tranmisi. Karena itu physical layer bertanggung jawab menentukan spesifikasi perangkat keras, seperti: representasi bit dalam bentuk tegangan listrik, antar-muka (interface) perangkat komunikasi, jenis dan karakteristik media transmisi, topologi jaringan komunikasi, konfigurasi jaringan komunikasi, spesifikasi peralatan dengan kelajuan pengiriman data (data rate) tertentu, dan hal- hal lain yang terkait media komunikasi secara fisik.
+
+Sekarang bagaimana proses komunikasi terjadi dengan menggunakan standar model OSI ini. Sebelum pesan benar-benar siap dikirimkan, dimulai dari application layer pada sisi pengirim, pesan tersebut mengalami penambahan header (disimbolkan dengan notasi H1, H2, H3, hanya data-link layer yang mengalami penambahan trailer, T2) pada setiap lapis yang di laluinya. Proses penambahan header dikenal dengan istilah pembungkusan/enkapsulasi (encapsulation). Pada analogi pengiriman surat, pesan dibungkus ke dalam amplop terlebih dahulu. Data bersama-sama dengan header yang menyertainya disebut dengan nama Protocol
+
+Data Unit (PDU). Secara khusus PDU pada transport layer disebut dengan segmen, PDU pada network layer disebut dengan paket, sedang PDU pada data-link layer disebut dengan frame. Pada sisi pengirim, pesan akan bergerak dari application layer menuju ke physical layer, dimana data dialirkan ke dalam media tranmisi dalam bentuk bit.
+
+Pesan yang telah terbungkus dan telah direpresentasikan dalam bentuk deretan bit dikirimkan melalui media transmisi. Pesan tersebut mungkin akan melewati berbagai macam intermediate node sebelum tiba di bagian akhir di sisi penerima. Dalam analogi pengiriman surat kita, sama dengan surat yang melewati berbagai rute dan intermediate kantor pos sebelum surat tersebut sampai di kantor pos akhir.
+
+Pada sisi penerima, header dan trailer dibaca kemudian dibuang oleh setiap lapis. Sehingga pada application layer di sisi penerima hanya tinggal pesan yang selanjutnya dipresenasikan kepada pengguna. Dengan analogi pengiriman surat, pada sisi penerima amplop dibuang agar penerima surat dapat membaca pesan yang dikirimkan.
+
+Header dan trailer tidak lain berisi informasi tertentu agar setiap lapis dapat menjalankan tanggungjawabnya dengan baik. Sebagai contoh, pada transport layer, header (H4) mengandung informasi tentang urutan segmen, bit-bit kontrol apabila terjadi kesalahan, bit-bit kontrol agar tidak terjadi penumpukan data di sisi penerima. Sementara itu, Header pada network layer (H3) mengandung informasi tentang alamat sumber, alamat tujuan, dan informasi rute dari paket data. Sama juga dengan fungsi network layer yang telah dibahas. Dengan cara yang sama fungsi dari header-header yang lain dapat dipahami sebagai representasi dari fungsi masing-masing lapis.
+
+Tujuan utama penggunaan model OSI adalah untuk membantu desainer jaringan memahami fungsi dari tiap-tiap layer yang berhubungan dengan aliran komunikasi data. Termasuk jenis-jenis protoklol jaringan dan metode transmisi.
+
+Cara kerja ISO layer:
+
+Pertama   router   mengirim   frame melalui jaringnan yang berbeda dengan protokol data link yang berbeda, hanya data link layar dan lapisan fisik yang memerlukan modifikasi.
+Router menghapus semua informasi data link dan mengirimkannya ke lapisan jaringan.
+Router menggunakan alamat tujuan IP untuk menentukan di mana untuk mengirim pada berikutnya
+Router yang menggunakan data dengan informasi data link populer untuk wan atm
+ATM WAN menuju ke ethernen LAN
+Kehilangan   paket   karena   router adalah transportasi lapisan padat mengirimkan menunggu pengakuan penerima lapisan transport terbatas dan mentransmisikan kembali data.
+Router untuk menghapus informasi dan mengirim link ke lapisan jaringan paket
+Lagi router adalah alamat IP dari lapisan jaringan untuk. menentukan di mana untuk mengirim paket berikutnya.
+Setelah menentukan tahap berikutya dan menambahkan informasi data link yang tepat untuk mengirimkan pada jaringan ( pada jaringan ethernet lagi)
+Beberapa protokol data link layer menyediakan komunikasi yang handal antara dua node. dalam contoh ini lapisan data link ethernet di lakukan ketika lapisan pengirim tidak menerima nya pengakuan dari lapisan menerimanya dan mengirim ulang frame.
+Setiap lapisan model sekarang menghilangkan lapisan enkapsulasi dan membaca informasi tentang cara menambahkan lapisan yang sama pada pengirim
+Membaca bit dari media fisik, dan menguahnya menjadi frame dan mengirimkan frmae ke data link.
+Menghapus header data data   link frame dan di konfesi kembali ke paket IP
+Menghapus header IP mengubah paket kembali ke segmen dan menekan kembali ke lapisan transport.
+Menyerupai segment kembali ke data asli mengunakan nomer port untuk menentukanaplikasi untuk mengirim data ke email.
+Menggunakan informasi sesi untuk menentukan aliran komunikasi data ini
+Menggunakan informasi yang di berikan oleh lpisan presentasi untuk
+dapat menginter pretasikan data untuk mesin tertentu.
+Aplikasi membaca perintah SMTP bahwa lapisan aplikasi pada pengirim telah di kirim.
+Seperti yang di sebutkan sebeumnya model osi lebih dari model teoritis, internet menggunakan protokol TCP/IP bukan stok OSI.
+Manfaat penggunaan OSI sebagai berikut:
+
+Membuat   peralatan   vendor yang berbeda dapat saling bekerjasama
+Membuat   stadarisasi   yang didapat dipakai vendor untuk mengurangi kerumitan perancangan
+Standarisasi interfaces
+Modular enginneering
+Kerjasama dan komunikasi teknologi yang berbeda
+Memudahkan pelatihan network
+Keuntungan menggunakan OSI layer :
+
+Memecahkan operasional sistem jaringan yang kompleks agar mudah di pelihara.
+Perubahan setiap lapisan tidak mengubah lapisan yang lain. ini memudahkan produsen berkonsentrasi pada lapisan tertentu saja.
+Memudahkan pengembangan perangkat keras “plug and play” ( istilah tekhnologi informasi yang mengacu kepada fitur di komputer yang   memperbolehkan suatuperangkat di tambahkan ke sistem komputer tanpa   harus menginstal ulang divice driver secara manual)
+Membagi tugas tugas di setiap layer nya.
+Dapat di jadikan bahan pertimbangan trobleshooting ( merupakn pencarian sumber masalah sehingga masalah dapat di selesaikan )
+Kerugian menggunakan OSI layer :
+
+Ø   lapisan OSI bersifat teoritis dan tidak benar benar bekerja pada fungsi yang sebenarnya.
+
+Ø implementasi dalam dunia industri jarang memiliki hubungan yang sama persis dengan lapisan pada osi layer.
+
+Ø protokol yang berbeda dalam stack melakukan fungsi yang berbeda yang membantu mengirim atau menerima pesan keseluruhan.
+
+Ø   perubahan satu protocol tidak bersifat menyeluruh ke semua bagian.
+
+Model OSI yang telah dibicarakan panjang lebar dalam sub-bab terdahulu adalah sebuah konsep lengkap tentang komunikasi data. Namun belum seluruhnya dapat diimplementasikan. Sekarang kita akan melihat satu model standar lain yang telah diimplementasikan dalam bentuk komunikasi data populer yang kita kenal dengan nama Internet. Internet tidak menggunakan model OSI melainkan menggunakan modifikasi dari model OSI yang selanjutnya disebut dengan model TCP/IP. Internet (Interconnected- networking) merupakan satu kesatuan dari seluruh jaringan komputer yang saling terhubung menggunakan standar protokol TCP/IP untuk melayani kebutuhan pengguna di seluruh dunia.Dinamakan demikian karena model TCP/IP memiliki dua protokol utama, yaitu: Transmission Control Protocol (TCP) pada transport layer dan Internet Protocol (IP) pada network layer.
+
+Padanan antara model OSI dan model TCP/IP dapat dilihat dalam Gambar 2.6. Seperti terlihat dalam gambar, model TCP/IP menggabungkan fungsi application, presentation dan session layer ke dalam satu lapis   application   layer. Sedangkan fungsi data-link dan physical layer digabungkan ke dalam satu lapis dengan   nama network access layer. Fungsi   dari masing-masing lapis pada model TCP/IP sama persis dengan fungsi dari masing-masing lapis dalam model OSI. Perbedaan di antara keduanya telah dijelaskan di atas bahwa fungsi dari setiap lapis dalam model TCP/IP telah diimplementasikan dalam bentuk protokol.
+
+Application   layer merupakan   lapis yang memiliki jumlah protokol paling banyak. HyperText Transfer Protocol (HTTP) adalah protokol untuk akses web, File Transfer Protocol (FTP) adalah protokol untuk meletakkan dan mengambil file dari server, Simple Mail Transfer Protocol (SMTP) adalah protokol yang digunakan untuk mengirimkan e-mail, Domain Name System (DNS) adalah protokol untuk mentransalasi dari alamat url ke alamat IP dan sebaliknya, Simple Network Management Protocol (SNMP) adalah protokol untuk managemen jaringan komunikasi. Dan protokol-protokol yang lain.
+
+Setiap protokol pada application layer pasti berjalan di atas salah satu dari tiga protokol transport layer yang tersedia, yaitu: Transmission Control Protocol (TCP), User Datagram Protocol (UDP) dan Stream Control Transmission Protocol (SCTP).

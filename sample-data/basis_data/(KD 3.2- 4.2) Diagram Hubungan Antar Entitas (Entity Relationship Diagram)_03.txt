@@ -1,0 +1,61 @@
+PENGERTIAN DIAGRAM ERD DALAM BASIS DATA (RPL SMK)
+November 22, 2017
+ERD DALAM BASIS DATA
+Pengertian Entity Relationship Diagram (ERD)
+ERD merupakan suatu model untuk menjelaskan hubungan antar data dalam basis data berdasarkan objek-objek dasar data yang mempunyai hubungan antar relasi. ERD untuk memodelkan struktur data dan hubungan antar data, untuk menggambarkannya digunakan beberapa notasi dan symbol.
+Erd merupakan gambaran kebutuhan dari basis data yang akan dibuat. Menggambarkan table/ entitas, atribut/field,  serta relationship/ hubungan antar table. 
+Menurut salah satu para ahli, Brady dan Loonam (2010), Entity Relationship diagram (ERD) merupakan teknik yang digunakan untuk memodelkan kebutuhan data dari suatu organisasi, biasanya oleh System Analys dalam tahap analisis persyaratan proyek pengembangan system. Sementara seolah-olah teknik diagram atau alat peraga memberikan dasar untuk desain database relasional yang mendasari sistem informasi yang dikembangkan. ERD bersama-sama dengan detail pendukung merupakan model data yang pada gilirannya digunakan sebagai spesifikasi untuk database.
+
+Apakah komponen yang terbentuk didalam Entity Relationship Diagram (ERD)?
+Dalam pembentukan ERD terdapat 3 komponen yang akan dibentuk yaitu :
+a. Entitas
+Pada post sebelumnya mengenai basis data telah dijelaskan sedikit tentang pengertian entity (entitas) yaitu suatu obyek yang dapat dibedakan dari lainnya yang dapat diwujudkan dalam basis data. Pengertian lainnya menurut Brady dan Loonam (2010), entitas adalah objek yang menarik di bidang organisasi yang dimodelkan.
+Contoh : Mahasiswa, Kartu Anggota Perpustakaan (KAP), dan Buku.
+b.  Hubungan (relasi/relationship)
+Suatu hubungan adalah hubungan antara dua jenis entitas dan direpresentasikan sebagai garis lurus yang menghubungkan dua entitas.
+Contoh : Mahasiswa mendaftar sebagai anggota perpustakaan (KAP), relasinya adalah mendaftar.
+c.  Atribut
+Atribut memberikan informasi lebih rinci tentang jenis entitas. Atribut memiliki struktur internal berupa tipe data. Jenis-jenis atribut :
+Atribut Key
+Atribut Key adalah satu atau gabungan dari beberapa atribut yang dapat membedakan semua baris data ( Row/Record ) dalam tabel secara unik. Dikatakan unik jika pada atribut yang dijadikan key tidak boleh ada baris data dengan nilai yang sama
+Contoh : Nomor pokok mahasiswa (NPM), NIM dan nomor pokok lainnya
+Atribut simple
+atribut yang bernilai atomic, tidak dapat dipecah/ dipilah lagi
+Contoh : Alamat, penerbit, tahun terbit, judul buku.
+Atribut Multivalue
+nilai dari suatu attribute yang mempunyai lebih dari satu (multivalue) nilai dari atrribute yang bersangkutan
+Contoh : dari sebuah buku, yaitu terdapat beberapa pengarang.
+Atribut Composite
+Atribut composite adalah suatu atribut yang terdiri dari beberapa atribut yang lebih kecil yang mempunyai arti tertentu yang masih bisah dipecah lagi atau mempunyai sub attribute.
+Contoh : dari entitas nama yaitu nama depan, nama tengah, dan nama belakang
+Atribut Derivatif
+Atribut yang tidak harus disimpan dalam database Ex. Total. atau atribut yang dihasilkan dari atribut lain atau dari suatu relationship. Atribut ini dilambangkan dengan bentuk oval yang bergaris putus-putus
+Derajat relasi atau kardinalitas rasio
+Menjelaskan jumlah maksimum hubungan antara satu entitas dengan entitas lainnya
+1.       One to One (1:1)
+Setiap anggota entitas A hanya boleh berhubungan dengan satu anggota entitas B, begitu pula sebaliknya.
+2.       One to many (1:M / Many)
+Setiap anggota entitas A dapat berhubungan dengan lebih dari satu anggota entitas B tetapi tidak sebaliknya.
+3.       Many to Many (M:M)
+Setiap entitas A dapat berhubungan dengan banyak entitas himpunan entitas B dan demikian pula sebaliknya
+
+Simbol-simbol untuk membuat diagram ERD:
+
+
+
+
+Contoh Kasus 1:
+Pada saat mendaftar menjadi anggota perpustakaan Fakultas, dicatatlah nama, nomor mahasiswa dan alamat mahasiswa. Setelah itu mereka baru bisa meminjam buku di perpustakaan. Buku-buku yang dimiliki perpustakaan banyak sekali jumlahnya. Tiap buku memiliki data nomor buku, judul, pengarang, penerbit, tahun terbit. Satu buku bisa ditulis oleh beberapa pengarang. Tentukan entitas, atribut dan relasi dari deskripsi di atas, dengan menggambar ERDnya.
+Jawab:
+Entitas : Mahasiswa, KAP (Kartu Anggota Perpustakaan), Buku
+Atribut : Nama, no.mahasiswa, Alamat mahasiswa, No.buku, Judul, Pengarang, Penerbit dan tahun terbit.
+Relasi : Daftar dan Pinjam
+Gambar ERD dalam peminjaman buku di perpustakaan:
+
+
+
+
+
+SUMBER:
+1. https://herlinnairine.wordpress.com/2014/02/06/entity-relationship-diagram-erd-dan-contoh-kasus/
+2. http://intanstemapal24.blogspot.co.id/2014/08/pengertian-erd-entity-relationship.html

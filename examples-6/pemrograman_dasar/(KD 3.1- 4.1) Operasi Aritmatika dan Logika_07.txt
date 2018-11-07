@@ -1,0 +1,73 @@
+Pemrograman Dasar
+Oleh: Dini Ardianita (20)
+SMK ISLAM 1 BLITAR
+
+
+
+
+Bab I. Operator Aritmatika dan Logika
+
+KB 1. Operator Aritmatika
+
+Ø Pengertian Operasi Aritmatika
+Operasi dasar aritmetika adalah penjumlahan, pengurangan, perkalian dan pembagian, walaupun operasi-operasi lain yang lebih canggih (seperti persentase, akar kuadrat, pemangkatan, dan logaritma) kadang juga dimasukkan ke dalam kategori ini. Perhitungan dalam aritmetika dilakukan menurut suatu urutan operasi yang menentukan operasi aritmetika yang mana lebih dulu dilakukan. 
+Operator aritmatika adalah operator yang digunakan untuk melakukan operasi-operasi perhitungan aritmatika seperti penjumlahan, pengurangan, pembagian, perkalian dll. Dalam bahasa pemrograman Pascal operator aritmatika dapat dibagi menjadi 2, yaitu :
+·         Operator Aritmatika Unair
+Operator aritmatika unair adalah operator aritmatika yang hanya melibatkan 1 operand saja.
+·         Operator Aritmatika Biner
+Operator aritmatika biner adalah operator aritmatika yang melibatkan 2 buah operand. (Imam Wahyudi)
+
+  KB 2. Pemanfaatan Operator Aritmatika
+
+pemanfaatan operator aritmatika bertujuan untuk menyelesaikan berbagai masalah sehari-hari dengan memanfaatkan Freepascal. Untuk menyelesaikan masalah tersebut dengan bahasa pemrograman Pascal, kita perlu merancang program yang dapat menghitung jumlah dan rata-rata, yang harus dilakukan adalah menentukan input dan tipe data yang dibutuhkan program yang akan dibuat. selanjutnya kita harus menentukan cara atau metode untuk mengolah data input menjadi data yang dikehendaki. langkah selanjutnya adalah merangkai semua komponen menjadi satu dan melengkapinya dengan komponen tambahan agar program dapat berjalan dan ditampilkan dengan baik. (Dhidhi Pambudi, 2014)
+KB 3. Fungsi Aritmatika
+Fungsi Aritmatika
+contoh fungsi aritmatika pada freepascal :
+ABS
+ABS merupakan fungsi matematika dalam pascal yang berguna untuk menghasilkan nilai mutlak
+dari sebuah bilangan negatif . Sintax : ABS(x)
+FRAC
+Merupakan fungsi matematika dalam Pascal yang berguna untuk menghasilkan nilai desimal dari
+bilangan real. Sintax : FRAC(x)
+INT
+Berguna untuk membulatkan angka pecahan menjadi sebuah bilangan bulat positif. Sintax :
+INT(x). LN
+Berfungsi untuk menghasilkan nilai logaritma dari sebuah bilangan. Sintax : Ln(x)
+SIN
+Sintaks sin berfungsi untuk menghitung nilai sinus dari sebuah bilangan yang biasanya digunakan
+untuk menghitung sudut tertetu dari 0 derajat samapi 360 derajat pada operasi metematika. Sintax
+: Sin(x).
+SQR
+Berfungsi untuk melakukan perhitungan kuadrat dari sebuah bilangan. Sintax : SQR(x)
+SQRT
+Berfungsi untuk melakukan penghitungan akar kuadrat dari sebuah bilangan. Sintax : Sqrt(x)
+PRED
+Perintah PRED digunakan untuk menghsilkan nilai yang lebih kecil darinya. Perintah PRED hanya
+dapat digunakan pada tioe data numerik, character dan boolean. Sintax : PRED(x)
+SUCC
+Perintah SUCC digunakan untuk menghasilkan nilai yang lebih besar darinya. Sama seperti
+perintah PRED, SUCC hanya dapat digunakan pada tipe data numerik, karakter dan boolean.
+Sintax : SUCC(x)
+ODD
+Digunakan untuk menentukan sebuah bilangan apakah termasuk bilangan ganjil atau bukan.
+Output dari operasi out adalah boolean. Sintax : ODD(x)
+INC
+Digunakan untuk menambah nilai bilangan numerik sebesar 1. Sintax : INC(x)
+DEC
+Digunakan untuk mengurangi nilai bilangan numerik sebesar 1. Sintax : DEC(x). (Dhidhi Pambudi, 2014)
+KB 4. Pemanfaatan Fungsi Aritmatika
+Operator Aritmatika dapat digunakan untuk menyelesaikan berbagai masalah yang terkait
+dengan kehidupan sehari-hari dengan memanfaatkan Freepascal. (Maryono, 2013)
+KB 5. Operasi Logika
+Operator Logika adalah operator yang digunakan untuk membandingkan 2 kondisi logika, yaitu logika benar (TRUE) dan logika salah (FALSE). Operator logika sering digunakan untuk kodisi IF, atau untuk keluar dari proses perulangan (looping).
+Jenis operand dalam operator logika ini adalah variabel dengan tipe boolean. Namun jika operand bukan boolean, akan “dikonversi” menjadi boolean oleh PHP (aturan “konversi” ini telah kita bahas pada tutorial tentang tipe data boolean PHP). (Dunia Ilmu Komputer, 2014)
+
+
+
+Daftar Pustaka
+ 
+Bibliography
+Dhidhi Pambudi Dwi Maryono. (2014). Pemrograman Dasar. Jakarta: Kementerian Pendidikan dan Kebudayaan.
+Dunia Ilmu Komputer. (2014, februari 4). Pengertian Operator Logika dalam PHP. Retrieved from Pengertian Operator Logika dalam PHP: http://www.duniailkom.com/pengertian-dan-jenis-jenis-operator-logika-dalam-php/
+Imam Wahyudi. (n.d.). Pemrograman Dasar. Retrieved from Operator Aritmatika: http://hitamirengitem.blogspot.co.id/2016/09/01-operasi-aritmatika-dan-logika.html
+Maryono. (2013). Pemanfaatan Fungsi Aritmatika. Retrieved september jum'at, 2016, from Pemanfaatan Fungsi Aritmatika: http://suwireindeer.blogspot.co.id/2016/09/pemanfaatan-fungsi-aritmatika.html

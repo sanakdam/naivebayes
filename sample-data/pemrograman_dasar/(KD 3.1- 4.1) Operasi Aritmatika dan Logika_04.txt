@@ -1,0 +1,38 @@
+Belajar Bahasa Pemrograman Dasar Untuk Pemula
+ Alfi Bogan  2 years ago  Pemrograman Dasar
+Bagi para programer memang ini sudah tidak asing lagi di telinga mereka karena sudah menjadi keseharianya.Begitu juga bahasa pemrograman sudah menjadi makanan sehari-hari.
+
+Bagi seorang pemula harus belajar dulu apa itu bahasa pemrograman?Pengertian Bahasa Pemrograman (programming language) adalah sebuah instruksi standar untuk memerintah komputer agar menjalankan fungsi tertentu. Bahasa pemrograman ini merupakan suatu himpunan dari aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer.nah itu dia pengertian dari bahasa pemrograman.
+
+Tanpa basa basi lagi kita mulai saja.silahkan baca dari awal sampai akhir.
+
+Definisi 
+
+Bahasa Pemrograman adalah proses menulis , menguji , memperbaiki (debug) dan memelihara kode yang membangun sebuah program komputer.
+Contohnya java :
+Operator adalah pengguna
+Programer
+analisis
+
+Operasi Aritmatika 
+
+
+
+Suatu ekspresi matematika yang memberikan hasil bertife angka jika dievaluasi operasi yang digunakan : x , - , * , / Operasi ini akan membantu kita dalam memecahkan permasalahan terkait dengan perhitungan, termasuk di dalamnya kasus-kasus yang membutuhkan operasi penjumlahan, pengurangan, perkalian, atau perhitungan lainnya.
+Contoh :
+6 * 5 + 7 = 37
+4 * 6 / 3   = 8 
+
+Operasi Logika 
+
+
+
+
+Logika suatu  ekspresi matematika yang memberikan hasil berupa nilai kebenaran (benar / salah,true / false) Logika ini dapat digunakan untuk melihat apakah dua hal yang dibandingkan memiliki nilai yang sama, atau berbeda. Dengan menggunakan logika ini, kita akan dapat menalar apakah angka yang pertama memiliki nilai yang sama, lebih besar, lebih kecil, atau tidak sama dengan angka yang kedua.
+Operasi yang digunakan :
+ Perbandingan : = , < , > , <= , >= , <>
+Logika : and or
+Contoh :
+True and true = true
+True and false = false
+(4 <= 5) and (5 >= 1)

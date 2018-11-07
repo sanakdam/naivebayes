@@ -1,0 +1,121 @@
+Etimologi Multimedia
+ETIMOLOGI MULTIMEDIA
+
+A.           Sejarah dan Definisi Etimologi Multimedia
+Etimologi, yang berasal dari kata Etymologie yang berakar dari bahasa Yunani, étymos yang arti sebenarnya adalah sebuah kata dan lògos yang artinya adalah ilmu. Maka, etimologi berarti ilmu yang mempelajari tentang asal usul kata.
+Jadi, Etimologi Multimedia berarti Ilmu yang mempelajari tentang asal-usul kata Multimedia.
+Multimedia secara “etimologi“ di artikan sebagai, “multi“ (banyak) “medium“ (perantara), yang jika digabung berarti banyak perantara. Pengertian multimedia sendiri adalah penggunaan komputer untuk menyajikan dan menggabungkan teks, suara, gambar, animasi dan video dengan alat bantu (tool) dan koneksi (link) sehingga pengguna dapat bernavigasi, berinteraksi, berkarya dan berkomunikasi.
+Multimedia terbagi menjadi dua kategori, yaitu Multimedia Content Production, yaitu penggabungan konten multimedia untuk menghasilkan suatu produk, dan Multimedia Communication, yaitu penggunaan media massa untuk mengkomunikasikan informasi.
+
+Sejarah Multimedia
+Istilah multimedia pertama kali di kenal pada dunia teater, yang mempertunjukan pagelaran dengan mengunakan gerak, musik, dan video untuk menambah dramatisasi suatu cerita, dimana pertunjukan multimedia mencakup monitor video, synthesized band dan karya seni manusia sebagai bagian dari pertunjukan.Sistem multimedia dimulai pada akhir 1980-an dengan diperkenalkannya Hypercard oleh Apple pada tahun 1987 dan pengumuman oleh IBM pada tahun 1989 mengenai perangkat lunak  Audio Visual Connection (AVC) dan video adapter card bagi PS/2. Sejak permulaan tersebut,hampir setiap pemasok perangkat keras dan lunak melompat ke multimedia. Sehingga pada tahun 1994, diperkirakan ada lebih dari 700 produk dan sistem multimedia di pasaran.
+Sekarang multimedia dikenal dengan panduan dari hasil gambar atau image, grafik, teks, suara, TV, dan animasi sehingga menjadi suatu karya yang dapat dinikmati secara audio visual. Umumnya juga orang mengenal multimedia sebagai sistem dari komputer personal (PC) yang berkembang pesat dewasa ini. Dalam Perkembangannya pengajaran, latihan, pembuatan manufaktur, sedang dalam system perekonomian layak digunakan untuk kegiatan promosi penjualan.
+
+Definisi Multimedia menurut beberapa ahli
+1.             Rosch, 1996 : Multimedia adalah Kombinasi dari komputer dan video
+2.             McComick, 1996 : Multimedia adalah Kombinasi dari tiga elemen: suara, gambar, dan teks
+3.         Turban dan kawan-kawan, 2002 : Multimedia adalah Kombinasi dari paling sedikit dua media input atau output. Media ini dapat berupa audio (suara, musik), animasi, video, teks, grafik dan gambar
+4.      Robin dan Linda, 2001 : Multimedia adalah Alat yang dapat menciptakan presentasi yang dinamis dan interaktif yang mengkombinasikan teks, grafik, animasi, audio dan video
+5.           Steinmetz (1995, p2) : Multimedia adalah gabungan dari seminimalnya sebuah media diskrit dan sebuah media kontinu. Media diskrit adalah sebuah media dimana validitas datanya tidak tergantung dari kondisi waktu, termasuk didalamnya teks dan grafik. Sedangkan yang dimaksud dengan media kontinu adalah sebuah media dimana validitas datanya tergantung dari kondisi waktu, termasuk di dalamnya suara dan video.
+6.             Vaughan (2004, p1) : Multimedia adalah beberapa kombinasi dari teks, gambar, suara, animasi dan video dikirim ke anda melalui komputer atau alat elektronik lainnya atau dengan manipulasi digital.
+
+B.            Manfaat Multimedia
+Multimedia sendiri memiliki manfaat dalam banyak bidang seperti yang dijelaskan seperti di bawah ini.
+1.        Industri Kreatif
+Industri kreatif menggunakan multimedia untuk berbagai keperluan, mulai dari seni, untuk hiburan, untuk seni komersial,
+2.        Pendidikan
+Dalam pendidikan, multimedia digunakan untuk memproduksi pelatihan berbasis computer dan buku referensi seperti ensiklopedia dan almanacs yang memungkinkan pengguna melalui serangkaian modul presentasi, teks tentang topik tertentu, dan gambar yang terkait dalam berbagai format informasi. Informal Edutainment adalah istilah yang digunakan untuk menjelaskan menggabungkan pendidikan dengan hiburan, terutama hiburan multimedia. Belajar teori dalam dekade terakhir telah berkembang dramatis karena pengenalan multimedia.
+Berikut ini adalah kelebihan-kelebihan yang dimiliki teknologi multimedia untuk menjadi alat bantu pilihan bagi kegiatan belajar-mengajar:
+a.         Multimedia membuat pelajar mengerti isi pelajaran
+b.         Multimedia membuat siswa mengingat dengan mudah tentang isi pelajaran
+c.         Multimedia menyampaikan isi pelajaran dengan canggih dan berkesan
+d.        Multimedia mampu menjadi sumber pengetahuan
+e.         Multimedia mampu mencari hubungan antara satu ilmu dengan ilmu lain
+f.          Multimedia mampu menunjukkan dunia sekitar yang kaya dengan ilmu pengetahuan
+g.         Multimedia kaya dengan berbagai aktivitas pembelajaran
+h.         Multimedia mampu menghibur selama proses pembelajaran
+i.           Multimedia membuat terjadinya interakti antara siswa dengan teknologi terkini
+j.           Multimedia memberi peluang kepada guru untuk mengubah kaidah pengajaran
+k.         Multimedia membuat proses belajar dan mengajar menjadi lebih menyenangkan
+l.           Multimedia memudahkan pembelajaran yang berpusatkan pada siswa karena siswa diberi kebebasan memilih bahan pembelajaran sendiri dan belajar pada kadar yang sesuai dengan diri sendiri
+m.       Multimedia mengajari setiap siswa dengan gaya pembelajaran yang berbeda
+n.    Multimedia menggalakkan pembelajaran kooperatif dan interaktif di antara siswa melalui diskusi
+o.         Multimedia memudahkan pembelajaran yang berasaskan konstruktivisme.
+p.    Multimedia memudahkan siswa mempunyai kebebasan belajar sendiri tanpa dipengaruhi oleh pihak-pihak lain.
+
+q.         Siswa dapat memilih bahan pembelajaran sendiri dan belajar dengan kadar yang sesuai dengan minat dan kehendak sendiri.
+
+3.        Komersial
+Presentasi yang menarik digunakan untuk menjaga perhatian dalam periklanan. Bisnis dan komunikasi seringkali dikembangkan oleh tim kreatif perusahaan untuk menawarkan menjual ide maupun dalam pelatihan dalam bentuk presentasi multimedia
+4.        Hiburan dan Seni Rupa
+Selain itu, multimedia ini berisi banyak digunakan dalam industry hiburan, khususnya untuk mengembangkan efek khusus dalam film dan animasi. Permainan populer dalam multimedia sebagaimana permainan dan program perangkat lunak yang telah tersedia baik terdistribusi dalam CD-ROM atau online. Beberapa video games mengajak pengguna untuk berpartisipasi aktif, bukan hanya duduk sebagai penerima pasif informasi.
+5.        Teknik
+Perangkat lunak dapat menggunakan multimedia dalam menciptakan Simulasi Komputer untuk sebagai hiburan dan pelatihan seperti pelatihan militer atau industri. Multimedia sebagai desain antarmuka yang sering dilakukan sebagai sebuah kolaborasi antara kreatifitas dan perangkat lunak.
+6.        Perindustrian
+Di sektor industri, multimedia digunakan sebagai cara untuk menyajikan informasi untuk membantu pemegang saham, rekan kerja dan atasan. Multimedia ini juga bermanfaat untuk memberikan pelatihan karyawan, periklanan dan penjualan produk di seluruh dunia hampir tak terbatas melalui web berbasis teknologi.
+
+7.        Matematika dan Penelitian Ilmiah
+Dalam matematika dan penelitian ilmiah, multimedia dipakai terutama untuk modelling dan simulasi. Misalnya, seorang ilmuwan bisa melihat pada model molekular tertentu dari substansi dan memanipulasinya untuk tiba pada suatu zat baru. Perwakilan penelitian dapat ditemukan di jurnal seperti Journal of Multimedia.
+
+8.        Kesehatan
+Dalam Pengobatan, dokter dapat dilatih dengan melihat virtual operasi atau mereka dapat mensimulasikan bagaimana tubuh manusia yang terkena penyakit menular oleh virus dan bakteri dan kemudian mengembangkan teknik untuk mencegahnya. Mempermudah Dokter dan Perawat dalam memonitor kesehatan pasien monitor detak jantung pasien lewat monitor komputer, aliran darah , memeriksa organ dalam pasien dengan sinar X. Sebagai contoh saat perawatan Almarhum Mantan Presiden Soeharto di Rumah Sakit Pertamina Jakarta, tahun 2008. Dengan teknologi modern bisa memonitor, bahkan menggantikan fungsi organ dalam seperti Jantung, Paru-paru dan Ginjal. Itu merupakan teknologi kesehatan yang digabungkan dengan teknologi Informasi dan Komputer.
+
+9.        Gambar Dokumen
+Pengambil foto copy / dokumen dan mengkonversi ke dalam format digital.
+
+10.    Di Bidang Lain
+Manfaat komputer dalam kehidupan sehari- hari sangat banyak dan sangat membantu, mempermudah, mempercepat pekerjaan manusia diantaranya adalah:
+Bidang Transportasi
+Dengan komputer semua jadwal dan jalur penerbangan yang transit dibandara bisa di program dan dijadwalkan dengan komputer. Untuk menerbangkan sendiri pesawat dilengkapi dengan peralatan komputer. Bahkan setelah mencapai ketinggian tertentu pesawat bisa di terbangkan otomatis dengan pilot otomatis yang sudah diprogram di dalam kmputer.
+Dengan komputer, narigasi kapal laut  bisa ditentukan koordinat dan arah gerak kapal. Demikian juga penjualan tiket di Bandara , Stasiun , Dan Terminal Bus di layani dengan cepat menggunakan komputer.
+Bidang Jasa Pengiriman Barang
+Kantor Pos bisa mengirimkan dokumen pengiriman barang lebih cepat dan akurat.Dengan adanya komputer dan internet orang tidak lagi menunggu berhari-hari menerima surat, cukup lewat email saja lebih cepat dalam sekejap , jadi dunia menjadi semakin sempit dalam arti bisa diakses sedemikian cepatnya.
+Bidang industri Otomotif
+Mobil-mobil di buat dari kerangka body, mesin, peralatan elektronik di pabrik dengan bantuan robot yang dikendalikan oleh komputer dengan leih akurat. Dengan bantuan komputer pabrik-pabrik otomotif bisa memproduksi mobil dalam jumlah ratusan perbulan, yang tidak mungkin dikerjakan secara manual dengan tenaga manusia.
+Bidang Jasa Konstruksi
+Dengan komputer para Insiyur dan Arsitek mendesain gambar konstruksi dengan pemodelan dan perhitungan yang akurat, cepat dan tepat. Gambar kontruksi didesain menggunakan program CAD, sedangkan untuk perhitungan analisis dan penganalisa kekuatan menggunakan program SAP2000 atau STAD III yang dioperasikan dengan bantuan komputer.
+Bidang Jasa Percetakan
+Percetakan koran, majalah , buku-buku, semua dikerjakan dengan mesin yang di operasikan oleh komputer sehingga dalam waktu singkat bisa mencetak buku atau majalah atau koran dalam jumlah ratusan bahkan jutaan exemplar, bisa menghemat waktu dan biaya, seandainya dikerjakan dengan manual oleh manusia, butuh berapa ribu orang untuk mengetik di kertas koran dan perlu berapa lama untuk menyelesaikan, keburu berita menjadi basi dantidak up-to date lagi.
+Bidang Industri Perfilman
+Semua efek-efek di dunia akting , animasi, dan penyotingan adegan film semua di rekam dengan perangkat elektronik yang dihubungkan dengan komputer. Animasinya juga di kembangkan mempergunakan animasi yang dibuat dengan aplikasi komputer. Sebagai contoh film-film Hollywood  berjudul TITANIC itu sebenarnya tambahan animasi untuk menggambarkan kapal raksasa yang pecah dan tenggelam, sehingga tampak menjadi seolah-olah mirip dengan kejadian nyata.
+
+
+C.           Tools dan Penggunaannya
+Tools (alat bantu) atau biasa disebut Multimedia Authoring Tools, adalah paket perangkat lunak yang dapat dipergunakan untuk membuat dan paket penyampaian konten multimedia (gabungan dari teks, gambar, grafik, suara, animasi, dan video) kepada pengguna.
+Merupakan authoring yang bekerja berbasis halaman atau buku atau kartu. Authoring ini menghubungkan halaman ke dalam urutan yang terorganisir. Contohnya yaitu Hypercard dan Toolbook Assistant.
+Berikut adalah beberapa contoh tools multimedia:
+a.              Microsoft Office
+Microsoft office adalah suatu program yang familiar di kalangan user computer.karena dengan kegunaan nya yang multi fungsi. microsoft office sendiri
+sudah mengeluarkan beberapa versi nya dri mulai office 98, 2000, 2003, 2007 dan yang terbaru office 2010. Microsoft office pun terbagi menjadi beberapa aplikasi/program yang kegunaan nya berbeda-beda yaitu :
+*      Microsoft word
+*      Microsoft excel
+*      Microsoft power point
+*      Microsoft access
+*      Microsoft info part
+*      Microsoft outlook
+*      Microsoft publisher
+
+b.             Macromedia Dreamweaver
+Sebuah HTML editor profesional untuk mendesain secara visual dan mengelola situs web maupun halaman web. Bilamana kita menyukai untuk berurusan dengan kode-kode HTML secara manual atau lebih menyukai bekerja dengan lingkungan secara visual dalam melakukan editing, Dreamweaver mambuatnya menjadi lebih mudah dengan menyediakan tool-tool yang sangat berguna dalam peningkatan kemampuan dan pengalaman kita dalam mendesain web.
+
+c.              Windows Movie Maker
+Salah satu software bawaan microsoft windows xp yang diberikan secara cuma-cuma alias gratis (meski barang gratisan, applikasi ini bisa digunakan untuk menciptakan sebuah film dengan sangat baik) yang mempunyai kegunaan untuk capture video dan membuat atau merancang sebuah alur video. Meskipun fasilitas yang dimiliki oleh Windows Movie Maker ini masih terbatas bila dibandingkan dengan software pengolah video lainnya seperti adobe premiere, pinacle, vegas video.
+
+d.             Photoshop
+Perangkat lunak editor citra buatan Adobe Systems yang dikhususkan untuk pengeditan foto/gambar dan pembuatan efek. Perangkat lunak ini banyak digunakan oleh fotografer digital dan perusahaan iklan sehingga dianggap sebagai pemimpin pasar (market leader) untuk perangkat lunak pengolah gambar/foto, dan, bersama Adobe Acrobat, dianggap sebagai produk terbaik yang pernah diproduksi oleh Adobe Systems.
+
+e.              CorelDraw
+Sebuah program komputer untuk melakukan editing pada garis vektor. Progam ini diproduksi oleh Corel, yaitu sebuah perusahaan software yang pusat pengembangannya berada di Ottawa, sebuah nama kota di negara Kanada. Karena kegunaan corel draw sebagai alat untuk pengolahan gambar, maka program ini sering digunakan untuk menyelesaikan perkerjan di bidang publikasi atau percetakan maupun bidang yang lain yang butuh proses visualisasi.
+
+f.              Autocad
+Sebuah program yang biasa digunakan dalam pembentukan model serta lakaran dua dan tiga dimensi atau lebih dikenali sebagai “Computer-aided drafting and design program” (CAD). Perisian ini boleh digunakan dalam semua bidang kerja terutama sekali dalam bidang-bidang yang memerlukan kepakaran seperti bidang kejuruteraan Mekanikal, Awam, Senibina, Rekabentuk Grafik, dan semua bidang yang berkaitan dengan penggunaan CAD.
+
+g.             Steinberg Nuendo
+Steinberg Nuendo adalah salah satu software yang paling sering digunakan oleh studio rekaman untuk melakukan proses tracking, editing dan mixing.
+
+h.             HyperCard
+HyperCard adalah sebuah program aplikasi yang dibuat oleh Bill Atkinson untuk Apple Computer, Inc yang merupakan salah satu pertama yang berhasil hypermedia sistem sebelum World Wide Web . Ini menggabungkan database kemampuan dengan fleksibel,, user-interface grafis dimodifikasi. HyperCard juga fitur HyperTalk , ditulis oleh Dan Winkler , sebuah bahasa pemrograman untuk memanipulasi data dan user interface.. Beberapa HyperCard pengguna dipekerjakan sebagai sistem pemrograman untuk Rapid Application Development aplikasi dan database.
+HyperCard awalnya dirilis pada tahun 1987 untuk $ 49,95, dan termasuk dengan semua Mac baru yang dijual pada saat itu. [2] itu ditarik dari penjualan di bulan Maret 2004, meskipun saat itu belum diperbarui selama bertahun-tahun.HyperCard berjalan native hanya di Mac OS versi 9 atau sebelumnya, tetapi masih dapat digunakan di Mac OS X ‘s Classic mode pada mesin berbasis PowerPC (G5 dan sebelumnya). Fungsional yang asli HyperCard lingkungan authoring terakhir adalah mode Classic di Mac OS X 10.4 (Tiger) pada mesin berbasis PowerPC (meskipun dapat dijalankan pada mesin berbasis Intel modern dengan menggunakan lapisan emulasi seperti SheepShaver ).
+
+i.               Toolbook Assintant
+Asisten ToolBook adalah desktop Click2learn e-Learning authoring program yang khusus dirancang untuk kemudahan penggunaan.antarmuka intuitif adalah ideal bagi mereka yang ingin membuat e-Learning konten interaktif dengan cepat, tanpa pemrograman. Asisten ToolBook menghasilkan konten yang efektif 100%-Web yang dioperasikan melalui standar.Asisten ToolBook mendukung standar muncul diciptakan dan didukung dalam SCORM, AICC, IMS, ADL, dan IEEE. Asisten ToolBook konten dapat diluncurkan, bookmarked, dan dilacak menggunakan SCORM atau AICC. Konten yang dikembangkan dalam ToolBook dapat digunakan di Internet, di intranet, jaringan area lokal (LAN), atau pada CD-ROM. Asisten ToolBook konten dapat diintegrasikan dengan LMS Aspen atau sistem manajemen lain pembelajaran berbasis standar

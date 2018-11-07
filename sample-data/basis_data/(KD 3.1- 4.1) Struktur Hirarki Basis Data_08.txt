@@ -1,0 +1,66 @@
+Struktur Hirarki Basis Data
+programer  02.00 rpl
+Assalamualaikum Wr. Wb. Hallo gan welcome back di blog informatika, ya kali ini saya akan membahas tentang struktur hirarki basis data.
+
+Basis
+Basis adalah markas atau gudang, tempat bersarang atau berkumpul.
+
+Data
+Data merupakan representasi fakta dan nyata yang memiliki suatu objek
+
+Basis data
+Basis data ialah kumpulan dari data yang saling berhubunga satu dengan yang lainnya. Tersimpan dalam perangkat keras komputer dan gunakan perangkat lunak untuk memanilulasinya.
+
+Manfaat basis data:
+- kecepatan dan kemudahan
+- efisiensi ruang penyimpanan (space)
+- keakuratan
+- ketersediaan
+- kelengkapan
+- keamanan
+- kebersamaan pemakai
+
+Komponen utama basis data
+- perangkat keras (hardware)
+- sistem operasi
+- database
+- DBMS(database management system)
+- user
+- optional software
+
+Entitas
+Entitas adalah suatu objek yang keberadaannya dapat dibedakan terhadap objek lain.
+Entitas dapat berupa orang,benda,tempat,kejadian,konsep.
+Contoh :
+- orang : mahasiswa, dosen, pemasok, penjual
+- benda : mobil, mesin, ruangan
+- tempat : negara, desa, kampung
+- kejadian : penjualan, registrasi
+- konsep : rekening, kursus
+
+Atribut
+Atribut ialah sebutan untuk mewakili suatu entitas(entity) atau nama tertentu yang dapat memberikan karakteristik dari entity, atau atribut adalah suatu karakteristik atau sifat yang dimiliki oleh entitas.
+
+Tuple
+Tuple (record) adalah kumpulan elemen elemen yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap. Dan suatu tuple memiliki satu data atau informasi.
+
+Key atribut adalah sebuah atribut yang bersifat unik (tidak boleh sama antara record satu dengan record yang lain nya) ciri ciri key atribut ialah memiliki tanda garis bawah (underline).
+
+Erd merupakan suatu model untuk menjelaskan hubungan antar data dalam basis data berdasarkan objek-objek dasar data yang mempunyai hubungan antar relasi. Erd untuk memodelkan struktur data dan hubungan antar data, untuk menggambarkan nya digunakan beberapa rotasi dan simbol.
+
+Normalisasi Basis Data
+Normalisasi adalah proses pembentukan struktur basis data sehingga sebagian besar ambiguity bisa dihilangkan.
+
+Tujuan normalisasi
+- Untuk menghilangkan kerengkapan data
+- untuk mengurangi kompleksitas
+- untuk mempermudah pemodifikasian data
+
+DBMS adalah singkatan dari "database management system" yaitu sistem pengorganisasian dan sistem pengolahan database pada komputer. Dbms ini merupakan perangkay lunak (software) yang dipakai untuk membangun basia data yang berbasis komputerisasi.
+Dbms ialah perantara untuk user dengan basis data, untuk dapat berinteraksi dengan DBMS dapat memakai basis data yang sudah ditentukan oleh perusahaan dbms.
+
+Jenis jenia DBMS
+- microsoft acces
+- oracle
+- DBZ
+- Mysql

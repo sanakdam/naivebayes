@@ -1,0 +1,29 @@
+3 Dimensi
+
+1. Karakteristik objek 3D
+     karakteristik  tiga dimensi  adalah sebagai berikut: 
+     · Pesan yang sama dapat disebarkan keseluruh siswa secara serentak
+     · Penyajiannya berada dalam kontrol guru 
+     · Cara penyimpanannya mudah (praktis) 
+     · Dapat mengatasi keterbatasan ruang, waktu, dan indera
+     · Menyajikan objek-objek secara diam 
+     · Terkadang dalam penyajiannya memerlukan ruangan gelap 
+     · Lebih mahal dari kelompok media grafis
+     · Sesuai untuk mengajarkan keterampilan tertentu 
+     · Sesuai untuk belajar secara berkelompok atau individual 
+     ·Praktis digunakan untuk semua ukuran ruangan kelas
+     · Mampu menyajikan teori dan praktik secara terpadu.
+2. Fertex, Edge, Face
+    Vertex adalah titik-titik yang dihubungkan dengan edge
+    Edge adalah garis yang menghubungkan lebih dari dua vertex (titik)
+    Face adalah sebuah permukaan yang dibentuk oleh minimal 3 edges yang tertutup.
+
+3. Pengertian dari RIGGING
+    Rigging adalah proses pembuatan tulang pada objek.
+
+4. Apa yang dimaksud dengan rendering
+    Rendering adalah proses dari membangun gambar dari sebuah model (atau model yang secara kolektif dapat disebut sebuah file adegan), melalui program komputer.
+
+5. Perbedaan animasi 2D dan 3D
+     Animasi 2D adalah penciptaan gambar bergerak dalam lingkungan dua dimensi. Hal ini dilakukan dengan urutan gambar berturut-turut, atau “frame”, yang mensimulasikan gerak oleh setiap gambar menunjukkan berikutnya dalam perkembangan bertahap langkah-langkah 
+      Animasi 3D adalah objek animasi yang berada pada ruang 3D. Objek animasi ini dapat dirotasi dan berpindah seperti objek riil.

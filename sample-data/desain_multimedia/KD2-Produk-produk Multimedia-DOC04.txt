@@ -1,0 +1,56 @@
+Komponen Multimedia - Multimedia merupakan penggunaan komputer untuk menyajikan dan menggabungkan suara, teks, animasi, video maupun gambar. dengan alat bantu (tool) dan koneksi (link) sehingga pengguna bisa bernavigasi, berkarya, berinteraksi, dan berkomunikasi (Hofstetter 2001).
+komponen komponen Multimedia, elemen elemen multimedia, Pengertian Multimedia
+komponen-komponen Multimedia
+
+Menurut James A. Senn, multimedia terdiri dalam beberapa Komponen, berikut Komponen - komponen / Elemen - elemen Multimedia diantaranya adalah:
+Teks
+
+Teks merupakan komponen multimedia yang menjadi dasar untuk menyampaikan informasi, karena teks merupakan jenis data yang paling sederhana dan membutuhkan tempat penyimpanan yang paling kecil.
+Hampir setiap orang yang bisa menggunakan komputer sudah terbiasa dengan teks. Teks ialah dasar dari pengelohan kata dan informasi yang berbasis multimedia. Pada kenyataannya, multimedia menyajikan informasi untuk audiens dengan cepat, karena tidak diperlukan membaca secara mendalam dan teliti.
+
+Suara / Audio
+
+Teknologi audio juga berperan penting dalam penyampaian informasi, tanpa adanya audio / suara dalam sebuah multimedia maka hasilnya tidak lengkap. Suara atau audio di dalam multimedia biasanya berupa suara musik, suara dari voice record maupun efek–efek suara lain.
+
+Baca Juga: Pengertian, Tujuan dan Ruang Lingkup Rekayasa Perangkat Lunak (RPL)
+
+Penyajian audio merupakan cara lain untuk memperjelas pengertian suatu informasi. Misalnya, narasi adalah kelengkapan dari penjelasan yang dilihat melalui video. Suara dapat lebih menjelaskan karakteristik suatu gambar, misalnya musik, sound effect, maupun suara asli (real sound).
+
+Authoring software yang digunakan harus mempunyai kemampuan untuk mengontrol recording dan playback. Terdapat berbagai macam format file audio, diantaranya MP3, AAC, AIFF, wav, ogg, wma.
+
+Video
+
+Video Terdiri atas life-video dan full-motion. Live-video merupakan hasil pemrosesan yang diperoleh dari kamera, sedangkan Full-motion video berhubungan dengan penyimpanan sebagai video clip. Beberapa authoring tool dapat menggunakan full-motion video, seperti hasil rekaman menggunakan VCR, yang dapat menyajikan gambar bergerak dengan kualitas tinggi.
+
+Animasi
+
+Animasi dibuat dengan menggambar secara manual frame tiap frame selama durasi animasi tersebut. Untuk membuat ilusi gerakan. gambar ditampilkan pada layer komputer kemudian diganti secara terus menerus dengan gambar baru yang menyerupai gambar sebelumnya, dengan sedikit perbedaan (misal sedikit perbedaan pada gerakan kaki).
+
+Pergantian frame terus menerus ini membutuhkan kira-kira 25 frame tiap-detik (untuk animasi dengan kwalitas standar). Ketika frame-frame tersebut bergonti-ganti, persepsi audience akan melihatnya seperti gambar bergerak. Selain dengan cara manual, pembuatan frame animasi juga dihasilkan dari drawing (lukisan), fotografi dan dari komputer.
+
+Baca Juga: Kenapa Air Laut Asin dan Berwarna Biru ?
+
+Secara umum, proses membuat animasi merupakan sesuatu yang sulit, diperlukan kemahiran, pengalaman, serta kepakaran yang tinggi. Animasi mampu menampilkan sesuatu yang imajinatif dan mustahil atau sulit dilakukan dalam kehidupan di dunia nyata namun bisa divisualisasikan secara meyakinkan dalam animasi.
+
+Animasi bisa membantu mengilustrasikan metode, memperagakan sebuah model, menunjukkan sesuatu yang aktif dan hidup pada media yang menampilkannya. Animasi belakangan ini sering dimanfaatkan untuk berbagai kebutuhan dalam berbagai kegiatan baik untuk kegiatan yang bersifat rekreatif maupun formal.
+
+Grafik
+
+Secara umum, image atau grafik berarti still image seperti gambar dan foto. Manusia sangat berorientasi pada visual (visual-oriented), dan gambar merupakan sarana yang sangat baik untuk menyajikan informasi. Grafik merupakan komponen penting dalam multimedia.
+
+Interaktive Link
+
+Sebagian dari multimedia adalah interaktif, dimana pengguna bisa menekan mouse atau objek pada screen seperti button atau teks dan menyebabkan program melakukan perintah tertentu.
+
+Interaktif link dengan informasi yang dihubungkannya sering kali dihubungkan secara keseluruhan sebagai hypermedia. Secara spesifik, dalam hal ini termasuk hypersound, hypergraphics dan hypertext (hotword) menjelaskan jenis informasi yang dihubungkan.
+
+Baca juga: Heboh, Gambar Hujan Yang Ditangkap Oleh Kamera dari atas Pesawat
+
+Interaktif link diperlukan guna menggabungkan beberapa elemen multimedia sehingga menjadi informasi yang terpadu. Cara pengaksesan informasi pada multimedia terdapat dua macam yaitu non-linier dan linier.
+
+Informasi non-linier informasi dapat ditampilkan langsung sesuai dengan kehendak pengguna. sedangkan Informasi linier merupakan informasi yang ditampilkan secara sekuensial, yaitu dari halaman demi halaman atau dari atas ke bawah.
+
+Interaktif link juga diperlukan jika pengguna, menunjuk pada suatu button maupun objek agar bisa mengakses program tertentu.
+
+
+Sekian dulu artikel tentang komponen-komponen Multimedia. Semoga artikel dari kita dapat memberikan manfaat bagi anda baik itu mengetahui komponen-komponen Multimedia maupun Pengertian Multimedia. Jangan lupa untuk like dan membagi informasi ini pada teman-teman anda ya.

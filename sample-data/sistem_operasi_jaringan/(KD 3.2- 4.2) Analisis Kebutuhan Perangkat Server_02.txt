@@ -1,0 +1,161 @@
+Spesifikasi Hardware & Software untuk Komputer Server
+Komputer  Server adalah komputer yang berfungsi sebagai pusat pengelola  lalulintas dan aplikasi jaringan komputer. Karena berfungsi sebagai pusat, minimal sebuah server harus mempunyai beberapa karakter yang lebih dibandingkan dengan komputer yang terhubung kedalam suatu jaringan. Keseluruhan komputer yang terhubung ke server dalam jaringan disebut sebagai Workstation. Hampir semua jenis computer dapat digunakan sebagai computer workstation.
+
+kebutuhan hardware dan software komputer server
+
+
+Kebutuhan Hardware (Perangkat Keras) jaringan komputer
+Hardware adalah perangkat keras yang dimilki oleh sebuah sistem komputer, sedangkan hardware jaringan komputer adalah perangkat keras yang berfungsi untuk menghubungkan komputer yang satu dengan komputer lainnya dalam sebuah jaringanyang bertujuan untuk berbagi data, informasi dan peralatan lainnya perangkat ini bersifat fisik atau terlihat wujudnya.
+
+Harware yang dibutuhkan untuk jaringan komputer adalah sebagai berikut:
+
+1.Modem
+Modem digunakan oleh jaringan agar jaringan bisa terhubung dengan internet
+
+2. NIC (Network Internet Card) atau kartu jaringan
+NIC adalah sebuah hardware untuk mendukung jaringan komputer yang berfungsi untuk menghubungkan komputer yang satu dengan komputer lainnya, bentuk NIC berupa kepingan komponen yang bisa di bongkar pasang pada slot PCI atau slot PCIE yang terdapat di main board komputer.
+
+Pada NIC terdapat sebuah port khusus biasanya berupa port RJ 45 yang digunakan untuk menghubungkan komputer yang satu dengan komputer lainnya menggunakan Konektor RJ 45 dan kabel UTP, untuk beberapa NIC juga dilengkapi dengan Komponen Wireless.
+
+3. HUB
+Hub merupakan perangkat keras jaringan yang dapat digunakan sebagai terminal port untuk menghubungkan komputer dalam jaringan, HUB biasanya memiliki banyak port RJ45, jumlah port dalam sebuah Hub minimal 4 port. setiap komputer agar saling terhubung satu sama lain dalam jaringan biasanya menggunakan HUB.
+
+4. Kabel UTP
+Kabel UTP adalah kabel jaringan dengan 8 kabel warna-warni didalamnya, untuk menghubungkan komputer satu dengan lainnya dalam jaringan biasanya menggunakan kabel UTP yang sudah dihubungkan dengan konektor RJ 45,
+
+5. Konektor RJ 45
+adalah konektor yang digunakan untuk menghubungkan kabel RJ 45, konektor RJ 45 semacam ject yang memiliki 4 pin didalamnya.
+
+6. Bridge
+Bridge digunakan untuk menghubungan antar jaringan yang mempunyai protokol yang sama. Hasil akhirnya adalah jaringan logis tunggal. Bridge juga dapat digunakan jaringan yang mempunyai media fisik yang berbeda.
+Contoh:
+menghubungkan jaringan yang menggunakan fiber optik dengan jaringan yang menggunakan coacial.
+Bridge mempelajari alamat tujuan lalulintas yang melewatinya dan mengarahkan ke tujuan. Juga digunakan untuk menyekat jaringan. Jika jaringan diperlambat dengan adanya lalulintas yang penuh maka jaringan dapat dibagi menjadi dua kesatuan yang lebih kecil.
+
+
+7. Swich
+Merupakan pengembangan dari konsep Bridge. Ada dua arsitektur dasar yang digunakan pada switch, yaitu cut-through dan store and forward. Switch cut-through mempunyai kelebihan di sisi kecepatan karena ketika sebuah paket datang, switch hanya memperhatikan alamat tujuan sebelum diteruskan ke segmen tijuannya, sedangkan switch store and forward merupakan kebalikannya. Switch ini menerima dan memeriksa seluruh isi paket sebelum meneruskannya ke tujuan dan untuk memeriksa satu paket merlukan waktu, tetapi proses ini memungkinkan switch mengetahui adanya kerusakan pada paket data dan mencegahnya agar tidak mengganggu jaringan.
+
+Cluster Control Unit
+Cluster Control Unit membangun hubungan antara terminal yang dikendalikannya dengan perlatan-peralatan dan jaringan. Alat ini memungkinkan beberapa terminal berbagi satu printer atau mengakses beberapa komputer melalui jaringan yang bebeda. Cluster Control Unit dapat pula mengerjakan pemeriksaan kesalahan dan pengubahan kode.
+8. Front - end Processor
+Front-end Processor menangani lalulintas Jaringan komputer yang masuk dan keluar dari host komputer. Kedua komputer tersebut dapat merupakan jenis apapun, tetapi configurasi yang umum terdiri dari sejenis komputer mini khusus yang berfungsi sebagai front-end processor dan sebuah mainframe yang menjadi host.
+Front-end Processor berfungsi sebagai unit input dari host dengan mengumpuklkan pesan-pesan yang masuk dan menyiapkan data bagi host. Front-end Processor juga berfungsi sebagai unit output dari host dengan menerima pesan-pesan untuk transmisi ke terminal.
+
+Walau kecepatan transmisi antara saluran dan front end Processor relatif lambat ( dalam banyak kasus bit-bit ditransmisikan secara serial ) kecepatan tarnsmisi front-end processor dengan host dapat berlangsung secara cepat ( beberapa bit ditransmisikan secara paralel).
+
+Sebagian front-end processor melakukan message switching dengan mengatur rute (routing) pesan dari suatu terminal ke yang lain tanpa melibatkan host. Jika karena suatu hal terminal penerima tidak dapat menerima pesan (mungkin sedangan digunakan atau rusak) front-end processor dapat menyimpan pesan tersebut dalam penyimpanan sekunder dan mengirimkannya nanti. Kemampuan ini disebut simpan dan teruskan (store and forward).
+
+B. Kebutuhan Software (Perangkat Lunak) Jaringan Komputer
+Software jaringan komputer adalah perangkat lunak atau program baik itu sistem operasi maupun program aplikasi yang berfungsi untuk mendukung jaringan komputer.
+
+Berikut adalah beberapa Software yang dibutuhkan untuk jaringan komputer:
+1. Sistem operasi
+Sistem operasi adalah perangkat lunak level bawah yang digunakan untuk mengeloala dan mengintegrasikan hardware dalam sebuah sistem komputer.
+
+Contoh sistem operasi: linux, window, mac os dll.
+
+Untuk server lebih disarankan menggunakan linux debian karena linux debian cukup stabil walaupun dinyalakan secara terus menerus dan juga lebih aman.
+
+2. Aplikasi Remote server.
+Aplikasi remote server merupakan aplikasi wajib yang harus aktif di komputer server, aplikasi ini diperlukan agar komputer server dapat diakses secara remote menggunakan aplikasi remote client, baik melalui jaringan wan maupun wan.
+
+Untuk server yang menggunakan sistem operasi linux debian, salah satu aplikasi remote server yang cukup populer dan banyak digunakan adalah Aplikasi SSH Server.
+
+SSH Server merupakan protokol aplikasi yang memungkinkan pertukaran data antara 2 jaringan yang lebih aman dibandingkan aplikasi telnet, rsh dan rlogin.
+
+3. Aplikasi NTP Server
+NTP (Network time protocol) adalah Sebuah aplikasi server, yang berfungsi agar server bisa melakukan share waktu dengan komputer client, NTP perlu diaktifkan di mesin server agar setiap client dapat terintegrasi dengan waktu mesin server, sehingga waktu di client akan sesuai dengan mesin server.
+
+Aplikasi NTP server merupakan aplikasi yang banyak digunakan di sistem oprasi linux debian.
+
+4. Aplikasi Samba Server.
+Aplikasi samba server merupakan aplikasi yang berjalan di sistem operasi linux yang berfungai agar sistem operasi linux bisa melakukan sharing data dan file dengan sistem operasi windows, sistem operasi windows akan langsung bisa terhubung dengan server yang didalamnya sudah mengaktifkan aplikasi samba server, karena windows sendiri sudah memiliki SMB sistem data block yang arsitekturnya sama dengan samba.
+
+5. DHCP Server
+DHCP server merupakan fitur wajib yang harus diaktifkan di komputer server, dengan aktifnya fitur ini maka server dapat memberikan ip address secara otomatis setiap kali ada komputer client yang terhubung.
+
+Dengan mengaktifkan DHCP server di komputer client maka  bisa mengurangi tugas administrator jaringan, administrator tidak perlu harus mengkonfigurasi ip address client setiap kali client terhbung ke jaringan untuk mengakses server, di komputer client konfigurasi address cukup diseting otomatis saja.
+
+6. DNS Server
+DNS (Domain Name Server) memungkinkan ip address memiliki nama alias sehingga mudah dikenal oleh pengguna, DNS server akan menterjemahkan ip address ke nama domain atau sebaliknya. 
+
+8. Web Server
+Web server adalah aplikasi yang digunakan untuk menyimpan dan mengolah halaman situs, sehingga server dapat berfungsi untuk menerima request dari komputer client yang berupa halaman situs.
+
+Untuk meminta halaman situs client menggunakan web browser.
+
+9. NMap
+NMap adalah sebuah software security scanner yang dikembangkan oleh Gordon Lyon alias Fyodor Vaskovich yang compatible dengan OS Windows, Linux, Mac OS X, Solaris, BSD dan Amigos OS. N Map tersedia dengan dua versi yaitu versi GUI dan Command line, lalu apa fungsi software ini??
+Mari kita ulas lebih lanjut.NMap memiliki fungsi-fungsi standar layaknya sebuahsecurity scanner: mendeteksi port-port yang terbuka, mengidentifikasi versi OS dan aplikasi yang digunakan untuk menjalankan service, dan lain-lain.
+
+10.WireShark
+Software wireshark memilki beberapa fungsi, yaitu :
+Mampu menganalisa transmisi paket data pada jaringan,
+Memonitoring proses koneksi dan transmisi data antar komputer.
+Mampu mengetahui isi paket data yang sedang berlalu lintas dalam jaringan komputer tersebut.
+
+11.Look@LAN
+Software ini bisa digunakan pada OS apapun, pengoperasiannya pun cukup mudah, software ini akan menampilakan laporan yang menyatakan keadaan jaringan pada saat itu, dalam bentuk tabel. Beberapa fitur yang dimiliki software ini adalah :
+Mengetahui IP Address, pada komputer jaringan
+Mengetahui status konektivitas dengan jaringan
+distance
+Serta mengetahui sistem operasi yang digunakan oleh komputer pada jaringan  tersebut
+Mengetahui hostname, netBIOS name, netBIOS user, SNMP status dan Trap.
+Menginformasikan pada komputer server, host yang sedang online/offline
+
+12.Angry IP Scanner
+IP angry Scanner berfungsi untuk membantu dalam pengelolaan, invostorisasi serta menjaga jaringan agar tetap mampu berjalan dengan baik, melalui alamat IP Address dari setiap komputer yang ada pada jaringan. Selain itu, software ini jugadapat membantu seorang admin jaringan dalam mengawasi error atau trobubleshooting ajringan karena permasalahan pada IP address, bisa juga karena IP address yang conflik. Selain itu, software ini juga mengantisipasi adanya pihak yang tidak bertanggung jawab yang berusaha menyusup pada jaringan seseorang dengan menggunakan IP address yang telah tersedia pada range nya.
+
+13.Dude
+Sotfware ini memudahkan seorang admin jaringan memonitoring jaringannya, serta mendukung berbagai protokol jaringan, seperti SNMP, ICMP, DNS dan TCP.
+Berikit ini adalah cara kerja Dude :
+Secara otomatis Dude akan melakukan scan keseluruhan pada jaringannya, termasuk perangkat yang tergabung dalam jaringan berbasis dengan subnet.
+Software ini akan secara otomatis mampu memetakan jaringan komputer.
+Apabila terjadi troubleshooting pada jaringan, maka software ini akan secara otomatis memberikan pesan peringatan.
+
+
+Sebenarnya ada banyak sekali aplikasi server yang dapat digunakan, penggunaannya disesuaikan dengan fungsi server itu sendiri. 
+
+3.Kebutuhan Minimal Server
+Komputer  Server, suatu komputer yang menjadi pengelola dan pusat bagi komputer lainnya. Karena berfungsi sebagai pusat, minimal sebuah server harus mempunyai beberapa karakter yang lebih dibandingkan dengan komputer yang terhubung kedalam suatu jaringan. Keseluruhan komputer yang terhubung ke server dalam jaringan disebut sebagai Workstation. Hampir semua jenis computer dapat digunakan sebagai computer workstation.
+
+Kebutuhan minimal Komputer Server
+
+
+Untuk menjalankan aplikasi ini sebagai server membutuhkan komputer dengan spesifikasi minimum baik hardware maupun software sebagai berikut:
+
+
+Hardware:
+a.Processor 600 Mhz
+b.Memory dengan RAM 192 MB
+c.VGA on Board
+d.Monitor Super VGA (800x600) dengan minimum 256 warna
+e.CD-ROM atau DVD-ROM
+f.Keyboard + mouse
+
+
+Software:
+2.Kebutuhan Minimum Server
+Adapun perangkat lunak yang dibutuhkan dan telah diujicobakan pada komputer server yaitu:
+a.Operating System : Windows XP Service Pack 2
+b.Web Server : Apache 2.4.3
+c.Programming Language : PHP 5.4.7
+d.Database : MySQL 5.5.27
+
+Kebutuhan Minimal Client
+Untuk menjalankan aplikasi ini sebagai client membutuhkan komputer client dengan spesifikasi minimum sebagai berikut:
+
+
+Hardware:
+a.Processor 233 Mhz
+b.Memory dengan RAM 64 MB
+c.VGA on Board
+d.Monitor Super VGA (800x600) dengan minimum 256 warna
+e.Keyboard + mouse
+2.Kebutuhan Minimum Server
+
+Software:
+Adapun perangkat lunak yang dibutuhkan dan telah diujicobakan pada komputer client yaitu:
+a.Operating System : Windows XP Service Pack 2
+b.Browser: Mozilla Firefox versi 12.0

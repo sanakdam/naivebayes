@@ -1,0 +1,40 @@
+PERIPHERAL-PERIPHERAL JARINGAN PADA KOMPUTER TERAPAN
+PENGERTIAN PERIPHERAL
+Peripheral adalah hardware tambahan yang disambungkan ke komputer, biasanya dengan bantuan kabel ataupun sekarang sudah banyak perangkat peripheral wireless. Peripheral ini bertugas membantu komputer menyelesaikan tugas yang tidak dapat dilakukan oleh hardware yang sudah terpasang didalam casing.
+
+1. UART (UNIVERSAL ASINCRHOUNUS RECIVIER TRANSMITER)
+UART atau Universal Asynchronous Receiver-Transmitter adalah bagian perangkat keras komputer yang menerjemahkan antara bit-bit paralel data dan bit-bit serial. UART biasanya berupa sirkuit terintegrasi yang digunakan untuk komunikasi serial pada komputer atau port serial perangkat periperal. UART sekarang ini termasuk di dalam beberapa mikrokontroler (contohnya, PIC16F628).
+
+UART atau Universal Asynchronous Receiver Transmitter adalah protokol komunikasi yang umum digunakan dalam pengiriman data serial antara device satu dengan yang lainnya. Sebagai contoh komunikasi antara sesama mikrokontroler atau mikrokontroler ke PC. Dalam pengiriman data, clock antara pengirim dan penerima harus sama karena paket data dikirim tiap bit mengandalkan clock tersebut. Inilah salah satu keuntungan model asynchronous dalam pengiriman data karena dengan hanya satu kabel transmisi maka data dapat dikirimkan. Berbeda dengan model synchronous yang terdapat pada protokol SPI (Serial Peripheral Interface) dan I2C (Inter-Integrated Circuit) karena protokol membutuhkan minimal dua kabel dalam transmisi data, yaitu transmisi clock dan data. Namun kelemahan model asynchronous adalah dalam hal kecepatannya dan jarak transmisi. Karena semakin cepat dan jauhnya jarak transmisi membuat paket-paket bit data menjadi terdistorsi sehingga data yang dikirim atau diterima bisa mengalami error.
+
+2. USART (UNIVERSAL SYNCHRONOUS-ASYNCHRONOUS RECEIVER/TRANSMITTER)
+USART merupakan komunikasi yang memiliki fleksibilitas tinggi, yang dapat digunakan untuk melakukan transfer data baik antar mikrokontroler maupun dengan modul-modul eksternal termasuk PC yang memiliki fitur UART.
+
+USART memungkinkan transmisi data baik secara syncrhronous maupun asyncrhronous, sehingga dengan memiliki USART pasti kompatibel dengan UART. Pada ATmega8535, secara umum pengaturan mode syncrhronous maupun asyncrhronous adalah sama. Perbedaannya hanyalah terletak pada sumber clock saja. Jika pada mode asyncrhronous masing-masing peripheral memiliki sumber clock sendiri, maka pada mode syncrhronous hanya ada satu sumber clock yang digunakan secara bersama-sama. Dengan demikian, secara hardware untuk mode asyncrhronous hanya membutuhkan 2 pin yaitu TXD dan RXD, sedangkan untuk mode syncrhronousharus 3 pin yaitu TXD, RXD dan XCK.
+
+3. SERIAL PERIPHERAL INTERFACE (SPI)
+Serial Peripheral Interface (SPI) adalah protokol data serial sinkron digunakan oleh mikrokontroler untuk berkomunikasi dengan satu atau lebih perangkat periferal cepat jarak pendek. Hal ini juga dapat digunakan untuk komunikasi antara dua mikrokontroler. Dengan koneksi SPI selalu ada perangkat satu master (biasanya mikrokontroler) yang mengontrol perangkat periferal.
+
+Serial Peripheral Interface ( SPI ) merupakan salah satu mode komunikasi serial synchrounous kecepatan tinggi yang dimiliki oleh Atmega 328. Komunikasi SPI membutuhkan 3 jalur yaitu MOSI, MISO, dan SCK. Melalui komunikasi ini data dapat saling dikirimkan baik antara mikrokontroller maupun antara mikrokontroller dengan peripheral lain di luar mikrokontroller.
+
+Penjelasan 3 jalur utama dari SPI adalah sebagai berikut :
+
+MOSI    : Master Output Slave Input Artinya jika dikonfigurasi sebagai master maka pin MOSI sebagai output tetapi jika dikonfigurasi sebagai slave maka pin MOSI sebagai input.
+MISO    : Master Input Slave Output Artinya jika dikonfigurasi sebagai master maka pin MISO sebagai input tetapi jika dikonfigurasi sebagai slave maka pin MISO sebagai output.
+CLK      : Clock Jika dikonfigurasi sebagai master maka pin CLK berlaku sebagai output  tetapi  jika dikonfigurasi  sebagai  slave  maka  pin  CLK berlaku sebagai input.
+Untuk mengatur mode kerja komunikasi SPI ini dilakukan dengan menggunakan register SPCR (SPI Control Register), SPSR (SPI Status Register) dan SPDR (SPI Data Register).
+
+4. SERIAL COMMUNICATION INTERFACE (SCI)
+Sebuah komunikasi serial interface (SCI) adalah perangkat yang memungkinkan seri(satu bit pada satu waktu) pertukaran data antara mikroprosesor dan peripheral seperti printer, drive eksternal, scanner, atau tikus.  SCI adalah komunikasi dimana pengiriman data dilakukan per bit, sehingga lebih lambat dibandingkan komunikasi parallel seperti pada port printer yang mampu mengirim 8 bit sekaligus dalam sekali detak.
+
+Dalam hal ini, mirip dengan perangkat antarmuka serial ( SPI). Tapi di samping itu, SCI memungkinkan komunikasi serial dengan mikroprosesor lain atau dengan jaringan eksternal. Istilah SCI diciptakan oleh Motorola di tahun 1970-an. Dalam beberapa aplikasi itu dikenal sebagai universal asynchronous receiver / transmitter ( UART).
+
+5. ADC ( ANALOG TO DIGITAL CONVERTER)
+Analog To Digital Converter (ADC adalah perangkat yang digunakan untuk mengkonversi sinyal masukan dalam bentuk analog (tegangan, arus, muatan electrik) menjadi sinyal keluaran dalam bentuk digital. Fungsi dari ADC adalah untuk mengubah data analog menjadi data digital yang nantinya akan masuk ke suatu komponen digital yaitu mikrokontroller AT89S51.
+
+ADC (Analog to Digital Converter) memiliki 2 karakter prinsip, yaitu kecepatan sampling dan resolusi. Kecepatan sampling suatu ADC menyatakan seberapa sering sinyal analog dikonversikan ke bentuk sinyal digital pada selang waktu tertentu. Kecepatan sampling biasanya dinyatakan dalam sample per second (SPS). Pengaruh Kecepatan Sampling ADC Resolusi ADC menentukan ketelitian nilai hasil konversi ADC.
+
+6. DAC( DIGITAL TO ANALOG CONVERTER)
+DAC adalah perangkat untuk mengkonversi sinyal masukan dalam bentuk digital menjadi sinyal keluaran dalam bentuk analog (tegangan, arus, muatan electrik). Tegangan keluaran yang dihasilkan DAC sebanding dengan nilai digital yang masuk ke dalam DAC. Sebuah konverter analog-ke-digital (ADC) melakukan operasi mundur. Sinyal mudah disimpan dan ditransmisikan dalam bentuk digital, tapi DAC diperlukan untuk sinyal untuk diakui oleh indera manusia atau non-sistem digital. Fungsi DAC adalah pengubah data digital yang masih berbentuk biner seperti data yang ada pada CD menjadi data analog . berikut adalah tahapan data digital menjadi analog. fisik CD dibaca Data digital CD DAC Buffer Line out.
+
+Sebuah DAC menerima informasi digital dan mentransformasikannya ke dalam bentuk suatu tegangan analog. Informasi digital adalah dalam bentuk angka biner dengan jumlah digit yang pasti. Konverter D/A dapat mengonversi sebuah word digital ke dalam sebuah tegangan analog dengan memberikan skala output analog berharga nol ketika semua bit adalah nol dan sejumlah nilai maksimum ketika semua bit adalah satu.Angka biner sebagai angka pecahan. Aplikasi DAC banyak digunakan sebagai rangkaian pengendali (driver) yang membutuhkan input analog seperti motor AC maupun DC, tingkat kecerahan pada lampu, Pemanas (Heater) dan sebagainya. Umumnya DAC digunakan untuk mengendalikan peralatan computer. Untuk aplikasi modern hampir semua DAC berupa rangkaian terintegrasi (IC), yang diperlihatkan sebagai kotak hitam memiliki karakteristik input dan output tertentu.

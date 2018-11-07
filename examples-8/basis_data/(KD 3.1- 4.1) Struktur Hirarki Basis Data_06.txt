@@ -1,0 +1,86 @@
+Pengenalan Basis Data
+Basis data
+Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+Pangkalan data[1] atau basis data (bahasa Inggris: database), atau sering pula dieja basisdata, adalah kumpulan informasi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. Perangkat lunak yang digunakan untuk mengelola dan memanggil kueri (query) basis data disebut sistem manajemen basis data (database management system, DBMS). Sistem basis data dipelajari dalam ilmu informasi.
+Istilah "basis data" berawal dari ilmu komputer. Meskipun kemudian artinya semakin luas, memasukkan hal-hal di luar bidang elektronika, artikel ini mengenai basis data komputer. Catatan yang mirip dengan basis data sebenarnya sudah ada sebelum revolusi industri yaitu dalam bentuk buku besar, kuitansi dan kumpulan data yang berhubungan dengan bisnis.
+Konsep dasar dari basis data adalah kumpulan dari catatan-catatan, atau potongan dari pengetahuan. Sebuah basis data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya: penjelasan ini disebut skema. Skema menggambarkan objek yang diwakili suatu basis data, dan hubungan di antara objek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur basis data: ini dikenal sebagai model basis data atau model data. Model yang umum digunakan sekarang adalah model relasional, yang menurut istilah layman mewakili semua informasi dalam bentuk tabel-tabel yang saling berhubungan di mana setiap tabel terdiri dari baris dan kolom (definisi yang sebenarnya menggunakan terminologi matematika). Dalam model ini, hubungan antar tabel diwakili denga menggunakan nilai yang sama antar tabel. Model yang lain seperti model hierarkis dan model jaringan menggunakan cara yang lebih eksplisit untuk mewakili hubungan antar tabel.
+Istilah basis data mengacu pada koleksi dari data-data yang saling berhubungan, dan perangkat lunaknya seharusnya mengacu sebagai sistem manajemen basis data (database management system/DBMS). Jika konteksnya sudah jelas, banyak administrator dan programer menggunakan istilah basis data untuk kedua arti tersebut.
+Jadi secara konsep basis data atau database adalah kumpulan dari data-data yang membentuk suatu berkas (file) yang saling berhubungan (relation) dengan tatcara yang tertentu untuk membentuk data baru atau informasi. Atau basis data (database) merupakan kumpulan dari data yang saling berhubungan (relasi) antara satu dengan yang lainnya yang diorganisasikan berdasarkan skema atau struktur tertentu. Pada komputer, basis data disimpan dalam perangkat hardware penyimpan, dan dengan software tertentu dimanipulasiunruk kepentingan atau keguanaan tertentu. Hubungan atau relasi data biasanya ditunjukkan dengan kunci (key) dari tiap file yang ada. Data merupakan fakta atau nilai (value) yang tercatat atau merepresentasikan deskripsi dari suatu objek. Data yang merupakan fakta yang tercatat dan selanjutnya dilakukan pengolahan (proses) menjadi bentuk yang berguna atau bermanfaat bagi pemakainya akan membentuk apa yang disebut informasi. Bentuk informasi yang kompleks dan teritegrasi dan pengolahan sebuah database dengan komputer akan digunakan untuk proses pengambilan keputusan pada manajemen akan membenuk Sistem Informasi Manajemen (SIM), data dalam basis data merupan item terkecil dan terpenting untuk membangun basis data yang baik dan valid. Data dalam basis data bersifat integrated dan shared:
+Terpadu (integrated), berkas-berkas data yang ada pada basis data saling terkait (terjadi dependensi data);
+Berbagi data (shared), data yang sama dapat dipakai oleh sejumlah pengguna dalam waktu yang bersamaan. Sering dinamakan sebagi sistem multiuser
+Data merupakan suatu sumber yang sangat berguna bagi hampir disemua organisasi. Dengan tersedianya data yang melimpah, maka masalah pengaturan data secara efektif menjadi suatu hal yang sangat penting dalam pengembangan sistem informasi manajemen. Oleh karena itu, tujuan dari diadakannya pengaturan data adalah sebagai berikut:
+Menyediakan penyimpanan data untuk dapat digunakan oleh organisasi saat sekarang dan masa akan datang.
+Sebagai cara pemasukan data sehingga sehingga memudahkan tugas operator dan menyangkut pula waktu yang diperlukan oleh pemakai untuk mendapatkan data serta hak-hak yang dimiliki terhadap data yang ditangani
+Pengendalian data untuk setiap siklus agar data selalu up to date dan dapat mencerminkan perubahan spesifik yang terjadi di setiap sistem.
+Pengamanan data terhadap kemungkinan penambahan, modifikasi, pencurian, dan gangguan-gangguaan lain.
+Suatu bangunan basis data memiliki jenjang sebagai berikut:
+Karakter, merupakan bagian data terkecil yang berupa angka, huruf, atau karakter khusus yang membentuk sebuah item data atau field. Contoh A,B,X,Y,2,1,2,9,0,=,<,> dan sebagainya.
+Field/item, merupakan representasi suatu atribut dan record (rekaman/tupel) yang sejenis yang menunjukkan suatu item dari data. Contoh field nama (berisi data nama-nama pegawai), field departemen (berisi data bagian atau spesifikasi pekerjaan), dan lain sebagainya.
+Record/rekaman/tupel: Kumpulan dari field membentuk suatu record atau rekaman. Record menggambarkan suatu unit data individu yang tertentu. Contoh: file pegawai, dimana tiap-tiap recordnya berisi kumpulan data nama, alamat, departemen, yang dapat mewakili tiap-tiap data.
+File, merupakan kumpulan dari record-record yang menggambarkan satu kesatuan data yang sejenis. Contoh file pegawai berisi data tentang semua yang berhubungan dengan pegawai seperti nama pegawai, alamat pegawai, departemen, yang dapat mewakili tiap-tiap data.
+Database, merupakan kumupan dari file atau tabel yang membentuk suatu database. Contoh database pegawai PT Maju Terus terdiri atas file pegawai, file gaji, file golongan, dan sebagainya.
+Dalam satu file terdapat record-record yang sejenis, sama besar, sama bentuk, yang merupakan satu kumpulan entitas yang seragam. Satu record terdiri dari field yang saling berhubungan menunjukkan bahwa field tersebut dalam satu pengertian yang lengkap dan direkam dalam satu record Setiap nilai atau isis field memiliki kapasitas ruang atau lebar yang sama. Jenis isi data sebuah field harus sesuai dengan tipe datanya. Nama sebuah file harus menggambarkan isi dari data file tersebut. Untuk melengkapi definisi tentang file, dalam database dikenal nama entitas (entity) dan atribut. Entetis adalah orang, tempat, kejadian, atau konsep yang informasinya direkam. setiap entitas memiliki atribut atau sebutan untuk mewakili suatu entitas. Sebagai contoh dalam sistem perkuliahan; mahasiwa, matakuliah, pembayaran, dosen adalah sebagai entitas. Sedangkan entitas mahasiswa memiliki atribut nomor induk, nama, jurusan, dan sebagainya. Atau dari contoh diatas entitasnya adalah pegawai, ang memilik atribut NIP, nama, alamat, tgl_lahir, jns_kel Sistem basis data merupakan perpaduan antara basis data dan sistem manajemen basis data (SMBD). Database yang kompleks dan disertai dengan teknik pendokumentasian dan prosedur manipulasinya akan membentuk Sistem Manajemn Basis Data (Database Management System-DBMS). Singkatnya DBMS adalah database dan program untuk mengaksesnya.
+Definisi diatas dapat menggambarkan pada kita bahwa basis data mempunyai beberapa kriteria penting, yaitu:
+Berorientasi data dan bukan berorientasi program.
+Dapat digunakan oleh beberapa program aplikasi tanpa perlu mengubah basis datanya.
+Dapat dikembangkan dengan mudah, baik volume maupun strukturnya.
+Dapat memenuhi kebutuhan sistem-sistem baru secara mudah.
+Dapat digunakan dengan cara-cara yang berbeda.
+Komponen-komponen sistem basis data adalah:
+Hardware, sebagai pendukung operasi pengolahan data seperti CPU, memori, disk, terminal, dan sebagainya.
+Software sistem operasi , (Windows 9x, Windows 2000/XP, Linux, Unix.)
+Software pengelola basis data (DBMS) seperti MS-Access, SQL, Oracle.
+Software program aplikasi misalnya Visual Basic, Delphi, Visual Foxpro.
+Basis data (semua data yang diperlukan, dipelihara, dikelola oleh sistem Basis Data)
+Pemakai/pengguna basis data (user).
+Pengguna (user) basis data meliputi:
+Database Administrator, yaitu pengguna yang memiliki kewenangan sebagai pusat pengendali seluruh sistem baik basis data maupun program-program yang mengaksesnya, menentukan pola struktur basis data, memodifikasi, membagi tugas pengolahan dan memberikan orientasi tertentu, dan sebagainya.
+Aplication Programmers, yaitu programmer aplikasi yang berinteraksi dengan sistem melalui pemanggilan Data Manipulation Language (DML) yang dimasukkan ke dalam program yang tulis.
+Sophisticated Users, yaitu pengguna yang berintraksi dengan sistem tapa harus menuliskan sendiri programnya, tetapi diganti dengan melakukan permintaan (request) dalam bentuk bahasa query basis data. Seperti menggunakan MS-Accsess, SQL, dan sebagainya.
+Specialized Users, yaitu pengguna yang menuliskan program aplikasi basis data khusus yang tidak sesuai dengan framework pemrosesan data tradisional. Contoh: sistem pakar, multimedia, dan sebagainya.
+Naive Users, yaitu kebanyakan pengguna yang berintraksi dengan sistem dengan cara memanggil salah satu program aplikasi yang telah disediakan. Contoh: operator pada bagian teller, personalia, dan sebagainya.
+PERAN BASIS DATA Basis data penting dalam pengolaan data dalam menggunakan komputer, karena bebrapa alasan yaitu:
+Sebagai komponen utama atau penting dalam sistem informasi, karena merupakan dasar dalam menyediakan informasi.
+Menentukan kualitas informasi yang cepat, akurat, relevan, sehingga informasi yang disajikan tidak basi. Informasi dapat dikatakan bernilai bila manfaatnya lebih efektif dibandingkan dengan biaya mendapatkannya.
+Penyusunan suatu database digunakan untuk mengatasi masalah-masalah pada penyusunan data. Manfaat yang diperoleh dari penyusunan database yaitu untuk:
+Mengatasi kerangkapan (redundancy) data. Penyimpanan data yang sama pada beberapa tempat selain bisa meyulitkan pemakai tentang aktualisasi data juga memboroskan tempat penyimpanan, maka basis data akan mendeteksi dan menghindari jika terjadi kerangkapan data.
+Menghindari terjadinya inkonsistensi data. Akibat lain jika terjadi kerangkapan data, maka jika terjadi perubahan pada data yang satu sedangkan yang lain tidak dirubah akan terjadi ketidakonsistenan data. Untuk itu database akan menyesuaikan terhadap data yang sama apabila terjadi perubahan, jika semua data akan selalu ter-update
+Mengatasi kesulitan dalam mengakses data. Memudahkan jika suatu saat akan diambil atau dicetak data yang memiliki kriteria tertentu, misalnya pada tanggal tertentu, alamat tertentu, jumlah tertentu, dan sebagainya.
+Menyusun format yang standar dari sebuah data. Dta ayang sama pada file yang berbeda harus memiliki format data berupa tipe dan jangkauannya harus sama. Kedidaksamaan format data akan mengakibatkan sulit atau tidak bisanya pengaksesan data yang lain.
+Penggunaan oleh banyak pemakai (multiple user). Sebuah database bisa dimanfaatkan sekaligus secara bersama oleh banyak pengguna (multiuser)
+Melakukan perlindungan dan pengamanan data (data security). Setiap data hanya bisa diakses atas dimanipulasi oleh pihak yang diberi otoritas dengan memberikan login dan password terhadap masing-masing data.
+Menyusun integritas dan independensi data. Basis data merupakan data kompleks yang bisa diintegrasikan, sehingga kita bisa memanipulasi untuk mendapatkan berbagai bentuk lembar kerja dan laporan yang kita inginkan. Namun demikian masing-masing data tidak saling tergantung terhadap data yang lain. Data-data dalam database bisa saling berdiri sendiri.
+ABSTRAKSI DATA Kegunaan utama sistem basis data adalah agar pemakai mampu menyusun suatu pandangan (view) abstraksi data. Hal ini bertujuan untuk menyederhanakan intraksi antara pengguna dengan sistemnya dan basis data dapat mempresentasikan pandangan yang berbeda kepada para pengguna, programmer, dan administratornya. Karena tidak semua pengguna basis data terlatih dengan baik dan penggunanya terbagi dalam berbagai tingkatan, maka kompleksitas basis data akan tersembbunyi dari para pengguna melalui beberapa level abstraksi data. Ketika memandang basis data, pemakai dapat dikelompokkan menjadi 3 tingkatan (level) yaitu:
+Level Fisik (physical view/internal view). Merupakan tingkatan terendah dalam abstraksi data yang menunjukkan bagaimana data disimpan dalam kondisi sebenarnya. Level ini merupakan bentuk paling kompleks, dimana struktur data level terendah digambarkan pada level ini.
+Level Konseptual. Merupakan level yang menggambarkan data apa yang sebenarnya (secara fungsional) disimpan dalam basis data, beserta relasi yang terjadi antara data. Level ini menggambarkan keseluruhan database, dimana administrator basis data (DBA) membangun dan mengolah basis data, sedangkan pemakai tidak memperdulikan kerumitan dalam struktur level fisik lagi. Contohnya: pengguna akan mengetahui bahwa penjualan disimpan didalam tabel barang, produksi, keuangan, marketing.
+Level Pandangan Pemakai. Merupakan level dengan tingkatan tertinggi, yang menggambarkan hanya satu bagian dari keseluruhan database. Beberapa pengguna basis data tidak membutuhkan semua isi basis data misalkan bagian personalia hanya membutuhkan data file karyawan dan gaji, tidak membutuhkan data file gudang, transaksi barang masuk.
+Level abstraksi data tersebut bisa memberikan gambaran atau pandangan mengenai arsitektur Database Management System (DBMS), yang akan menambah pengertian mengenai independensi data (data independence) Independensi data dapat dibagi menjadi dua bagian yaitu:
+Physical Data Independence
+Kemampuan untuk mengubah pola fisik database tanpa mengakibatkan suatu aplikasi program ditulis kembali. Modifikasi pada level fisik biasanya pada saat meningkatkan daya guna.
+Logical Data Independenceata model Data model merupakan kumpulan konsep yang dapat digunakakn untuk menggambar struktur data. Struktur basis data meliputi tipe data, hubungan, dan beberapa syarat yang harus dipenuhi basis data.
+Daftar isi
+1 Lingkungan basis data
+2 Tahapan perancangan basis data
+3 Bahasa pada basis data
+4 Perangkat lunak basis data
+5 Rujukan
+6 Lihat pula
+Lingkungan basis data
+Lingkungan basis data adalah sebuah habitat di mana terdapat basis data untuk bisnis. Dalam lingkungan basis data, pengguna memiliki alat untuk mengakses data. Pengguna melakukan semua tipe pekerjaan dan keperluan mereka bervariasi seperti menggali data (data mining), memodifikasi data, atau berusaha membuat data baru. Masih dalam lingkungan basis data, pengguna tertentu tidak diperbolehkan mengakses data, baik secara fisik maupun logis. (Koh, 2005, dalam Janner Simarmata & Imam Paryudi 2006: 33).
+Tahapan perancangan basis data
+Perancangan basis data merupakan upaya untuk membangun sebuah basis data dalam suatu lingkungan bisnis. Untuk membangun sebuah basis data terdapat tahapan-tahapan yang perlu kita lalui yaitu:[butuh rujukan]
+Perencanaan basis data
+Mendefinisikan sistem
+Analisis dan mengumpulkan kebutuhan
+Perancangan basis data
+Perancangan aplikasi
+Membuat prototipe
+Implementasi
+Konversi data
+Pengujian
+Pemeliharaan operasional
+Bahasa pada basis data
+Terdapat dua jenis bahasa komputer yang digunakan saat kita ingin membangun dan memanipulasi sebuah basis data, yaitu:
+Data Definition Language (DDL)
+Data Manipulation Language (DML)
+Sumber : https://id.wikipedia.org/wiki/Basis_data

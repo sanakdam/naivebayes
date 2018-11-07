@@ -1,0 +1,65 @@
+Pengertian Animasi Tradisional?
+
+Animasi tradisional adalah teknik animasi yang paling umum dikenal sampai saat ini dan merupakan animasi yang di hasilkan atau dibuat melalui tangan. Animasi ini digunakan untuk film-film pada abad ke 20.
+
+Animasi sudah bukan merupakan barang baru, ketika dahulu animasi yang menggunakan computer belum ditemukan, para animator (pembuat animasi) mengerjakan rangkaian gambar teranimasi yang masih dalam system pengerjaan tradisional, yaitu dengan menggabungkan satu persatu tiap-tiap gambar buatan tangan, padahal dalam satu buah rangkaian animasi terdiri dari banyak gambar-gambar yang berbeda, sehingga dibutuhkan waktu yang lama dalam pembuatannya. Tradisional animasi juga sering disebut cel animation karena teknik pengerjaannya dilakukan pada celluloid transparent. Mentransfer satu frame ke frame lain, membersihkan cels plastik, cat tangan, dan kemudian film  secara berurutan atas gambar latar belakang. Proses ini membutuhkan tim seniman, seniman clean-up (tim yang membuat gambar kasar jadi lebih rapih), pelukis, sutradara, seniman latar belakang, dan kru film / kamera, bersama dengan seniman storyboard dan penulis naskah untuk bekerja di luar konsep asli, untukproyek skala besar, jumlah waktu, tenaga , dan peralatan yang terlibat juga berjumlah sangat banyak. Pada pembuatan animasi tradisional, setiap tahap gerakan digambar satu persatu di atas cel. Namun  metode ini sudah jarang atau bahkan tidak di gunakan lagi sejak tahun 1990 karena munculnya teknik animasi dengan komputer.
+
+ 
+
+Contoh Animasi Tradisional?
+
+Contoh Animasi Tradisional seperti animasi pada film Pinocchio (Amerika Serikat, pada tahun1940), Animal Farm (United Kingdom, 1954), dan Akira (Jepun, 1988). Film-film animasi tradisional yang dihasilkan dengan bantuan teknologi komputer termasuk didalamnya animasi The Lion King (US, 1994) Sen to Chihiro no Kamikakushi (Spirited Away) (Jepun, 2001), dan Les Triplettes de Belleville (2003). Film animasi sepenuhnya boleh dilakukan dalam berbagai gaya, dari kerja-kerja animasi yang lebih realistik seperti yang dihasilkan oleh studio Walt Disney (Beauty dan Beast, Aladdin, Lion King) kepada gaya yang lebih 'cartoony' orang-orang yang dihasilkan oleh Warner Bros animasi studio. Contoh :  Menggambar di atas plastik celluloid. 
+
+Teknik membuat animasi tradisional (dengan kumpulan kertas bergambar animasi 
+
+
+yang berputar atau bergantian secara cepat).
+
+Contoh gambar proses gerakan berjalan pada animasi tradisional.
+
+ Dengan berkembangnya teknologi komputer, pembuatan animasi tradisional ini telah dikerjakan dengan menggunakan komputer. Dewasa ini teknik pembuatan animasi tradisional yang dibuat dengan menggunakan komputer lebih dikenal dengan istilah animasi 2 dimensi. Misalnya :“Pinokio” salah satu film animasi tradisional buatan Walts disney, “Naruto” salah satu film animasi tradisional yang proses pembuatannya telah menggunakan komputer, film Steamboal Willie karya Walt Disney tahun 1928 merupakan film animasi tradisional.
+
+Mengapa disebut dengan animasi tradisional?
+
+Dikatakan tradisional karena dibuat dengan menggunakan gambar tangan. Dan teknik ini adalah jenis animasi pertama yang ada di dunia. Disebut cel karena pada awalnya animasi ini dibuat di lembaran yang disebut celluloid, yaitu lembaran kertas yang trasparan. Namun  metode ini sudah jarang atau bahkan tidak di gunakan lagi sejak tahun 1990 karena munculnya teknik animasi dengan komputer.
+
+ 
+
+Tipe animasi tradisional?
+
+a.       Cell
+
+            Cel merupakan inovasi penting untuk animasi tradisional, karena memungkinkan beberapa bagian dari setiap frame harus diulang dari frame ke frame, sehingga menghemat tenaga kerja. Contoh sederhana akan menjadi adegan dengan dua karakter di layar, salah satunya adalah berbicara dan berdiri diam-diam lainnya. Karena karakter yang terakhir ini tidak bergerak, dapat ditampilkan dalam adegan ini hanya menggunakan satu gambar, pada satu cel, sementara beberapa gambar pada cels beberapa yang digunakan untuk menghidupkan karakter berbicara.
+
+b.      Limited Animation
+
+Dalam rendah-anggaran produksi, cara pintas yang tersedia melalui teknik cel digunakan secara ekstensif. Sebagai contoh, dalam sebuah adegan di mana seorang pria duduk di kursi dan berbicara, kursi dan tubuh manusia mungkin sama di setiap frame, hanya kepalanya digambar ulang, atau mungkin bahkan kepalanya tetap sama sementara hanya mulutnya bergerak. Hal ini dikenal sebagai animasi yang terbatas. Proses ini dipopulerkan dalam kartun teater oleh Amerika Productions of America dan digunakan dalam animasi televisi kebanyakan, terutama yang dari Hanna-Barbera. Hasil akhir tidak terlihat sangat manusia hidup, tapi murah untuk memproduksi, dan karena itu memungkinkan kartun yang harus dilakukan pada anggaran televisi kecil.
+
+Jenis-jenis animasi tradisional?
+
+1.      Animasi Flash
+
+Salah satu jenis akhir animasi komputer adalah Flash animasi. Animasi Flash diberi nama untuk program Flash dari Adobe yang mereka diproduksi, meskipun saat ini ada program lain yang juga memungkinkan animator untuk menciptakan “flash” animasi. Meskipun keterbatasan dalam hal gerakan dan gaya, Flash murah untuk memproduksi dan karena itu semakin meningkat popularitasnya. Animasi Flash sering digunakan dalam iklan dan umum sebagai konten video di situs Web. Animasi flash menggunakan vektor untuk menghasilkan gerakan. Ini berarti bahwa daripada mengandung obyek di setiap negara sebagai bergerak antara titik, program ini hanya menyimpan informasi yang relevan tentang karakteristik dari obyek itu sendiri dan kemudian menghasilkan sebuah rumus matematika yang menggambarkan gerakannya. Proses ini berguna untuk membuat animasi komputer bila ukuran file menjadi masalah, seperti dalam distribusi Web atau ketika menghidupkan pada komputer pribadi.
+
+2.       Motion Capture
+
+Motion capture adalah jenis animasi komputer yang telah memperoleh banyak minat dalam beberapa tahun terakhir. Ini bergantung pada sensor kecil yang ditempatkan pada pelaku di berbagai titik di sekitar tubuh mereka. Para aktor melakukan dan gerakan mereka ditangkap oleh kamera yang dapat menemukan sensor dan melacak gerakan mereka. Gerakan ini kemudian dapat ditransfer ke komputer-tokoh yang dirancang akan bergerak dengan cara yang persis sama seperti aktor lakukan. Motion capture signifikan bagi yang menjembatani kesenjangan antara tradisional pembuatan film metode dan teknologi baru. Gerak menangkap pertunjukan sering dibahas dalam hal realisme mereka atau emosi, seperti live-action pertunjukan akan. Beberapa contoh dari motion capture termasuk Gollum di “Lord of the Rings” film, versi 2005 dari “King” dan seluruh pemain tahun 2007 “Beowulf.”
+
+3.      CGI Compositing.
+
+Animasi komputer juga digunakan di tempat teknik yang lebih tua dari film animasi. Sejak hari-hari awal bioskop, unsur-unsur animasi telah ditambahkan ke gambar difoto. Unsur-unsur lain, seperti model atau latar belakang dicat, juga digunakan dan harus susah payah dipasangkan dengan rekaman live-action. Ini melibatkan proses optik panjang di mana berbagai elemen yang kembali difoto beberapa kali agar dapat composited bersama menjadi satu gambar. Karena kompleksitas proses, efek khusus yang mahal dan jarang digunakan dalam jumlah besar oleh semua tapi film yang paling tinggi dibiayai. 
+
+Komputer citra yang dihasilkan mengubah semua itu, yang memungkinkan pembuat film untuk menggunakan layar biru atau hijau untuk memilih bagian dari film yang nantinya dapat dengan mudah dihilangkan dengan komputer dan diganti dengan gambar dari sumber lain, baik foto atau animasi sepotong. Komputer compositing animasi bahkan fungsi di banyak konsumen tingkat program video editing.
+
+4.      Komputer Assist.
+
+Beberapa contoh pertama dari animasi komputer komersial secara tradisional ditarik urutan animasi yang menggunakan bantuan komputer. Ini bisa dalam bentuk komputer memproduksi “di-perantara” atau gambar yang menghubungkan dua input yang sama gambar oleh seniman (sehingga memungkinkan seniman untuk menggambar gambar individu lebih sedikit). Komputer animasi dibantu pertama kali digunakan dalam sebuah film animasi di “The Mouse Detective Besar” Disney pada tahun 1986. Sebuah adegan dalam film berlangsung dalam jam, dan roda gigi mekanik kompleks benar-benar diberikan dalam komputer sebagai kawat-frame grafis sebelum dipindahkan ke sel, di mana mereka bersatu dengan unsur-unsur lain dari TKP. Teknik yang sama digunakan oleh Disney dalam film kemudian seperti “Beauty and the Beast” (1991), “Pocahontas” (1995) dan “Tarzan” (1999) untuk mereproduksi halus, gerak yang kompleks dalam gaya, tradisional dua dimensi animasi.
+
+       Cara kerja animasi tradisional menggunakan antara lain Papan cerita Rekaman suara, Animatik, Reka bentuk dan pemasaan, Susun atur, Animasi,Latar belakang, Lukis warna dan kamera, Lukis warna digital, Komputer dan kamera video digital.   
+
+Case : cara kerja thaumatrope dan zoetrope dalam hal penciptaan animasi!
+
+       Animasi, sebenarnya tidak akan terwujud tanpa didasari pemahaman mengenai prinsip fundamental kerja mata manusia atau dikenal dengan nama The Persistance of Vision. Seperti ditunjukan pada karya seorang Prancis Paul Roget (1828), penemu Thaumatrope. Sebuah alat berbentuk kepingan yang dikaitkan dengan tali pegas diantara kedua sisinya. Kepingan itu memiliki dua gambar pada sisinya. Satu sisi bergambar burung, satu sisi lainnya bergambar sangkar burung. Ketika kepingan berputar maka burung seolah masuk kedalam sangkarnya. Proses ini ditangkap oleh mata manusia dalam satu waktu, sehingga mengekspose gambar tersebut menjadi gerak.
+
+         Dua penemuan berikutnya semakin menolong mata manusia. Phenakistoscope, ditemukan oleh Joseph Plateu (1826), merupakan kepingan kartu berbentuk lingkaran dengan sekelilinganya di penuhi lubang-lubang dan gambar berbentuk obyek tertentu. Mata akan melihat gambar tersebut melalui cermin dan pegas membuatnya berputar sehingga satu serial gambar terlihat secara progresif menjadi gambar yang bergerak kontinyu. Teknik yang sama di tampilkan pada alat bernama Zeotrope, ditemukan oleh Pierre Desvignes (1860), berupa selembar kertas bergambar yang dimasukan pada sebuah tabung.
+

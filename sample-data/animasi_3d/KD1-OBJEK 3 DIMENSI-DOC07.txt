@@ -1,0 +1,48 @@
+Model 3D mewakili objek 3D menggunakan koleksi poin dalam ruang 3D, dihubungkan dengan berbagai entitas geometris seperti segitiga, garis, permukaan melengkung, dan lain-lain menjadi pengumpulan data (titik/geometri dan informasi lainnya). Model 3D dapat dibuat dengan tangan ,algoritma (model prosedural), atau scanner 3D.
+
+Saat ini model 3D banyak digunakan dalam berbagai bidang. Industri medis menggunakan model rinci organ. Industri film menggunakan mereka sebagai karakter dan objek untuk animasi dan kehidupan nyata film. Di industri video game menggunakannya sebagai aset untuk video game. Sektor ilmu menggunakannya sebagai model sangat rinci senyawa kimia. Industri arsitektur menggunakannya untuk menunjukkan bangunan yang diusulkan dan lanskap melalui Software Model Arsitektur. Komunitas rekayasa menggunakannya sebagai desain perangkat baru, kendaraan dan struktur serta sejumlah penggunaan lainnya.
+
+Model 3D dapat dibagi menjadi dua kategori, yaitu :
+
+Padat  = Model ini menentukan volume benda yang mereka wakili (seperti batu). Ini lebih realistis, tetapi lebih sulit untuk membangun. Model padat banyak digunakan untuk simulasi nonvisual seperti medis dan teknik simulasi, untuk CAD dan aplikasi visual yang khusus seperti ray tracing dan konstruktif geometri solid.
+Shell / batas = Model ini mewakili permukaan, misalnya batas objek, bukan volume (seperti kulit telur amat tipis). Ini lebih mudah untuk bekerja dengan dari model padat. Hampir semua model visual yang digunakan dalam permainan dan film model shell.
+Dalam pemodelan 3D ada konsep berulang yang biasanya muncul sebagai singkatan, yaitu:
+
+CW, tengah jendela atau mengacu pada jendela visualisasi
+VRP, Titik acuan pandangan
+VPN, pandangan bidang normal
+VUV, lihat up vektor(geometri)
+FOV, bidang pandang
+VRC, melihat referensi koordinat
+WCS, sistem koordinat dunia
+Ada tiga cara populer untuk mewakili model:
+
+Pemodelan Poligonal adalah points dalam ruang 3D atau yang disebut simpul, terhubung dengan segmen garis membentuk mesh poligonal. Sebagian besar model 3D saat ini dibangun sebagai model poligonal bertekstur, karena mereka fleksibel dan karena komputer dapat membuat mereka begitu cepat. Namun, poligon adalah planar dan dapat hanya perkiraan permukaan melengkung menggunakan banyak poligon.
+Pemodelan Curve  adalah permukaan didefinisikan oleh kurva, yang dipengaruhi oleh titik kontrol tertimbang. Kurva ini tidak selalu interpolasi titik. Meningkatkan berat badan untuk titik akan menarik kurva mendekati titik itu. Jenis Curve termasuk seragam rasional B-spline (NURBS), splines, dan patch
+Digital Sculpting adalah saat ini tiga jenis digital sculpting: Pemindahan, yang paling banyak digunakan di antara aplikasi di saat ini, volumetrik dan dinamis tessellation. Pemindahan menggunakan model padat yang sering dihasilkan oleh permukaan sub bagian dari kontrol poligon mesh dan menyimpan lokasi baru untuk posisi dhuwur melalui penggunaan gambar peta 32bit yang menyimpan lokasi disesuaikan. Volumetrik yang didasarkan longgar pada voxel memiliki kemampuan yang sama seperti perpindahan tetapi tidak menderita dari poligon peregangan bila tidak ada cukup poligon di suatu daerah untuk mencapai deformasi. Dinamis Tessellation, apakah mirip dengan voxel tetapi membagi permukaan menggunakan triangulasi untuk mempertahankan permukaan halus dan memungkinkan rincian halus. Metode ini memungkinkan untuk eksplorasi sangat artistik sebagai model akan memiliki topologi baru diciptakan selama sekali bentuk model dan mungkin rincian telah diukir. Mesh baru biasanya akan memiliki informasi jala resolusi tinggi asli ditransfer menjadi data perpindahan atau data peta yang normal jika untuk mesin permainan.
+Keuntungan dari wireframe pemodelan 3D lebih eksklusif dibandingkan metode 2D meliputi:
+
+Fleksibilitas, kemampuan untuk mengubah sudut atau menghidupkan gambar dengan render lebih cepat dari perubahan;
+Kemudahan rendering, perhitungan otomatis dan rendering efek fotorealistik daripada mental memvisualisasikan atau memperkirakan;
+Photorealism akurat, sedikit kesempatan untuk kesalahan manusia dalam lupa tempat menyimpan, berlebihan, atau lupa untuk menyertakan efek visual.
+Landasan Teori
+
+Matrix representasi
+
+Skala A dapat direpresentasikan oleh matriks scaling. Untuk skala objek oleh vektor v = (v x, v y, v z), setiap titik p = (p x, p y, p z) akan perlu dikalikan dengan skala matriks.
+
+Skala seperti perubahan diameter dari suatu obyek dengan faktor antara faktor-faktor skala, daerah dengan faktor antara terkecil dan terbesar produk dari dua faktor skala, dan volume oleh produk dari ketiganya.
+
+Skala adalah seragam jika dan hanya jika faktor skala adalah sama (v x = v y = v z). Kecuali salah satu faktor skala yang sama dengan 1 maka memiliki skala terarah.
+
+Dalam kasus di mana v x = v y = v z = k, scaling juga disebut pembesaran atau pelebaran ruang matrik dengan faktor k, meningkatkan daerah dengan faktor k 2 dan volume dengan faktor k 3.
+
+Sebuah scaling dalam pengertian yang paling umum adalah setiap transformasi affine dengan matriks yang dapat didiagonalisasi. Ini termasuk kasus yang tiga arah skala yang tidak tegak lurus. Ini mencakup juga terjadi bahwa satu atau lebih faktor skala yang sama dengan nol (proyeksi), dan kasus dari satu atau lebih faktor skala negatif. Yang terakhir ini sesuai dengan kombinasi skala yang tepat dan jenis refleksi: garis dalam arah tertentu kita mengambil refleksi di titik persimpangan dengan pesawat yang tidak perlu tegak lurus, karena itu lebih umum daripada refleksi biasa di pesawat.
+
+Menggunakan koordinat homogen
+
+Dalam geometri proyektif , sering digunakan dalam komputer grafis , poin yang diwakili menggunakan koordinat homogen . Untuk skala objek oleh vektor v = (v x, v y, v z), masing-masing homogen koordinat vektor p = (p x, p y, p z, 1) akan perlu dikalikan dengan tranformasi proyetif matriks.
+
+Karena komponen terakhir dari koordinat homogen dapat dilihat sebagai denominator dari tiga komponen lain, skala seragam oleh faktor umum S (skala seragam) dapat dicapai dengan menggunakan skala matriks.
+
+ 

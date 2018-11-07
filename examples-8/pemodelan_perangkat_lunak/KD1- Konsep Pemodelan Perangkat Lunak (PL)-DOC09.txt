@@ -1,0 +1,110 @@
+Konsep Dasar Pemodelan Perangkat Lunak
+ wiji lestari   15.01    Pemodelan Perangkat Lunak 
+Konsep Dasar Pemodelan Perangkat Lunak 
+ 
+
+ 
+1. Definisiperangkat lunak
+         Perangkat lunak merupakan program komputer yang berfungsi menghubungkan antara pengguna dan komputer yang digunakan.
+       Dapat dibilang perangkat lunak merupakan sebagai media penerjemah perintah yang diberikan oleh pengguna kepada komputer untuk selanjutnya diproses melalui perangkat keras komputer tersebut.Perangkat lunak umumnya digunakan untuk mengontrol perangkat keras yang biasa disebut sebagai device driver, melakukan proses penghitungan, berinteraksi dengan perangkat lunak yang lebih mendasar lainnya, seperti sistem operasi dan bahasa pemrograman.
+
+      Secara umum ada tiga jenis perangkat lunak yang diketahui hingga saat ini yaitu sistem operasi yang merupakan sebuah penghubung antara pengguna dari komputer dengan perangkat keras komputer. Kedua yaitu perangkat lunak bahasa pemrograman seperti java. Dan yang ketiga yaitu perangkat lunak aplikasi yang merupakan penrangkat yang digunakan untuk membantu dan memudahkan pekerjaan seseorang misalnya saja Microsoft Excel, Word, dan Power Point
+
+2. Definisi Rekayasa Perangkat Lunak
+        Rekayasa atau teknik merupakan penerapan ilmu dan teknologi untuk menyelesaikan permasalahan manusia. Hal ni diselesaikan lewat pengetahuan, matematika, dan pengalaman praktis yang diterapkan untuk mendesain objek atau proses yang berguna. Para praktisi teknik professional disebut perekayasa.
+            
+       Rekayasa perangkat lunak atau Software engineering dalam bahasa inggris merupakan bidang ilmu yang mempelajari tentang segala aspek perangkat lunak, seperti  cara-cara pengembangan, pemeliharaan , pembuatan, serta manajemen kualitas perangkat lunak.
+     
+       Rekayasa perangkat lunak jugamerupakan disiplin rekayasa dengan perangkat lunak yang dikembangkan. Biasanya proses melibatkan penemuan pada keinginan klien, menyusunnya didalam daftar kebutuhan, merangcang arsitektur yang mampu mendukung semua kebutuhan, perancangan, pengodean, pengujian, dan pengintegrasian bagian yang terpisah, menguju keseluruhan, penyebaran, dan pemeliharaan perangkat lunak.  
+ 
+ 
+3. Perbedaan Rekayasa Perangkat Lunak dengan Ilmu Komputer
+       Perbedaan antara rekayasa perangkat lunak dengan ilmu koputer sudah terlihat dari Bahasa Inggrisnya rekayasa perangkat lunak dalam Bahasa Inggris disebut sebagai software engineering , sedangkan ilmu komputer dalam bahasa inggris disebut science.  Dari segi ilmu yang dipelajari rekayasa perangkat lunak merupakan bidang ilmu yang mempelajari tentang perangkat lunak, sedangkan ilmu komputer mempelajari tentang komputasi, perangkat keras, serta beragam topic yang berkaitan dengan komputer.serta ilmu komputer lebih menekankan pada pemrograman komputer sedangkan rekayasa perangkat lunak tidak. Selain itu rekayasa perangkat lunak lebih mengedepankan prakteknya, sedangkan ilmu komputer lebih mengedepankan teori.
+
+4. Perbedaan rekayasa perangkat lunak dengan  rekayasa sistem
+            Perbedaan antara rekayasa perangkat lunak dengan rekayasa sistem adalah apabila rekayasa sistem itu merupakan sebuah kumpulan komponen, konsep, serta alat bantu untuk merancang dan menginstalasi sebuah sistem perangkat lunak, sedangkan rekayasa perangkat lunak itu merupakan ilmu yang mempelajari tentang segala aspek perangkat lunak, seperti  cara-cara pengembangan, pemeliharaan , pembuatan, serta manajemen kualitas perangkat lunak. Jadi dapat disimpulkan bahwa rekayasa perangkat lunak merupakan bagian dari rekayasa sistem karena RPL ilmu yang mempelajari tentang pembuatan perangkat lunak sedangkan rekayasa sistem merupakan kumpulan komponen, konsep, serta alat bantu untuk merancang dan menginstalasi perangkat lunak.
+
+  
+5. Proses perangkat lunak
+       Proses perangkat lunak merupakan proses bagaimana sebuah perangkat lunak itu dapat terbentuk yang dilakukan oleh perekayasa perangkat lunak, proses proses tersebut diantaranya adalah :
+
+A. Proses spesifikasi perangkat lunak. 
+                 Pada proses ini fungsi,kemampuan operasi perangkat lunak yang akan dibuat harus diketahui terlebih dahulu.
+
+B.Proses pengembangan perangkat lunak.    
+                Setelah diketahui fungsi  serta kemampuan perangkat lunak yang akan dibuat selanjutnya perangkat lunak yang telah memenuhi spesifikasi diproduksi.
+
+C. Proses validasi perangkat lunak.  
+                 Pada proses validasi ini perangkat lunak yang telah diproduksi akan divalidasi sebagai bukti perangkat lunak yang diproduksi berguna sesuai kebutuhan yang diperlukan.
+
+D. Evolusi perangkat lunak.
+                   Dengan berkembangnya jaman perangkat lunak yang sudah diproduksipun haruslah berevolusi agar tetap dapat berguna untuk memenuhi kebutuhan pelanggan.  
+ 
+ 
+6. Model  proses perangkat lunak
+            Model proses perangkat lunak merupakan cara untuk memproses sebuah perangkat lunak dari nol menjadi sebuah perangkat lunak yang siap untuk digunakan. Berikut merupakan beberapa contoh model proses perangkat lunak yang biasa digunakan
+
+A. Waterfall Model atau Model Air Terjun
+
+          Model air terjun ini merupakan model klasik yang bersifat sistematis dalam membuat suatu perangkat lunak dan juga paling sering digunakan. 
+
+         Pada fase analisis fungsi,kemampuan operasi perangkat lunak yang akan dibuat harus diketahui terlebih dahulu. Kemudian apabila analisi telah selesai dilakukan maka didesainlah perangkat lunak yang akan dibuat. Setelah desain selesai lalu desain tersebut diterjemahkan kedalam kode-kode dengan bahasa pemrograman yang diinginkan, misalnya saja C++. Setelah kode selesai dibuat diadakanlah proses pengetesan terhadap perangkat lunak yang baru dibuat agar diketahui apakah perangkat yang dibuat bisa berjalan dengan benar atau tidak.
+B. Model Spiral
+
+           Model spiral ini dikembangkan oleh Boehm pada tahun 1988 berdasarkan pada pengalamannya dengan berbagai perbaikan atas model air terjun yang diaplikasikan pada proyek pemerintah, khususnya perangkat lunak yang besar. Model ini dititikberatkan pada pembuatan prototype dan manajemen resiko yang sangat fleksibel jika dibandingkan dengan model air terjun. Kebanyakan aplikasi komprehensif dari model ini ada pada pengembangan TRW-Software Productivity System yang dijabarkan oleh Boehm. Konsep spiral dan focus manajemen risiko telah memperolah pengakuan di industry rekayasa perangkat lunak dan manajemen proyek pada tahun-tahun terakhir.
+      
+
+
+Keuntungan apabila menggunakan model spiral diantaranya :
+  a. Jangkauan atas pilihan mengakomodasi fitur yang baik untuk proses model perangkat lunak yang sudah    ada.
+b. Fokus awalnya ada pada pilihan yang melibatkan penggunaan ulang perangkat lunak yang ada. Pilihan ini mendukung karena identifikasi awa; dengan evaluasi dari alternative-alternatif adalah  kunci di setiap siklus spiral.
+c. Model spiral juga menyediakan mekanisme untuk tujuan kualtias dan perangkat lunak gabungan kepengembangan produk perangkat lunak.
+d. Model spiral mempunyai focus untuk mengeliminasi kesalahn
+e. Model spiral menyediakan pendekatan terpisah untuk pengembangan dan pemasangan perangkat lunak.
+f. Model spiral menyediakan kerangka kerja aktif untuk pengembangan sistem perangkat keras dan perangkat lunak yagn terintegrasi.
+      
+Sedangkan kerugian apabila menggunakan model spiral diantaranya :
+a. Kebanyakan perangkat lunak yang menggunakan model spiral menitikberatkan pada control, titik periksa, yang merupakan keunggulan dari model air terjun.
+b. Karena model spiral ini bersifat fleksibel serta dinamis maka langkah spiral ini harus diteliti lebih lanjut untuk mendapatkan konsistensi, penjajakan, dan control yang diinginkan. Penelitian dan control sangat penting , khususnya untuk area analisis resiko dan manajemen.
+
+7. Biaya Rekayasa Perangkat Lunak
+            Biaya untuk rekayasa perangkat lunak bervariasi tergantung pada jenis sistem yang akan dibuat ,atribut perangkat serta kinerja dan kehandalan perangkat yang akan dibuat, contohnya saja sistem yang berskala internasional tentunya memerlukan biaya yang lebih mahal apabila dibandingkan dengan sistem yang berskala nasional. Tabel dibawah ini menjelaskan perkiraan pengeluaran rekayasa perangkat lunak
+   
+Akurasi Manajemen Proyek (dari PMBOK edisi 3, PMI, 2004)
+Akurasi pengembangan perangkat lunak(dari rapid development, McConnell, 1996)
+Konseptual
+30% kebawah sampai 50% keatas
+75% kebawah hingga 300% keatas
+Konsep Produk Awal
+Persiapan
+20% kebawah hingga 30% keatas
+50% kebawah hingga 100% keatas
+Definisi produk yang disetujui
+Kepastian
+15% kebawah hingga 20% keatas
+33% kebawah hingga 50% keatas
+Spesifikasi Kebutuhan
+Kontrol
+10% kebawah hingga 15% keatas
+20% kebawah hingga 25% keatas
+Spesifikasi rancangan proyek
+
+8. Metode-metode RPL
+            Metode-metode dalam rekayasa perangkat lunak merupakan cara yang dilakukan untuk mengembangkan perangkat lunak yang meliputi deskripsi model sistem, aturan, rekomendasi, panduan proses, dan bimbingan. Deskripsi model sistem merupakan model sistem yang akan digunakan contohnya model waterfall. Aturan merupakan batasan yang diberikan kepada model sistem yang telah ditentukan, misalnya setiap entitas pada model sistem diharuskan memiliki nama entitas yang berbeda antara satu entitas dengan entitas lainnya. Rekomendasi berupa saran yang diberikan agar dapat membentuk perancangan yang baik dan sesuai fungsinya. Panduan proses merupakan aktifitas yang bisa diikuti untuk mengembangkan model sistem. Proses bimbingan yaitu serangkaian kegiatan yang akan diikutin untuk mengembangkan model sistem.
+  
+9. CASE(Computer Aided Software Engineering)
+            Yang dimaksud dengan CASE(Computer Aided Software Engineering) adalah serangkaian aplikasi dan metode untuk perangkat lunak yang otomatis dapat memberikan dukungan untuk kegiatan proses perangkat lunak. Ada dua jenis CASE yaitu upper-CASE yaitu alat untuk mendukung kegiatan proses awal persyaratan dan lower-CASE yaitu alat yang mendukung kegiatan yang selanjutnya seperti pemrograman, pengujian , debugging.
+ 
+ 
+10. Atribut perangkat lunak yang baik
+Atribut perangkat lunak yang baik diantaranya :
+A. Maintainability 
+              yaitu perangkat lunak harus bisa di pelihara demi memenuhi kebutuhan pelanggan yang semakin lama menginginkan kemudahan.
+B. Dependability
+          yaitu perangkat lunak harus dapat diandalkan dan dipercaya dan tidak mengecewakan penggunanya.
+C. Acceptability
+           yaitu perangkat lunak yang sudah diproduksi harus diterima sepenuhnya oleh pengguna yang memesannya. Ini berarti perangkat harus dapat dapat digunakan dengan mudah oleh pengguna.
+D. Usability 
+          perangkat lunak yang harus dapat digunakan sesuai dengan fungsi awal yang telah ditentukan oleh penggunanya.
+E. Efisien  
+        yaitu perangkat lunak haruslah efisien baik dalam penggungannya maupun sumber daya yang digunakan.

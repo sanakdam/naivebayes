@@ -1,0 +1,633 @@
+Macam-macam Software yang digunakan dalam Proses Desain
+12 Komentar
+Saat ini banyak profesi yang menggunakan software-software desain untuk mendukung pekerjaannya, baik 2 dimensi, maupun 3 dimensi. Pada kesempatan ini saya akan ulas masing-masing software tersebut.
+
+1. AutoCAD
+
+autocad logo
+
+AutoCAD, merupakan software yang paling populer di kalangan Arsitek dan Desainer Interior, bahkan merupakan software yang wajib dikuasai bagi engineer di semua profesi engineer, seperti mechanical, architectural, civil, electrical, electronic, dan aeronautical. AutoCAD adalah sebuah aplikasi software CAD (computer aided design) dan drafting untuk menggambar model 2D dan 3D yang dikembangkan oleh Autodesk. Bila dianalogikan AutoCAD adalah pengganti meja gambar, dan alat alat gambar.
+Sistem program gambar dapat membantu komputer ini akan memberikan kemudahan dalam penghasilan model yang tepat untuk memenuhi keperluan khusus di samping segala informasi di dalam ukuran yang bisa digunakan dalam bentuk laporan, Penilaian Bahan (BOM), fungsi sederhana dan bentuk numerial dan sebagainya. Dengan bantuan sistem ini dapat menghasilkan sesuatu kerja pada tahap keahlian dan yang tinggi ketepatan di samping menghemat waktu dengan hanya perlu memberi beberapa petunjuk serta cara yang mudah.
+
+Gambar yang dibentuk melalui program autocad dapt diubah bentuk-nya untuk keperluan grafik yang lain melalui beberapa format seperti DXF ( Data Exchanged File), IGES, dan SLD. Tambahan pula membantu program ini juga, berkemampuan untuk membentuk dan menganalisa model pepejal dalam kerja-kerja reka bentuk kejuruteraan. Untuk memenuhi keperluan yang lebih canggih, perisian ini mampu membawa pengguna mengautomasikan kerja-kerja penggunaan pengaturcaraan sokongan seperti LISP, dan ADS untuk membentuk arahan tambahan tersendiri.
+
+Pada AutoCAD under DOS ( untuk release 12 dan sebelumnya ), kita harus menghafal ratusan perintah termasuk fungsi dari perintah-perintah tersebut, dan menuliskan perintah tersebut setiap kali menggunakannya. Misalnya kita akan menggambar persegi panjang ,kita tuliskan perintah RECTANG lalu tekan enter pada command line. Pada AutoCAD under windows, cukup klik ikon pada toolbar. Coba bandingkan berapa waktu yang dapat di hemat?
+
+Gambar yang dihasilkan oleh AutoCAD sangat akurat, karena dapat membuat gambar dengan ukuran hingga sepersekian millimeter. Saat menggambar dengan menggunakan AutoCAD, kita menggambar dengan skala 1:1, sementara pengaturan skala gambar dilakukan pada saat akan di plot.
+
+Kelebihan AutoCAD adalah:
+
+Akurasi
+Tingkat presisi (ketepatan) hingga 9 digit
+
+Praktis, mudah dan cepat
+Fasilitas penggambaran dan pengeditan yang semakin lengkap, sehingga AutoCAD mampu menghasilkan gambar yang lebih cepat.
+
+Bersih dan Rapi
+Gambar yang akan dicetak akan benar-benar bersih dan sempurna tanpa adanya bekas-bekas pengeditan, penghapusan, dsb.
+
+Ruang kerja Tak terbatas
+Kordinat tertinggi yang dapat diinput 1099, hingga dapat membuat gambar sebesar & sebanyak apapun dalam ruang yang sama. Dapat dicetak bagian perbagian atau sekaligus dengan skala yang tepat.
+
+Fleksibilitas Skala
+Gambar dapat dicetak berkali-kali dengan skala yang berbeda-beda tanpa harus membuat ulang gambar tersebut.
+
+Dokumentasi
+Hasil gambar akan tersimpan secara permanen
+
+Mudah diduplikasikan
+Mudah direvisi jika ada perubahan design tanpa menggambar dari awal lagi
+
+Gambar dapat dibawa-bawa dengan mudah dan dapat diedit dimana saja dengan media penyimpanan external.
+
+Kompabilitas Yang Sangat Tinggi
+Memungkinkan AutoCAD dapat diterima sebagaian besar program grafis lainnya.
+
+Dapat dicetak dengan menggunakan hampir semua alat percetakan.
+
+Kekurangannya, walaupun bisa juga digunakan untuk membuat gambar 3D, namun penggunaannya sangat rumit dan tidak praktis.
+
+autocadlogo
+
+Tampilan AutoCAD 2013
+
+ArchiCAD
+Dari namanya sudah bisa ditebak bahwa itu adalah software CAD yang mengkhususkan diri pada bidang arsitektur, karena perintah-perintah yang ada di ArchiCAD adalah elemen-elemen bangunan, yaitu dinding, kolom, balok, plat dan atap. ArchiCAD menjadi software yang sangat mudah digunakan dalam perancangan arsitektur dibandingkan software CAD umum. Jadi jika Anda ingin menggambar atau merancang rumah, ada baiknya Anda mempertimbangkan untuk mempelajari dan menggunakan ArchiCAD, ada banyak kemudahan yang dapat Anda peroleh dibandingkan jika Anda menggunakan software CAD umum seperti AutoCAD, SketchUp, Solidworks dan lain-lain, karena dengan software CAD umum setiap obyek harus benar-benar dibuat dari nol, dan walaupun bisa menggunakan library, kita tetap akan disulitkan bila kita menginginkan customized object. Permasalahan itu terjawab pada ArchiCAD yang dilengkapi dengan library komponen-komponen bangunan dan interior juga komponen pencahayaan yang berbasis parametric object. Dengan obyek yang memiliki parameter, dengan mudah kita mengubah detail ukuran sesuai dengan kebutuhan dengan cara yang sangat mudah (bagi yang menguasai Solidworks pasti memahami arti dari parametric object). Konsep parametric object ini sangat bermanfaat ketika kita melakukan proses modifikasi desain, contohnya: apabila kita hendak menggeser posisi pintu atau mengubah ukuran jendela yang telah terpasang pada dinding, maka lubang pada dinding akan secara ostomastis ikut bergeser dan berubah ukuran tanpa ada tambahan perintah. Tentu hal ini tidak bisa dilakukan dengan software AutoCAD dan software CAD umum lainnya.
+
+Keistimewaan ArchiCAD:
+
+saat menggambar kita hanya menggambar denah, sementara tampak dan perspektif secara otomatis dibuat oleh ArchiCAD. Untuk gambar potongan juga dapat dengan mudah dilakukan karena hanya tinggal menentukan garis potongan dan arah potongan (potongan bisa juga berupa gambar 3 dimensi/isometric). Yang harus diperhatikan dalam menggunakan ArchiCADadalah kita harus teliti dalam men-setting tinggi objek dan elevasi.
+lebih mudah saat menggambar bangunan bertingkat banyak, karena dapat disetting ketinggian masing-masing lantai (masing-masing lantai berada pada layer yang berbeda secara otomatis) dan kita dapat menduplikasi denah dari denah lantai sebelumnya. Dengan pemisahan gambar per lantai ini lebih memudahkan bila kita ingin mengedit tiap-tiap lantai.
+Gambar yang dihasilkan berupa dua output (window), 2D (pandangan atas) dan 3D (interaktif), di mana kedua output itu aktif secara bersamaan dan saling terhubung, artinya kita bisa membuat gambar pada window manapun, dan masing-masing window yang lain akan saling meng-update satu sama lain secara otomatis.
+Untuk presentasi, tersedia fasilitas render dengan kualitas yang sangat baik, dengan output berupa image atau movie. Untuk mendapatkan hasil yang lebih baik, Grafisoft telah mengeluarkan software renderer khusus yaitu Artlantis yang bisa me-render berbagai format gambar (tidak cuma gambar keluaran ArchiCAD). Software ini juga dilengkapi dengan fasilitas flytrough, yaitu fasilitas untuk membuat animasi pasif (obyeknya diam, kamera yang bergerak) dari gambar yang telah kita buat
+Dilengkapi dengan fasilitas penghitungan Bill Of Material atau RAB, yang kata orang formatnya cukup bagus dan bisa diterima para arsitek atau kontraktor kita.
+Satu lagi yang lebih keren : Fasilitas GDL. Kependekan dari Geometric Description Language, yaitu pembuatan obyek dengan menggunakan script bahasa pemrograman, mirip kita dulu menggambar obyek dengan program Pascal atau bahasa C, hanya saja bahasa GDL jauh lebih sederhana. Mengapa dibilang keren? Karena dengan obyek yang didefinisikan dengan bahasa program, ukuran file menjadi sangat kecil, karena hanya memuat teks saja, oleh karenanya akan sangat mudah untuk disebarluaskan. Sangat berbeda bila kita mau share obyek yang kita gambar menggunakan software AutoCad misalnya, tentu repot kalau kita hendak mengunggah obyek mobil dengan bentuk yang rumit dalam format *.dwg/dxf, karena file-nya akan sangat besar. Konsepnya sama persis dengan konsep penggambaran obyek menggunakan software PDMS (software khusus untuk mendesain platform kilang pengeboran minyak), yang keluaran hasil gambarnya juga berupa teks dengan extension file *.txt atau *.mac.
+3D Studio Max
+3D Studio Max atau biasa dikenal dengan 3D Max adalah suatu software (Perangkat lunak) untuk membuat sebuah grafik vektor 3 dimensi dan animasi. ditulis oleh Autodesk Media & Entertainment, dulunya dikenal sebagai Discreet and Kinetix. 3D Studio Max dikembangkan dari pendahulunya yaitu 3D Studio for DOS, tetapi untuk platform Win32. Kinetix kemudian bergabung dengan akuisisi terakhir Autodesk, Discreet Logic. Yang sampai saat penulis membuat artikel ini yang terbaru adalah 3D Studio Max versi 9. Para desain grafis banyak menggunakan software ini digunakan untuk membuat sebuah
+
+Software ini populer di kalangan propesional modelling, karena 3D Max dapat menghasilkan gambar dengan kualitas yang sangat bagus, realistik, dengan pencahayaan dan bayangan yang akurat. Selain menghasilkan gambar, 3D Max juga biasa digunakan untuk membuat sebuah film animasi, arsitektur rumah, ataupun membuat logo suatu perusahaan. Beberapa karya terkenal industri perfilman membuktikan bahwa 3D Max Studio merupakan the best of 3D maker, seperti X-Men, The Matrix, Dr. Doolittle 2 dan masih banyak lagi. Software ini juga merambah industri game. Penggemar game konsol Playstation 2 tentu mengenal Guitar Hero I & II. Keduanya juga dibuat dengan menggunakan software 3D Max Studio.
+
+Untuk menjalankan aplikasi ini membutuhkan spesifikasi komputer yang cukup tinggi agar mendapat kenyamanan saat menggunakannya. Karena banyak proses yang membutuhkan grafik yang tinggi untuk melakukan rendering dan sebagainya.
+
+Kelebihan:
+
+Mampu membuat objek Virtual secara 3 dimensi dan bentuk dapat diubah sesuai keinginan.
+Mampu memberikan kesan material mendekati aslinya seperti material kayu, batuan, dan tanah.
+Mampu memberikan efek-efek khusus pada hasil akhir produk seperti efek cahaya dan bayangan, efek atmosfir seperti api, kabut dan lighting.
+Dapat menjalankan proses animasi, gambar dapat digerakan dan dirubah bentuknya serta diatur proses animasinya.
+Kekurangan:
+
+3D Studio max mungkin bagus untuk pemula dan dapat membuat karakter efisien dan cepat, tetapi memiliki beberapa kelemahan bahwa harus dipertimbangkan. Dibandingkan dengan Maya 3D, kemampuan untuk membuat karya visual dengan pencahayaan kompleks adalah proses yang lebih lama dan lebih membosankan. Membuat lanskap juga dapat sedikit karena sulit untuk kamera. Kamera memiliki kecenderungan untuk memperbesar dan keluar dengan cara kereta jika benda-benda besar diimpor atas benda kecil dalam program ini. Kebanyakan Arsitek hanya menggunakan 3D Max untuk rendering gambar 3 dimensi yang  dihasilkan dari ArchiCAD, karena untuk membuat objek di 3D Max lumayan rumit.
+
+Google SketchUp
+sketchup
+
+Google SketchUp, sangat populer belakangan ini, keistimewaanya adalah dapat menghasilkan gambar 3 dimensi dengan cepat dan praktis. Software ini sangat mudah dipelajari, saya hanya memerlukan waktu satu hari untuk mempelajari software ini. Google Sketchup yaitu sebuah software desain yang mengarah pada pengolahan gambar 3D, yaitu pengolahan gambar illustrasi sebuah bangunan ataupun yang lainnya, (lebih sering digunakan untuk pengolah gambar-gambar gedung).
+
+sketchup render
+
+Hasil Rendering
+
+Google SketchUp cocok bagi Arsitek maupun mahasiswa arsitektur dan desainer interior dalam membuat gambar studi, atau konsep desain. Kita dapat men-download component software ini dari website-nya google (gratis dan komplit).
+
+KELEBIHAN:
+
+dalam segi kapasitas sortware ini cenderung lebih ringan di bandingkan dengan yang lain
+dalam segi interface google sketchup lebih familiar, mudah di ingat dan Simple, jadi jika anda yang baru mengenal dan ingin mencobanya pasti anda tak akan kesusahan dalam mengoprasikannya
+Google Sketchup banyak menyediakan berbagai fasilitas Gudang gambar 3D atau Warehouse 3D, disana kita bisa berbagi dan mengunduh gambar-gambar yang sudah ada yang dibuat oleh kontributor-kontributor dunia, yaitu kumpulan gambar objek seperti meja, kursi, televisi, gedung tinggi dll, dan juga landmark sebuah kotapun tersedia di sana, dan anda pun bisa berkontribusi di dalamnya, seperti mengupload gambar anda yang sudah ada ke gudang gambar 3D.
+Google Sketchup menyediakan lahan untuk sebuah bangunan-bangunan nyata seperti gedung-gedung tinggi di sebuah negara, yang di gabungkan ke dalam salah satu produk Google lainnya yaitu Google Earth, di sana kita bisa lihat secara langsung gedung-gedung 3D yang sudah dibuat oleh kontributor-kontributor Google Sketchup di Warehouse
+Banyak open source plugin yang mendukung dan melengkapi kinerja google sketchup
+Hasil gambar dari sketchup tidak hanya melulu berbentuk sketch namun juga bisa menjadi realistic atau hampir nyata bahkan mirip sekali dengan photo akan tetapi dengan bantuan Plugin renderer seperti VRay, maxwell, dll.
+Terdapat fitur import file ke ekstensi 3ds (untuk 3ds max), dwg (untuk autocad), kmz (untuk google earth), pdf, jpg, bmp, dxf, dan lain-lain.
+KEKURANGAN:
+
+Karena kesederhanaan sketchup menjadikan susahnya pemodelan tingkat lanjut meski memakai plugin sekalipun
+Terjadi crash apabila terdapat banyak permukaan patch dan vertex (kasus ini terjadi apabila mengimpor model tingkat lanjut misal model manusia dari 3ds max ke google sketchup )
+Hasil gambar kurang memuaskan.
+Revit Architecture
+Revit Architecture merupakan aplikasi building information modeling (BIM). Aplikasi BIM lebih dari sekedar aplikasi 3D modeling. Jika anda bekerja dengan model 3D, anda hanya dapat menggunakannya untuk visualisasi. Sementara dengan BIM, anda dapat melakukan jauh lebih banyak.
+
+Berbeda dengan AutoCAD yang merupakan aplikasi CAD untuk umum, aplikasi BIM didesain khusus untuk para arsitek dan insinyur yang berkaitan dengan bangunan. Secara ringkas, BIM dapat diartikan kita membuat dan menggunakan model virtual dari bangunan. Sama seperti halnya jika kita membangun bangunan sesungguhnya, kita juga melakukan hal yang sama di Revit.
+
+revit
+
+Karena kita membuat model bangunan sesungguhnya, kita dapat mengambil data apapun yang kita butuhkan dari model tersebut. Denah, tampak, potongan, schedule (bill of quantity) adalah sebagian dari data yang dapat kita gunakan. Lebih jauh, kita dapat menampilkannya dalam color fill, perspektif 3D, raytraced image (atau rendering), detailed drawing, dan hampir semua yang kita butuhkan dalam mendesain bangunan. Revit juga mendukung penggunaan aplikasi analisis seperti analisis struktur, analisis green building, heat load (beban pendingin/pemanas ruangan), dan berbagai analisis lain. Pendeknya, sebelum kita membuat bangunan sesungguhnya, anda dapat menganalisanya terlebih dahulu dengan membuat model Revit! Karena Revit Architecture memang didesain untuk arsitek, kita dapat bekerja seperti yang biasa dilakukan arsitek. Termasuk cara konvensional, yaitu dengan mendesain layout denah.
+
+revit 2d
+
+Meski kita bekerja dengan cara konvensional 2D, kita akan langsung memperoleh model 3D. Dengan demikian, anda dapat melihatnya sebagai tampak. Kita juga dapat mendefenisikan garis potong untuk memperoleh gambar potongan. Semua hanya dilakukan dalam satu kali kerja.
+
+revit tampak
+
+Data lain yang akan sangat berguna bagi kita adalah schedule. Revit dapat menghitung objek-objek arsitektur yang kita letakkan di model anda. Kita dapat mengetahui berapa volume dinding, jumlah pintu dan jendela, tanpa harus menghitungnya secara manual.
+
+revit rab
+
+Yang paling menyenangkan, kita dapat melihat bangunan kita dalam bentuk perspektif dari sudut manapun. Kita cukup mendefenisikan posisi kamera anda. Hal ini akan sangat menyenangkan bagi desainer dan pemilik proyek. Pemilik proyek dapat lebih mudah memahami maksud desainer dengan melihat model 3D. Tentunya jauh lebih mudah dipahami daripada melihat gambar denah saja.
+
+Pada Konferensi Desain VisMasters, Modeling dan Visualisasi, Autodesk menggarisbawahi mengenai bagaimana para arsitek di seluruh belahan dunia menerapkan perangkat lunak Revit Architecture untuk membangun model informasi (building information modeling – BIM) dan 3ds Max Design untuk visualisasi 3D.
+
+Lebih dari 300.000 arsitek, perancang dan pakar teknik telah menerapkan platform Revit untuk BIM. Shop Architects dan Archaus Architects adalah perusahaan-perusahaan yang telah memperoleh manfaat dari alur kerja Revit Architecture dan 3ds Max Design.
+
+Kombinasi kekuatan antara Revit Architecture dan 3ds Max Design memberikan ruang bagi para perancang untuk menyusun BIM di dalam prosesnya. Bila digunakan bersama-sama, maka produk tersebut juga mempertajam gambar elemen, tekstur, dan alat modeling untuk mempercepat proses salinan gambar, dan juga memberikan ruang pada perancang untuk menganimasi objek atau memberikan efek khusus dalam menceritakan kisah utuh dari rancangannya.
+
+“Penggunaan Revit Architecture dan 3ds Max di dalam proyek ini membuat kami mampu menganalisis serta menguji beberapa pilihan desain dengan cepat dan mudah,” jelas Erin Collins, arsitek proyek Archaus Architects. “Komponen kelompok dan dokumen referensi terkait digunakan secara ekstensif untuk unit modular, baik pada perangkat lunak Revit Architecture maupun 3ds Max Design. Dengan demikian, kami dapat mengubah dan memperbaiki model dalam hitungan menit saja.”
+
+Kedepan, Autodesk berharap makin banyak arsitek di seluruh dunia yang menggunakan Revit.
+
+Mental Ray
+Mental Ray merupakan sebuah render engine (mesin untuk merender gambar atau video) yang terdapat pada program 3D Studio Max, selain render standar max yaitu “Default Scanline”. Mental Ray terintegrasi dengan 3D Studio Max sehingga tidak perlu menginstal secara terpisah. Mental ray mempunyai beberapa kelebihan yaitu dapat mengkalkulasi efek Global Illumination dan Indirect Illumination, selain itu dapat juga menggunakan shader pada permukaan gambar atau cahaya. Render engine lain selain Mental Ray adalah V-Ray, Brazil R/S, Maxwell Render, Final Render, dan sebagainya. Semua render engine ini memiliki kelebihannya masing-masing. yang terbaru dari 3dsmax adalah 3dsmax9
+
+MentalRay rendering engine pada Revit
+
+Rasanya tidak ada yang meragukan MentalRay rendering. Banyak yang berpendapat, bahkan VRay tidak bisa menyaingi MentalRay. Kelebihan VRay mungkin pada rendering setup yang cepat. Tapi hasil rendering? MentalRay masih lebih baik. MentalRay di Revit ternyata tetap powerful, tapi penggunaannya sangat simpel. Rasanya, cukup pantas disebut MentalRay untuk arsitek. Tidak perlu ribet mengatur lighting, atau material seperti di Max. Semua predefined untuk arsitektur! Rasanya saya berani bilang, dengan Revit Architecture 2009, semua arsitek bisa membuat photorealistic rendering!
+
+Material Setup
+Material setup di Revit sangat mudah. Mungkin banyak orang merasa tidak perlu lagi membuat material sendiri. Banyak sekali template material yang bisa digunakan! Gak perlu pusing mikir skala pattern dan bump!
+
+Lighting Setup
+Lighting di Revit juga mudah. Semua komponen lighting akan memberikan efek cahaya seperti sesungguhnya. Terutama jika menggunakan photometric lights (IES) yang ‘physically correct’. Meski demikian, bisa ada pros dan cons tentang ini. Pro-nya tentu saja setup pencahayaan yang realistik menjadi sangat simpel. Con-nya, kita harus meletakkan artificial light seperti sesungguhnya. Jika butuh 100 lampu, tentu waktu render menjadi sangat lama.Di program lain, hal ini dapat diakali dengan point atau omni light. Dan lampu cukup diberi efek ‘self illumination’. Di Revit bukannya tidak bisa, tapi anda harus membuat family berupa area light atau point light khusus untuk ini. Butuh kemampuan untuk membuat family sendiri di sini.
+
+Rendering Setup
+Rendering setup sangat simpel. Cukup memilih kualitas rendering (draft, low, best, etc) yang sudah pre-defined. Bagi yang sudah mahir, dapat mengutak-atik sendiri, tentu.
+
+Lighting scheme juga cukup simpel. Anda cukup memilih interior atau exterior, dan apakah lighting dari matahari atau artificial light.
+Yang menarik, di sini tersedia juga post-rendering process. Sesudah image jadi, jangan khawatir kalau hasilnya terlalu gelap atau warnanya kurang bagus. Anda dapat mengubah exposure, saturation, dll. Sangat membantu!
+
+Bagi yang sudah menggunakan Revit sebelumnya, ada beberapa hal yang mungkin anda rasakan menghilang. Ya, kita tidak dapat memberikan background image, ground plane seperti saat Revit masih menggunakan AccuRender. Beberapa option untuk environment hilang. Anda dapat lihat sendiri bahwa pilihan untuk environment menjadi sangat sedikit. Dan meski tidak banyak yg menggunakannya, anda sekarang juga tidak dapat lagi membuat panoramic view dari Revit.
+Corel Draw
+Corel Draw adalah sebuah program komputer yang melakukan editing pada garis vektor. Program ini dibuat oleh Corel, sebuah perusahaan software yang berkantor pusat di Ottawa, Kanada. Jika berbicara masalah kegunaan Corel Draw, sebenarnya ada cukup banyak dan bahkan bisa dikatakan sangat banyak. Namun bagi para penggunanya, program Corel Draw seringkali dimanfaatkan untuk melakukan pekerjaan-pekerjaan dibawah ini, yaitu:
+
+Menciptakan desain logo atau simbol, yang mana ini adalah kegunaan Corel Draw yang paling banyak dimanfaatkan oleh penggunanya, terutama pembuatan logo dua dimensi karena kemudahannya dalam mengolah garis dan warna.
+Membuat desain undangan, brosur dan lain-lain juga menjadi suatu kegunaan dari program Corel Draw. Media publikasi offline lainnya juga menggunakan Corel Draw sebagai alat untuk mendesain. Corel Draw memiliki banyak jenis font yang dapat memudahkan desainer untuk mengeksplorasi imajinasi desain dan tulisan yang akan dibuat.
+Membuat cover buku juga dapat dilakukan di Corel Draw. Dengan Corel Draw maka tugas desain akan menjadi mudah karena dapat memanfaatkan desain sampul dan teknik pewarnaan yang lebih sempurna oleh Corel Draw. Detail gambar pun akan terlihat lebih jelas.
+Pembuatan gambar ilustrasi juga dapat dilakukan dengan Corel Draw. Gambar yang dihasilkan lebih berkualitas, terutama ketika berhubungan dengan lengkungan, garis atau sudut. Ukuran yang diperoleh dijamin sangat akurat.
+corel
+
+corel ex
+
+Keunggulan:
+
+Gambar yang dihasilkan dengan vektor atau berbasis vektor bisa ditekan pada tingkat yang paling rendah namun hasilnya tidak kalah dengan gambar yang berbasis bitmap atau raster.
+Penggunaan Corel Draw, terutama pada tool-tool yang ada di dalamnya lebih bersifat freehand sehingga sangat mudah dipahami oleh penggunanya, bahkan oleh orang yang baru pertama menggunakannya.
+Corel Draw sangat baik untuk mengkolaborasikan antara tulisan dengan gambar, seperti layaknya Adobe Photoshop.
+Gambar yang dihasilkan oleh CorelDraw tidak akan pecah apabila diperbesar.
+Seleksi layer dalam CorelDraw sangat mudah, sehingga dapat mengedit beberapa layer sekaligus.
+Ukuran file yang kecil, meskipun gambar dalam file berukuran besar.
+Banyaknya pengguna Corel Draw, membuat adanya komunitas dengan jumlah anggota yang besar. Hal ini akan membuat kita tidak kesulitan jika ingin mempelajari Corel Draw lebih mendalam karena banyak ditemukan tutorial, tips dan trik yang diproduksi oleh pengguna lain.
+Kekurangan yang sering muncul:
+
+memakan memori dan resource lain yang sangat besar apalagi bila gambar yang sedang dibuat mempunyai detail yang banyak. Pada PC yang low end penggunaan CDR sering menimbulkan pesan ‘crash’ pada system bahkan dalam proses effect bevel/emboss dalam PC yang bagus pun dapat timbul ‘hang’.
+besar file yang dibuat membengkak
+warna yang dicetak tidak akurat (tidak sesuai dengan tampilan layar) pada beberapa jenis printer
+Terbatasnya gradasi yang dihasilkan antara warna yang satu dengan warna lainnya.
+Efek-efek dan variasi yang terbatas di CorelDraw.
+Tidak tepat bila digunakan untuk merekayasa foto.
+Dukungan SaveAs di CorelDraw yang terbatas
+dalam pembuatan objek table tidak semudah membuat table dalam MS Word. Yaitu dengan cara yang sangat manual
+apabila ada penggabungan objek vector dan photo/bitmap kualitas cetakannya kurang memuaskan, misalnya membuat cover buku yang terdapat objek text dan photo.
+kompatibilitas versi CorelDraw banyak kendala dalam sharing ke versi lainnya.
+Adobe Photoshop
+Adobe Photoshop adalah software yang dibuat oleh perusahaan Adobe System, yang di khususkan untuk pengeditan foto atau gambar dan pembuatan effect. Perangkat lunak ini banyak digunakan oleh Fotografer Digital dan perusahaan iklan sehingga dianggap sebagai pemimpin pasar (market leader) untuk perangkat lunak pengolah gambar. Meskipun pada awalnya Photoshop dirancang untuk menyunting gambar untuk cetakan berbasis-kertas, Photoshop yang ada saat ini juga dapat digunakan untuk memproduksi gambar untuk World Wide Web. Beberapa versi terakhir juga menyertakan aplikasi tambahan, Adobe ImageReady, untuk keperluan tersebut.
+
+Photoshop juga memiliki hubungan erat dengan beberapa perangkat lunak penyunting media, animasi, dan authoring buatan Adobe lainnya.
+
+Kelebihan:
+
+Lebih familiar dan mudah digunakan dibanding software editing gambar selevel Adobe Photoshop.
+Membuat tulisan dengan effect tertentu.
+Photoshop dapat mengubah bentuk tulisan menjadi lebih kreatif dan inovatif dengan tool effect yang ada didalamnya. Photoshop memiliki kemampuan untuk membaca dan menulis gambar berformat raster dan vektor seperti .png, .gif, .jpeg, dan lain-lain. Photoshop juga memiliki beberapa format file khas:
+
+PSD (Photoshop Document) format yang menyimpan gambar dalam bentuk layer, termasuk teks, mask, opacity, blend mode, channel warna, channel alpha, clipping paths, dan setting duotone. Kepopuleran photoshop membuat format file ini digunakan secara luas, sehingga memaksa programer program penyunting gambar lainnya menambahkan kemampuan untuk membaca format PSD dalam perangkat lunak mereka.
+PSB’ adalah versi terbaru dari PSD yang didesain untuk file yang berukuran lebih dari 2 Gb
+PDD adalah versi lain dari PSD yang hanya dapat mendukung fitur perangkat lunak PhotshopDeluxe.
+Membuat tekstur dan material yang beragam.
+Dengan langkah-langkah tertentu, seorang Desainer dapat membuat gambar misalnya daun, logam, air, dan bermacam gambar lainnya. Fasilitas efek bisa ditambah.
+
+Mengedit foto dan gambar yang sudah ada.
+Dengan Photoshop kita dapat merubah gambar kita jelek menjadi bagus ataupun sebaliknya. Selain itu juga Photoshop dapat merubah foto seseorang menjadi sebuah gambar kartun. Atau dalam Design Grafis disebut vector and vexel.
+
+Memproses materi Web.
+Photoshop juga digunakan untuk keperluan web, misalnya: kompresi file gambar agar ukurannya lebih kecil, memotong gambar kecil-kecil (slice), dan membuat web photo gallery. Dengan Adobe Image Ready, gambar yang sudah ada bisa dibuat untuk keperluan web, misalnya menjadi rollover dan animasi GIF.
+
+Bisa menyimpan dalam berbagai format dengan berbagai kualitas gambar beserta resolusi dan ukurannya. File hasil editan bisa disimpan dalam format JPG dengan kualitas bagus.
+Kelemahan:
+
+Kurang bagus untuk pembuatan desain majalah atau cetak brosur dengan banyak teks, karena tidak bisa membuat paragraf tulisan dengan sempurna.
+Ukuran penyimpanan file relatif besar bila terdapat banyak layer dan ukuran gambar yang besar.
+Proses cetak dalam ukuran kertas pada umumnya, atau ukuran kertas yang besar relatif lebih sulit.
+Akan lebih rumit ketika mengedit gambar dari banyak layer yang digabung.
+Dalam menciptakan Image, Adobe Photoshop hanya bisa digunakan untuk menciptakan Image yang statis, dan juga dengan berkembangnya versi Photoshop sekarang ini spesifikasi Komputer untuk menjalankan program Adobe Photoshop juga harus sudah tinggi dan yang pasti akan diimbangi oleh harga yang tinggi pula.
+Piranesi
+Piranesi, seperti SketchUp, adalah program render NON-photorealistic. Namun, di mana SketchUp dapat dibatasi dalam mempengaruhi menghasilkan Piranesi dapat mengambil model SketchUp dan menambahkan indah, kualitas digambar tangan mempengaruhi. Pada dasarnya ini adalah versi 3D dari Photoshop untuk SketchUp. Program ini memang memiliki kurva belajar yang baik tapi datang dengan tutorial yang sangat baik.
+
+Piranesi mengambil rendering 3D ke wilayah photorealistic dan artistik baru. Dorongan produktivitas dibandingkan dengan render di app 3D Anda sangat besar dan begitu adalah peningkatan kreativitas karena begitu mudah untuk bereksperimen. Dorongan yang lebih besar berasal dari kenyataan bahwa Anda tidak terbatas pada mengisi tetapi hanya bisa melukis ke permukaan objek 3D Anda untuk menghasilkan efek yang unik. Piranesi 4 menawarkan sejumlah perangkat tambahan di sini termasuk pilihan berbulu baru untuk alat Brush utama, berbagai cara pintas untuk mengubah ukuran kuas dan kemampuan untuk menentukan ukuran kuas sebagai persentase lebar gambar. The Painter alat, yang menghasilkan efek yang lebih artistik, juga mendukung perangkat tambahan ukuran dan menawarkan kontrol yang lebih baik atas penguncian dan muncrat. Anda juga dapat sekarang skala oleskan Painter ini tergantung pada informasi mendalam gambar itu meskipun, anehnya, ini terbatas untuk membuat oleskan lebih jauh lebih besar. Pengaturan Dinamis untuk berbagai stroke sepanjang panjangnya juga telah ditingkatkan untuk kedua Brush dan alat Painter.
+
+Sejauh ini kita telah berbicara tentang penerapan cat, tetapi Piranesi istirahat lebih tanah baru dengan membiarkan Anda menerapkan sejumlah efek lain menggunakan alat yang sama persis. Misalnya Anda dapat mengembalikan, atau berbaur, asli membuat; menerapkan filter seperti kabur dan perubahan warna; dan mengeluarkan tepi dalam gambar Anda berdasarkan model 3D yang mendasari. Pilihan baru termasuk kemampuan untuk membawa keluar tepi berdasarkan perubahan warna, mode noda baru dan sejumlah filter baru untuk mengasah, menghaluskan dan mengurangi dan pengelompokan warna. Anda juga dapat memilih untuk memudar semua efek berdasarkan informasi 3D yang mendasari dan kontrol atas ini telah ditingkatkan dengan kemampuan untuk memudar baik untuk transparansi atau warna set (sangat berguna untuk efek langit lulus) dan secara otomatis pusat radial memudar mana Anda pertama kali klik. Dua jenis baru dari memudar pencahayaan, kerucut dan strip lainnya, juga telah ditambahkan ke retrospektif menambahkan pencahayaan realistis untuk adegan Anda.
+
+Kekuatan efek canggih seperti membuka tidak diragukan lagi mengesankan, tetapi pengaturan mereka adalah kompleks dan Anda harus bekerja keras untuk mendapatkan hasil yang tepat. Namun Piranesi menawarkan satu fitur menakjubkan yang permainan anak-anak untuk menggunakan dan yang manfaatnya langsung. Menggunakan alat Montage Anda dapat memuat apapun gambar bitmap lengkap dengan transparansi dan cukup klik di mana saja pada gambar Anda untuk menambahkan foto-realistis cut-out yang secara otomatis ukuran benar sesuai dengan posisinya di tempat kejadian dan secara otomatis bertopeng sehingga disembunyikan oleh setiap elemen yang muncul di depannya! Dengan dukungan untuk bayangan yang realistis, menambahkan orang atau vegetasi untuk adegan Anda tidak dapat lebih mudah, terutama karena potongan mengambang sekarang secara otomatis disimpan dalam file Epix daripada secara terpisah.
+
+Versi 4 menambahkan dukungan untuk guntingan 3D.
+
+Satu kelemahan tentu saja adalah bahwa guntingan bitmap adalah dengan datar sifatnya. Salah satu cara ini adalah dengan menggunakan konten RPC khusus yang berisi beberapa gambar miring dalam file yang sama. Dengan Piranesi 4 meskipun masalah ini sebagian besar diselesaikan dengan kemampuan untuk memuat dan tempat gambar 3D yang benar di 3DS, DXF, SKP atau format MAN. Pilih obyek ditempatkan dan Anda dapat dengan cepat reposisi, mengubah ukuran dan memutar itu sekarang dalam adegan Anda – ideal untuk hamburan furnitur realistis dan orang-orang di sekitar model arsitektur sederhana untuk segera membawanya ke kehidupan. Anda bahkan dapat geser dan klip objek dan menangani beberapa objek secara bersamaan. Sistem tentu tidak sempurna – beberapa file 3DS ditolak, itu masuk akal untuk menjaga poligon menghitung wajar, peta tekstur tidak didukung dan Anda hanya bisa melukis cut-out setelah mereka telah secara permanen dibakar ke TKP – tapi potensi membuka masih sangat besar.
+
+Ya Piranesi unik, tapi apa yang membuatnya benar-benar istimewa adalah bahwa hal itu unik produktif dan kreatif.
+
+10. SolidWorks
+
+solid
+
+SolidWorks adalah software CAD 3D yang dikembangkan oleh SolidWorks Coorporation yang sekarang sudah diakuisisi oleh Dassault systemes. SolidWorks merupakan salah satu 3D CAD yang sangat populer saat ini di Indonesia sudah banyak sekali perusahaan manufacturing yang mengimplementasikan software SolidWorks. Selain digunakan untuk menggambar komponen 3D, Solidworks juga bisa digunakan untuk mendapatkan gambar 2D dari komponen tersebut dan bisa dikonversi ke format *.dwg yang dapat dijalankan pada program AutoCAD.
+
+SolidWorks dalam pengambaran / pembuatan model 3D menyediakan feature-based, parametric solid modeling. Feature-based dan parametric ini yang akan sangat mempermudah bagi usernya dalam membuat model 3D. karena hal ini akan membuat kita sebagai user bisa membuat model sesuai dengan intiusi kita.
+
+Solidworks dipakai banyak orang untuk membantu desain benda atau bangunan sederhana hingga yang kompleks. Solidworks banyak digunakan untuk merancang roda gigi, mesin mobil, casing ponsel dan lain-lain. Fitur yang tersedia dalam solidworks lebih easy-to-use dibanding dengan aplikasi CAD lainnya. Bagi mahasiswa yang sedang menempuh pendidikan di jurusan tehnik sipil, tehnik industri dan tehnik mesin sangat disarankan untuk mempelajari solidworks. Karena solidworks sangat sesuai dengan kebutuhan mahasiswa yang mengambil tiga jurusan tersebut dan yang paling utama proses penggunaan solidworks lebih cepat dibanding vendor-vendor software CAD lain yang lebih dulu hadir. Anda juga dapat melakukan simulasi pada desain yang Anda buat dengan solidworks. Analisi kekuatan desain juga dapat dilakukan secara sederhana dengan solidworks. Dan yang paling penting, Anda dapat membuat desain animasi menggunakan fitur yang telah disediakan solidworks.
+
+Keunggulan Solidworks dengan yang CAD software yang lain diantaranya adalah :
+
+Tampilan/ Graphic User Interface (GUI)-nya yang user-friendly. Command-command/feature-featurenya tampak lebih menarik sekali, berbeda saat kita bermain dengan pro/Engineer misalnya, dan juga penanganannya/handle-nya tak se-susah di CATIA.
+Mampu menyediakan sketsa 2D yang dapat diupgrade menjadi bentuk 3D.
+Relatif lebih ringgan run di computer, dalam artian tidak memerlukan memory komputer yang terlalu besar. Compare to Pro/Engineer and CATIA.
+Pendapat dari teman, bisa buat sketch apa saja di solidworks. Constraint-nya tak seketat di Pro/Engineer.
+solid tampilan
+
+Tampilan SolidWorks 2010
+
+11. Adobe Illustrator
+
+adobe illustrator
+
+Adobe Illustrator merupakan software grafis untuk mendesain atau membuat gambar (di komputer tentunya) yang berbasis vektor yaitu objek gambar yang dibentuk melalui kombinasi garis dan titik (dot) berdasarkan rumusan matematika tertentu. Software ini dikembangkan oleh Adobe Systems. Software sejenis lain yang mungkin anda gunakan adalah CorelDRAW, Xara Designer Pro, dan Macromedia FreeHand. Adobe Illustrator digunakan untuk keperluan desain label (stiker), name plate mesin, boks kemasan produk, desain industri, peta, gambar ilustrasi atau mascot dan buku petunjuk penggunaan (owner’s instruction manual & illustrated part lists).
+
+ilustrator tampilan
+
+Tampilan Adobe Illustrator CS3
+
+Kelebihan:
+
+Bentuk dan resolusi masih tetap terjaga walaupun ukuran diubah-ubah
+Hasil gambar vector bisa dicetak dengan resolusi yang tinggi
+Ruang penyimpanan untuk objek gambar yang efisien
+Adobe Illustrator bersifat user friendly, yaitu sangat memudahkan user dalam menggunakan dan mengakses beragam fitur yang ada, terutama dengan sistem pengelompokan fasilitas melalui fasilitas menu, toolbox, palette dan sebagainya
+Adobe Illustrator mampu menangani beragam desain dari yang sifatnya sederhana hingga amat kompleks, serta mampu mengekspor hasil akhir sebuah desain ke dalam berbagai format sesuai kebutuhan Anda dengan kualitas yang bisa diand`lkan
+Adobe Illustrator sangat kompatibel dengan beragam software lainnya untuk berbagai kepentingan akhir, seperti kepentingan cetak, desktop publishing, web publishing dan lain-lain
+Kekurangan:
+
+Gambar cenderung terlihat flat/datar dan mempunyai warna kartun yang kental
+Susah untuk menghasilkan gambar yang realistis/ mirip photo
+12. Ecotect
+
+Software Ecotect menjadi pilihan yang cukup signifikan dalam memberi ruang bagi pendekatan bioklimatik untuk lebih mudah diterapkan, karena software ini memiliki sejumlah fitur-fitur simulasi bioklimatik yang ramah-pengguna.
+
+Dr. Andrew Marsh (2008) sang penemu Ecotect mulanya prihatin atas proses desain yang tidak efektif. Dengan Ecotect diharapkan performa bangunan dapat dipertimbangkan lebih awal pada tahapan konseptual ketimbang di akhir proses desain, sehingga dapat menghemat waktu dan uang.
+
+Ecotect merupakan software analisa bangunan yang paling inovatif saat ini, yang mengintegrasikan pemodelan 3d dengan berbagai analisa dan simulasi performa bangunan. Berbagai fitur analisa dan simulasi diaplikasikan secara interaktif, setiap perubahan pada desain secara interaktif akan terbaca dampaknya.
+
+ecotect1
+
+Gambar 1. Tampilan antarmuka Ecotect
+
+Analisa dan simulasi yang terkait dengan bioklimatik mencakup analisa termal dan pencahayaan. Untuk menentukan temperatur internal dan beban panas, Ecotect mengadaptasi Chartered Institute of Building Services Engineers (CIBSE) Admittance Method. Admittance Method merupakan metode simplifikasi yang sangat cepat dikalkulasi dan dapat digunakan untuk menghasilkan sejumlah besar informasi yang berguna dalam proses desain. Metode ini telah digunakan secara luas di berbagai belahan dunia dan telah teruji sebagai alat bantu desain yang sangat bermanfaat. Untuk tujuan desain, Metode Admittance merupakan pilihan terbaik sejauh ini (Marsh,2008).
+
+Untuk analisa pencahayaan alami, Ecotect menerapkan berbagai metode untuk mengakomodasi kondisi yang berbeda. Metode-metode yang dipakai mulai dari yang sederhana yakni Average Daylight Factor dan Sky Points Overlay hingga yang cukup kompleks, yaitu BRE Split-Flux Method. Sedangkan untuk pencahayaan buatan Ecotect hanya menggunakan point by point method, sebagai panduan awal dalam proses desain.
+
+Perlu diperhatikan bahwa Ecotect bukanlah software validasi. Ecotect berguna sebagai alat bantu desain pada tahapan konseptual untuk memprediksi performa desain, jadi saat desain mendekati penyelesaian akhir maka sebaiknya analisa dilanjutkan dengan software yang lebih spesifik seperti EnergyPlus untuk beban pendinginan dan RADIANCE untuk pencahayaan. Untuk OTTV dan EEI , perhitungan lebih valid harus dilakukan melalui rumus-rumusnya.
+
+Disamping itu terdapat limitasi yang dimiliki Ecotect, yakni belum tersedianya diagram untuk menghitung jumlah direct radiation dan diffuse radiation,  juga fitur untuk menghitung time-lag dan solar heat gain, serta fitur untuk mengkalkulasi  OTTV dan EEI secara langsung. Untuk mendukung software Ecotect, penulis membuat suatu program yang dinamakan yaitu ESP atau Ecotect Supporting Program yang mampu membantu menghitung variabel ataupun kalkulasi yang belum tersedia dalam Ecotect.
+
+Ecotect merupakan software untuk mensimulasi, ecotect tidak bisa menyimpulkan sendiri apakah bangunan ini sustain apa tidak, dalam artian ecotect belum bisa menganalisis.
+
+berikut kurang lebihnya ecotect:
+
+ecotect2
+
+Kemampuan program Ecotect
+
+Ecotect 2011 adalah produk Autodesk yang fitur dalam analisa pencahayaan siang harinya sangat lengkap, yang lainnya diantaranya adalah:
+
+Beberapa simulasi yang bisa dilakukan oleh Ecotect, diantaranya:
+Simulasi pencahayaan
+
+Simulasi termal
+
+Simulasi kenyamanan
+
+Simulasi angin
+
+Simulasi akustik
+
+Simulasi visual
+
+Simulasi Angin + plugin
+
+Dapat dipakai sebagai alat desain model (drafting) sekaligus berkemampuan menganalisa dan simulasi.
+Dapat mengimpor model dari CAD sebagai acuan dasar desain yang ada dalam bentuk skema garis (wiring) dalam format DXF.
+Waktu simulasi dapat di simulasikan sepanjang tahun.
+Grafik yang cukup bersahabat dan informatif, sehingga hasil simulasi dan modeling dapat dimengerti dengan mudah.
+Visualsisasi hasil simulasi dapat dilihat dalam bentuk grafik dan model 3 dimensi.
+Material pada bangunan dapat di definisikan secara tepat baik dengan material yang tersedia atau memasukan settingan untuk material baru.
+Ray simmulation, mampu mensimulasikan cahaya matahari (sunlight) yang terjadi di objek atau interior untuk melihat arah masuk dan pemantulannya.
+Kemampuan lain selain menganalisa pencahayaan bisa di pakai untuk menganalisa, Termal, Visual, Radiasi dan Akustik. Sangat fleksibel kemampuanya yang mampu ditambahkan plugin untuk menganalisa lebih spesif dan detail untuk pencahayaan melalui Plug-inRadiance.
+Keterbatasan Ecotect
+
+Harus memasukan data iklim (wheater data) yang untuk kawasan Indonesia masih belum ada dengan bebas di temukan, untuk mendapatkannya harus memasukan data-data iklim lengkap dengan skrip.
+Terbatas dalam mengimport langsung model 3 dimensi baik dari model cad atau sketch up. Vertek didalam model akan terbaca sangat banyak, Ecotect masih berbasis modeling wiring. 3d simulasi baiknya di gambar ulang sehingga akurasinya bisa lebih presisi.
+Simulasi pencahayaan pada Ecotect khusunya pada interior hanya merata-ratakan pencahayaan dalam satu tahun, sehingga sangat sulit untuk mendapatkan simulasi pencahayaan yang tepat. Untuk itu, diperlukan plug-in tambahan dalam analisis pencahayaannya, yaitu menggunakan Radiance Simulation.
+Struktur Program Ecotect
+
+Modeling dapat dilakukan diadalam software Ecotect dengan memasukan material yang akan dipakai didalam bangunan.
+Memasukan data iklim yang telah di buat sebelumnya
+Simulasi dapat dilakukan dengan langsung apabila modeling yang diperlukan sudah lengkap dan data iklim sudah di masukan. Simulasi pencahayaan menggunakan plug-in Radiance akan mendapatkan data view 3d rendering serta data Radsimulation yang di import langsung ke Ecotect untuk mendapatkan analisis gridnya juga hasilnya dapat dilihat secara grafis dan model 3 dimensi.
+13. VRay
+
+VRay adalah mesin render atau mesin yang digunakan sebagai ekstensi (add-on) dari program pengeditan utama seperti antara lainnya program grafis 3D 3dsmax, Cinema, Maya. Plugin Sketchpad Book diciptakan oleh dua orang Bulgaria, Peter Mitev dan Vladimir Koylazov (untuk yang kedua ciptaannya VRay). VRay adalah sebuah render engine untuk referensi pengolahan scene dengan tingkat tinggi. Sebuah mesin rendering yang menawarkan sumber daya yang diperlukan untuk menerapkan pada bahan scene Anda dan dengan sumber penerangan global.
+
+Dengan menggunakan Vray, hasil rendering kita akan nampak seperti nyata atau real. penggunaannya pun cukup mudah. Didalam Vray ini terdapat 3 macam plugin yang nantinya digunakan untuk proses rendering image/animasi. Bagi pemula, mungkin menganggapnya sulit untuk membuat dan mengatur proses rendering dan hasil rendering menjadi nyata/real.
+
+Dengan VRay dapat diterapkan pada model Anda, semua materi dari sifat Advance: refleksi dan refractions, solusi fuzzy, bahan dengan selfillumination, elemen translucent (pakaian atau kertas) atau menggunakan tekstur dispersi. Tapi tanpa diragukan lagi, apa yang telah membuat mesin VRay membuat hobi yang paling populer dan profesional 3D adalah potensi mereka untuk perhitungan pencahayaan scene. VRay dapat bekerja dengan iluminasi global, cahaya tak langsung, radiant map, Light Caustics, dan sumber-sumber cahaya untuk memberikan realitas scene yang anda butuhkan.
+
+Berikut adalah beberapa contoh dari apa yang dapat dicapai dengan Vray. Ini adalah contoh dari Chaosgroup penyedia layanan resmi, tentu saja kita harus mempertimbangkan bahwa parameter tertentu yang harus anda rendering dan tentunya memiliki komputer yang kuat dan berkapasitas bagus, tapi mungkin beberapa hal bisa diatasi dengan mengedit di photoshop. beberapa contoh hasil rendering image dari vray :
+
+vray1
+vray2
+
+Keunggulan:
+
+VRay memiliki konfigurasi render yang tidak rumit, mudah dipelajari, proses render cepat, hasil render mendekati sempurna, banyak fitur canggih, dan lain-lain.
+VRay mudah dipelajari dan berdaya guna tinggi untuk menunjang kerja pada profesional 3ds max. VRay itu keunggulannya adalah memiliki konfigurasi render yang tidak rumit, mudah dipelajari, proses render cepat, hasil render mendekati sempurna, mudah dipelajari dan berdaya guna tinggi untuk menunjang kerja pada profesional 3ds max.intinya gtu
+Metode kalkulasi GI-nya yang bervariasi. Ada 4 metode (Irradiance map, Light cache, Photon map, Brute force) yang dapat anda pilih pada primary bounce & 3 metode pada secondary bounce (Light cache, Photon map & Brute force). Setiap metode mempunyai kelebihan & kekurangan masing-masing sesuai dengan tujuan dan hasil yang anda inginkan.
+Pada spotlight adalah lampu sorot, Vray tidak mendukung simulasi “real” seperti itu. Yang bisa dilakukan adalah menambah besar intensitas cahaya. Kemudian menyelubungi arah cahaya dengan objek berbentuk cone sehingga seolah2 cahaya tsb adalah spotlight.
+14. Maxwell Render
+
+Maxwell Render adalah mesin render berdasarkan persamaan matematika yang mengatur transportasi cahaya, yang berarti bahwa semua elemen, seperti pemancar, bahan dan kamera, berasal dari model fisik yang akurat. Maxwell Render adalah bias, sehingga tidak ada trik yang digunakan untuk menghitung solusi pencahayaan di setiap piksel dari sebuah adegan, hasilnya akan selalu menjadi solusi yang tepat, karena akan berada di dunia nyata. Maxwell Render sepenuhnya dapat menangkap semua interaksi cahaya antara semua elemen dalam sebuah adegan, dan semua perhitungan pencahayaan dilakukan menggunakan informasi spektral dan data yang tinggi rentang dinamis.
+Maxwell Render menerima model dan adegan dibuat dalam aplikasi 3D atau CAD. Beberapa aplikasi ini langsung didukung melalui Maxwell Render plug-in, yang lainnya dapat digunakan bersama dengan Maxwell Render dengan mengimpor geometri ke Maxwell Studio, sebuah komponen perangkat lunak.
+
+Keunggulan:
+
+Lebih cocok untuk pemula karena rendernya yang memberikan kemudahan bagi pemula.
+Mampu menciptakan hasil render seperti memotret memakai kamera biasa atau digital, jadi seperti simulasi foto. Menariknya, time rendernya bisa ditentukan. Makin lama ngerender maka hasilnya seperti foto.
+Efeknya sangat mendalam jadi benar-benar seperti aslinya.
+Menggunakan shift lens parameter, seperti lensanya potografer yang menggunakan shift/tilt lens
+Kekurangan:
+
+Untuk art, bisa saja menggunakan software ini. Tapi kalo untuk presentasi, jangan karena sangat tidak bagus. Bisa bagus tetapi makan waktu 1 atau 3 hari, karena rendernya yang sangat lama.
+Pada saat membuka material editor tampak item semua, agak sulit untuk melihat materialnya. Bisa ada aplikasi sendiri dari maxwellnya.
+Maxwell tidak bisa digunakan untuk animasi.
+15. Artlantis
+
+Artlantis adalah software unik 3D rendering yang dibuat oleh Abvent Group yang sudah berpengalaman lebih dari 20 tahun sejak 1985 di bidang CAD Professional untuk arsitek, desainer dan fotografi, kantor pusat Abvent group berada di Paris dan memiliki kantor cabang di Hungary, Luxembourg, dan  Switzerland.
+
+Artlantis terdiri dari 2 software utama yaitu Artlantis Studio dan Artlantis Render. Artlantis Studio untuk menciptakan 3D animasi QuickTime VR Panoramas, QuickTime VR Objek dan animasi sedangkan Artlantis render adalah software tercepat untuk 3D rendering. Software Artlantis sudah digunakan oleh arsitek, perancang dan profesional desain perkotaan di lebih dari 80 negara. Artlantis interface langsung dengan ArchiCAD, Revit, Vectorworks, SketchUp Pro, dan Arc +. Dengan penambahan DWF, OBJ dan format impor FBX dan diperbarui DXF, DWG dan 3DS plug-in, Artlantis mulus berinteraksi dengan semua software CAD terkemuka juga.
+
+Berikut ini adalah contoh hasil Rendering menggunakan Artlantis 4.1.6, untuk Modelling mendownloadnya dari Sketchuptexture. Software yang ditambahkan adalah photoshop CS2 untuk lighting/pencahayaan, dimana saya hanya merubah dengan tools curve, color balance, dan Hue/saturation.
+artlantis1
+
+artlantis2
+
+Software Artlantis ini dengan teknologi baru dapat secara otomatis menyesuaikan pencahayaan, radiositas (mesin rendering merek baru) dikembangkan terutama untuk arsitektur, lebih cepat dan lebih akurat dari sebelumnya, kualitas luar biasa (kualitas rendering telah sangat ditingkatkan),dan slider transparansi baru memungkinkan Anda untuk mengatur transparansi billboard dan 3D tanaman dalam rangka untuk lebih melihat proyek sehingga tidak perlu ada lagi pengeditan foto.
+
+Keunggulan Artlantis terdapat pada waktu render yang cepat, kemudahan navigasi (preview render real time) dan perbaruan data CAD kedalam model secara instant, dengan tetap mempertahankan seting material, cahaya dan posisi kamera dari file sebelumnya.
+
+Artlantis berjalan di OS Windows dan Mac OS X
+
+16. IDX Renderition Express
+
+IDX Renditioner Express Panduan 1.0 adalah perangkat lunak program yang plug-in untuk pengguna program SketchUp Google yang menawarkan satu-klik membuat penyesuaian Model dan untuk produksi online secara cepat. Semua fitur yang tersedia dalam produk lengkap tersedia dalam edisi gratis dari IDX Renditioner Express Panduan 1.
+
+Keunggulan:
+
+kemudahan dalam melakukan rendering dan kecepatan dalam renderingnya sehingga jika kita memerlukan rendering dengan waktu yang cepat.
+IDX renditioner ini mempunyai 3 settingan rendering yaitu preview, standart, dan presentation. Settingan material juga cukup mudah, caranya hanya dengan menggeser tombol pada material editor dan kita sudah mendapatkan reflect material dan bumping.
+rendering menggunakan IDX Renditioner Express memberikan hasil yang terlihat nyata.
+IDX renditioner rendernya bagus yaitu high quality photorealistic
+bisa mengontrol advance lighting comnponents, environment, background images
+menyediakan 16 megapixel rendering untuk arge-scale printing and powerful presentation pada desain
+Kekurangan:
+
+kualitas warna IDX renditioner lebih rendah dari maxwell
+hasilnya bagus namun terbatas pada resolusinya, maksimal 600×480 piksel
+memiliki kualitas pencahayaan yang sedikit kurang bagus
+17. Indigo Renderer
+
+Indigo Renderer adalah render 3D software yang menggunakan teknologi render berisi untuk membuat gambar foto-realistis. Dengan demikian, Indigo menggunakan persamaan yang mensimulasikan perilaku cahaya, tanpa perkiraan atau dugaan diambil. Oleh akurat simulasi semua interaksi cahaya, Indigo mampu menghasilkan efek seperti:
+
+Kedalaman lapangan, seperti ketika kamera difokuskan pada satu objek dan latar belakang adalah kabur
+Efek spektral, seperti ketika seberkas cahaya melewati sebuah prisma dan warna pelangi yang dihasilkan
+Refraksi, seperti ketika cahaya masuk kolam air dan benda-benda di kolam renang tampaknya “bengkok”
+Refleksi, dari refleksi halus di lantai beton dipoles untuk refleksi murni cermin perak
+Kaustik, seperti dalam cahaya yang telah difokuskan melalui kaca pembesar dan telah membuat pola kecerahan pada permukaan
+Indigo menggunakan metode seperti Metropolis transportasi ringan (MLT), spektral cahaya kalkulus, dan model kamera virtual. Data Tema disimpan dalam XML atau format IGS.
+
+Indigo memiliki Monte-Carlo path tracing, jalan dua arah pelacakan dan MLT di atas jalan dua arah pelacakan, didistribusikan membuat kemampuan, dan rendering progresif (image secara bertahap menjadi kurang bising seperti render kemajuan). Indigo juga mendukung hamburan bawah permukaan dan memiliki format gambar sendiri (.igi).
+
+Indigo awalnya dirilis sebagai freeware sampai rilis 2.0, ketika menjadi produk komersial.
+
+18. Kerkythea
+
+Kerkythea adalah aplikasi renderer, menggunakan bahan material yang akurat dan pencahayaan yang  bertujuan untuk rendering dengan kualitas terbaik dalam rentang waktu yang paling efisien. Fungsi Kerkythea adalah untuk menyederhanakan tugas rendering berkualitas dengan menyediakan alat yang diperlukan untuk mengotomatisasi pengaturan adegan, seperti pementasan menggunakan GL real-time viewer, material editor, umum /membuat pengaturan editor dll, di bawah interface umum.
+
+Pengembangan aplikasi (KT) Kerkythea dimulai pada bulan September(2004) tanpa banyak waktu untuk berinvestasi pada aplikasi pada waktu itu. Hal yang baik, adalah bahwa hal itu dimulai dengan kernel dan perpustakaan PHO (mesin render yang lebih tua), sehingga bagian besar dari source code sudah diuji dan terstruktur dengan baik.
+
+Butuh waktu lebih dari setengah tahun sebelum akhirnya lahir Kerkythea (April 2005)! Dalam fase itu, pengguna pertama tidak begitu banyak tapi ada penggemar yang bergabung, upaya  dan memberikan umpan balik yang substansial.
+
+19. Autodesk Maya
+
+Kita mengenal ada animasi 2D (dua dimensi) dan 3D (tiga Dimensi). Salah satunya adalah Autodesk Maya. Autodesk Maya adalah sebuah software pembuat animasi 3D yang diterbitkan oleh perusahaan Autodesk yang juga pencipta software 3D sejenis seperti 3ds Max dan juga AutoCAD. Software ini adalah software berbayar bukan opensource yang harga lisencenya mencapai $3.500 (atau setara Rp. 31.500.000,-). Biasanya software ini dipakai oleh para developer film animasi atau juga pengembang software game-game berbasis 3D. Pada perkembangan animasi untuk film sekarang ini, hampir seluruh film yang bergenre animasi dibuat dengan program 3D. Seperti The Shrek, Monster Inc., Open Season dan lainnya. Tentunya tahap akhirnya harus diselesaikan dengan berbagai macam software tambahan agar didapatkan hasil yang baik. Selain digunakan pada film animasi, Maya digunakan juga pada pembuatan visualisasi sebuah objek untuk kepentingan iklan ataupun presentasi, misalnya rumah atau kendaraan atau yang lainnya.
+
+Perbedaanya dengan software sejenis seperti 3ds Max ataupun Blender dan lain sebagainya sebenarnya tidaklah terlalu jauh, karena semua software tersebut sama-sama mempunyai workspace yang bisa diatur sesuai keinginan user agar lebih mudah dilihat, mempunyai tools-tools yang juga hampir sama seperti move, rotate, scale, dan lain sebagainya.
+
+Pada Autodesk Maya sudah tersedia banyak Paint Effects yang tidak bisa ditemui di software Blender, atau penggunaan set smooth pada blender yang tidak dimiliki oleh Autodesk Maya, dan lain sebagainya.
+
+20. Autodesk Softimage
+
+Autodesk Softimage atau hanya Softimage adalah aplikasi komputer grafis 3D, yang dimiliki oleh Autodesk, untuk memproduksi grafis 3D komputer, pemodelan 3D, dan animasi komputer. Sebelumnya Softimage | XSI, perangkat lunak terutama digunakan dalam film, video game, dan industri periklanan untuk membuat komputer yang dihasilkan karakter, benda, dan lingkungan.
+
+Dirilis pada tahun 2000 sebagai penerus Softimage | 3D, Softimage | XSI dikembangkan oleh perusahaan eponymous, maka anak perusahaan dari Avid Technology. Pada tanggal 23 Oktober 2008, Autodesk mengakuisisi merek Softimage dan aset animasi 3D dari Avid untuk sekitar $ 35 juta, dengan demikian mengakhiri Softimage Co sebagai entitas yang berbeda [2] Pada bulan Februari 2009, Softimage | XSI yang namanya Autodesk Softimage.
+
+Sebuah versi gratis dari perangkat lunak, yang disebut Softimage Mod Tool, dikembangkan untuk komunitas game modding untuk membuat game dengan menggunakan toolset Microsoft XNA untuk PC dan Xbox 360, atau untuk membuat mods untuk permacnan menggunakan mesin Sumber Valve Software, Epic Games ‘Unreal Engine dan lain-lain. Hal itu dihentikan dengan rilis Softimage 2014.
+
+Alat pemodelan memungkinkan generasi model poligonal atau NURBS. Pemodelan subdivisi tidak memerlukan operator tambahan dan bekerja langsung pada geometri poligonal. Setiap operasi pemodelan dilacak oleh tumpukan sejarah konstruksi, yang memungkinkan seniman untuk bekerja non-destruktif. Operator dalam sejarah tumpukan dapat kembali memerintahkan, dihapus atau diubah setiap saat, dan semua penyesuaian merambat ke model akhir.
+
+Rig kontrol dibuat menggunakan tulang dengan otomatis IK, kendala dan pemecah khusus seperti tulang belakang atau ekor. Opsional, sistem ICE dapat digunakan untuk membuat rig ringan dalam lingkungan berbasis simpul. Proses rigging dapat dipercepat melalui penggunaan biped beradaptasi dan rig binatang berkaki empat, FaceRobot untuk rig wajah dan bibir sinkronisasi otomatis.
+
+Fitur animasi termasuk lapisan dan mixer, yang memungkinkan menggabungkan klip animasi non-linear. Operator animasi dilacak dalam sejarah tumpukan konstruksi yang terpisah dari pemodelan stack, yang memungkinkan pengguna untuk mengubah geometri yang mendasari karakter animasi yang sudah dan objek. MOTOR adalah fitur yang mentransfer animasi antara karakter, terlepas dari ukuran atau proporsi mereka. GATOR dapat mentransfer atribut seperti tekstur, Uvs, peta berat badan atau amplop antara model yang berbeda. Softimage juga berisi alat untuk mensimulasikan partikel, partikel helai, dinamika benda tegar, dinamika tubuh lembut, kain, rambut dan cairan.
+
+Default dan mesin rendering terintegrasi di Softimage adalah mental ray. Bahan dan shader yang dibangun dengan cara berbasis simpul. Ketika pengguna mengaktifkan disebut membuat wilayah di tampilan kamera, itu akan membuat bagian adegan menggunakan mesin rendering yang ditentukan dan memperbarui sepenuhnya interaktif. Sebuah modus render sekunder tersedia untuk rendering shader GPU real-time yang ditulis baik dalam Cg atau bahasa HLSL.
+
+Juga termasuk adalah FX Tree, yang merupakan built-in compositor simpul berbasis yang memiliki akses langsung ke klip gambar yang digunakan dalam adegan. Dengan demikian tidak hanya bisa digunakan untuk menyelesaikan dan komposit diberikan frame, tetapi juga sebagai bagian integral dari penciptaan adegan. The FX Pohon dapat digunakan untuk menerapkan efek gabungan untuk klip gambar yang digunakan dalam adegan sepenuhnya diberikan, memungkinkan Softimage untuk membuat adegan menggunakan tekstur menulis atau dimodifikasi dalam berbagai cara dalam adegan yang sama.
+
+Selain platform ICE berbasis simpul dijelaskan di bawah ini, Softimage memiliki API dan scripting lingkungan yang luas yang dapat digunakan untuk memperluas perangkat lunak. Bahasa scripting yang tersedia antara lain C #, Python, VBScript dan JScript. A C ++ SDK juga tersedia untuk plug-in pengembang, dengan dokumentasi online yang tersedia untuk umum. [4]
+
+Pada tanggal 7 Juli 2008, Softimage, Co mengumumkan Softimage | XSI 7, [5] yang memperkenalkan ICE (Interactive Creative Environment) arsitektur. ICE adalah platform pemrograman visual yang memungkinkan pengguna untuk memperluas kemampuan Softimage cepat dan intuitif menggunakan diagram dataflow berbasis simpul. Hal ini memungkinkan seniman untuk menciptakan efek 3D yang kompleks dan alat-alat tanpa scripting. Di antara penggunaan utama untuk ICE adalah model prosedural, deformasi, rigging dan simulasi partikel. Hal ini juga dapat digunakan untuk mengontrol adegan atribut tanpa perlu menuliskan ekspresi, misalnya untuk menambahkan kamera menggoyangkan atau membuat berdenyut cahaya. ICE adalah mesin pemrosesan paralel yang mengambil keuntungan dari CPU multi-core, sehingga memberikan kinerja yang sangat scalable.
+
+ICE merupakan fungsi Softimage menggunakan koleksi node, masing-masing dengan kemampuan sendiri yang spesifik. Pengguna dapat menghubungkan node bersama-sama, secara visual mewakili aliran data, untuk menciptakan alat yang kuat dan efek. Kapal Softimage dengan beberapa ratus node; di antara mereka berdua node rendah tingkat, seperti Multiply atau Boolean, serta jumlah node tingkat tinggi yang disebut senyawa. Senyawa berfungsi sebagai “node wrapper” runtuh ICE grafik ke node tunggal. Softimage memungkinkan pengguna untuk menambahkan senyawa kustom untuk sistem menu utama untuk usabilitas mudah.
+
+Screenshot di sebelah kanan menunjukkan contoh deformasi geometri ICE grafik sederhana. Dalam skenario praktis, orang akan runtuh grafik menjadi senyawa dan mengekspos parameter penting, misalnya intensitas deformasi. Setelah menambahkan alat ini untuk user interface dengan mudah dapat diterapkan ke objek lain. Senyawa ini juga dapat dibagi antara instalasi karena seluruh fungsi mereka disimpan dalam file XML.
+
+Pendekatan berbasis grafik ICE memungkinkan untuk menciptakan efek yang sebelumnya dicapai hanya melalui penggunaan scripting dan / atau kode dikompilasi. Karena sifat dan interaktivitas visualnya, itu sangat mudah bagi pengguna yang tidak memiliki pengalaman pemrograman. Banyak alat ICE gratis dan komersial telah disediakan oleh pengguna dan pengembang pihak ke-3. Softimage berisi simulator cairan dan fisika berbasis ICE disebut Lagoa serta versi berbasis ICE dari Syflex simulator kain.
+
+21. Lightwave 3D
+
+lightwave
+Lightwave 3D adalah sebuah perangkat lunak komputer grafis 3D yang dikembangkan oleh NewTek yang merupakan sebuah program sebuah program grafik komputer untuk pemodelan 3D, rendering, dan animasi. Meskipun program ini berasal dari Commodore Amiga, dia telah diport untuk mendukung Mac OS X, Windows, dan mesin rendernya telah diport ke platform Linux.
+
+Lightwave telah sejak lama dikenal karena kemampuan renderingnya yang bagus dan antarmuka pengguna yang tidak biasa (misalnya, icon tidak digunakan; dan fungsi diberikan judul deskriptif). Seperti banyak paket 3D lainnya Lightwave juga terdiri dari dua bagian, lingkungan pemodelan objek di mana model 3d atau “meshes” diciptakan dan lingkungan animasi di mana model diatur dan dianimasikan untuk render. Tidak seperti kebanyakan paket lainnya dua bagian ini adalah sebuah program yang terpisah. Ada juga aplkasi render yang terpisah yang dapat dijalankan di banyak mesin.
+
+LightWave merupakan aplikasi multi-threaded dan dapat menggunakan sebanyak 8 prosesor dalam mesin yang sama pada waktu yang sama ketika merender gambar.
+
+Ini telah digunakan dalam film, televisi, grafis gerak, lukisan matte digital, efek visual, pengembangan video game, desain produk, visualisasi arsitektur, produksi virtual, video musik, pra-visualisasi dan iklan.
+Overview:
+Lightwave adalah paket perangkat lunak yang digunakan untuk rendering gambar 3D, baik animasi dan statis. Ini mencakup mesin render cepat yang mendukung fitur-fitur canggih seperti refleksi realistis dan refraksi, radiosity, caustic, dan 999 gratis cross-platform membuat node. The 3D modeling komponen mendukung pemodelan poligon dan permukaan subdivisi. Komponen animasi memiliki fitur seperti kinematika terbalik dan maju untuk animasi karakter, sistem partikel dan dinamika. Pemrogram dapat memperluas kemampuan Lightwave yang menggunakan SDK disertakan yang menawarkan LScript scripting (bahasa scripting proprietary) dan antarmuka bahasa C umum. Dengan versi 11 dan seterusnya, dukungan Python tersedia.
+
+Modeler dan Layout:
+
+Lightwave terdiri dari dua program terpisah : Modeler dan Layout. Setiap program dirancang khusus untuk memberikan ruang kerja khusus untuk tugas-tugas tertentu . Ketika dua program yang berjalan secara bersamaan , proses ketiga disebut Hub dapat digunakan untuk secara otomatis mensinkronisasi data.
+
+Layout berisi sistem animasi dan penyaji yang menyediakan pengguna dengan beberapa pilihan termasuk opsi ray tracing , multithreading , pencahayaan global, dan parameter output. Modeler , seperti namanya , mencakup semua fitur pemodelan yang digunakan untuk membuat model 3d yang digunakan dalam animasi dan rendering komponen . Hal ini berbeda dengan kebanyakan 3D paket komputer grafis yang biasanya mengintegrasikan penyaji dan pemodel . Sebuah perdebatan lama di komunitas pengguna Lightwave telah terdiri dari apakah atau tidak untuk mengintegrasikan Modeler dan Layout menjadi satu program . Menanggapi hal ini , NewTek telah memulai proses integrasi dengan memasukkan beberapa alat pemodelan dasar dengan Layout.
+
+Ada juga mesin render perintah baris berbasis jaringan bernama Screamernet yang dapat digunakan untuk mendistribusikan tugas render di sejumlah besar komputer jaringan . Hal ini digunakan untuk mengurangi keseluruhan waktu yang dibutuhkan untuk membuat sebuah proyek tunggal dengan memiliki komputer masing-masing render bagian dari keseluruhan proyek secara paralel . Screamernet mencakup semua fitur dari mesin rendering yang terintegrasi di Layout tetapi tanpa antarmuka pengguna interaktif .
+
+Features:
+
+Dynamics
+Lightwave dilengkapi dengan semua dinamika yang diperlukan seperti hard tubuh, tubuh lunak dan kain . Dinamika tubuh keras melengkapi pengguna untuk mensimulasikan efek seperti batu longsor , bangunan penghancuran dan efek pasir , menggunakan gaya realistis seperti gravitasi dan tabrakan . Tubuh lembut melengkapi pengguna dengan alat yang dapat mensimulasikan jelly atau lemak bergoyang pada karakter kelebihan berat badan . Hal ini juga dapat diterapkan untuk karakter untuk efek rambut yang dinamis . Kain dapat diterapkan untuk pakaian untuk karakter . Hal ini juga dapat digunakan untuk rambut untuk mensimulasikan gerakan rambut yang lebih realistis . CORE subsistem Lightwave 11 mencakup mesin dinamika kaku – badan baru yang disebut Bullet . Dukungan Softbody ditambahkan dengan 11,5 . Kendala tidak tersedia .
+
+Hypervoxels
+Hypervoxels adalah sarana untuk membuat efek animasi partikel yang berbeda . Mode operasi memiliki kemampuan untuk menghasilkan penampilan yang meniru :
+
+Blobby metaballs untuk hal-hal seperti air atau merkuri , termasuk pengaturan refleksi atau permukaan refraksi
+Sprite yang mampu mereproduksi efek seperti kebakaran atau berkelompok burung
+Volume shading untuk simulasi awan atau efek jenis kabut
+Material shaders
+
+Lightwave dilengkapi dengan editor tekstur nodal yang datang dengan koleksi tujuan khusus shader material. Beberapa jenis permukaan yang shader ini telah dioptimalkan meliputi:
+
+tujuan umum bahan hamburan bawah permukaan untuk bahan seperti lilin atau plastik
+kulit realistis , termasuk hamburan bawah permukaan dan beberapa lapisan kulit
+logam , reflektif , bahan menggunakan algoritma konservasi energi
+transparan , bahan bias termasuk jumlah algoritma refleksi internal akurat
+Nodes
+Dengan LW 9 , Newtek menambahkan Node editor untuk Permukaan Editor dan bagian Mesh Pemindahan Lightwave . Mereka juga merilis SDK namun Node dengan perangkat lunak , sehingga setiap pengembang dapat menambahkan Editor Node mereka sendiri melalui plug-in , dan beberapa telah melakukannya , terutama Denis Pontonnier , yang menciptakan bebas untuk download editor node dan banyak node utilitas lainnya untuk semua kelas SDK di Lightwave . Ini sekarang berarti pengguna dapat menggunakan node untuk memodifikasi gambar dan membuat , tekstur prosedural , memodifikasi bentuk hypervoxels , mengendalikan gerakan benda , mengemudi saluran animasi , dan menggunakan hal-hal seperti partikel dan jerat lain untuk mendorong fungsi-fungsi ini . Hal ini telah sangat meningkatkan kemampuan Lightwave mandiri . Daerah simpul Lightwave terus berkembang , dengan lampu volumetrik sekarang dikontrol dengan node .
+
+LScript
+LScript adalah salah satu bahasa scripting Lightwave . Ini menyediakan satu set fungsi prebuilt yang dapat digunakan ketika scripting bagaimana Lightwave berperilaku .
+
+Python
+
+Dengan LW 11 , Newtek menambahkan dukungan Python sebagai pilihan untuk scripting kustom .
+
+Bullet Physic
+
+Dari LW 11 , Newtek telah menambahkan Dinamika Bullet dukungan untuk tubuh keras dan tubuh lunak .
+
+Aspek seperti kendala belum diimplementasikan .
+
+Lightwave SDK
+
+SDK ( Software Development Kit ) menyediakan satu set kelas C untuk menulis plugin asli untuk Lightwave .
+
+22. Microstation
+
+MicroStation adalah program CAD ( Computer Aided Design ) inovatif yang digunakan oleh para arsitek, engineer, kontraktor, dan Profesional GIS ( Geographic Information System ) untuk mengintegrasikan pekerjaan dalam bidang bangunan, proyek sipil, power plants, dan informasi geospasial.
+microstation
+
+microstation2
+
+Ini contoh-contoh kerjaannya, hampir mirip 3D SMax kan? Banyak juga orang yang menggunakan software ini untuk berkreasi seperti gambar tersebut.
+
+Seperti pada awalnya, Microstation digunakan dalam bidang arsitektur dan engineer untuk membuat gambar konstruksi; namun, Program ini telah berkembang menjadi banyak versi termasuk advanced modeling dan rendering, termasuk juga Boolean solids, raytracing, dan keyframe animation. Software ini dapat menyediakan lingkungan yang dikhususkan untuk arsitektur, civil engineering, pemetaan, atau desain tanaman, dan sebagainya.
+
+Dalam peranannya dalam membuat fasad dari terrain map, MicroStation memiliki opsi-opsi dalam membuat model 3 dimensi. Tools untuk menciptakan dan memanipulasi permukaan yang kompleks dan model-model mesh ( jala ) dengan tekstur yang terpeta. Tools untuk modeling yang tingkat tinggi atau advance dapat memudahkan dalam pembuatan model solid dan mudah pulan dalam mengubah fitur parametric berbasis solid modeling. Sebagai tambahan, Geometri 2 atau 3 dimensi dapat diterbitkan dari MicroStation ke environment Google Earth TM 2D/3D dan model SketchUp juga dapat diimport langsung dari Google 3DWarehouse ke dalam MicroStation V8 XM Edition.
+
+23. Rhinoceros 3D
+
+Rhinoceros (Rhino disingkat) adalah berdiri sendiri, komersial 3-D aplikasi perangkat lunak pemodelan yang dikembangkan oleh Robert McNeel & Associates. Perangkat lunak ini didasarkan pada model matematika yang disebut NURBS (non-seragam rasional B-spline), yang mahir memproduksi kurva dan permukaan dalam komputer grafis. Robert McNeel & Associates telah berusaha untuk membedakan Rhinoceros di pasar perangkat lunak 3D dengan fungsi multidisiplin, pembelajaran-kurva yang relatif rendah, interoperabilitas, dan biaya yang lebih rendah daripada beberapa produk yang bersaing.
+
+Rhinoceros telah digunakan di beberapa industri, termasuk desain industri, arsitektur, desain perahu, desain perhiasan, desain otomotif, CAD, CAM, prototyping cepat, reverse engineering, dan desain produk, serta untuk multimedia dan desain grafis.
+
+Rhinoceros awalnya disebut Rhinoceros 3D. Sebelum penerbitan Rhinoceros 3D v1.0, Robert McNeel & Associates memungkinkan masyarakat untuk men-download versi beta dari perangkat lunak untuk memberikan umpan balik. Rhinoceros dikembangkan untuk sistem operasi Microsoft Windows. Robert McNeel & Associates sekarang mengadaptasi perangkat lunak untuk OS X.
+
+Rhinoceros memiliki bahasa scripting berdasarkan Visual Basic, SDK, dan sistem plug-in. Satu, alat pemodelan parametrik plug-in disebut Belalang, menarik beberapa arsitek untuk program tersebut.
+
+Sebuah robot dimodelkan dalam Rhino dan diberikan di Flamingo
+
+The Rhino format file (.3DM) berguna untuk pertukaran NURBS geometri. Para pengembang Rhino memulai openNURBS Initiative untuk memberikan pengembang perangkat lunak komputer grafis alat untuk secara akurat mentransfer 3-D geometri antara aplikasi. Sebuah toolkit open source, openNURBS termasuk format file 3DM spesifikasi, dokumentasi, C ++ source code perpustakaan dan NET 2.0 majelis untuk membaca dan menulis format file, pada platform yang didukung (Windows, Windows x64, Mac, dan Linux). The McNeel Wiki memiliki informasi lebih lanjut saat ini.
+
+Rhinoceros mendukung CAD dan file gambar format berikut native (tanpa menggunakan plugin eksternal): DWG / DXF (AutoCAD 200x, 14, 13, dan 12), SAT (ACIS, ekspor saja), Microstation DGN, Direct X (format file X ), FBX, X_T (Parasolid, ekspor saja), 3DS, LWO, STL, SLC, OBJ, AI, RIB, POV, Udo, VRML, BMP, TGA, CSV (sifat ekspor dan hydrostatics), TIFF terkompresi, LANGKAH, VDA , GHS, GTS, KML, pLY, Google Sketch-UP. IGES (Alias??, Ashlar Vellum, AutoForm, AutoShip, Breault, CADCEUS, CAMSoft, CATIA, Cosmos, Delcam, EdgeCAM, FastSurf, FastSHIP, Integritas Ware, IronCAD, LUSAS, Maya, MAX 3.0, MasterCAM, ME30, Mechanical Desktop, Microstation, NuGraf, OptiCAD, Pro / E, SDRC I-Deas, Softimage, solid Edge, SolidWorks, SUM3D, SURFCAM, TeKSoft, Unigraphics), NASA GridTool, Yamaha ESPRi dan Tebis [4] DWF dan DWFx format file (dari produk Autodesk). tidak didukung.
+
+Ketika membuka format file CAD format Rhino tidak file asli, program akan selalu membuat gambar baru yang disebut “Untitled” dan mengkonversi file, yang berarti bahwa untuk file tetap dalam format file lama itu harus kembali dikonversi ke Format aslinya. Gambar tidak dapat dibuka secara langsung: mereka dapat dimasukkan sebagai bitmap latar belakang (untuk membuat sketsa), sebagai wallpaper atau digunakan sebagai tekstur dalam bahan utama.
+
+Sebagai format file yang AutoDesk AutoCAD berubah setiap versi baru dirilis (lihat format file DWG untuk informasi lebih lanjut), Open Desain Aliansi harus balik format file sekali lagi. Jadi program-program seperti Rhino3D bisa tidak selalu terbuka file AutoCAD tertulis dalam versi terbaru.
+
+Rhino3D versi 4.0 SR9 membuka format file DWG hanya / DXF sampai versi 2007. File DWG 2008-2012 dapat dibuka hanya setelah dikonversi ke DWG versi lama menggunakan versi yang sesuai Autodesk AutoCAD atau gratis Autodesk DWG TrueView 2012.
+
+24. Tekla Structure
+
+Tekla structures adalah software BIM (Building Information Modeling) paling terkemuka di dunia. BIM sendiri merupakan konsep baru yang revolusioner yang sudah menjadi arah tujuan paling muktahir penggunaan Teknologi Informasi di dunia Jasa Konstruksi dunia. Tekla Structures dikembangkan di Finlandia dan sudah digunakan di 100 negara oleh konsultan, kontraktor, dan badan-badan pemerintah. Tekla Structures-BIM (Building Information Modelling) adalah pendekatan baru untuk desain, konstruksi dan fasilitas manajemen. Technology BIM adalah sarana yang tepat untuk membangun desain dan konstruksi, dengan pembentukan Model 3D, technology ini berbeda dengan CAD yang berbasis pada Gambar. Technology BIM menyediakan sarana kolaboratif dalam desain dan konstruksi (Struktur, Beton, Instalasi M/E), dan mengurangi benturan antar divisi (Engineering, M/E, Beton, Designer dan Analis serta Pengadaan).
+
+Kita dapat memperoleh analisa dan hasil perhitungan, gambar, laporan, atau output lainnya dari satu model struktur. Tekla Structures memiliki tampilan standar API (Application Programming Interface) untuk menghubungkan analisis dan desain software. Software ini tidak perlu membuat dan memelihara berbagai analisa pemodelan secara terpisah (menggunakan software lain). Penarikan, Pembebanan, reaksi, dan defleksi, semuanya dapat ditampilkan sebagai bagian dari analisa struktur kita. Semua ketentuan/ ketetapan di simpan dari langkah sebelumnya. Jadi, Ketika terjadi perubahan, cukup memainkan analisa kemudian periksa hasil yang baru kita peroleh.
+
+tekla
+
+KELEBIHAN :
+
+Software dapat digunakan untuk meganalisa permasalahan-permasalahan model struktur. Tekla Structure adalah software pemodelan multi-material dan multi-proses. Kita dapat menentukan dan menganalisa dalam suatu model 3D yang serupa, memperbaiki secara akurat semua pekerjaan struktur. Semua perubahan secara otomatis update sewaktu-waktu dilakukan revisi. Pemodelan dengan waktu singkat dan kemampuan mengoperasikan memberikan hasil manajemen proyek yang efisien. Dan yang paling hebatnya, Tekla Structures sungguh mudah digunakan dan dikuasai.
+
+Tekla Structures dapat digabungkan dengan aplikasi-aplikasi yang sudah ada, atau semata-mata sebagai tempat untuk mengembangkan permasalahan internal biasa. Software ini terhubung dengan berbagai jenis system melewati Tekla Open API, contoh format biasa yang didukung oleh Tekla Structures adalah IFC, CIS/2,SDNF dam DSTV. Contoh dari format yang sudah jadi hak milik yang didukung oleh Tekla Structures adalah DWG, DXF, dan DGN. Berikut ini adalah beberapa tampilan/ screen shoot TEKLA saat digunakan dalam perencanaan struktur.
+
+Jika ingin mendalami drafting, jangan cuma menguasai AutoCAD. Sudah banyak yg bisa. Mau nilai plus…? Pelajari Tekla.! Perusahaan EPC (Engineering Procurement Construction), perusahaan- perusahaan kontraktor yang bergerak di bidang migas tentu akan bayar Anda lebih. Software TEKLA ini juga digunakan untuk mendesain Gedung tertinggi di dunia, Burj Khalifa di Dubai, dengan ketinggian 830 m yang pekerjaan struktur dan arsitekturalnya dikerjakan dari 21 September 2004 – 1 Oktober 2009.
+
+25. Solid Edge
+
+Solid Edge ST4 – paling fitur lengkap hibrida 2D/3D CAD sistem yang menggunakan teknologi sinkron untuk mempercepat proses perancangan dan editing, serta dukungan untuk penggunaan kembali geometri yang diimpor. Solid Edge adalah komponen kunci dari portofolio dan ™Seri Velocity memiliki alat yang sangat baik untuk bagian pemodelan dan majelis, gambar desain, transparan manajemen data, built-in analisis elemen hingga, yang terus membantu untuk mengatasi kompleksitas produk.
+
+Solid Edge ST4 adalah aplikasi untuk analisis elemen hingga, termasuk jenis baru dari beban – dan beban torsi di user-defined dukungan silinder kendala, serta cara-cara baru untuk menghubungkan bagian dalam majelis, seperti koneksi yang terkunci dan sendi sheet metal tepi. Sarana menyederhanakan model dapat dengan cepat menghitung hasil, dan alat-alat visualisasi canggih – melihat model dari dalam. Model dapat disesuaikan sesuai dengan teknologi sinkron, dan dengan menggunakan konstruksi kayu. Solid Edge menyediakan model kontrol bagian dan majelis pada tahap awal desain, yang mengurangi waktu-ke-pasar dan biaya prototyping.
+
+Dalam ST4 Solid Edge – Ribuan perbaikan tertentu untuk pelanggan, yang selanjutnya akan meningkatkan dampak dari produk ini pada semua tahap desain produk. Fitur baru telah muncul dalam modul yang berbeda, termasuk simulasi dari pipa logam lembaran, gulungan dan, membangun alat manajemen dan menggambar. Perbaikan lingkungan desain lembaran logam termasuk jenis baru dari sudut penutupan, simbol elemen terukir bagian dan geometri yang berbeda, serta unsur-unsur teknologi dalam penyingkapan bagian-bagian lembar, seperti telinga pengiriman. Solid Edge terus meningkatkan bar di bidang gambar, di mana kita sekarang dapat memindahkan semua dimensi teknologi dan sebutan mengacu pada komponen dalam perakitan, dan bahkan memberikan rincian warna yang berbeda dalam gambar garis, meminjam mereka dari 3D model. Desain “Internasional” yang baru dapat menggunakan set karakter yang berbeda dalam bahasa yang berbeda? Dalam satu gambar atau balon?. Sederhana antarmuka pengguna termasuk menu radial disesuaikan sepenuhnya, yang mengurangi jumlah gerakan mouse. Transparan dialog elemen manajemen desain dan detail, serta tim dialog mengurangi ukuran menyediakan area terbesar dari ruang kerja grafis.
+
+26. Podium
+
+Podium adalah sebuah software Plugin untuk SketchUp, yang berfungsi sebagai alat Render untuk menghasilkan gambar yang mendekati kenyataanya (Photo-Realistic). SU Podium V2 adalah versi terbaru sampai saat tulisan ini dimuat, dimana sebelumnya ada versi 1.6.1 versi 1.7.2 dan versi free nya adalah 1.7.3, sementara kita tinggalkan versi sebelumnya karena SU Podium V2 sudah lebih lengkap dibanding versi sebelumnya yang telah mengadirkan setting pencahayaan Sky/Sun Light, Spot light dan Omni light dimana fasilitas tersebut membuat hasil Render menjadi jauh lebih sempurna dibanding dengan menggunakan versi sebelumnya serta tidak kalah dengan hasil Rendering dengan menggunakan Vray SketchUp. Jangan tunda lagi segera download SU Podium V2.
+
+Podium sebuah perangkat pendukung rendering yang berfungsi merender hasil gambar dari sketch up. Keuntungan dari Podium adalah ia sangat mudah untuk digunakan dengan sedikit metode yang harus dilakukan. Dan hasilnya juga, bisa dibilang bagus.
+
+Pertama yang harus dilakukan adalah meng-install program sketch up dan Podium, kalau belum punya masternya bisa search di google mau yang gratis ada, yang bayar juga ada. Serta tutorial lebih lengkapnya juga bisa anda searching sendiri, ini hanyalah cara simple menggunakan program ini.
+
+Yang kedua buat gambar 3 dimensi dengan sketch up, kemudian klik plug in pada toolbar. Kemudian akan muncul tampilan seperti ini.
+
+podium1
+Fungsi Light disini adalah sebagai pengatur cahaya obyak yang kita pilih, semakin besar angkanya tentunya cahaya yang dikeluarkan juga akan semakin besar.
+
+Fungsi Reflect adalah sebagai pengatur pantulan / refleksi dari benda yang berada disekitar obyek, semakin besar angkanya maka semakin obyek tersebut mampu untuk merefleksikan benda yang disekitarnya layaknya sebuah cermin.
+
+Pada render size kita akan disuguhkan beberapa pilahan untuk ukuran resolusi gambar hasil render, sebagai catatan semakin besar resolusinya maka semakin berat program ini bekerja dan semakin lama proses render nya.
+
+Jika dirasa sesuai dengan apa yang kita harapkan maka barulah kita klik render untuk memulai proses rendering. Dan ini adalah beberapa contoh gambar hasil render dari Podium.
+
+podium2
+
+podium3
+
+podium4
+
+27. Blender 3D
+
+Blender adalah salah satu software open source yang digunakan untuk membuat konten multimedia khususnya 3Dimensi, ada beberapa kelebihan yang dimiliki Blender dibandingkan software sejenis. Kelebihannya:
+
+Open Source Blender merupakan salah satu software open source, dimana kita bisa bebas memodifikasi source codenya untuk keperluan pribadi maupun komersial, asal tidak melanggar GNU General Public License yang digunakan Blender.
+Multi Platform Karena sifatnya yang open source, Blender tersedia untuk berbagai macam operasi sistem seperti Linux, Mac dan Windows. Sehingga file yang dibuat menggunakan Blender versi Linux tak akan berubah ketika dibuka di Blender versi Mac maupun Windows.
+Update Dengan status yang Open Source, Blender bisa dikembangkan oleh siapapun. Sehingga update software ini jauh lebih cepat dibandingkan software sejenis lainnya. Bahkan dalam hitungan jam, terkadang software ini sudah ada update annya. Update an tersebut tak tersedia di situs resmi blender.org melainkan di graphicall.org
+Blender memiliki fitur yang lebih lengkap dari software 3D lainnya.  Coba cari software 3D selain Blender yang di dalamnya tersedia fitur Video editing, Game Engine, Node Compositing, Sculpting. Bukan plugin lho ya, tapi sudah include atau di bundling seperti Blender.
+Blender relatif ringan jika dibandingkan software sejenis. Hal ini terbukti dengan sistem minimal untuk menjalankan Blender. Hanya dengan RAM 512 dan prosesor Pentium 4 / sepantaran dan VGA on board, Blender sudah dapat berjalan dengan baik namun tidak bisa digunakan secara maksimal. Misal untuk membuat highpolly akan sedikit lebih lambat.
+Komunitas Terbuka Tidak perlu membayar untuk bergabung dengan komunitas Blender yang sudah tersebar di dunia. Dari yang newbie sampai yang sudah advance terbuka untuk menerima masukan dari siapapun, selain itu mereka juga saling berbagi tutorial dan file secara terbuka. Salah satu contoh nyatanya adalah OPEN MOVIE garapan Blender Institute.
+Interface yang user friendly dan tertata rapi. Tool untuk membuat objek 3D yang lengkap meliputi modeling, UV mapping, texturing, rigging, skinning, animasi, particle dan simulasi lainnya, scripting, rendering, compositing, post production dan game creation.
+Kualitas arsitektur 3D yang berkualitas tinggi dan bisa dikerjakan dengan lebih cepat dan efisien.
+Interface pada Blender secara umum adalah sebagai berikut :
+
+Revolusioner yang tidak tumpang tindih dan non-blocking UI memberikan alur kerja tak tertandingi
+Fleksibel dan bisa diatur tata letak jendela dengan layar setup sebanyak yang Anda suka dengan dukungan terjemahan internasional
+Setiap jendela ruang dapat dengan mudah beralih ke jendela apapun jenis (kurva editor, NLA, tampilan 3D dll) text editor untuk penjelasan dan mengedit skrip Python text editor untuk penjelasan dan mengedit skrip Python Custom tema Antarmuka konsisten di semua platform
+Software ini dapat diperoleh di situs resminya yaitu blender.org. Software ini termasuk software dengan ukuran kecil dan dapat digunakan di berbagai macam OS. Diantaranya Windows, Linux, Ubuntu dan lain lain.
+
+Demikian ulasan saya tentang software yang digunakan oleh banyak profesi saat ini. Namun software itu hanyalah alat bantu, kualitas desain sendiri lebih ditentukan oleh si perancangnya.
+

@@ -1,0 +1,39 @@
+Pemodelan Perangkat Lunak (PPL) 
+Agustus 06, 2017
+Assamualaikum.Wr.Wb ,
+saya akan menjelaskan tentang pemodelan perangkat lunak 
+,silahkan simak penjelasan berikut ini ...
+
+
+Pemodelan Perangkat Lunak (PPL)
+
+
+Pemodelan Perangkat Lunak atau PPL adalah sebuah disiplin ilmu untuk mempelajari bentuk-bentuk pemodelan perangkat lunak yang digunakan sebagai bagian dari tahapan pengembangan perangkat lunak secara terstruktur dan berorientasi objek.
+Sedangkan, Rekayasa Perangkat Lunak adalah Suatu disiplin ilmu yang membahas semua aspek produksi perangkat lunak, mulai dari tahap awal yaitu analisa kebutuhan pengguna, menentukan spesifikasi dari kebutuhan pengguna, disain, pengkodean, pengujian sampai pemeliharaan sistem setelah digunakan.
+Tujuan dari pembelajaran pemodelan perangkat lunak kali ini adalah mengembangkan suatu perangkat lunak lebih dari 1 orang, agar orang lain mampu mempelajari perangkat lunak yang sudah kita kembangkan dan mengetahui konsep Rekayasa Perangkat Lunak serta komponen dan karakteristik Perangkat lunak tersebut.
+Tahapan untuk mempelajari pemodelan perangkat lunak :
+Tahapan Pengembangan Perangkat Lunak
+Model Pengembangan Perangkat Lunak
+Pemodelan untuk pengembangan perangkat lunak secara terstruktur / structrured system development (Data Flow Diagram, Structured Chart, Entity Relationship Diagram)
+Pemodelan untuk pengembangan perangkat lunak berorientasi objek / object oriented system development (Unified Modelling Languange: Use Case Diagram, Class Diagram, Activity Diagram)
+Konsep Rekayasa Perangkat Lunak
+Tujuan Analisis adalah menganalisis situasi untuk menentukan spesifikasi dan struktur pengguna dan menyeleksi fitur sistem yang lain.
+Tujuan Desain adalah mendapatkan dan menstrukturkan kebutuhan sistem secara keseluruhan dan mengembangkan spesifikasi teknologi.
+Tujuan Implementasi adalah menghasilkan sebuah perangkat lunak yang dapat digunakan.
+Tujuan Pengujian adalah mendapatkan informasi mengenai kualitas perangkat lunak dan juga memeriksa bug dan error.
+
+Dukungan / Support untuk pemodelan perangkat lunak :
+·         .exe
+·         File data
+·         Dokumen pendukung
+·         Manual book
+·         Petunjuk troubleshooting
+Macam-macam Perangkat Lunak berdasarkan Domain Aplikasi
+System software
+Real-time software
+Business software
+Engineering and scientific software
+Embedded software
+Personal computer software
+Web-based software
+Artificial intelligence software

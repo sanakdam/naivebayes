@@ -1,0 +1,93 @@
+MACAM-MACAM SISTEM OPERASI JARINGAN (SOJ)
+ khoirul ihza mahendra  Sunday, August 16, 2015
+
+
+Pengertian singkat dari Sistem Operasi Jaringan ini adalah salah satu jenis sistem operasi 
+yang bertugas untuk menangani masalah-masalah tentang jaringan. Sistem operasi ini di gunakan untuk melayani para pengguna (user), seperti pelayanan dalam berbagi data atau berkas, pelayanan sebagai alat cetak data (printer), DNS dan HTTP service, dan masi banyak lagi.
+
+Karakter Sistem Operasi Jaringan
+Sebagai tempat kendalinya sumber daya di jaringan.
+ 
+Penyedia akses yang aman ke dalam sebuah jaringan.
+ 
+Salah satu pengizinan suatu remote user dapat terkoneksi ke dalam jaringan.
+ 
+Mengizinkan si pemakai untuk dapat terkoneksi ke dalam jaringan seperti internet.
+ 
+Memback up data (menyimpan dan melindungi data) dan memastikan bahwa data tersebut ada dan tersedia.
+
+Fungsi Utama dari Sistem Operasi Jaringan
+Menghubungkan beberapa komputer atau pc dan perangkat-perangkatnya ke dalam sebuah jaringan
+ 
+Membantu dalam mengelola suatu sumberdaya jaringan yang ada
+ 
+Sebagai penyedia suatu layanan.
+ 
+Penyedia suatu layanan dalam keamanan jaringan yang di peruntukkan untuk multiple user.
+ 
+Memudahkan dalam menambahkan clien dan beberapa sumber daya.
+ 
+Memonitor dan memantau status dan fungsi dari semua elemen-elemen di dalam suatu jaringan.
+ 
+Mendistribusikan beberapa program dan data update software ke dalam client
+ 
+Menggunakan secara efisien dari kemampuan server yang ada.
+ 
+Sebagai penyedia toleransi atas kesalahan yang ada
+
+Sistem operasi jaringan dibagi menjadi 2 basis yaitu :    
+1. Berbasis Graphical User Interface (GUI)
+   Adalah suatu jenis dari sistem operasi yang di dalam suatu proses instalasinya, si pengguna (user) tidak di haruskan menghafal sintax-sintax atau suatu perintah-perintah DOS atau bahaya yang di gunakan dari program tersebut. Contoh SOJ berbasis GUI
+  
+
+Microsoft LAN Manager 
+
+Adalah sebuah sistem operasi jaringan yang dikembangkan oleh Microsoft Corporation bersama-sama dengan 3Com Corporation. LAN Manager didesain sebagai penerus perangkat lunak server jaringan 3+Share yang berjalan di atas sistem operasi MS-DOS. LAN Manager dibuat berbasiskan IBM OS/2 dan protokol NetBEUI. Pada tahun 1990, Microsoft meluncurkan LAN Manager 2.0 yang menawarkan banyak keunggulan. Versi terakhir LAN Manager, versi 2.2 yang dimasukkan ke dalam OS/2 1.31 menjadi sistem operasi server Microsoft, sebelum digantikan oleh Windows NT Server pada tahun 1994 
+Red Hat Linux (RHL),
+
+buatan perusahaan Red Hat, Inc., adalah sistem operasi Linux yang populer sampai produksinya dihentikan pada tahun 2004. Red Hat Linux 1.0 ini dirilis pada 3 November 1994. Awalnya disebut "Red Hat Commercial Linux" merupakan distro linux pertama yang menggunakan sistem RPM Package Manager, yang kemudian diikuti beberapa distro lain, seperti Mandriva Linux dan SUSE Linux. Sejak 2003, Red Hat telah menghentikan produksi Red Hat Linux namun mengeluarkan Red Hat Enterprise Linux (RHEL) untuk lingkungan perusahaan (tidak gratis), serta Fedora (yang dikembangkan oleh masyarakat dengan dukungan Fedora Project dan disponsori oleh Red Hat) sebagai versi gratis bagi lingkungan rumahan. Red Hat Linux 9, rilis terakhir, secara resmi diakhiri pada 30 April 2004, meskipun dukungan masih diberikan oleh proyek Fedora Legacy sampai awal 2007. 
+Kelebihan
+Dapat mengubah alamat IP menjadi domain pada web.
+ 
+Domain juga digunakan sebagai virtual host dalam dunia maya.
+ 
+Domain Lebih mudah di ingat dibandingkan dengan no IP Address.
+Kekurangan :
+Membutuhkan waktu untuk mengkonfigurasinya.
+ 
+ika kita koneksi terputus domain tidak dapat di akses lagi.
+
+Windows Server 2003 
+
+merupakan sebuah versi sistem operasi Microsoft Windows yang ditujukan untuk pasar server korporat. Nomor versi internalnya adalah Microsoft Windows NT 5.2 build 3790. Dulunya dikenal dengan .NET Server, Windows .NET Server, Windows XP Server, atau Whistler Server. Sistem operasi ini merupakan kelanjutan dari sistem Windows 2000 Server.
+Novell NetWare adalah sebuah sistem operasi jaringan yang umum digunakan dalam komputer IBM PC atau kompatibelnya. Sistem operasi ini dikembangkan oleh Novell, dan dibuat berbasiskan tumpukan protokol jaringan Xerox XNS.
+
+
+NetWare 
+
+telah digantkan oleh Open Enterprise Server (OES). Versi terakhir dari NetWare hingga April 2007 adalah versi 6.5 Support Pack 6, yang identik dengan OES-NetWare Kernel, Support Pack 2.
+Dan masih banyak lagi Contoh SOJ berbasis GUI.
+
+
+2. Berbasis Text
+    Adalah suatu jenis dari sistem operasi yang di dalam suatu proses instalasinya, si pengguna (user) di haruskan menghafal sintax-sintax ataupun perintah-perintah dari DOS untuk memulai proses instalasi di jaringan tersebut. berikut ini Contoh SOJ Berbasis Text.
+
+
+Linux Debian 
+
+adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. Debian terkenal dengan sikap tegas pada filosofi dari Unix dan perangkat lunak bebas. Debian dapat digunakan pada beragam perangkat keras, mulai dari komputer jinjing dan desktop hingga telepon dan server. Debian fokus pada kestabilan dan keamanan. Debian banyak digunakan sebagai basis dari banyak distribusi GNU/Linux lainnya. Sistem operasi Debian merupakan gabungan dari perangkat lunak yang dikembangkan dengan lisensi GNU, dan utamanya menggunakan kernel Linux, sehingga populer dengan nama Debian GNU/Linux. Sistem operasi Debian yang menggunakan kernel Linux merupakan salah satu distro Linux yang populer dengan kestabilannya. Dengan memperhitungkan distro berbasis Debian, seperti Ubuntu, Xubuntu, Knoppix, Mint, dan sebagainya, maka Debian merupakan distro Linux yang paling banyak digunakan di dunia.
+  
+
+Linux Mandrake,
+
+merupakan varian distro RedHat yang dioptimasi untuk pentium. Kalau komputer kita menggu-nakan pentium ke atas, umumnya Linux bisa jalan lebih cepat dengan Mandrake.
+
+
+Linux SuSE,
+
+distribusi yang sangat terkenal dengan YaST (Yet another Setup Tools) untuk mengkonfigurasi sistem. SuSE merupakan distribusi pertama dimana instalasinya dapat  menggunakan bahasa Indonesia.
+
+
+Windows NT 
+
+merupakan sebuah sistem operasi 32-bit dari Microsoft yang menjadi leluhur sistem operasi Windows 2000, Windows XP, Windows Server 2003, dan Windows Vista. Sistem operasi tersebut pada awalnya mendukung beberapa platform mikroprosesor, dimulai dari Intel 80×86 (hingga sekarang), MIPS R4x00 (dihentikan pada versi Windows NT 4.0), Digital Equipment Corporation Alpha AXP (dihentikan pada versi Windows 2000 Beta 3), IBM PowerPC (dimulai dari versi Windows NT 3.51 dan dihentikan pada versi Windows NT 4.0), serta beberapa platform lainnya, seperti Clipper dan SPARC (tidak dirilis untuk umum, karena dibuat oleh pihak ketiga, Intergraph). Saat ini, sistem operasi berbasis Windows NT hanya mendukung platform Intel 80×86, Intel IA64 dan AMD64 (atau x64), sementara platform lainnya tidak didukung lagi, mengingat kurangnya dukungan dari pihak ketiga untuk prosesor tersebut.

@@ -1,0 +1,121 @@
+struktur basis data dan diagram ERD 
+Agustus 11, 2017
+NAMA : TEGUH SABARA
+KELAS: XI RPL 3
+MAPEL : BASIS DATA
+GURU: HESTI
+
+
+Struktur Basis Data Dan Diagram ERD
+
+Assalamuallaikum Wr.Wb
+salam sejahtera bagi kita semua di sini saya teguh sabara akan memberi sedikit materi atau informasi tentang materi basis data dan diagram erd
+
+Struktur Basis Data (konsep basis data) Dan Diagram  ERD
+                                                              
+                                                               Deskripsi
+
+Secara Kharfiah Basis data terdiri dari dua kata yaitu basis dan data, keduanya memilki arti yaitu Basis :  Suatu kumpulan atau Gudang.
+Data: Representasi dari fakta dunia(manusia, barang, peristiwa, keadaan)
+Secara istilahBasis data ialah  kumpulan data yang saling berhubangan satu sama lain yang tersimpan dalam perangkat komputer.(server).
+ Topik hirarki basis data menjelaskan tentang konsep basis data arsitektur basis data, model struktur  hirarki basis data dan struktur model jaringan basis data. Konsep basis data mempelajari tentang definisi basis data, tujuan dan manfaat basis data, pengertian sistem manajemen basis data dan operasi dasar dalam manajemen basis data.
+
+2.      Komponen basis data meliputi sistem komputer:
+hardware dan software, basis data lain dan pengguna. Software meliputi sistem operasi, aplikasi pemrograman dan DBMS. DBMS merupakan gabungan antara basis data dan kumpulan program atau perangkat lunak DBMS (database management system) yaitu program aplikasi yang dibuat dan bekerja dalam satu system.
+
+
+1.       ORACLE
+Kelebihan :
+Ø  Dapat bekerja di lingkungan client/server (pemrosesan tersebar)
+Ø  Menangani manajemen space dan basis data yang besar
+Ø  Mendukung akses data secara simultan
+Kekurangan :
+Ø  Merupakan software DMBS yang paling mahal, paling rumit, dan paling sulit untuk dipelajari.
+Ø  Membutuhkan spesifikasi hardware yang tinggi untuk dapat menjalankan software DMBS Oracle supaya berjalan dengan stabil.
+Ø  Hanya diperuntukan bagi perusahaan berukuran besar, dan tidak cocok untuk perusahaan kecil maupun menengah.
+
+2.       MICROSOFT ACCESS
+Kelebihan :
+Ø  perspektif programmer adalah kompatibilitasnya dengan bahasa pemrograman Structured Query Language (SQL).
+Ø  Para pengguna dapat mencampurkan dan menggunakan kedua jenis bahasa tersebut (VBA dan Macro) untuk memprogram form dan logika dan juga untuk mengaplikasikan konsep berorientasi objek.
+Kekurangan :
+Ø  Microsoft Access kurang begitu bagus jika diakses melalui jaringan
+Ø  Bukan RDBMS murni
+Ø  Tidak mendukung multithreaded
+Ø  Tidak begitu cepat aksesnya (karena berbasis file)
+Ø  Tidak bisa untuk Store procedure
+
+        3. Tujuan pembuatan basis data
+
+1.       Kecepatan dan kemydah(speed) memudahkan dalam mencari data.
+2.       Efisiensi ruang penyimpnan(space),
+3.       Keakuratan(accuracy) sesuai, tepat
+4.       Ketersediaan(availability)sebuah penampungan data.
+5.       Kelengkapan(completeness)
+6.       Keamanan(security)
+7.       Kebersamaan pemakai(sharebility)
+
+       4.  Komponen basis data
+Dbms: kumpulan data base
+Database: Suatu database  menggambarkan data yang saling berhubungan antara satu dengan yang lainnya.
+File: Suatu file menggambarkan suatu kesatuan data yang sejenis, dimana kumpulan dari file membentuk suatu database.
+Record: Suatu record  menggambarkan suatu unit data individu yang tertentu dimana kumpulan dari record  membentuk suatu file. (baris)
+Field: Suatu  field  menggambarkan suatu attribute dari record, dimana kumpulan field  membentuk suatu record. (kolom)
+Byte: Attribute dari  field  berupa huruf yang membentuk nilai dari sebuah field.(item data)
+Bit: Merupakan bagian terkecil dari data secara keseluruhan yaitu berupa karakter ASCII (American Standar Code Form Information Intercharge). ( karakter)
+
+
+        5.  Penggunaan basis data
+·         Kepengawaian
+·         Pergudangan
+·         Akutansi
+·         Reservasi
+
+        6.  jenis-jenis pengguna basis data antara lain ialah :
+1) Database Administrator.
+2) Database Designer.
+3) Application Programmer.
+4) End user.
+5) System Analyst.
+6) Worker behind the scene.
+
+ 7. Operasi-operasi yang dapat dilakukan dalam basis data antara lain ialah :
+1) create database.
+2) drop database.
+3) create table.
+4) drop table.
+5) insert data.
+6) retrieve / search data.
+7) update data
+8) delete data.
+
+Struktur Hirarki Basis Data
+Struktur atau arsitektur  basis data merupakan serangkaian pengetahuan tentang komponen penyusun data beserta hubungan komponen tersebut. Representasi struktur basis data diwujudkan dalam pemodelan data.
+ Struktur tersebut meliputi File, table, field, record indeks, abstraksi data dan serangkaian konsep yang digunakan untuk membuat diskripsi struktur basis data. Abstraksi data merupakan suatu pendekatan dalam menggambarkan suatu data. Abstraksi data dapat diwujudkan dalam suatu skema basis data.
+Skema basis data merupakan diskripsi dari basis data yang spesifikasinya ditentukan dalam tahap perancangan. Skema ini digunakan untuk memisahkan antara fisik basis data dan program aplikasi pemakai.
+Arsitektur yang sering digunakan untuk membuat abstraksi data adalah arsitektur tiga skema yang meliputi tiga level yaitu:
+1) Level Internal atau skema internal.
+2) Level Konseptual atau skema konseptual
+3) Level eksternal (skema eksternal atau view).
+ pemodelan data dapat dikelompokkan menjadi dua yaitu :
+1) Object based logical model dan
+2) Record-based logical model.
+Skema atau level Konseptual data menjelaskan tentang entitas, atribute, key dan relasi antar entitas. Entitas adalah obyek yang mewakili sesuatu dalam dunia nyata dan dapat dibedakan antara satu dengan lainnya (unique). Attribute merupakan karakteristik dari entitas atau relationship. Key adalah merupakan suatu atribut yang menandakan kunci dari suatu entitas yang bersifat unik Physical data merupakan suatu konsep bagaimana diskripsi detail data disimpan dalam sebuah komputer. Physical data menjelaskan definisi data yang meliputi nama atribut, type data (misalnya varchar, integer dll), size atau ukurannya data. Setiap DBMS mempunyai aturan-aturan tersendiri dalam membuat definisi, struktur basis data dan tipe data yang digunakan.
+Model struktur basis data
+
+
+
+
+1. Model Hirarki
+Model ini menggunakan pola hubungan orang tua-anak (Parent-child). Setiap orang tua bisa memiliki satu (hubungan 1:1) atau beberapa anak (1:M), tetapi setiap anak hanya memiliki 1 orang tua.
+
+
+
+
+2. Model Jaringan (Network)
+Model jaringan menyerupai model hirarkis, dengan perbedaan suatu simpul anak bisa memiliki lebih dari satu orang tua. Oleh karena sifatnya yang demikian, model ini bisa menyatakan hubungan 1:1 (satu Orang tua punya satu anak), 1:M (satu orang tua punya banyak anak), maupun M:M (beberapa anak bisa mempunyai beberapa orang tua)
+
+
+
+ 3. Model Relasional
+Model yang paling popular saat ini. Model ini menggunakan sekumpulan tabel berdimensi dua (yang disebut relasi atau tabel), dengan masing-masing relasi tersusun atas tuple dan atribut. Relasi dirancang sedemikian rupa sehingga dapat menghilangkan kemubaziran data dan menggunakan Field Kunci (Primary Key) untuk berhubungan dengan relasi lain.

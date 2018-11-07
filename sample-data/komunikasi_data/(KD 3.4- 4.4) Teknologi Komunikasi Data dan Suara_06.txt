@@ -1,0 +1,100 @@
+komunikasi data : proses dan teknologi komunikasi data dn suara
+KOMUNIKASI DATA
+
+Nama : wihan utami
+Guru : Selamet Hariadi
+pertemuan ke-2 (Selasa, 2 September 2014).
+
+Abstrak :
+1.      Materi disampaikan oleh guru
+2.      Presentasi materi komunikasi data
+3.      Diskusi dengan teman satu kelas
+4.      Membahas tentang materi komunikasi data
+Ø  Pengertian
+Ø  Bentuk komunikasi
+Ø  Perangkat komunikasi
+Ø  Teknologi komunikasi data dan suara
+
+Kelompok :
+§       Ahmad Syafi
+§      Bambang Eko Firmansyah
+§      Dewi Krisdiawati
+§     Erwin Ardianto
+§     Khoirotul Imayah
+   Wihan Utami
+
+Pengertian komunikasi data
+Komunikasi data adalah proses pengiriman dan penerimaan data dari dua perangkat (device) atau lebih yang terhubung dalam sau jaringan.
+
+
+Gambar: Bagan Transmisi Data
+
+Bentuk komunikasi:
+1.      Komunikasi Suara (Audio)
+Macam-macam komunikasi suara :
+-          Komunikasi radio siaran
+
+
+Gambar: Komunikasi Radio Siaran
+Komunikasi dipancarkan kesegela arah, bersifat umum, jangkauannya tergantung daya pancar serta ijinnya. Contoh: Radio RRI.
+
+-          Komunikasi radio amatir
+
+
+Gambar: Komunikasi Radio Amatir
+Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas, sifat informasi bersifat pribadi. Contoh: ORARI.
+
+-          Komunikasi radio panggil
+
+
+Gambar: Komunikasi Radio Panggil
+Digunakan untuk memanggil penerima yang menjadi pelanggan pengirim. Jarak jangkau terbatas. Contoh: Pager.
+
+-          Komunikasi telepon
+
+
+Gambar: Komunikasi telepon
+Jangkauannya paling luas. Contoh: Telepon Rumah, Hand-phone.
+
+2.      Komunikasi Gambar (Video – Audio Video)
+
+
+Gambar: Komunikasi Gambar
+
+3.      Komunikasi Data
+Jaringan yang digunakan:
+-          Jaringan publik
+-          Jaringan pribadi
+
+Perangkat komunikasi:
+1.      DCE (Data Communication Equipment)
+Untuk menyalurkan informasi antar lokasi.
+2.      DTE (Data Terminal Equipment)
+Mengatur masuk-keluarnya informasi (pemakai dan komputer).
+3.      DCCU
+Yaitu gabungan dari perangkat DCE dan DTE.
+Tugas DCCU:
+-          Membentuk antarmuka/interface antar sistem input/output bus dan modem.
+-          Mengendalikan sinyal antarmuka modem dan konversi level sinyal agar sesuai dengan antarmuka.
+-          Mengubah data yang akan dikirimkan menjadi serial dan sebaliknya.
+-          Mengatur error recovery dengan mekanisme retry.
+-          Melakukan konversi sandi.
+-          Melakukan sinkronisasi karakter baik dengan cara start/stop maupun dengan karakter SYN.
+-          Melakukan bit sinkronisasi untuk controller asinkron.
+-          Melakukan pengujian kesalahan.
+-          Mengendalikan prosedur dengan melacak karakter transmission control.
+
+
+Contoh gambar skema DCCU
+
+Teknologi komunikasi data
+Yaitu teknologi yang digunakan dalam berkomunikasi data.
+Contoh : komunikasi pc dengan pc dalam 1 jaringan. 
+
+
+
+Teknologi komunikasi suara
+Yaitu teknologi yang digunakan dalam komunikasi suara.
+Contoh : radio, handphone , dll.
+
+ Sumber : Pembelajaran sekolah (Selasa, 2 September 2014).

@@ -1,0 +1,200 @@
+Produksi Konten Multimedia
+By Diana Nana 19.05 Tugas Kuliah No comments
+BAB I
+PENDAHULUAN
+1.1  Latar Belakang
+Indonesia merupakan salah satu Negara berkembang diantara sederetan Negara lainnya yang ada di dunia. Sama halnya dengan Negara lain, Indonesia juga tengah dikepung oleh arus globalisasi. Berbagai hal baru mulai diadaptasi demi majunya Negara yang ditempati.
+Teknologi informasi adalah salah satu hal yang tengah trend dikalangan masa kini.Jika dilihat dengan kasat mata, hampir semua Negara yang ada di dunia membutuhkan teknologi informasi.Begitu pentingnya peran teknologi informasi dalam membawa perubahan yang derastis.
+Berbagai inovasi mulai dikembangkan dengan peran teknologi informasi.Salah satu diantaranya adalah produksi konten multimedia. Sekalipun kedengaran familiar tentang produksi konten multimedia, ternyata masih ada saja yang kurang paham terhadap produksi konten multimedia itu sendiri. oleh sebab itu, dalam paper ini akan dibahas lebih lanjut tentang produksi konten multimedia.
+1.2  Rumusan Masalah
+Rumusan masalah yang dapat dibuat berdasarkan uraian latar belakang diatas adalah :
+1.    Apa yang dimaksud dengan produksi konten multimedia?
+2.    Bagaimana proses produksi konten multimedia ?
+3.    Apa pengaruh yang diberikan dengan adanya produksi konten multimedia terhadap perkembanganTI?
+1.3  Tujuan Penulisan
+Berdasarkan rumusan masalah diatas dapat dibuat tujuan penulisan paper ini adalah:
+1.    Untuk mengetahui pengertian produksi konten multimedia
+2.    Untuk mengetahui Bagaimana proses produksi konten multimedia
+3.    Untuk mengetahui pengaruh adanya produksi konten multimedia terhadap perkembangan TI
+
+
+1.4  Manfaat Penulisan
+Paper ini dibuat diharapkan dapat memberikan manfaat sebagai berikut:
+1.    Bagi staff pengajar bidang Teknologi Informasi, diharapkan paper ini dapat dijadikan sebagai salah satu sumber ajaran yang dapat memperkenalkan kepada mahasiswa/i terkait produksi konten multimedia.
+2.    Bagi mahasiswa/i, diharapkan paper ini dapat dijadikan sarana belajar yang dapat membantu dalam mengenal produksi konten multimedia dengan lebih detail.
+
+
+BAB II
+PEMBAHASAN
+2.1    Produksi Konten Multimedia
+       Peran penting teknologi informasi saat ini begitu dirasakan oleh semua kalangan. Adanya teknologi informasi mempermudah segala kegiatan yang akan dilakukan oleh manusia. Berbagai program pun bisa dibuat dengan bantuan TI.Peran TI yang cukup terkenal adalah dalam produksi konten multimedia. Walaupun dikategorikan terkenal tapi tak banyak yang tahu apa itu produksi konten multimedia yang sesungguhnya.
+       Untuk mengetahui pengertian produksi konten multimedia itu sendiri harus ditelaah kata demi kata. “Multimedia adalah penggunaan dan pemrosesan beberapa media (text,audio, graphics, animation, video, and interactivity) yang berbeda untuk menyampaikan informasi atau menghasilkan produk multimedia (music, video, film, game, entertaiment, dll). Atau bisa juga diartikan penggunaan sejumlah teknologi yang berbeda yang memungkinkan untuk menggabungkan media (text, audio, graphics, animation, video, and interactivity) dengan cara yang baru untuk tujuan komunikasi.”.Multimedia juga dapat diartikan sebgai media yang berfungsi ganda dan dalam dunia computer berarti suatu bentuk penggabungan berbagai dari bentuk saluran untuk menyampaikan pesan berupa teks, gambar dalam lingkungan grafis umumnya animasi yang dikenal dengan istilah visual dan dengan suara yang dikenali istilah audio.Konten sendiri berdasarkan KBBI mengandung arti  informasi yang tersedia melalui media atau produk elektronik. Sedangkan produksi itu sendiri memiliki pengertian menciptakan atau membuat sekaligus menghasilkan sesuatu hal.
+       Berdasarkan uraian diatas dapat disimpulkan bahwa produksi konten multimedia adalah penggabungan beberapa media dengan bantuan teknologi untuk menghasilkan suatu produk multimedia yang bisa digunakan sebagai sarana penyampaian informasi dengan adanya tujuan komunikasi.             
+
+
+2.2    Proses  Produksi Konten Multimedia
+Metodologi yang paling umum dipakai pada proses produksi Multimedia adalah yang biasa disebuat dengan alur produksi 3 tahap. Secara umum, proses produksi multimedia dirancang dengan menjalankan 3 tahap sebagai berikut;
+
+ 1.    PRA-PRODUKSI
+
+Tahap pra produksi adalah segala kegiatan yang berhubungan dengan persiapan sebelum melakukan produksi. Tahap ini biasanya berjalan sangat lama bahkan terkadang sampai menyita sumber daya waktu 75 % dari keseluruhan produksi. Tahap pra produksi terdiri dari beberapa langkah, antara lain:
+
+1.      PENDIFINISIAN KONSEP
+Yaitu visi dan konsep, tujuan, target audien, perencanaan
+2.      PRODUCTION PLAN
+
+BUILDING PROTOTYPE
+
+LEGAL ASPECT
+COPYRIGHT/HAK CIPTA , LEGALITAS,ROYALTY
+
+CLIENT SIGN OFF AND FUNDING
+BRAINSTORMING,  UP DATE TECHNOLOGY
+
+ASSEMBLE TEAM
+DESIGNER, STORYBOARDER, DIRECTOR , MUSIC COMPOSER, PRODUCER, ECT
+
+DESAIN
+KONTEN, SERVICES, ARSITEKTUR INFORMASI, INTERAKSI, NAVIGASI,THUMBNAIL, MOCK UP
+
+ Konseptualisasi atau ide
+Proses pembuatan multimedia dimulai dengan sebuah “gagasan” atau “visi” yang merupakan titik awal konseptual. Ide harus bisa menjawab pertanyaan mengapa mengembangkan sebuah proyek multimedia;
+
+-  Apakah multimedia merupakan opsi yang terbaik, atau paling efektif jika dibandingkan dengan bentuk print media ?
+
+-   Apakah konsep atau ide mengandung nilai jual tinggi(profitable)?
+
+-   Siapa yang akan menjadi pengguna akhir dari produk multimedia ini?
+
+-   seperti apa platform pemutar multimedia mereka?
+
+Tujuan proyek
+Pengembang multimedia  harus menentukan tujuan yang harus dicapai oleh produk akhir multimedia tersebut. Tujuan harus bisa dihitung(measurable) dan ditelaah dari sudut pandang pengguna.
+
+Target Audience
+Kepada siapa produk multimedia akan ditujukan bisa dilihat berdasarkan demografinya:
+
+-   Umur
+-   Gender
+-   Latar belakang pendidikan
+-   Strata sosio ekonomi
+-   Latar belakang etnis
+-   Bahasa
+-   Profesi
+-   Ekspektasi
+
+Media
+Bagaimana pesan/konten bisa menjangkau pengguna, media apa yang paling sesuai digunakan;
+
+-   CD-ROM
+-   Disk
+-   web
+-   Intranet
+-   kiosk
+-   Perangkat apa yang dimiliki oleh pengguna
+-   Hambatan teknis apa yang harus dilalui
+
+Authoring Tools
+Pengembang menentukan tool-tool authoring apa yang digunakan. Authoring adalah sarana untuk menggabungkan semua elemen; Text, graphics, animation, Sound, video.
+
+ Planning
+Dalam tahapan ini perlu adanya perencanaan yang matang pada awal sebelum project dimulai. Perencanaan meliputi:
+
+- Time Planning
+membuat timeline project secara detail mulai dari proses konsep, desain, sampai produksi.
+- Work Planning
+Membuat workflow yang jelas. Tahapan demi tahapan disebutkan secara detail
+- Financial Planning/Budgeting
+Membuat perhitungan biaya yang jelas dan rasional.
+
+Legalitas
+Produsen dan pengguna program multimedia harus menyadari dan mematuhi undang-undang hak cipta. Multimedia, menurut definisi, menggabungkan berbagai unsur dari berbagai sumber, maka dari itu adalah penting untuk mengetahui bagaimana penggunaan materi-materi diatur dalam batasan hukum. Juga penting untuk mendapatkan hak cipta untuk produksi sendiri, setelah produksi selesai.
+
+2. PRODUCTION
+Tahap produksi merupakan tahap implementasi pra-produksi dimana semua anggota tim pengembang multimedia bekerja. Secara umum tahap produksi multimedia adalah sebagai berikut :
+
+CONTENT CREATION
+ELEMEN, SPECIAL EFFECTS, MUSIC,
+
+CONTENT PROCESING
+PROOFING, EDITING, ASEMBLY, FORMATING, COMPRESSION
+
+INTEGRATION OF CONTENT AND SOFTWARE
+TESTING, REVISE, DOCUMENTATION
+
+REVISE DESIGN
+
+EVALUATION
+BUILD BETA VERSION
+BUILD ALPHA VERSION
+Konten
+Konten adalah obyek-obyek yang terdapat pada aplikasi yang sedang dikembangkan.
+
+Pemrosesan isi
+Proofing, editing, assembly, formatting, compression
+
+Pengintegrasian isi dan software
+Produk harus memudahkan  pengguna untuk mengakses atau menggunakannya, serta software yang digunakan harus up  date
+
+Merevisi isi dan software
+Menetapkan desain akhir, produk yang terbaik biasanya hasil dari umpan balik (dari tester)yang berkesinambungan dan modifikasi yang diimplemantasikan pada seluruh proses produksi
+
+Membangun / membuat versi alfa
+Ditetapkannya fungsionalitas, kelengkapan implementasi utama, mengintegrasikan semua modul dalam satu kesatuan.
+
+Evaluasi :
+Mengevaluasi setiap hambatan yang terjadi, hasil evaluasi harus dibuat catatannya serta catatan antisipasinya ini penting untung pegangan proyek berikutnya yang akan dibahas pada saat memulai proyek selanjutnya, untuk menge-liminir kesalahan serta gangguan
+
+Merevisi software dan isi berdasarkan evaluasi
+Temuan-temuan dijadikan acuan untuk merevisi kekurangan baik, itu berupa software atau isi.
+
+Membangun / membuat versi beta
+Versi alfa direvisi dan di launching ulang sebagai versi beta.
+
+3. TAHAP PASCA-PRODUKSI
+
+Adalah tahap penyelesaian produksi mutimedia menjadi hasil akhir. Tahap Pasca produksi/Post Production diterapkan terutama pada bidang multimedia broadcasting; program television, video, audio recording, photography dan animasi.
+
+Setelah aplikasi beta diuji dan direvisi, itu memasuki tahap pengemasan. Produk akhir bisa dibakar ke CD-ROM atau dipublikasikan di internet sebagai sebuah konten web.
+
+BETA TESTING
+PROOF CONTENT, PROOF TESTING, CHECK FOR UNEXPECTED ERRORS
+
+EVALUATIONN
+ACHIEVE ALL PRODUCTION MATERIAL
+DOCUMENTATION, AFTER SALES,SOURCE ASSET, MASTER DIGITAL FILES, FINAL ASSETS,
+
+REVISE
+
+CONTENT AND SOFTWARE
+
+RELEASE GOLDEN MASTER
+
+
+Evaluasi
+Evaluasi terakhir dilakukan setelah mendapat umpan balik dari beta testing.
+
+Merevisi
+Revisi pada pasca produksi berarti melakukan penyesuaian akhir pada produk berdasarkan hasil evaluasi sebelum produk dilaunching.
+
+Meluncurkan produk jadi
+Produk disebarkan kepada pengguna atau diserahkan kepada klien.
+ 3.3 Pengaruh Produksi Konten Multimedia
+            Secara umum pengaruh produksi konten multimedia yang dimaksud adalah sama dengan pengaruh teknologi secara lebih luas, pengaruh yang diberikan bisa positif dan negative. Tergantung bagaimana si pengguna memandang dan mempergunakannya. Dengan adanya produksi konten multimedia tentunya lebih memperkaya dalam dunia perkembangan TI dan Multimedia itu sendiri, karena yang dibutuhkan dalam memproduksinya membutuhkan imajinasi yamg tinggi, inovatif dan kreatifitas, sehingga hasilnyapun juga unik sehingga mudah diingat oleh masyarakat bahkan tidak bisa lepas dari masyarakat apalagi bagi negara maju.
+            Produksi konten multimedia juga memberikan pengaruh negative. Pengaruh negative ini sendiri pada dasarnya muncul dari diri manusia itu sendiri. kecendrungan dalam menekuni dan memanfaatkan produksi konten multimedia akan menyita waktu. Ketergantungan pengguna ini akan mengakibatkan kegiatan dengan waktu lainnya terbengkalai.
+
+
+BAB IV
+PENUTUP
+3.1    Simpulan
+1.      Produksi konten multimedia adalah penggabungan beberapa media dengan bantuan teknologi untuk menghasilkan suatu produk multimedia yang bisa digunakan sebagai sarana penyampaian informasi dengan adanya tujuan komunikasi.
+2.      Ada berbagai macam contoh produksi konten multimedia yang bisa dinikmati baik itu dalam bentuk :
+1.      Media text
+2.      Media animasi
+3.      Media video
+4.      Media grafis
+5.      Media audio
+6.      Media interaktif
+3. Pengaruh adanya produksi konten multimedia terhadap perkembangan TI adalah lebih cenderung kearah positif. Hal ini dikarenakan adanya berbagai inovasi baru yang muncul yang nantinya dapat memberikan berbagai terobosan baru disertai kemudahan yang didapat. Disisi lain adanya produksi konten multimedia memiliki sedikit sisi negatif yakni bisa menyebabkan ketergantungan pada pengguna apabila terlalu senang dengan produksi konten multimedia yang dibuat. Hal ini tentu saja akan menyita waktu lain untuk tetap focus pada produksi konten multimedia itu sendiri.
+b. Saran
+Kami sebagai penulis menyadari bahwa dalam penulisan paper ini terdapat berbagai kekuranagan sehingga, kami mengharapkan adnya kritik dan saran yang sifatnya konstruktif yang diberikan kepada kami demi kesempurnaan penbuatan paper selanjutnya. Kami juga berharap semoga dengan adanya paper ini, pembaca bisa mendapatkan  tambahan ilmu dan menjadi sumber belajar.

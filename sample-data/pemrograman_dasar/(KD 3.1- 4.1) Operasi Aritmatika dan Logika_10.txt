@@ -1,0 +1,72 @@
+Operasi Aritmatika dan Logika
+SMK ISLAM 1 KOTA BLITAR
+By : Briyan Nugraha Putra(11)
+KB 1. Operator Aritmatika
+Operasi aritmatika adalah operasi  yang melibatkan beberapa operator aritmatika seperti misalnya penjumlahan, pengurangan, perkalian dan pembagian untuk memproses 2 buah nilai atau lebih.
+Operator Aritmatika:
+·         + (jumlah) adalah operator untuk menjumlahkan dua buah angka atau lebih
+·         -(kurang) adalah jenis operator untuk memproses operasi pengurangan antara dua angka atau lebih
+·         * (kali) adalah operator yang digunakan untuk proses perkalian
+·          / (bagi) adalah operator uang digunakan untuk mendapatkan hasil bagi dari 2 buah angka
+·         MOD  atau % (modular) adalah operator yang sering digunakan di dunia algoritma yang digunakan untuk mendapatkan sisa hasil bagi.
+Operator baru yang tidak umum adalah MOD atau bisa disimbolkan dengan %, operator ini akan menghasilkan sisa hasil pembagian, misal 4%2=0. 5%3=2. Operator aritmatika biasanya digunakan untuk memproses perhitungan matematika yang dilibatkan di dalam program. (Khoirunisa, 2016)
+KB 2. Pemanfaatan Operator Aritmatika
+Pemanfaatan Operator Aritmatika adalah :
+1.      Operator Aritmatika dapat digunakan untuk menyelesaikan berbagai masalah yang terkait
+dengan kehidupan sehari-hari.
+2.      Urutan langkah dalam membuat program yang digunakan untuk menghitung rata-rata
+maupun total laba dari suatu perusahaan antara lain :
+a.       Menentukan jenis variabel yang digunakan
+b.      Menentukan input data yang akan diproses
+c.       Menentukan ekspresi matematika yang dapat dikaitkan dengan masalah yang dihadapi
+d.      Mengubah ekspresi matematika menjadi code yang dapat dipahami oleh pascal
+e.       Merangkai semua kode menjadi satu kesatuan program. 
+3.      Selain untuk menghitung rata-rata dan total laba, Operator aritmatika juga dapat digunakan untuk menghitung besaran diskon dari suatu barang yang dijual, dll. (Kebudayaan, 2014)
+KB 3. Fungsi Aritmatika     
+Berikut contoh- contoh fungsi aritmatika pada freepascal yang sering digunakan :
+1.      ABS
+ABS merupakan fungsi matematika dalam pascal yang berguna untuk menghasilkan nilai mutlak dari sebuah bilangan negatif . Sintax : ABS(x)
+2.      FRAC
+Merupakan fungsi matematika dalam Pascal yang berguna untuk menghasilkan nilai desimal dari bilangan real. Sintax : FRAC(x)
+3.      INT
+Berguna untuk membulatkan angka pecahan menjadi sebuah bilangan bulat positif. Sintax : INT(x).
+4.      LN
+Berfungsi untuk menghasilkan nilai logaritma dari sebuah bilangan. Sintax : Ln(x)
+5.      SIN
+Sintaks sin berfungsi untuk menghitung nilai sinus dari sebuah bilangan yang biasanya digunakan untuk menghitung sudut tertetu dari 0 derajat samapi 360 derajat pada operasi metematika. Sintax : Sin(x).
+6.      SQR
+Berfungsi untuk melakukan perhitungan kuadrat dari sebuah bilangan. Sintax : SQR(x)
+7.      SQRT
+Berfungsi untuk melakukan penghitungan akar kuadrat dari sebuah bilangan. Sintax : Sqrt(x)
+8.      PRED
+Perintah PRED digunakan untuk menghsilkan nilai yang lebih kecil darinya. Perintah PRED hanya dapat digunakan pada tioe data numerik, character dan boolean. Sintax : PRED(x)
+9.      SUCC
+Perintah SUCC digunakan untuk menghasilkan nilai yang lebih besar darinya. Sama seperti perintah PRED, SUCC hanya dapat digunakan pada tipe data numerik, karakter dan boolean. Sintax : SUCC(x)
+10.  ODD
+Digunakan untuk menentukan sebuah bilangan apakah termasuk bilangan ganjil atau bukan.
+Output dari operasi out adalah boolean. Sintax : ODD(x)
+11.  INC
+Digunakan untuk menambah nilai bilangan numerik sebesar 1. Sintax : INC(x)
+12.  DEC
+Digunakan untuk mengurangi nilai bilangan numerik sebesar 1. Sintax : DEC(x). (Kebudayaan, 2014)
+
+KB 4. Pemanfaatan Fungsi Aritmatika
+Pemanfaatan Fungsi Aritmatika adalah suatu fungsi matematika sederhana pada Microsoft Excel yang terdiri dari penjumlahan,pengurangan,perkalian,pembagian,dan gabungan.
+Ciri-ciri dari fungsi ini maupun fungsi-fungsi lain antara lain :
+·         Diawali dengan “=”
+·         Memasukkan letak data ketika menuliskan rumus. (RGHIJKL, 2014)
+
+KB 4. Operasi Logika
+Suatu fungsi logika atau operasi logika yang dimaksud dalam aljabar Boolean adalah suatu kombinasi variable biner seperti misalnya pada masukan dan keluaran dari suatu rangkaian digital yang dapat ditunjukkan bahwa di dalam aljabar Boolean semua hubungan logika antara variable variable biner dapat dijelaskan oleh tiga operasi logika dasar yaitu :
+·         Operasi NOT (negation)
+·         Operasi AND (conjuction)
+·         Operasi OR (disconjuction) (Emka, 2010)
+
+
+
+
+DAFTAR PUSTAKA
+Emka, I. (2010, Juni 17). Operasi logika dasar AND, OR dan NOT. Retrieved from BLOG EMKA: http://emka.web.id/special/electro/2010/operasi-logika-dasar-and-or-dan-not/
+Kebudayaan, K. P. (2014). Pemanfaatan Operator Aritmatika. Jakarta: Kementerian Pendidikan dan Kebudayaan.
+Khoirunisa, R. (2016, Agustus 03). Operasi Logika dan Operasi aritmatika melalui operator dan fungsi-fungsi aritmatika pada algoritma dan bahasa pemrograman dasar. Retrieved from REFERENSI SISWA: http://referensisiswa.blogspot.co.id/2016/08/operasi-logika-dan-operasi-aritmatika.html
+RGHIJKL. (2014, Mei 07). FUNGSI ARITMATIKA. Retrieved from rghijkl's Blog: https://rghijklblog.wordpress.com/2014/05/07/fungsi-aritmatika/

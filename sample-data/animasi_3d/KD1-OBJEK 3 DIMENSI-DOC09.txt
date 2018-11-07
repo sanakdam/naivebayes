@@ -1,0 +1,227 @@
+Tiga Dimensi (3D)
+1. Motion Capture
+
+Motion capture atau mocap adalah terminologi yang digunakan untuk mendeskripsikan proses dari perekaman gerakan dan pengartian gerakan tersebut menjadi model digital. Ini digunakan di militer, hiburan, olahraga, aplikasi medis, dan untuk calidasi cisi computer dan robot. Di dalam pembuatan film, mocap berarti merekam aksi dari actor manusia dan menggunakan informasi tersebut untuk menganimasi karakter digital ke model animasi computer dua dimensi atau tiga dimensi. Ketika itu termasuk wajah dan jari-jari atau penangkapan ekspresi yang halus, kegiatan ini biasa dikatakan sebagai performance capture.
+
+Dalam sesi motion capture, gerakan-gerakan dari satu atau lebih aktor diambil sampelnya berkali-kali per detik, meskipun dengan teknik-teknik kebanyakan, motion capture hanya merekam gerakan-gerakan dari aktor bukan merekam penampilan visualnya. Data animasi ini dipetakan menjadi model tiga dimensi agar model tersebut menunjukkan aksi yang sama seperti aktor. Ini bisa dibandingkan dengan teknik yang lebih tua yaitu rotoscope, seperti film animasi The Lord of the Rings, dimana penampilan visual dari gerakan seorang aktor difilmkan, lalu film itu digunakan sebagai gerakan frame-per-frame dari karakter animasi yang digambar tangan.
+Gerakan kamera juga dapat di-motion capture sehingga kamera virtual dalam sebuah skema dapat berjalan, miring, atau dikerek mengelilingi panggung dikendalikan oleh operator kamera ketika aktor sedang melakukan pertunjukan, dan sistem motion capture bisa mendapatkan kamera dan properti sebaik pertunjukan dari aktor tersebut. Hal ini membuat karakter komputer, gambar, dan set memiliki perspektif yang sama dengan gambar video dari kamera. Sebuah komputer memproses data dan tampilan dari gerakan aktor, memberikan posisi kamera yang diinginkan dalam terminology objek dalam set. Secara surut mendapatkan data gerakan kamera dari tampilan yang diambil biasa diketahui sebagai match moving atau camera tracking.
+
+Kelebihan 
+a. Lebih cepat, bahkan hasil secara real time bisa didapatkan. Dalam aplikasi hiburan, hal ini dapat
+   mengurangi biaya dari animasi berbasis keyframe. Contohnya: Hand Over.
+b. Jumlah kerja tidak berubah dengan kompleksitas atau panjang pertunjukan dalam tingkatan yang 
+    sama ketika menggunakan teknik tradisional. Hal ini membuat banyak tes diselesaikan dengan gaya
+    dan penyampaian yang berbeda.
+c. Gerakan kompleks dan interaksi fisik yang realistis seperti gerakan sekunder, berat, dan pertukaran
+    tekanan dapat dengan mudah dibuat kembali dalam cara akurat secara fisik.
+d. Jumlah data animasi yang bisa diproduksi dalam waktu yang diberikan sangatlah besar saat 
+    dibandingkan dengan teknik animasi tradisional. Hal ini berkontribusi dalam keefektifan biaya dan 
+    mencapai deadline produksi.
+e. Potensi software gratis dan solusi dari pihak luar dapat mengurangi biaya yang dikeluarkan.
+
+Kekurangan
+a. Hardware yang spesifik dan program yang special dibutuhkan untuk mendapatkan dan memproses
+   data. 
+b. Biaya software, perlengkapan, dan personel yang dibutuhkan dapat berpotensi menjadi penghalang 
+   bagi produksi-produksi kecil. 
+c. Sistem pengambilan gerakan mungkin memiliki kebutuhan yang spesifik untuk ruangan operasi, 
+    tergantung dari pandangan kamera atau distorsi magnetik.
+d. Ketika masalah terjadi, lebih mudah untuk mengambil ulang skema daripada mencoba untuk
+    memanipulasi data. Hanya beberapa sistem yang memungkinkan penampilan data yang real time 
+    untuk memilih apakah gambar yang diambil butuh diambil ulang.
+e. Hasil yang penting itu terbatas untuk apa yang bisa ditunjukkan dalam volume pengambilan tanpa 
+   editing tambahan dari data tersebut.
+f. Gerakan yang tidak mengikuti hokum fisika secara umum tidak bisa diambil.
+g. Teknik animasi tradisional, seperti menambahkan tekanan dari antisipasi dan kelanjutannya, gerakan
+    kedua atau memanipulasi bentuk dari karakter, seperti dengan melumatkan dan memperpanjang 
+    teknik animasi, harus ditambahkan nanti.
+h. Jika model komputer memiliki proporsoi yang berbeda dari subjek yang diambil, artifak mungkin 
+    terjadi. Contohnya, jika seorang karakter kartun mempunyai tangan yang berukuran terlalu besar, 
+    hal ini dapat memotong badan karakter jika orang yang melakukaknnya tidak berhati-hati dengan
+    gerakan fisiknya. 
+
+2. Pemodelan 3D
+
+Pemodelan 3D merupakan suatu proses untuk mengembangkan representasi matematis dari objek 3D 
+menggunakan software tertentu. Ada beberapa cara yang cukup popular untuk melakukan pemodelan
+3D ini, yaitu pemodelan polygon. Pada pemodelan polygon, titik-titik digambar dalam ruang 3D (disebut
+sebagai vertex), lalu dikoneksikan dengan garis untuk membentuk polygonal mesh. Dengan pemodelan
+ini, proses render dapat dilakukan dengan cepat. 
+
+Bentuk pemodelan lain yang cukup popular adalah Non-uniform rational basis spline (NURBS), yang
+juga merupaan pemodelan matematika untuk merepresentasikan kurva dan permukaan. Dibandingkan
+pemodelan polygon, metode NURBS ini menawarkan fleksibilitas dan akurasi yang lebih baik karena
+permukaan didefinisikan oleh garis kurva.
+
+Dari pemodelan 3D, obyek akan diletakkan ke dalam suatu scene melalui proses layout and animation
+Di sinilah didefinisikan relasi dan perpaduan antarobjek dengan menentukan lokasi dan ukuran dari objek
+tersebut. Beberapa metode popular untuk layout dan animation ini adalah keyframing. Padakeyframing,
+terlebih dahulu dditentukan titik awal dan titik akhir dari suatu objek. Lalu pada tiap frame-nya, objek
+dipindah secara halus sehingga saat frame ditampilkan satu per satu secara berurutan akan didapatkan
+animasi gerakan objek tersebut. Selain keyframing, metode untuk layout dan animation yang lain
+adalah inverse kinematics. 
+
+Secara singkat, metode inverse kinematics ini adalah metode yang mendefinisikan bagaimana gerakan
+dilakukan. Tujuannya adalah untuk mengidentifikasikan gaya pada suatu titikdari objek, dan kemudian
+menerapkan kinematik untuk menentukan gerakan objek. Contoh gerakan melempar bola baseball,
+gerakan objek dnegan akselarasi, dan tabrakan dua objk merupakan contoh bagaimana inverse
+kinematics diterapkan.
+
+Terakhir adalah proses untuk menjadikan suatu objek menjadi realistis yaitu proses rendering. Jika pada
+dua proses sebelumnya, objek yang diolah masih berupa kerangka kasar, maka dalam proses inilah
+suatu objek akan diubah sehingga objek tersebut menjadi realistis dengan melakukan texture mapping,
+pencahayaan, refleksi, penambahan bayangan, transparansi atau opacity. Proses rendering ini telah
+menjadi suatu bidang penelitian tersendiri di computer grafik, karena tanpa metode yang efisien proses
+rendering akan berlangsung sangat lama. Berbagai macam teknik yang cukup popular adalah radiosity,
+ray tracing, dan ray casting.
+
+Prinsip Dasar 3D
+
+Melihat obyek secara tiga dimensi (3D) berarti melihat obyek dalam bentuk sesungguhnya.
+Penggambaran 3D akan lebih membantu memperjelas maksud dari rancangan obyek karena bentuk
+sesungguhnya dari obyek yang akan diciptakan divisualisasikan secara nyata. Penggambaran 3D
+merupakan pengembangan lebih lanjut dari penggambaran 2D.
+
+Tipe Objek 3D
+
+a. Wireframe : objek yang hanya berdiri atas aris lurus dan garis lengkung yang mempresentasikan 
+    tepi-tepi objek, tanpa permukaan tertutup. Tipe ini merupakan objek 2D yang digambarkan dalam
+    ruang 3D.
+b. Surface : adalah sebuah objek yang tersusun atas permukaan. Objek ini dpt diibaratkan spt dinding
+    tipis pada sebuah kotak, objek surface tidak memiliki volume (kosong). Surface dapat dipakai untuk
+    benda-benda yang fleksibel,seperti : body mobil, body pesawat, pohon, dll.
+c. Solid : objek solid memiliki mass properties, ini menunjukan bahwa objek solid merupakan benda
+    yang padat dan memiliki titik berat.
+
+3. Texturing
+
+Texturing adalah proses pemberian karakterristik permukaan –termasuk warna, highlight, kilauan,
+sebaran cahaya (difusi) dan lainnya- pada objek. Karakteristik seperti bump juga diperhatikan saat
+proses texturing. Pada umumnya proses texturing adalah semacam pengecatan atau pemberian warna
+pada permukaan objek, walaupun ada juga proses texturing seperti displacement yang mengubah
+geometri objek.
+
+4. Rendering
+
+Rendering adalah proses dari membangun gambar dari sebuah model (atau model yang secara kolektif
+dapat disebut sebuah file adegan), melalui program komputer. Sebuah file adegan terdiri dari objek
+objek dalam sebuah bahasa atau data struktur, bisa berupa geometri, sudut pandang, tekstur,
+pencahayaan, dan informasi bayangan sebagai sebuah deskripsi dari adegan virtual. Data yang terisi
+dalam file adegan kemudian melewati program rendering untuk diproses dan menjadi output untuk
+sebuah gambar digital atau file gambar raster graphics. Rendering juga digunakan untuk
+mendeskripsikan proses dari mengkalkulasikan efek-efek dalam sebuah file video editing. Rendering
+juga digunakan untuk mendeskripsikan proses dari efek-efek kalkulasi dalam sebuah file video editing
+untuk memproduksi output final video.
+
+Rendering adalah satu dari sub-topik utama dari komputer grafis tiga dimensi, dan dalam latihan
+selalu terhubung dengan yang lainnya. Dalam grafis pipeline, ini adalah langkah utama terakhir,
+memberikan penampilan final untuk model dan animasi. Dengan menaikkan kecanggihan dari
+komputer grafis sejak tahun 1970, ini telah menjadi subjek yang lebih jelas.
+
+Rendering telah digunakan dalam arsitektur, video game, simulator, film-film atau televisi dengan
+visual efek. Seorang perender adalah orang yang berhati hati menangani program mesinnya, sesuai
+pada sebuah mikstur selektif dari ilmu yang terhubung dengan cahaya fisik, persepsi visual,
+matematika, dan pengembangan software.
+
+Dalam kasus grafis tiga dimensi, rendering mungkin berjalan lambat, sebagai dalam pre rendering,
+atau dalam waktu yang sebenarnya. Pre rendering adalah peralatan yang secara komputer proses
+intensifnya secara tipikal digunakan untuk pembuatan film, ketika rendering dengan waktu
+sebenarnya selalu jadi dengan video game tiga dimensi yang bergantung pada penggunaan dari kartu
+kartu grafis dengan perangkat keras percepatan tiga dimensi. Ketika gambar awal (biasanya sketsa
+wireframe) lengkap, rendering digunakan, dimana penambahan dalam tekstur bitmap atau tekstur
+procedural, cahaya-cahaya, pemetaan tonjolan dan posisi relatif untuk objek yang lain. Hasilnya
+adalah gambar lengkap yang orang-orang ingin lihat.
+
+Untuk animasi film, beberapa citra (frame) harus di render, dan disatukan bersama dalam sebuah
+program yang mampu membuat sebuah animasi semacam ini. Kebanyakan program-program editing
+gambar 3 dimensi bisa melakukannya.
+
+
+Metode Rendering
+
+a. Ray Tracking Rendering
+   Ray tracing sebagai  sebuah metode  rendering pertama kali digunakan pada tahun 1980 untuk
+   pembuatan gambar tiga dimensi. Ide dari metode rendering ini sendiri berasal dari percobaan Rene
+   Descartes,  di mana ia menunjukkan pembentukan  pelangi  dengan  menggunakan  bola  kaca berisi
+   air dan kemudian merunut kembali arah datangnya cahaya  dengan  memanfaatkan  teori  pemantulan 
+   dan pembiasan cahaya yang telah ada saat itu. Konsep dasar  dari  metode ini  adalah  merunut 
+   proses yang  dialami  oleh  sebuah  cahaya  dalam perjalanannya dari  sumber  cahaya  hingga  layar 
+  dan  memperkirakan warna  macam apa  yang  ditampilkan  pada  pixel  tempat jatuhnya  cahaya. 
+  Proses  tersebut  akan  diulang  hingga seluruh pixel yang dibutuhkan terbentuk.
+
+b. Wireframe Rendering
+    Wireframe yaitu Objek 3D dideskripsikan sebagai objek tanpa permukaan. Pada wireframe rendering,
+    sebuah objek dibentuk hanya terlihat garis-garis yang menggambarkan sisi-sisi edges dari sebuah
+    objek. Metode ini dapat dilakukan oleh sebuah komputer dengan sangat cepat, hanya kelemahannya
+    adalah tidak adanya permukaan, sehingga sebuah objek terlihat tranparent. Sehingga sering terjadi
+    kesalahpahaman antara siss depan dan sisi belakang dari sebuah objek.
+
+c. Hiden Line Rendering
+    Metode ini menggunakan fakta bahwa dalam sebuah objek, terdapat permukaan yang tidak terlihat
+    atau permukaan yang tertutup oleh permukaan lainnya. Dengan metode ini, sebuah objek masih
+    direpresentasikan dengan garis-garis yang mewakili sisi dari objek, tapi beberapa garis tidak terlihat
+    karena adanya permukaan yang menghalanginya. Metode ini lebih lambat dari dari wireframe
+    rendering, tapi masih dikatakan relatif cepat. Kelemahan metode ini adalah tidak terlihatnya
+    karakteristik permukaan dari objek tersebut, seperti warna, kilauan (shininess), tekstur, pencahayaan,
+    dll.
+
+d. Shaded Rendering
+    Pada metode ini, komputer diharuskan untuk melakukan berbagai perhitungan baik pencahayaan,
+    karakteristik permukaan, shadow casting, dll. Metode ini menghasilkan citra yang sangat realistik,
+    tetapi kelemahannya adalah lama waktu rendering yang dibutuhkan.
+
+
+5. Pemodelan Geometris
+
+Pemodelan geometris merupakan cabang dari matematika terapan dan komputasi geometri yang
+mempelajari metode dan algoritma untuk deskripsi matematika bentuk.  Bentuk belajar di pemodelan
+geometris tersebut kebanyakan 2D atau 3D, karena 2D adalah model yang penting dalam komputer
+tipografi dan gambar teknik. Tiga dimensi model adalah pusat untuk computer aided design dan
+manufacturing (CAD / CAM), dan banyak digunakan dalam bidang teknik seperti sipil dan mechanical
+engineering, arsitektur, geologi dan medis pengolahan gambar.
+       
+Geometris model yang bisa ditampilkan pada computer seperti shape/bentuk, posisi, orientasi, warna/tekstur, dan cahaya. Pada goemetris model juga terdapat tingkat-tingkat kesulitan untuk membuat suatu obyek seperti menghubungkan beberapa bentuk sudut pada permukaan bebas karena bentuk sudut tersebut harus pas dan teliti ukurannya agar gambar terlihat nyata.
+
+
+Transformasi dari konsep ke model geometris yang bisa ditampilkan pada komputer : 
+
+- Shape 
+- Posisi 
+- Cara pandang 
+- Ciri-ciri permukaan
+- Ciri-ciri volume
+- Pencahayaan
+
+
+Pemodelan Geometris yang lebih rumit :
+
+*) Jala-jala segi banyak : segi bersudut banyak yang dihubungkan satu sama lain.
+*) Bentuk permukaan bebas : menggunakan fungsi polynomial tingkat rendah.
+*) CSG : membuat bentuk dengan menerapkan operasi boolean pada bentuk primitif.
+
+
+Elemen-elemen pembentuk grafik geometri :
+
+- Titik
+- Garis
+- Polygon
+- Kurva
+- Lingkaran
+
+Elemen-elemen pembentuk grafik warna :
+
+1. Sistem visual manusia
+2. Kubus warna RGB (sistem koordinat R,G,B sebagai axes) >> R = Red, G = Green, B = Blue
+3. Model warna C,M,Y
+4, True Color
+5. Indexed color
+6. High Color
+
+Teknik Geometris secara :
+
+1. The Hack
+2. The Good
+3. Splines
+4. Implicit Surfaces
+5. Subdivision Surfaces
+6. The Gracefully Degraded

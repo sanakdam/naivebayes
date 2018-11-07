@@ -1,0 +1,64 @@
+MULTIMEDIA CONTENT PRODUCTION
+
+
+PENGERTIAN MULTIMEDIA
+Kata multimedia merupakan kata serapan yang diambil dari bahasa lati, yaitu Multi dan Medium, Multi yang artinya banyak atau bermacam-macam, sedangkan Medium sesuatu yang dipakai untuk menyampaikan atau membawa sesuatu. Sedangkan arti Medium menurut American Heritage Electronic Dictionary, 1991) yaitu alat dan cara untuk mendistribusikan dan mempresentasikan.
+Definisi Multimedia adalah penggunaan komputer untuk menyajikan dan menggabungkan teks, suara, gambar, animasidan video dengan alat bantu (tool) dan koneksi (link) sehingga pengguna dapat melakukan navigasi, berinteraksi, berkarya dan berkomunikasi. Multimedia sering digunakan dalam dunia hiburan. Selain dari dunia hiburan, Multimedia juga diadopsi oleh dunia game.
+Kategori Multimedia
+Multimedia dapat di definisikan menjadi 2 kategori, yaitu Multimedia Content Production dan Multimedia Communication.
+Multimedia Content Production adalah penggunaan beberapa media (teks, audio, graphics, animation, video dan interactivity) yang berbeda dalam menyampaikan suatu informasi atau menghasilkan produk multimedia seperti video, audio, musik, film, game, entertaintment, dll. Bisa juga dikatakan sebagai penggunaan beberapa teknologi yang berbeda yang memungkinkan untuk menggabungkan media (teks, audio, graphics, animation, video, dan interactivity) dengan cara yang baru untuk tujuan komunikasi. Dalam kategori ini media yang digunakan adalah :
+Media teks atau tulisan
+Media audio atau suara
+Media video
+Media animasi
+Media gambar
+Media Interaktif
+Media spesial effect
+ Multimedia Communication adalah penggunaan media (massa), seperti televisi, radio, media cetak dan internet untuk mempublikasikan / menyiarkan / mengkomunikasikan material periklanan, publikasi, entertaintment, berita, pendidikan, dll. Dalam kategori ini media yang digunakan adalah :
+TV
+Radio
+Film
+Media Cetak
+Musik
+Game
+Entertainment
+Tutorial
+Internet
+Jenis jenis  Konten Multimedia
+Menurut (Green & Brown, 2002: 2-6) Multimedia interaktif menggabungkan dan mensinergikan semua media yang terdiri dari:
+a.      Teks
+Teks adalah simbol berupa medium visual yang digunakan untuk menjelaskan bahasa lisan. Teks memiliki berbagai macam jenis bentuk atau tipe (sebagai contoh: Time New Roman, Arial, Comic San MS), ukuran dan wana. Satuan dari ukuran suatu teks terdiri dari length dan size. Length biasanya menyatakan banyaknya teks dalam sebuah kata atau halaman. Size menyatakan ukuran besar atau kecil suatu huruf. Standar teks memiliki size 10 atau 12 poin. Semakin besar size suatu huruf maka semakin tampak besar ukuran huruf tersebut.
+b.      Grafik
+Grafik adalah suatu medium berbasis visual. Seluruh gambar dua dimensi adalah grafik. Apabila gambar dirender dalam bentuk tiga dimensi (3D), maka tetap disajikan melalui medium dua dimensi. Hal ini termasuk gambar yang disajikan lewat kertas, televisi ataupun layar monitor. Grafik bisa saja menyajikan kenyataan (reality) atau hanya berbentuk iconic. Contoh grafik yang menyajikan kenyataan adalah foto dan contoh grafik yang berbentuk iconic adalah kartun seperti gambar yang biasa dipasang dipintu toilet untuk membedakan toilet laki-laki dan perempuan.
+Grafik terdiri dari gambar diam dan gambar bergerak. Contoh dari gambar diam yaitu foto, gambar digital, lukisan, dan poster. Gambar diam biasa diukur berdasarkan size (sering disebut juga canvas size) dan resolusi. Contoh dari gambar bergerak adalah animasi, video dan film. Selain bisa diukur dengan menggunakan size dan resolusi, gambar bergerak juga memiliki durasi.
+c.       Audio
+Audio atau medium berbasis suara adalah segala sesuatu yang bisa didengar dengan menggunakan indera pendengaran.  Contoh: narasi, lagu, sound effect, back sound.
+d.      Interaktivitas
+Interaktivitas bukanlah medium, interaktivitas adalah rancangan dibalik suatu program multimedia. Interaktivitas mengijinkan seseorang untuk mengakses berbagai macam bentuk  media atau jalur didalam suatu program multimedia sehingga program tersebut dapat lebih berarti dan lebih memberikan kepuasan bagi pengguna. Interaktivitas dapat disebut juga sebagai interface design atau human factor design. Interaktivitas dapat dibagi menjadi dua macam struktur, yakni struktur linear dan struktur non linear. Struktur linear menyediakan  satu pilihan situasi saja kepada pengguna sedangkan struktur nonlinear terdiri dari berbagai macam pilihan kepada pengguna.
+Green & Brown (2002: 3) menjelaskan, terdapat beberapa metode yang digunakan dalam menyajikan multimedia, yaitu:
+Berbasis kertas (Paper-based), contoh: buku, majalah, brosur.
+Berbasis cahaya (Light-based), contoh: slide shows, transparasi.
+Berbasis suara (Audio-based), contoh: CD Players,  tape recorder, radio.
+Berbasis gambar bergerak (Moving-image-based), contoh: televisi, VCR (Video cassette recorder), film.
+Berbasiskan digital (Digitally-based), contoh: komputer.
+Jenis-jenis Multimedia
+1.      Multimedia Interaktif
+Pengguna atau user dapat mengontrol secara penuh mengenai apa dan kapan elemen multimedia akan ditampilkan atau dikirimkan. Contoh: Game, CD interaktif, apilkasi program, virtual reality,dll.
+2.      Multimedia Hiperaktif
+Multimedia jenis ini mempunyai struktur dengan elemen elemen terkait yang dapat diarahkan oleh pengguna melalui tautan(link) dengan elemen elemen multimedia yang ada. Isitilah Richmedia juga dipakai untuk menyebut Multimedia Hiperaktif. Contoh: world wide web, web site, mobile banking, Game on line, dll
+3.      Multimedia Linear / Squential
+Multimedia Liner adalah jenis multimedia yang berjalan lurus. Multimedia jenis ini bisa dilihat pada semua jenis film, tutorial video, dll. sedangkan Multimedia Interaktif adalah jenis multimedia interaksi, artinya ada interaksi antara media dengan pengguna media melalui bantuan komputer, mouse, keyboard dan sebagainya. Multimedia linear berlangsung tanpa kontrol navigasi dari pengguna. Penyajian multimedia liner harus berurutan atau sekuensial dari awal sampai akhir. Contoh: Movie atau film, e-book, musik dan siaran TV.
+4.      Multimedia presentasi pembelajaran .
+Multimedia presentasi pembelajaran adalah alat bantu guru dalam proses pembelajaran dikelas dan tidak menggantikan guru secara keseluruhan. Contohnya Microsoft Power Point.
+5.      Multimedia pembelajaran mandiri.
+Multimedia pembelajaran mandiri adalah sofware pembalajaran yang dapat dimanfaatkan oleh siswa secara mandiri tanpa bantuan guru. Multimedia pembelajaran mandiri harus dapat memadukan explicit knowledge dan tacit knowledge , mengandung fitur assemen untuk latihan,ujian dan simulasi termasuk tahapan pemecahan masalah. Contohnya Macromedia Authorware atau Adobe Flash.
+6.      Multimedia kits
+Multimedia kits adalah kumpulan pengajaran bahan pembelajaran yang melibatkan lebih dari satu jenis media dan diorganisir sekitar topik tunggal.
+yang termasuk diantaranya yaitu: CD-ROM,SLIDE,KASET AUDIO,GAMBAR DIAM,STUDY CETAK,TRANSPARASI OVERHEAD tujuan:untuk presentasi dio kelas. Keunggulan : multimedia kits membakitkan minat karena mereka multi sensorik,  kits menjadi mekanisme ideal untuk merangsang kerja kelompok proyek kecil, kitys memiliki keunggulan yaitu dapat diangkut dan digunakan di luar kelas(logiostik).
+7.      Hypermedia
+Dokumen berurut non terdiri dari teks,audio,informsi visual disampan dalam komputer. Contohnya adalah dengan pembelajaran menggunakan link pada sebuah web.
+8.      MEDIA INTERAKTIF
+Sistem ini merupakan sistem pengiriman pembelajaran yang direkam visual,suara,dan bahan video disajikan di bawah kontrol komputer untuk tinjauan yang tidak tidak hanya melihat dan mendengar gambar dan suara tetapi juga membuat tanggapan aktif. Keunggulan: beberapa media.teks,audio,grafik,gambar diam,dan semua gerak gambar dapat dikombinasikan dalam satu system yang mudah digunakan.
+9.      VIRTUAL REALITAS
+Virtual realitas adalah media yang dapat disulasiakan tempat di dunia nyata
+Keunggulan: untuk digunakan menggambarkan berbagai jenis aplikasi umumnya terkait dengan mendalam, sangat visual, 3D lingkungan.

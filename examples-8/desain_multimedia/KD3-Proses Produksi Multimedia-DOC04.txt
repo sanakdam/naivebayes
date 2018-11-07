@@ -1,0 +1,56 @@
+TAHAPAN PROSES PRODUKSI MULTIMEDIA
+
+Pre Production è Production è Post Production
+A.      PRE PRODUCTION
+         1)     Concept definition (definisi dan Konsep dari produk Multimedia )
+misal
+Definisi : iklan Televisi Produk Kuku Bima, iklan cetak, iklan radio, dll
+Konsep : berhubungan untuk menciptakan Daya Tarik (lucu, Menyedihkan, patriotic, sex dll )
+ Eg. Figur mBah Marijan dgn Tagline : “Roso-Roso” //
+         2)     Design
+Perancangan Awal menerapkan Definisi dan konsep Awal
+ biasanya berbentuk “coretan-coretan” dan sketsa
+         3)     Production plan (Perencanaan Produksi )
+Pengembangan dari Design kedalam Naskah, Storyline, Sinopsis, Storyboard, dll
+         4)     Documentation (Pemberkasan)
+Pembuatan Proposal Naskah / pengarsipan (berisi : tujuan pembuatan produk, target pengamat/pasar, Perencanaan Produksi, Property yang dibutuhkan, Penghitungan Anggaran dll )
+         5)     Assemble team
+Pembentukan Tim Ahli dan Property yang tertulis dalam Documentation
+Misal : Cameramen, Fotografer, Animator, Talent, dll)
+         6)     Building prototype
+Membangun prototipe (contoh awal produk sebelum diproduksi)
+         7)     Clear right
+Penyelesaian dalam hal yang berhubungan dengan per undang-undangan (eg: Ijin Produksi, Pendaftaran Paten/HAKI, dll)
+         8)     Client sign-off and funding
+Persetujuan dengan Klien/Pemesan beserta Pendanaan.
+
+B.      PRODUCTION
+         1)     Content creation (Pembuatan Konten ) : Pembuatan konten sesuai design
+Eg: take gambar, pembuatan stok shot animasi, dll
+         2)     Content processing (Pemrosesan konten) : Pemrosesan konten yg telah diambil secara analog (non computerized)
+Eg : setting tempat, organisasi property/ perlengkapan take gambar
+         3)     Software creation ( pembuatan (proses) konten melalui Software(komputer) )
+Eg ; Editing, visual FX
+         4)     Integration of content and software (Penggabungan seluruh konten dengan diproses dalam software finishing )
+Eg : hasil dubbing audio, VFX, ANimasi di render akhir untuk di burning dalam bentuk DVD
+         5)     Revise design (Revisi / Peninjauan ulang berdasar pada Perancangan )
+dari hasil tahap ke 4 di tinjau ulang dan di analisa ( belum di buat masal)
+         6)     Freeze design ( Penyatuan seluruh project yang telah sesuai dengan design )
+Apabila hasil analisa dan telah direvisi di satukan menjadi sebuah product “jadi” untuk ditunjukkan terhadap klien
+         7)     Revise content and software according to final design
+( Revisi/Peninjauan Ulang Konten & software di cocokkan dengan Perancangan Akhir (final Design)
+         8)     Build Alpha version ( membangun versi Alfa
+Pembuatan contoh awal produk yang dibuat untuk kalangan tertentu
+         9)     First testing ( Uji Coba Produk )
+      10)     Evaluation ( Evaluasi produk )
+      11)     Revise software and content based on evaluation ( Revisi/Peninjauan Ulang Produk berdasar hasil Evaluasi )
+      12)     Build Beta version ( membangun versi Beta )
+Pada tahap ini produk di buat dgn jumlah lebih banyak tetapi didistribusikan untuk kalangan tertentu  untuk di coba sebelum di distribusikan secara umum)
+
+C.      POST PRODUCTION
+         1)     Beta testing (Uji cob Produk Beta oleh kalangan tertentu
+         2)     Evaluation (Evaluasi )
+         3)     Revise software and content (Peninjauan ulang produk )
+         4)     Release Golden Master ( Peluncuran Produk secara Masal untuk Umum )
+
+         5)     Archive all production material ( peng Arsip an semua Materi /bahan mentah dari proses Produksi )

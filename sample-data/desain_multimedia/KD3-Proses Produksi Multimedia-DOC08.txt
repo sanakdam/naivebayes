@@ -1,0 +1,81 @@
+Proses Pre-Production Multimedia
+
+
+o   Pre-production.
+o   Production = Akan menyita waktu yang lama bahkan perbandingan nya 75%.
+o   Post production.
+
+Pada Prinsipnya proses ini meliputi proses : Penuangan ide (proposal) produk.
+Ø  1.Perencanaan Produk
+Ø  2.Perencanaan Proses Produksi.
+Ø  3.Penyusunan Dekomentasi.
+Ø  4.Penyusunan Tim.
+Ø  5.Membangun Prototype.
+Ø  6.Pengurusan Hak Cipta dan
+Ø  7.Penandatanganan Kontrak.
+Ø  8.Pembiayaan.
+
+v Concept definition
+Title goals, Audience, Title gendre, Marketing requitment, Hudget parameter, Schedule requitment.
+v Design.
+Story/coutent/services, Information architecture, Visual and sound, Technical, Interactive, Navigation.
+v Production plan.
+Storyboard/coutent outline, Budfeling, Scheduling, Asset management, Staffing.
+v Dokumentation.
+Design, Production plan.
+v Assemble team.
+Designer, Producer, Technical designer, Art director, Audio producer, Graphics artis, Cameramen, Programmer, Composer/sound engineer/musicans, Coutent spesialist, Technical assistent, Production assistent, Right and researcher, Lawyer, Writer and editor.
+v Building Prototype.
+Test out design direction, Prove out technology component, Brainstorming.
+v Clear Rights
+v Client sign off and founding.
+
+Proses kerja Pre-produksi :
+        Menentukan ide cerita kemudian mensketsakan beberapa adegan penting kedalam bentuk naskah cerita. Lalu dibuat Storyboard untuk menerjemahkan naskah menjadi cerita yang lebih mendetail. Dibuat karakter tokoh dan background awal. Lalu membuat keyfreme.
+        Test Shot, yaitu rangkaian pendek gambar yang dirender dengan full color untuk memastikan teknik pergerakkan dan renderingny. Setelah proses cells animation sendiri dimulai, dibutuhkan konsep cerita yang harus dibuat dalam bentuk narasi.
+
+Beberapa elemen yang perlu menjadi pertimbangan pre-produksi :
+ü  1.Tujuan dan pesan yang diinginkan essensinya.
+ü  2.Membuat schedule kerja.
+ü  3.Keinginan klien.
+ü  4.Sarana yang menunjang untuk pembuatan proyek
+ü  5.Mengupdate hasil kerja.
+ü  6.Merencanakan biaya yang dibutuhkan.
+ü  7.Mengintervarisir perangkat lunak yang dibutuhkan.
+ü  8.Merencanakan pendistribusian hasil kerja.
+ü  9.Mengintervarisir orang yang terlibat serta pembagian job deskripsi.
+
+1.Brain Storming adalah ide-ide kreatif sebanyak mungkin dalam kelompok.
+•        Tahapan dalam Brain Storming :
+-         Membuat/menentukan detail konsep bersama-sama producer dan kreatif.
+-         Melakukan analisis script / scenario / rundown berdasarkan konsep/ide yang telah disepakati.
+-         Menentukan peralatan pendukung teknis => Camera,Lighting,Audio,dan perangkat teknis lainnya sesuai dengan program.
+2.Crew Produksi .
+a)     Producer : menyusun proposal , pembiayaan.
+b)     Sutradara: orang yang bertanggung jawab dalam proses produksi.
+c)     Astrada: membantu sutradara , serta bertanggung jawab atas kehadiran artis dan actor pada saat dan tempat yang tepat.
+d)     Unit manager: Pengelolaan/orang-orang yang bertanggung jawab pada pekerjaaannya.
+e)     Wardrobe: Bertanggung jawab dan bertugas pada pengadaan peralatan produksi.
+f)      Technical director: Berkaitan dengan technic.
+g)     Script writer: bertanggung jawab dalam penulisan kerangka sebuah film.
+h)    Cameramen: bertanggung jawab dalam memperoleh dan merawat perawatan kamera, penanganan film, pengisian film dan berhubungan dengan laboratorium pemrosesan dan bertanggung jawab pada saat produksi.
+i)       Gaffer: bagian kelistrikan yang bertanggung jawab pada Director Of Photografi (DOP) dan bertanggung jawab peda penyediaan listrik.
+
+•        Tahapan produksi ada 2 :
+ü  Syuting
+ü  Evaluasi
+-Syuting adalah proses pengambilan gambar film.
+a.      Director adalah nama sutradara yang bersangkutan.
+     Penguasaan kamera dan teknik syuting :
+v Angglt : sudut pandang pengambilan gambar yang dapat dilihat dari view finder pada sebuah kamera / video.
+v Lighting : Pencahayaan (normal & exterior).
+v Komposisi : teknik pengaturan gambar, ukuran & kedalaman ruang prespektif dan mood adegan untuk menghasilkan citra sesuai dengan script/naskah.
+v Log/catatan syuting : log digunakan untuk memberikan setiap per adegan yang telah selesai diambil. Yang dilengkapi dengan koordinat waktu (timecode) pada kaset yang digunakan.
+-Evaluasi adalah penilaian yang akan dinilai sat mana yang kurang dan mana yang kelebihan.
+
+POST PRODUCTION
+          Pada proses post produksi pasti ada yang dinamakan “editing”.
+§  Editing : proses merangkai dan menyusun adegan-adegan film, menambah efek, transisi, serta music maupun narasi agar menjadi satu kesatuan sehingga sesuai dengan naskah.
+§  Presentasi : tahapan mempublikasikan film agar dapat diapresiasikan oleh penonton.
+§  Re-editing : proses pengeditan ulang.
+§  Finish : Akhir tahap evaluasi.

@@ -1,0 +1,245 @@
+KOMPUTER TERAPAN JARINGAN
+MAKALAH KINERJA KOMPUTER TERAPAN JARINGAN
+
+
+
+
+
+
+
+
+
+
+KOMPETENSI KEAHLIAN
+TEKNIK KOMPUTER DAN JARINGAN
+
+
+
+
+
+Description: C:\Users\DELL\Downloads\Update TKJ.jpg
+
+
+
+
+DISUSUN OLEH :
+ICHLAFIN ROYFAN
+XI TKJ 3
+
+SEKOLAH MENENGAH KEJURUAN NEGERI 1 DLANGGU
+
+
+
+Fungsi Spesifik Piranti Pendukung Jaringan Komunikasi Data
+Sistem komputer minimal
+
+Description: http://3.bp.blogspot.com/-p90NgnkvoU0/U-1rj4Moa7I/AAAAAAAAAGE/Bo5AijHU2eU/s1600/Bagan+Komputer+Minimal.jpg.
+
+Secara umum komputer dapat diartikan sebagai alat elektronika yang bekerja secara koordinasi dan integrasi berdasarkan program, dapat menerima masukan berupa data yang diproses didalam suatu sistem dan dikeluarkan dalam bentuk informasi.
+
+Description: Hasil gambar untuk personal komputer
+Personal Computer adalah seperangkat komputer yang digunakan oleh satu orang saja / pribadi. Biasanya komputer ini adanya dilingkungan rumah, kantor, toko, dan dimana saja karena harga PC sudah relatif terjangkau dan banyak macamnya.
+Fungsi utama dari PC adalah untuk mengolah data input dan menghasilkan output berupa data/informasi sesuai dengan keinginan user (pengguna).
+Dalam pengolahan data yang dimulai dari memasukkan data (input) sampai akhirnya menghasilkan informasi, komputer memerlukan suatu sistem dari kesatuan elemen yang tidak bisa terpisahkan. Hardware merupakan komponen fisik yang digunakan untuk aktivitas input, proses, output dan penyimpanan pada suatu sistem komputer.
+    
+
+
+
+
+
+
+  Perangkat hardware pendukung jaringan ,yaitu:
+1.   Description: Hasil gambar untuk connector rj45
+conektor RJ 45
+Nama  perangkat   : Conektor RJ45
+Keterangan dan Fungsi   :
+Jack  (RJ) adalah standar fisik jaringan – baik konstruksi da wiring jack polauntuk menghubungkan telekomunikasi data . Perangkat pendukung jaringan komputer in berfungsi untuk menghubungkan, kabel UTP kedalam komputer melalui port RJ45 yang dihubungkan dalam NIC. Tipe kabel konektor RJ 45 banyak tipenya, namun untuk yang standar dipake di daerah Amerika adalah tipe RJ11, RJ14,RJ45. Setiap konektor harus disesuaikan dengan tipe NIC dan tipe kabelnya
+2. NIC Description: Hasil gambar untuk NIC
+Nama perangkat : NIC atau Kartu Jaringan
+Keterangan dan funsi         :
+Network Interface Card (NIC)merupakan syarat utama bagi komputer yang akan terhubung dengan jaringan, setiap komputer minimal memiliki 1 kartu. NIC  merupakan sebuah perangkat pendukung jaringan komputer yang berbentuk kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer.
+Jenis NIC yang beredar, Jensi NIC yang beredar , terbagi menajdi dua jenis ,yaitu NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC ethernet, Token Ring, dan lainya. Sedangkan untuk NIC yang bersifat logis adalah loopback dan Dial-up Adapter. Setiapa NIC diberi MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna.
+
+Description: Hasil gambar untuk router
+3. Router
+Nama perangkat                   : Router
+Keterangan dan fungsi         :
+Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau internet menuju tujuanya, melalui sebuah proses yang dikenal sebagaia routing.Proses Routing terjadi pada lapisan 3 ( Lapisan jaringan seperti Internet Protokol) dari stack protokol tujuh lapis OSI. Jadi Router berfungsi untuk menghubungkan dua jaringan yang berbeda. Untuk memecah bebrapa IP
+Description: Hasil gambar untuk kabel utp
+4. Kabel UTP
+Nama perangkat                    : Kabel UTP
+Keterangan dan Fungsi        :
+Perangkat keras pendukung jaringan komputer ini bernama kabel Unishield Twisted Pair (UTP) yang berfungsi untuk menyampaikan/ menghubungkan sinyal, atau menyampaikan informasi dari tiap komputer. Jenis kabel UTP meliputi beberapa kategori yaitu UTP kategori 3, UTP kategori 4, dan UTP kategori 5.
+Description: Hasil gambar untuk hub
+5. HUB
+Nama perangkat                : HUB
+Keterangan dan Fungsi     :
+Hub adalah sebauh perangkat pendukung jaringan komputer yang berfungsi untuk menghubungkan peralatan – peralatan dengan ethernet atau serat optik, sehingga menjadikanya dalam satu segmen jaringan. Hub bekerja pada lapisan fisik (layer1) pada model OSI. Atau dengan kata lain Hub berfungsi untuk meneruskan kembali sinyal yang didapat dengan kekuatan yang sama. Hub disebut juga multi port repeater, dalam mengirimkan sinyalnya hub menggunakan metode broadcast , sehingga apabila salah satu port sibuk maka port yang lain harus menunggu jika ingin mengirimkan sinyal.
+Description: Hasil gambar untuk port rj 45
+6. port RJ 45
+Nama perangkat : port RJ45/ ethernet
+Fungsi   :
+Berfungsi untuk menghubungkan antara NIC dengan kabel UTP, yang berfungsi untuk menyampaikan segala informasi yang dikirimkan atau akan dikirimkan baik keluar atau kedalam komputer
+Description: Hasil gambar untuk antena omni
+7. Antena Omni
+Nama perangkat : Antena Omni
+Keterangan dan Fungsi    :
+Adalah suatu alat pendukung jaringan komputer yang berbentuk antena yang berfungsi untuk memancarkan sinyal wireles sehingga memungkinkan dapat memperluas jangkauan dari sinyal yang sering kita kenal dengan sinyal hotspot.
+   Description: Hasil gambar untuk swich
+8. swich
+   Nama Perangkat : Swich 
+Keterangan dan fungsi:
+Swich jaringan adalah sebuah alat pendukung jaringan komputer yang berfungsi untuk melakukan bridging transparan (penghubung segementasi banyak jaringan denganforwarding berdasarkan alamat MAC ) . Switch jaringan dapat digunakan sebagai penghubung komputer atau router pada satu area yang terbatas, switch juga bekerja pada lapisan data link, cara kerja switch hampir sama seperti bridge, tetapi switch memiliki sejumlah port sehingga sering dinamakan multi-port bridge.  Perbedaan Hub dengan Swicth:
+- Hub lebih lambat dari pada Swicth. Swicth mempunyai perangkat Room yang berfungsi untuk mencari data informasi pada alamat yang ada pada komputer PC (NIC0)
+
+II.2 Piranti Penyimpanan Dan Penyedia Data
+Media penyimpan data dapat dibedakan sebagai berikut:
+1.   Media Penyimpan Utama (Internal Storage) yaitu:
+RAM  (Random Access Memory) dan
+ROM (Read Only Memory)
+2.   Media Penyimpan Cadangan (External Storage) antara lain  yaitu:
+Hardisk, Magnetik disk, Optic disk, Flash disk
+CD (Compact Disc atau Laser Optic Disc)
+CD merupakan jenis piringan optic yang pertama kali muncul. Pembacaan dan penulisan data pada piringan melalui laser. CD berbentuk lingkaran dengan diameter 120 mm serta memiliki libang ditengahnya yang berdiameter 15 mm. kapasitas penyimpanan CD dapat mencapai 870 Mb yang dapat menyimpan data hingga 99 menit.
+Description: Hasil gambar untuk compact disk
+Contohnya :
+·       CD-Rom (Compact Disk read only memory) adalah jenis piringan optic yang mempunyai sifat hanya bisa dibaca. Kapasitas sebuah CD Rom yang berukuran 4,72 inch dapat menampung hingga 640 Mb atau kira-kira 300.000 halamat text.
+·        CD-R (CD Recordable) merupakan jenis CD yang dapat menyimpan data seperti halnya disket, namun isinya tidak dapat diubah lagi.
+·       CD-RW (CD Writetable) merupakan jenis CD yang dapat menyimpan data namun isinya dapat dihapus dan dapat diganti dengan data yang baru.
+
+
+2.         DVD (Digital Video Disc / Digital Versatile Disc)
+Description: Hasil gambar untuk dvd
+DVD adalah merupakan pengembangan dari CD. DVD memiliki kapasitas yang jauh lebih besar dari pada CD biasa, yaitu sekitar 4,7 – 17 GB. Kemampuan DVD dapat dilihat dari jenisnya, yaitu :
+·       Single-side, single layer kapasitas 4,7 GB
+·       Double-side, single layer kapasitas 8,5 GB
+·       Single-sided, double layer kapasitas 9,4 GB
+·       Double-sided, double layer kapasitas 17 GB
+3.         Blu Ray
+Teknologi Blu-ray adalah merupakan format disc optic, yang merupakan perkembangan dari CD dan DVD. Keunggulan dari blu-ray yaitu pada kapasitas lapisan-sided Blu-ray disc, dimana lebih besar 35 kali dari CD dan lebih besar lima kali dari DVD. Kapasitas Blu-Ray disc dual layer memiliki kemampuan menyimpan data sampai dengan 50 Gb per keping.
+Description: Hasil gambar untuk blu ray
+Selain itu, spesifikasi Blu-ray dalam kecepatan membaca tiga kali lipat lebih cepat dibandingkan DVD. Ini mengarah ke video kualitas tinggi dan audio jernih, Khusus yang penting dalam applikasi HDTV.
+
+Teknologi Multi-layering telah disesuaikan dengan kemampuan double Blu-ray disc dalam aplikasi standar, dan ada versi eksperimental ditampilkan sampai dengan sepuluh kali lipat peningkatan dalam ruang penyimpanan. Manfaat tambahan Blu-ray player melalui pemutar DVD termasuk Internet konektivitas untuk men-download subtitles dan update fitur built-in Java virtual machine.
+
+Blu-ray disc menggunakan ultra-short dengan panjang gelombang laser 405 nanometer, dimana lebih kecil dari pada DVD yang mencapai 650 nanometer. Dengan begitu, maka bisa menyorot objek dengan presisi lebih tinggi. Hasilnya, data bisa diikat dengan lebih ketat dan disimpan di ruang yang lebih kecil. Inilah yang membuat BD mampu menyimpan lebih banyak data meskipun ukuran disknya sama dengan CD atau DVD.
+
+Blu-ray disc juga memiliki lapisan permukaan yang lebih tipis hanya 0,1mm dibandingkan HD-DVD yang tebalnya 0,6mm. Dengan begitu, laser bisa menembakkan data dengan lebih fokus. Untuk read atau write, kecepatan minimal Blu-ray adalah 1x atau sekitar 36Mbps, jauh dari DVD yang kecepatannya hanya 10Mbps. Dan kabarnya, kecepatan tersebut masih akan digeber hingga 8x atau 288Mbps.
+
+4.         Fluorescent Multilayer DISK(FM DISK)
+Fluorescent Multilayer Disc (FM Disc) adalah jenis optical disk yang mampu menampung sampai 140 GB data sekaligus, dengan kecepatan baca data sampai 1 GB per detik.
+FM Disc berbeda dengan kepingan yang beredar saat ini. Warnanya tidak keperakan atau keemasan, melainkan bening seperti sebuah plastik transparan biasa.
+Description: Hasil gambar untuk .         Fluorescent Multilayer DISK
+·         Multilayer
+Salah satu keistimewaan adalah banyaknya layer yang ada dalam setiap kepingan. Masing-masing kepingan memang memiliki lebih dari satu layer atau lapisan. Bahkan lebih dari 10 lapisan sekaligus. Tepatnya adalah 12 lapisan pada FM Disc yang dikembangkan pada tahap awal.
+·         Aplikasi
+Banyak sekali aplikasi yang spat menggunakan teknologi ini. Pertama untuk menyimpan data hiburan seperti Game, Musik, Film dan tentunya untuk menyimpan data keperjaan. 1 keping FM Disc bisa menmapung lebih dari 10 film DVD.
+Sebagai ruang Back-up, sangat cocok karena kapasitasnya yang sangat besar. Dengan FM Disc kekhawatiran rusak-nya media back-up dapat diminalisasi walaupun tergores lapisan luarnya.
+·         Jenis FMD
+Ada tiga jenis FM teknologi yang telah selesai dikembangkan:
+1. FM Disc ROM
+Ini adalah jenis pertama yang akan = diperkenalkan. FM Disc ROM nantinya akan banyak digunakan untuk kepentingan produksi, baik film maupun pernati lunak. Dengan kapasitas yang besar kualitas film dapat lebih baik. Karena ini berarti film akan mengalami lebih sedikit proses kompesi. Sama halnya dengan audio.
+Sedangkan untuk peranti lunak, kehadirannya akan sangat berpengaruh khussnya untuk peranti lunak seperti game dan peranti lunak pendidikan yang umumnya membuat banyak informasi.
+2. FM Disc WORM (Write Once Read Many)
+FM Disc WORM disebut juga Rewritable FM Disc adalah kepingan yang dapat diisi sendiri. Kepingan inilah yang nantinya dipergunakan sebagai media back-up.
+Cara penulisannya hampir sama dengan menulis pada rewritable CD, hanya saja ada sedikit perbedaan pada penambahan material fluorescent. Ada dua metode penulisan yang digunakan masing-masing terletak pada perbedaan penambahan element fluorescent-nya.
+Denga metode pertama atau yang dikenal dengan metode thermal, material fluorescent diaplikasikan dari awal. Sedangkan pada metode kedua yang chemical, material fluorescent diaplikasin pada tahap lanjut.
+3. FM Card atau Clear Card
+FM Card sebenarnya adalah sebuah FM Disc yang dilapisi bagian luar berbentuk kartu kecil. Kepingan yang ada didalam Clear Card adalah kepingan dengan diameter 50 mm, atau 5 cm. Model pertama yang dikembangkan adalah dengan 20 lapisan data – 10 GB data serta memiliki densitas recording sebesar 400 Mbytes/cm2.
+Description: Hasil gambar untuk hardisk
+Hardisk
+Hardisk adalah komponen perangkat keras komputer yang berbentuk piringan magnetis dan berfungsi untuk menyimpan data sekunder. Hardisk ini menyediakan kapasitas penyimpanan yang lebih besar dibandingkan dengan media penyimpanan lainnya. Alat ini dihubungkan plej konektor perangkat media penyimpanan internal. Ada beberapa konektor media internalnya yaitu ATA dan SATA.
+ATA (Advanced Technology Attachement) merupakan konektor standart untuk media penyimpanan internal. ATA ini juga biasa disebut PATA yaitu Parallel ATA. Sedangkan SATA adalah Serial ATA,  terbagi menjadi dua tipe berdasarkan kecepatan transfer datanya, yaitu SATA 1.5 Gbit/s dan SATA 3.0 Gbit/s. Apabila SATA ini dibandingkan dengan Paralel ATA, maka SATA memiliki kecepatan transfer yang lebih besar, ukuran konektor yang lebih minim, serta kemampan hardware untuk dipasang dan dilepas pada saat bekerja (Hot Swap)
+Description: Hasil gambar untuk flash disk
+USB Flash Drive 
+Media penyimpanan ini lebih sering disebut dengan Flash Disk, yaitu alat penyimpanan daya memori yang memiliki alat penghubung USB yang terintegrasi. Flash disk merupakan media penyimpanan yang portable, karena bisa dibawa keman-mana. Cara menggunakannya juga sangat mudah, Anda cukup mencolokkan saja Flash disk pada port USB komputer jika ingin melakukan pemindahan data. Media penyimpanan ini yang menggeser keberadaan floppy atau disket, Karena memiliki kelebihan yaitu ukurannya kecil, ringan, serta bisa dibaca dan ditulusi dengan mudah.
+Description: Hasil gambar untuk memory card
+Memory Card
+Media penyimpanan ini juga merupakan media penyimpanan yang terbilang memiliki kelebihan yang sama seperti Flash disk. Ukurannya yang kecil dan sangat ringan sehingga mudah dibawa kemana-kemana. Hanya menggunakan memory card ini kita harus memiliki card reader, sebagai alat bantu baca data yang disambungkan ke komputer dengan bentuknya yang kecil dan ringan juga. Media ini biasanya digunakan untuk menyimpan daya digital gambar, suara, video, dan sebagainya. Tipe kartu memoru juga banyak macamnya. Saat ini sudah terdapat sekitar empat puluhan jenis kartu, diantaranya: PC Card, CompactFlash, Memory Stick, MMC (Multi Media Card), SD Card, Mini SD, dan sebagainya.
+Description: Hasil gambar untuk disket
+Floppy Disk (Disket)
+Merupakan media penyimpan data magnetik diskterbungkus oleh plastic protektif tipis dan keras. Data yang tersimpan di dalam disk ini sifatnya permanen tidak terpengaruh daya atau arus listrik jika suatu saat diperlukan data tersebut dapat di ambil atau dibaca kembali. Ukuran yang umum diperdagangkan ada yang 5 ¼” dengan kapasitas penyimpanannya  1,2 MB dan   3/5 “ sedangkan kapasitasnya  penyimpanya  1,44 MB. Media penyimpan ini dapat digunakan hampir disemua jenis komputer. 
+
+II.3 Kartu antar muka jaringan
+
+Kartu Jaringan atau disebut dengan istilah NIC (Network Interface Card) atau LAN Card atau Etherned Card merupakan perangkat yang menyediakan media untuk menghubungkan antar komputer. Kebanyakan Kartu Jaringan berjenis kartu internal, yaitu kartu jaringan yang di pasang pada slot ekspansi di dalam komputer.
+Fungsi Network Interface Card (NIC) / Kartu Jaringan
+Network Interface Card (NIC) / Kartu Jaringan memiliki dua fungsi utama , yaitu:
+·         Peranti yang menyambungkan kabel jaringan dengan komputer.
+·         Peranti yang menyediakan pengalamatan secara fisik. Artinya kartu jaringan memiliki kode tertentu yang unik. Pada umumnya kartu jaringan ada yang sudah built-in dengan Motherboard dari komputer atau laptop, akan tetapi banyak komputer rakitan sendiri tidak memasukkan kartu jaringan pada motherboardnya, jadi anda harus membeli sendiri kartu jaringan tersebut – hanya bila anda akan menggunakan komputer tersebut terhubung dengan system jaringan local.
+1. PCI Adapter
+Description: Hasil gambar untuk pci adapter
+PCI (Peripheral Component Interconnect) adalah bus yang pada awalnya didesign untuk menggantikan Bus ISA/EISA yang dipakai dalam system komputer IBM. Dirilis pertama kali tahun 1992 dan masih banyak dipakai sampai sekarang ini untuk komputer desktop yang mempunyai slot PCI tentunya. Dari jenis adapter jaringan ada dua macam pemakaian yaitu yang untuk adapter jaringan kabel dan untuk adapter jaringan wireless atau jaringan nirkabel.
+ 2. USB Adapter
+Description: Hasil gambar untuk usb adapter
+·         USB (Universal Serial Bus) adalah standard Bus serial yang mempunyai design asimmetris dan di design sebagai slot yang sangat praktis untuk menghilangkan perlunya tambahan slot PCI pada komputer. USB mempunyai kemampuan PnP (Plug and Play – pasang dan mainkan) sehingga saat dipasang di komputer tidak memerlukan suatu reboot komputer.
+3. CardBus /PCMCIA
+Description: Hasil gambar untuk card bus
+·         Kartu jaringan Cardbus atau PCMCIA yang dipakai pada slot Cardbus atau PCMCIA dari notebook. Kartu jaringan dari jenis Cardbus ini lebih banyak dipakai untuk kartu jaringan wireless juga, walaupun pada awalnya banyak diproduksi adapter LAN dengan speed 10 Mbps di era laptop jaman dulu yang tidak dilengkapi dengan kartu jaringan onboard, sekarang sudah tidak ada lagi di pasaran
+  4. ExpressCard
+Description: Hasil gambar untuk express card
+·         Kartu jaringan dari jenis ExpressCard adalah jenis baru yang mulai banyak diadopsi oleh notebook belakangan ini mulai akhir tahun 2006-an. Keuntungan utama dari technology ExpressCard dibanding CardBus adalah peningkatan bandwidth yang sangat dramatis dibanding technology Cardbus. Kenapa begitu? Kartu jaringan ExpressCard mempunyai koneksi langsung kepada system bus melalui suatu jalur X1 Express PCI dan USB 2.0, sedangkan Cardbus menggunakan controller interface yang hanya memakai interface PCI.
+ExpressCard mempunyai kapasitas keluaran bandwidth maksimum sampai 2,5 Gigabit per second melalui PCI Express dan keluaran dari USB 2.0 sampai 480 Mbps khusus untuk masing-2 slot ExpressCard.
+
+5. PCI Express USB 3.0 Adapter
+Description: Hasil gambar untuk pci express usb adapter
+Sejak 2006, sudah mulai banyak produk computer yang melengkapi motherboardnya dengan PCIexpress dengan tersedianya slot PCIe. Sekarang ini banyak produk yang memanfa’atkan slot PCIe ini antara lain USB port PCI Express adapter. PCIe adapter ini mengusung port USB 3.0 SuperSpeed.
+
+
+II.4 Konstrator Ethernet ( Bridge dan Switch )
+Konsentrator adalah perangkat untuk menyatukan kabel – kabel jaringan dari setiap workstation , server atau perangkat dalam sebuah jaringan komputer
+Description: Hasil gambar untuk konsentrator ethernet
+Bridge adalah jenis konsentrator yang berfungsi untuk menghubungkan jaringan yang menggunakan transmisi berbeda. misalnya jaringan ethernet baseband dengan jaringan ethernet broadband. Bridge juga dapat menghubungkan jaringan yang menggunakan tipe kabel yang berbeda ataupun topologi yang berbeda. bridge juga dapat mengetahui alamat setiap client yang terhubung pada jaringan.
+Router adalah jenis konsentrator yang dikhusus kan untuk menangani koneksi antar dua atau lebih jaringan yang terhubung melalui packet switching. router bekerja dengan melihat alamat asal dan alamat tujuan dari paket yang melewatinya dan memutuskan rute yang akan dilewati paket tersebut untuk sampai ke tujuan.
+
+Switch adalah Sebuah perangkat keras yang memungkinkan terjadinya distribusi packet data antar komputer dalam jaringan dan mampu untuk mengenali topologi jaringan di banyak layer sehingga packet data dapat langsung sampai ke tujuan. Kelebihan switch dibandingkan dengan hub/repeater adalah dalam hal manajemen data lebih baik dari hub.
+
+II.5 Router
+Description: Hasil gambar untuk router
+Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau internet menuju tujuanya, melalui sebuah proses yang dikenal sebagaia routing.Proses Routing terjadi pada lapisan 3 ( Lapisan jaringan seperti Internet Protokol) dari stack protokol tujuh lapis OSI. Jadi Router berfungsi untuk menghubungkan dua jaringan yang berbeda. Untuk memecah bebrapa IP
+
+
+II.6 Printer Server
+print server adalah sistem komputer dalam jaringan yang menangani dan menksekusi permintaaan dari perangkat jaringan lainnya
+Description: Hasil gambar untuk printer server
+II.7 Titik Akses Nirkabel
+TITIK AKSES NIRKABEL
+Dalam jaringan komputer, titik akses nirkabel (bahasa Inggris: wireless access point, WAP) adalah suatu peranti yang memungkinkan peranti nirkabel untuk terhubung ke dalam jaringan dengan menggunakan Wi-Fi, Bluetooth, atau standar lain. WAP biasanya tersambung ke suatu router (melalui kabel) sehingga dapat meneruskan data antara berbagai peranti nirkabel (seperti komputer atau pencetak) dengan jaringan berkabel pada suatu jaringan. Standar yang diterapkan untuk WAP ditetapkan oleh IEEE dan sebagian besar menggunakan IEEE 802.11.
+Ada beberapa versi WAP antara lain WAP 1.2.1 dan 2.0. WAP 1.2.1 hanya dapat menampilkan laman sederhana saja dibandingkan dengan WAP 2.0 yang mendukung bahasa xml dan gambar. WAP di buat pertama kali sebagai protokol komunikasi bergerak yang tidak bergantung pada sistem tertentu. WAP dirancang sebagai bagian dari sistem di masa depan sama halnya dengan Bluetoothdan GPRS. WAP merupakan protokol komunikasi bergerak yang terdiri dari beberapa layer dan dapat dijalankan pada sistem jaringan yang berbeda. Teknologi ini merupakan hasil kerjasama antar industri untuk membuat sebuah standar yang terbuka dan berbasis pada standar Internet, serta beberapa protokol yang sudah dioptimasi untuk lingkungan nirkabel. Teknologi ini bekerja dalam modus teks dengan kecepatan sekitar 1,6 kbps.
+
+Keterbatasan Perangkat WAP
+1.   Kemampuan Central Processing Unit (CPU) yang lebih rendah dibandingkan CPUyang digunakan pada perangkat wired seperti komputer.
+2.   Keterbatasan ukuran memori
+3.   Penghematan penggunaan daya (power) yang biasanya menggunakan batere
+4.   Ukuran display yang lebih kecil dan terbatas
+5.   Input device yang berbeda dengan device biasa
+Disain dari informasi yang dikirimkan melalui WAP biasanya menggunakan format WML (Wireless Markup Language). WML ini mirip HTML, hanya lebih spesifik untuk perangkat nirkabel yang memiliki keterbatasan seperti di atas.
+
+Contoh Penggunaan WAP
+·                               Informasi jadwal keberangkatan penerbangan
+·                               Transaksi pembelian tiket
+·                               Pendaftaran keberangkatan pesawat
+·                               Informasi lalu lintas
+·                               Daftar informasi kondisi cuaca
+·                               Informasi nilai stok
+·                               Mencari informasi nomor telepon atau alamat
+·                               Informasi artis atau selebriti
+·                               mencari informasi sari dunia maya
+·                               Penge-hackan
+
+
+
+
+DAFTAR PUSTAKA
+- http://masade.web.id/post-materi-komputer-terapan-jaringan
+- http://komputer-terapan.tkjsmk.net/2014/08/sistem-komputer-minimal.html
+- http://armyforceone.blogspot.com/2012/08/alat-alat-dan-fungsi-jaringan.html
+- http://pakdevakeren.blogspot.com/2013/08/pengertian-dan-fungsi-personal-computer.html
+- http://top-ilmu.blogspot.com/2012/10/pengertian-optical-disk-dan-jenis.html
+- http://genius.smpn1-mgl.sch.id/file.php/1/ANIMASI/komputer/Perangkat%20Yang%20Digunakan%20Dalam%20TIK/materi4.html
+- http://informasi-saya.blogspot.com/2012/05/macam-macam-media-penyimpanan-data-bag_29.html
+-Google Image
+-wikipedia
+- http://plastriono.wordpress.com/2013/05/07/konstrator/
+- Dzaki naufal
+-http://networkbooks.wordpress.com/2012/06/09/kartu-jaringan-atau-nic-network-interface-card/

@@ -1,0 +1,70 @@
+1.  PENGERTIAN ANIMASI KOMPUTER
+Animasi komputer adalah seni menghasilkan gambar bergerak dengan sendiri melalui penggunaan komputer dan merupakan sebagian bidang komputer grafik  dan animasi. Sesuai dengan namanya, animasi ini secara keseluruhan dikerjakan dengan menggunakan komputer. Dari pembuatan karakter, mengatur gerakkan “pemain” dan kamera, pemberian suara, serta special effeknya semuanya di kerjakan dengan komputer. Animasi semakin banyak dihasilkan melalui grafik komputer 3D, walaupun grafik komputer 2D masih banyak ada .
+Dengan animasi komputer, hal-hal yang awalnya tidak mungkin digambarkan dengan animasi menjadi mungkin dan lebih mudah. Sebagai contoh perjalanan wahana ruang angkasa ke suatu planet dapat digambarkan secara jelas, atau proses terjadinya tsunami.
+Perkembangan teknologi komputer saat ini, memungkinkan orang dengan mudah membuat animasi. Animasi yang dihasilkan tergantung keahlian yang dimiliki dan software yang digunakan.
+Animasi komputer menggunakan CGI . CGI (Computer Generated Image) adalah penerapan bidang komputer grafis, untuk pembuatan dan memanipulasi gambar (visual) secara digital. Bentik sederhana dari grafika komputer adalah grafika komputer 2D yang kemudian berkembang menjadi grafika komputer 3D (untuk efek-efek khusus dalam film-film, program-program televisi, iklan-iklan, simulator-simulato dan sumilasi umumnya, dan media cetak), pemrosesan citra, dan pengenalan pola. Grafika 3D adalah representasi dari data geometrik 3 dimensi sebagai hasil dari pemrosesan dan pemberian efek cahaya terhadap grafika komputer 2D. Data matematis ini belum bisa dikatakan sebagai gambar grafis hingga saat ditampilkan secara visual pada layar komputer atau printer. Secara umum prinsip yang dipakai mirip dengan grafika komputer 2D, dalam hal penggunaan algoritma, grafika vektor, dan grafika rasternya. Proses penampilan suatu model matematis ke bentuk citra 2D biasanya dikenal dengan proses 3D rendering.
+Animasi 2D terus dikonsumsi oleh para animator-animator dunia. Selain Disney, perusahaan lain yang menggunakan animasi 2D adalah Nickelodeon. Nickelodeon menciptakan beberapa film-film kartun, salah satu yang menjadi icon juga adalah SpongeBob Square Pants.
+animasi komputer mulai ada setelah teknologi komputer berkembang di era 80-an Animasi komputer mulai terkenal semenjak munculnya film Pixar yaitu Toy Story (1995)
+
+2.  PERKEMBANGAN ANIMASI KOMPUTER
+Perkembangan animasi seiring dengan perkembangan dunia pertelevisian. Pada awalnya diciptakanlah animasi berbasis dua dimensi (2D Animation). Yakni objek yang dianimasi mempunyai ukuran panjang (x-axis) dan lebar (y-axis) saja. Realisasi nyata dari perkembangan animasi dua dimensi yang cukup revolusioner berupa dibuatnya film-film kartun. Seven Dwarfs (1937) dan Fantasia (1940) dari Walt Disney adalah karya-karya film kartun yang melegenda sampai sekarang. Bahkan beberapa tokoh-tokoh kartun buatan Walt Disney yang lain masih dapat bertahan dan populer sampai saat ini mekipun pembuatan film-film tersebut dikerjakan hampir 500 tahun yang lalu.
+Kalau dibandingkan, sedikit sekali tokoh-tokoh film layar lebar yang mampu bertahan sekian lamanya. Pembuatan animasi film kartun itu sendiri pada awalnya dikerjakan dengan membuat sketsa gambar yang digerakkan satu demi satu. Untuk membuat satu durasi animasi membutuhkan jumlah gambar yang cukup banyak. Sejak ditemukannya teknik animasi sel, maka pembuatannya menjadi lebih mudah. Kertas gambar yang biasa dipergunakan diganti dengan kertas transparan yang terbuat dari bahan celluloid sheet. Teknik animasi sel inilah yang kemudian diadopsi dalam animasi komputer.
+Kertas gambar dalam pembuatan animasi sebelumnya kemudian diprogram menjadi frame di komputer. Sehingga yang semula berupa kumpulan gambar-gambar maka di komputer hal tersebut sudah merupakan kumpulan dari frame-frame yang tersusun dalam sebuah alur waktu. Adanya perubahan pergerakan suatu objek yang dianimasi oleh komputer dapat dibuat menjadi sebuah keyframe. Sehingga menjadi jauh lebih efektif dan efisien dibandingkan dengan animasi
+yang dilakukan manual.
+Di tahun-tahun mendatang, dunia animasi diprediksikan akan lebih gemerlap lagi. Sebagai contoh dengan dirilisnya software eye matic face station. Dengan dukungan software animasi berbasis 3D ini maka sutradara tidak perlu lagi mendatangkan seorang aktris atau aktor yang bayarannya mahal dalam pembuatan film. Cukup dengan mempunyai foto tampak samping dan tampak depan maka wajah artis tadi dapat dimodel mirip dengan aslinya, dalam bentuk tiga dimensi tentunya.
+Dengan program combustion yang merupakan plug in software 3D Studio Max maka pembuatan efek transisi yang dipergunakan dalam pergantian antarsekuel film di satu sisi menjadi lebih mudah dan lebih menarik. Sehingga makin luas pula lahan pekerjaan yang ditawarkan dan menjadi tantangan bagi komunitas animator Indonesia.
+3.  PRINSIP KERJA ANIMASI KOMPUTER
+1.  Input process
+Sebelum komputer dapat dipakai dalam animasi, gambar harusdidigitalisasi untuk membentuk keyframe terdigitasi.
+2.  Composition Stage
+Adalah stage dimana foreground dan background dikombinasikan untuk menghasilkan individual frame untuk animasi final. Hal ini dapat dilakukan dengan menggunakan “image-composition techniques”, yaitu dengan menempatkan low resolution frame dalam array.
+3.  Inbetween Process
+Pergerakan dari satu posisi ke posisi lain membutuhkan komposisi frame dengan posisi intermediate antar key frame. Proses tersebut dilakukan dengan menggunakan interpolasi.
+
+4.  EFEK ANIMASI KOMPUTER
+
+Timeline, Keyframe, Tweening, Masking
+-      Timeline
+Timeline berisi layer dan frame yang berfungsi untuk mengontrol objek yangakan dianimasikan. Time line merupakan bagian dari flash yang berfungsi sebagai pengatur urutan tampilan yang berdasarkan frame.
+-      Layer
+Layer seperti lembaran-lembaran film yang berisi gambar actor yang akan dianimasi. Dalam satu film terdapat lebih dari 1 layer. Setiap kali Anda membukasebuah file movie yang baru, disitu akan tersedia sebuah layer sebagai modalawal. Sehingga Anda bisa menambahkan layer, apabila menginginkan lebih darisatu layer.
+Kegunaan layer antara lain yaitu; untuk membuat animasi lebih dari satu, untuk mengorganisasikan elemen-elemen dalam satu movie, agar tidak terjadi pengirisan antara satu objek dengan objek yang laiinnya, agar bisa menemukan objek lebih cepat dan mudah, dan lain sebagainya.
+Layer adalah bagian yang memungkinkan kita untuk memberikan nama atau identitas lain (Normal, Guide, Guided dan Mask) yang berguna untuk memberikan efek pada tampilan yang dibuat. Selain itu, pengguna layer dimaksudkan untuk memberikan tingkatan atau hirarki dari gambar yang dibuat.
+-      Frame
+Merupakan bagian dari layer, tempat meletakkan gambar. Frame digunakan utnuk menentukan jeda (tenggang) waktu obyek untuk beranimasi.
+Frame diumpamakan seperti film dimana kumpulan gambar disusun kemudian dimainkan secara berurutan sehingga gambar tersebut terlihat bergerak.
+Keyframe artinya kunci dari berbagai frame dimana frame tersebut berisi gambar (gambar diam ataupun gambar beranimasi) dan sebagai tempat untuk meletakkan action script (bahasa program dari flash).
+Blank keyframe artinya keyframe yang belum berisi objek, atau keyframe yang masih kosong.
+-      Animasi Tween
+Sebuah cara yang efektif untuk membuat animasi berupa pergerakan dan perubahan-perubahan ukuran objek, putaran, perubahan warna, atau perubahan atribut-atribut lainnya pada keseluruhan waktu tayang untuk meminimalkan ukuran file.
+* Animasi Flash MX dapat membuat dua jenis animasi tween, yaitu :
+1. Animasi Motion Tween :
+Sebuah animasi yang dibuat dengan menentukan properti posisi, ukuran, dan rotasi sebuah objek pada suatu titik. Animasi ini juga dapat dibuat mengikuti sebuah alur (path) nonlinear.
+2. Animasi Shapes Tween
+Sebuah animasi yang dibuat dengan menggambar sebuah bentuk pada suatu titik. Aplikasi ini akan menyisikan nilai-nilai atau bentuk-bentuk pada frame-frame diantaranya untuk membuat animasi.
+
+5.  TEKNIK ANIMASI KOMPUTER
+
+Dalam membuat animasi terdapat beberapa cara yang dapat dilakukan. Teknik itu terbagi dari yang mudah sampai yang sulit. Dalam bahasan ini akan dibahas teknik-teknik yang dapat dilakukan.
+
+
+.    Digital 3D
+
+Model animasi 3D dimanipulasi oleh seorang animator. Animasi yang dibuat dari software komputer, menggunakan beberapa teknik yang dapat diaplikasikan seperti formula matematika (gravitasi, koordinat), melakukan simulasi untuk rambut atau bulu-bulu, melakukan berbagai efek seperti air dan api, dan menggunakan motion capture sehingga animasi yang dibuat terlihat sangat mirip dengan yang aslinya dan dapat dilihat dari berbagai sudut. Animasi 3D banyak dipakai dalam film-film layar lebar dengan menampilkan efek-efek luar biasa.
+
+2. Collage
+
+Collage (dari bahasa perancis: coller, yang artinya lem) adalah sebuah hasil kerja dari seni formal, digunakan dalam visual arts, dibuat dari susunan bentuk yang berbeda-beda untuk membuat suatu hasil baru yang utuh.
+Collage termasuk klipping koran, pita, potongan dari kertas buatan tangan, porsi artwork yang lain, fotografi dan objek lain yg ditemukan, di tempelkan dalam satu kertas atau kanvas. Asal muasal collage dapat ditemukan dari ratusan tahun lalu, tapi teknik ini dikemukakan kembali pada awal abad 20 sebagai bentuk seni.
+
+3. Stopmotion
+
+Stop motion (atau frame-by-frame) adalah sebuah teknik animasi untuk memanipulasi suatu obyek yang terlihat bergerak dengan sendirinya. Obyek ini bergerak sedikit demi sedikit dengan frame fotografi, membuat suatu ilusi gerakan saat frame-frame tersebut dimainkan secara berulang-ulang. Figur dari bahan tanah liat sering menjadi bahan animasi stop motion, dikenal juga sebagai claymation untuk kemudahan dalam memposisikan kembali.
+
+4. Rotoscoping
+
+Rotoscoping adalah teknik animasi dimana animator mengambil gerakan nyata suatu dari film, secara frame by frame, dan digunakan untuk film animasi. Awalnya, pre-rekaman film live action, gambar yang diproyeksikan ke sebuah panel kaca yang beku dan digambar ulang oleh animator. Peralatan proyeksi ini disebut peralatan rotoscope, walaupun perangkat ini telah digantikan oleh komputer dalam beberapa tahun terakhir. Dalam industri efek visual, istilah rotoscoping merujuk kepada teknik secara manual dalam piringan live-action agar dapat dikomposisikan dalam background lain.
+
+5. Digital 2D
+
+Figur animasi 2D diuat dan/atau diedit dengan computer yang menggunakan grafik bitmap 2D atau dibuat dan diedit dengan 2D vector grafik. Termasuk versi otomatis komputerisasi dari tradisional teknik animasi seperti tweening, morphing, onion skinning, dan interpolasi rotoscoping

@@ -1,0 +1,71 @@
+Konsep Dasar Modelling 3D Pemodelan adalah membentuk suatu benda
+ Pemodelan adalah membentuk suatu benda-benda atau obyek. Membuat dan mendesain obyek tersebut sehingga terlihat seperti hidup. Sesuai dengan obyek dan basisnya, proses ini secara keseluruhan dikerjakan di komputer. Melalui konsep dan proses desain, keseluruhan obyek bisa diperlihatkan secara 3 dimensi, sehingga banyak yang menyebut hasil ini sebagai pemodelan 3 dimensi (3D modelling) (Nalwan, 1998).
+Ada beberapa aspek yang harus dipertimbangkan bila membangun model obyek, kesemuanya memberi kontribusi pada kualitas hasil akhir. Hal-hal tersebut meliputi metoda untuk mendapatkan atau membuat data yang mendeskripsikan obyek, tujuan dari model, tingkat kerumitan, perhitungan biaya, kesesuaian dan kenyamanan, serta kemudahan manipulasi model.
+Proses pemodelan 3D membutuhkan perancangan yang dibagi dengan beberapa tahapan untuk pembentukannya. Seperti obyek apa yang ingin dibentuk sebagai obyek dasar, metoda pemodelan obyek 3D, pencahayaan dan animasi gerakan obyek sesuai dengan urutan proses yang akan dilakukan.
+a. Motion Capture/Model 2D
+Yaitu langkah awal untuk menentukan bentuk model obyek yang akan dibangun dalam bentuk 3D. Dengan basis obyek 2D yang sudah ditentukan sebagai acuan. Pemodelan obyek 3D memiliki corak yang berbeda dalam pengolahannya, corak tersebut penekanannya terletak pada bentuk permukaan obyek.
+b. Dasar Metode Modeling 3D
+Ada beberapa metode yang digunakan untuk pemodelan 3D. Ada jenis metode pemodelan obyek yang disesuaikan dengan kebutuhannya seperti dengan nurbs dan polygon ataupun subdivision. Modeling polygon merupakan bentuk segitiga dan segiempat yang menentukan area dari permukaan sebuah karakter. Setiap polygon menentukan sebuah bidang datar dengan meletakkan sebuah jajaran polygon sehingga kita bisa menciptakan bentuk-bentuk permukaan. Untuk mendapatkan permukaan yang halus, dibutuhkan banyak bidang polygon. Bila hanya menggunakan sedikit polygon, maka object yang didapat akan terbag sejumlah pecahan polygon. Sedangkan Modeling dengan NURBS (Non-Uniform Rational Bezier Spline) merupakan metode paling populer untuk membangun sebuah model organik. Kurva pada Nurbs dapat dibentuk dengan hanya tiga titik saja. Dibandingkan dengan kurva polygon yang membutuhkan banyak titik (verteks) metode ini lebih memudahkan untuk dikontrol. Satu titik CV (Control verteks) dapat mengendalikan satu area untuk proses tekstur.
+c. Proses Rendering
+Tahap-tahap di atas merupakan urutan yang standar dalam membentuk sebuah obyek untuk pemodelan, dalam hal ini texturing sebenarnya bisa dikerjakan overlap dengan modeling, tergantung dari tingkat kebutuhan. Rendering adalah proses akhir dari keseluruhan proses pemodelan ataupun animasi komputer. Dalam rendering, semua data-data yang sudah dimasukkan dalam proses modeling, animasi, texturing, pencahayaan dengan parameter tertentu akan diterjemahkan dalam sebuah bentuk output. Dalam standard PAL system, resolusi sebuah render adalah 720 x 576 pixels.
+Bagian rendering yang sering digunakan:
+- Field Rendering
+Field rendering sering digunakan untuk mengurangi strobing effect yang disebabkan gerakan cepat dari sebuah obyek dalam rendering video.
+- Shader
+Shader adalah sebuah tambahan yang digunakan dalam 3D software tertentu dalam proses special rendering. Biasanya shader diperlukan untuk memenuhi kebutuhan special effect tertentu seperti lighting effects, atmosphere, fog dan sebagainya.
+d. Texturing
+Proses texturing ini untuk menentukan karakterisik sebuah materi obyek dari segi tekstur. Untuk materi sebuah object bisa digunakan aplikasi properti tertentu seperti reflectivity, transparency, dan refraction. Texture kemudian bisa digunakan untuk meng-create berbagai variasi warna pattern, tingkat kehalusan/kekasaran sebuah lapisan object secara lebih detail.
+e. Image dan Display
+Merupakan hasil akhir dari keseluruhan proses dari pemodelan. Biasanya obyek pemodelan yang menjadi output adalah berupa gambar untuk kebutuhan koreksi pewarnaan, pencahayaan, atau visual effect yang dimasukkan pada tahap teksturing pemodelan. Output images memiliki Resolusi tinggi berkisar Full 1280/Screen berupa file dengan JPEG,TIFF, dan lain-lain. Dalam tahap display, menampilkan sebuah bacth Render, yaitu pemodelan yang dibangun, dilihat, dijalankan dengan tool animasi. Selanjutnya dianalisa apakah model yang dibangun sudah sesuai tujuan. Output dari Display ini adalah berupa *.Avi, dengan Resolusi maksimal Full 1280/Screen dan file *.JPEG.
+Membentuk karakter 3D
+Sebelum membuat karakter, kita harus menentukan terlebih dahulu bentuk/benda apa yang ingin kita buat. kita juga harus mengetahui karakteristik dari benda tersebut seperti bentuk, sifat dan warnanya. Apabila bentuk tersebut berupa benda seperti pohon, maka bentunya adalah pipa padat. Sifat yang dimilikinya adalah sifat kayu yaitu kuat, tinggi dan memiliki daun dan akar. Apabila bentuknya berupa manusia maka bentuknya seperti manusia, mempunyai tangan, kaki, mata, hidung mulut, badan, rambut, dan lain-lain. Karakter manusia bermacam-macam jika dilihat dari sifat ada yang pemarah, lembut, baik, jahat, genit, pemalu, penakut, pemberani dan lain-lain. Jika dilihat dari fisik ada yang tinggi, pendek, rambut panjang, putih, hitam, mata sipit, dan lain-lain. Bisa karakteristik dilihat dari gaya bicara sesuai bahasa daerahnya.
+Pembuatan karakter 3D dapat menggunakan aplikasi 3D MAX, AUTOCAD, Blender, dan lain-lain
+Teori Animasi
+Animasi berasal dari bahasa latin, anima, yang artinya jiwa, hidup, nyawa dan semangat. Sehingga animasi juga dapat disebut sebagai gambar dua dimensi yang seolah-olah bergerak. Animasi terdiri dari animasi 2 dimensi dan animasi 3 dimensi.
+Animasi 2D membuat benda seolah hidup dengan mengunakan kertas atau komputer.
+Animasi 3D merupakan animasi yang dibuat dengan menggunakan model seperti yang berasal dari lilin, clay, boneka/marionette dan menggunakan kamera animasi yang dapat merekam frame demi frame. Ketika gambar-gambar tersebut diproyeksikan secara berurutan dan cepat, lilin atau clay boneka atau marionette tersebut akan teihat seperti hidup dan bergerak.
+Animasi 3D dapat juga dibuat dengan menggunakan komputer. Proses awalnya adalah membentuk model, pemberian tekstur, warna, hingga cahaya. Kemudian model tersebut diberi kerangka, warna, hingga cahaya. Kemudian model tersebut diberi kerangka dan gerakanya dirancang satu persatu.
+Secara garis besar proses 3D animasi bisa dibagi 4 tahap yaitu:
+a.Modeling
+b.Animating
+c.Texturing
+d.Rendering
+Jenis-jenis Karakter
+Dari berbagai karakter yang ada dapat dikategorikan menjadi 2 jenis karakter yaitu karakter dalan wujud 2 dimensi dan wujud 3 dimensi. Adapun sebagai contoh wujud karakter 2 dimensi yaitu Wayang, Kartun, dan anime, contohnya seperti kartun Transformer dan anime One Piece. Untuk karakter dengan wujud 3 dimensi yaitu kartun Final Fantasy, Monster Inc, Finding Nemo, dan lain-lain. Animasi 3 Dimensi disebut juga sebagai CGI (Computer Generated Imagery).
+Tahapan Pengembangan Karakter Animasi
+Sebelum memulai pekerjaan untuk membuat sebuah animasi, terdapat beberapa hal yang harus kita lakukan terlebh dahulu guna untuk melihat animasi seperti apa yang ingin dibuat dan dengan cerita apa. Hal ini tentunya perlu dilakukan suatu riset sebelum pra produksi. Adapun riset yang dilakukan adalah diantaranya adalah:
+Menentukan tema cerita dan tujuan cerita
+Membuat sinopsi dan skrip
+Memunculkan karakter, sifat, dan ciri yang sesuai dengan sinopsis yang telah dibuat
+Pengumpulan dokumentasi, termasuk setting, props, dan lokasi.
+Setelah proses riset dan pengumpulan data selesai, selanjutnya masuk ke stage lebih tinggi yaitu pra-produksi. Dimana pada tingkat ini seorang animator dan timnya bekerja untuk mendesign, merancang, dan menentukan standard warna yang pas pada sebuah karakter, props, sets, dan lokasi. Jika pada tahap ini telah disepakati bersama, maka selanjutnya masuk pada tahapan storyboard yang gunanya untuk memvisualisasikan adegan dan pose yang nantinya akan tampil dalam film tersebut berdasarkan naskah yang sudah ada. Adapun bentuk dari storyboard meliputi:
+Gambar visual
+Sound effect
+Dialog
+Adegan, dan
+Durasi
+Cobalah melihat sebuah gerak, dan memahaminya secara
+berurutan. Pemahaman mengenai sifat-sifat gerak pun akan
+semakin mudah dilakukan. Rekan-rekan mungkin saja
+menemui istilah yang berbeda-beda, apalagi padanan kata
+Indonesianya belum dikenal. Tapi, paling tidak prinsip-prinsip ini
+bisa memberikan gambaran bagaimana terjadinya sebuah
+gerak. Urutan disajikan berdasarkan pengalaman pribadi saya
+dalam mengerjakan suatu pekerjaan animasi.
+Kedua belas prinsip tersebut adalah :
+1. Pose dan gerakan antara (Pose-To-Pose Action and
+Inbetween)
+2. Pengaturan waktu (Timing)
+3. Gerakan sekunder (Secondary Action)
+4. Akselerasi gerak (Ease In and Out )
+5. Antisipasi (Anticipation)
+6. Gerakan penutup dan perbedaan waktu gerak (Follow
+Through and Overlapping Action)
+7. Gerak melengkung (Arcs)
+8. Dramatisasi gerakan (Exaggeration)
+9. Elastisitas (Squash and Stretch)
+10. Penempatan di bidang gambar (Staging)
+11. Daya tarik karakter (Appeal)
+12. Penjiwaan peran (Personality)
+Membentuk Animasi 3D
+Sebelum membuat animasi, kita membuat terlebih dahulu tema, plot, dan scriptnya/ skenarionya. Membuat animasi sama halnya dengan membuat film non animasi. Bedanya hanya tokohnya saja. Film non animasi tokohnya adalah manusia sedangkan animasi tokohnya adalah manusia berbentu gambar/ kartun. Skenario dibutuhkan agar kita yang melihat bisa mengerti cerita animasi tersebut.

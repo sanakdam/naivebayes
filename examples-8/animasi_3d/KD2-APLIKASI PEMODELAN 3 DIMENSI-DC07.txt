@@ -1,0 +1,74 @@
+Home » Software » Desain » 15 Macam macam Software 3D Animation
+
+15 Macam macam Software 3D Animation
+Software pengolah gambar tiga dimensi adalah salah satu software wajib yang perlu dimiliki oleh seorang desainer. Akan tetapi, bukan berarti orang selain desainer profesional tidak boleh menggunakan software-software tersebut. Buat kamu yang ingin membuat sebuah gambar atau desain tiga dimensi baik untuk tugas sekolah ataupun sekedar proyek pribadimu, software-software pengolah tiga dimensi juga dapat kamu gunakan tanpa harus menjadi profesional terlebih dahulu.
+
+ads
+
+Baca juga:
+
+Kelebihan dan Kekurangan OpenOffice
+Kelebihan dan Kekurangan Windows 8
+Ada banyak software pengolah citra tiga dimensi yang dapat kamu gunakan di komputer ataupun laptop pribadimu. Beberapa di antaranya berbayar, dan beberapa di antaranya dapat kamu gunakan secara gratis. Bagi kamu yang sedang kebingungan memilih atau bahkan tidak mengetahui apa saja software pengolah tiga dimensi yang dapat kamu gunakan untuk mengolah citra atau gambar tiga dimensi, daftar macam macam software 3D di bawah ini mungkin akan membantumu untuk memilihnya.
+
+1. AutoCAD
+
+AutoCAD adalah salah satu software desain yang populer di kalangan arsitek atau desainer interior. Software ini bahkan menjadi salah satu software yang wajib dikuasai oleh para insiyur di semua profesi insiyur seperti insinyur arsitektural, insiyur sipil, elektrik, aeronautika, dan lain sebagainya. Kata CAD berasal dari singkatan computer aided design, yang menunjukkan bahwa komputer digunakan sebagai piranti untuk membuat sebuah desain tertentu. Software ini dikembangkan oleh Autodesk, oleh karena itu namanya adalah AutoCAD. AutoCAD, dapat dibilang merupakan perangkat-perangkat menggambar layaknya pena gambar, meja gambar, dan lain sebagainya, yang diwujudkan dalam bentuk digital.
+
+Beberapa kelebihan AutoCAD antara lain kepraktisan, kemudahan, serta kecepatannya dalam menggambar dan melakukan pengeditan sehingga gambar juga dapat dibuat dengan lebih cepat. Selain itu, AutoCAD juga memiliki tingkat presisi atau akurasi yang sangat tinggi hingga sembilan digit byte. Gambar yang dicetak dengan AutoCAD akan benar-benar bersih dan rapi. Ada banyak ukuran skala yang bisa dipilih, selain itu ada banyak sekali ruang kerja hingga mencapai 1099 koordinat sehingga pengguna dapat membuat gambar yang sangat besar sekaligus banyak dalam ruang yang sama, akan tetapi dapat dicetak bagian perbagian dengan skala yang pas. Hasil gambar dari aplikasi ini juga mudah direvisi tanpa perlu menggambar dari awal lagi. Hasil kerja dari AutoCAD dapat diterima atau dibuka dengan program aplikasi yang lain.
+
+Baca juga:
+
+Virus Android Paling Berbahaya
+Kelebihan dan Kekurangan OS Android
+Cara Agar Baterai Android Awet
+Cara Menghilangkan Virus Iklan
+
+
+2. ArchiCAD
+
+Sebagaimana namanya, software yang satu ini adalah software CAD yang khusus dibuat untuk membuat gambar atau desain bidang arsitektur. Perintah-perintah yang ada pada software ini meliputi elemen-elemen bangunan seperti kolom, balok, plat, atap dan lain sebagainya. Dengan sistem ini, maka software ini sangat unggul apabila digunakan untuk membuat desain suatu bangunan seperti rumah, kamar, dan lain sebagainya. Ada beberapa hal yang menyebabkan mengapa software ini menjadi diunggulkan dalam bidang arsitektur, adalah karena preset yang ada, atau library yang ada sudah dibuat sedemikian mungkin sesuai dengan kebutuhan untuk merancang bangunan. Selain itu, software ini juga mendukung parametric object sehingga memudahkan apabila diperlukan proses pengubahan bagian-bagian desain tertentu karena objek yang lain akan menyesuaikan diri dengan otomatis.
+
+Ada beberapa hal yang membuat software ini menjadi salah satu software yang sering dipakai untuk membuat desain arsitektur. Beberapa di antaranya meliputi kemudahan dalam membuat dan mengedit desain lantai suatu bangunan, kemudahan dalam membuat output baik dua dimensi ataupun tiga dimensi. Presentasi juga dapat dilakukan dengan mudah karena dilengkapi dengan renderer yang bagus untuk menghasillkan output render yang memenuhi kebutuhan penggunanya. Software ini juga mendukung bahasa GDL atau Geometric Description Language, yaitu sebuah bahasa pemrograman khusus yang digunakan untuk membuat atau mendesain objek dengan memanfaatkan bahasa kode, sehingga hasil output yang dikeluarkan akan berukuran sangat kecil dan memudahkan untuk dilipatgandakan.
+
+Baca juga:
+
+Bahaya Laptop Sering Diinstal Ulang
+Cara Masuk BIOS Laptop HP
+Cara Menghilangkan Virus Autorun
+
+3. 3D Studio Max
+
+Aplikasi yang satu ini banyak gunakan untuk membuat grafik vektor tiga dimensi serta animasi yang juga berasal dari Autodesk. Dulunya sempat dikembangkan oleh 3D Studio for DOS, untuk platform Win32. Sejak diakuisisi oleh Autodeskt, software ini telah mengalai perbaruan rilis sampai versi 9.
+
+Banyak desainer grafis, profesional modeling, dan pekerja dalam dunia desain yang menggunakan software ini untuk membantu pekerjaan mereka. Kualitas pekerjaan yang bagus, realisitk, dengan bayangan serta pencahayaan yang akurat membuat aplikasi ini menjadi salah satu pilihan utama. Selain untuk masalah modeling, aplikasi ini juga bisa digunakan untuk menghasilkan atau membuat film animasi, desain arsitektur rumah, logo perusahaan dan lain sebagianya. Film-film berkualitas dunia seperti The Matrix, X-Men, dan lain sebagainya menggunakan aplikasi ini untuk membuat film tersebut. Selain itu, aplikasi ini juga digunakan dalam membuat aplikasi permainan, salah satunya adalah Guitar Hero I dan II yang dirilis untuk konsol Playstation 2.
+
+Ada banyak kelebihan yang ada pada aplikasi ini, akan tetapi beberapa hal yang membuatnya menonjol antara lain kelebihannya dalam membuat objek virtual tiga dimensi secara realistis. Kemampuan dalam memberikan kesan material yang mendekati materi asli seperti misalnya batu, tanah atau kayu juga menjadi salah satu keunggulan aplikasi ini. Pengguna juga dapat memberikan efek-efek khusus pada output akhir seperti efek cahaya atau bayangan, dan efek-efek lain seperti api atau petir.
+
+Baca juga:
+
+Kelebihan dan Kekurangan Windows Phone
+Kelebihan dan Kekurangan Windows 8
+Kekurangan Android Nougat
+4. Google SketchUp
+
+Software pengolah gambar tiga dimensi ini berasal dari salah satu perusahaan tersukses di dunia, yaitu Google. Google SketchUp adalah software pengolah tiga dimensi yang dapat membuat gambar tiga dimensi dengan cepat dan praktis serta tidak membutuhkan sumber daya yang berat untuk dijalankan. Software ini relatif mudah untuk dipelajari oleh orang yang awam sekalipun. Ada banyak hal yang bisa dilakukan dengan SketchUp, dimulai dari membuat desain rumah, membuat desain bangunan bahkan sampai pada tata kota.
+
+SketchUp juga memiliki library online tempat berbagai pengguna mengunduh atau membagi desain yang mereka buat untuk orang lain, seperti misalnya meja, kursi, gedung, taman, figur binatang, dan lain sebagainya. Dengan demikian apabila dibutuhkan model tertentu dan tidak tersedia secara offline, pengguna dapat mencarinya di internet lalu menginputnya ke dalam proyek yang sedang mereka kerjakan.
+
+
+
+Selain empat software di atas, macam macam software 3D yang lain adalah sebagai berikut:
+
+Reit Architecture
+Autodesk Maya
+Blender
+Autodesk 3Ds Max
+Cinema 4D
+Lightwave 3D
+Modo
+Nuke
+Autodesk Softimage
+Houdini
+Maxon Cinema 4D
+Itulah beberapa macam macam software 3D yang dapat kamu pilih untuk memenuhi kebutuhan pengolahan citra tiga dimensi dalam keseharianmu.

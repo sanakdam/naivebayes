@@ -1,0 +1,40 @@
+Pengertian dan Proses Pembuatan Stop Motion
+Kali ini saya akan membahas tentang Stop Motion. Mungkin diantara kalian masih ada yang belum tahu apa itu Stop Motion. Disini saya akan menjelaskan hal-hal yang menyangkut Stop Motion. Dari penjelasan hingga proses pembuatan.
+
+Apa sih Stop Motion itu?
+
+Stop Motion itu adalah teknik di mana sebuah obyek berupa boneka, model, atau gambar digerakkan oleh tangan animator dengan cara memindahkan posisi secara perlahan-lahan. Disetiap gerakan direkam dengan kamera foto ataupun kamera shooting. Dan hasil rekaman itu disusun berurutan, maka yang tercipta adalah kesan seolah – olah bergerak dan hidup.
+
+Proses dan Cara Pembuatannya
+
+Dalam proses pembuatan stop motion terdapat beberapa hal yang perlu diperhatikan agar hasil yang didapat sesuai dengan yang diharapkan, seperti keahlian dan ketelitian untuk menggerakkan obyek atau boneka, teknik pengambilan gambar yang tepat untuk komposisi gambar yang diperlukan dan untuk menghasilkan gambar yang bagus serta terkonsep secara matang.
+
+Untuk menghasilkan kualitas stop motion yang baik dan efektif, tahap pertama yang harus dilakukan adalah membuat skenario atau skrip terlebih dulu, merancang dasar konsep obyek dan layout setting yang dibutuhkan agar sesuai dengan tema yang diinginkan.
+
+Keahlian dalam editing dan menguasai penggunaan kamera dan software juga sangat mendukung dalam pembuatan video stop motion ini. Tahap pengeditan, pemberian efek, pencampuran audio dan video juga sangat berpengaruh agar hasil tampak sempurna dan mempunyai unsur cerita tersendiri.
+
+Dalam membuat stop motion yang terkonsep jelas kita harus menyiapkan banyak gambar. Tidak hanya belasan gambar, bisa jadi puluhan sampai ratusan bahkan ribuan gambar. Nah, untuk menyatukan gambar-gambar tersebut hingga menjadi video, kita bisa menggunakan aplikasi Windows Movie Maker atau aplikasi sejenisnya
+
+Untuk perlengkapan pembuatan, kalian hanya butuh:
+
+1. Camera : camera apa saja bisa digunakan seperti camera Pocket, camera Handphone, Webcame, Lele, Lomo, atau DSLR tapi disini saya mengunakan camera DSLR.
+
+2. Siapkan obyek yang sudah ditentukan, seperti tulisan-tulisan yang menjadi tujuan konsep, benda-benda yang mendukung, background dan sebagainya. Atau kalau anda narsis, bisa jadi anda sendiri adalah obyeknya.
+
+3. Siapkan juga media untuk proses pengeditan hasil jepretan kamu itu agar menjadi stop motion seperti : Laptop, PC, Notebook atau gadget-gadget lainya yang mendukung untuk proses pembuatan dan mempunyai aplikasi pengeditan video, seperti Movie Maker atau sejenisnya.
+
+4. Siapkan juga tripod (jika diperlukan). Tripod disini berfungsi untuk menyanggah camera sekaligus menghindari agar hasil jepretan tidak berpindah posisi terlalu jauh dan tetap pada satu posisi yang sama, supaya hasil stop motion tetap pada alur konsep yang telah ditentukan
+
+Tahap-tahap pembuatannya:
+
+1.) Lakukan pemotretan terhadap objek, ingat ya.. step perstep pergerakan harus di potret, agar nanti saat penggabungan foto akan terasa emosionalnya, atur gerakan dan arah pemotretan sesuai keinginan.
+
+2.) Pastikan jangan sampai ada bagian foto yang terlewatkan atau bahkan sampe hilang terhapus. Setelah proses pemotretan selesai gabungkan semua foto dengan menggunakan softwere pengeditan movie. Disini saya menggunakan aplikasi moviemaker.
+
+Tapi sebelum kamu meng load foto-foto ke aplikasi, lakukan penyetingan sebagai berikut tools>option>advance>picture duration set ke 0.125 kemudian OK.
+
+3.) Setelah melakukan penyetingan import foto import > picture > browse cari dimana letak foto anda yang akan diedit, masukan semua foto-foto kamu kesana klick saja Ctrl + A lalu ok.
+
+4.) Lalu jika semua foto telah di import masukan semua foto kedalam storyboard  dengan menahan SHIFT sambil click poto pertama trus click poto terakhir, SHIFT masi ditahan ya.
+
+5.) Untuk menambahkan suara-suara agar lebih menarik klick saja import > audio or music import ke story board jika gerakan gambar tak sesuai dengan nada lagu lakukan pengaturan speed dengan cara klick timline yang ada pada sebelah kiri story board beri ceklist di timeline kemudian atur posisi gambar pada story board.

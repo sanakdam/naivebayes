@@ -1,0 +1,91 @@
+Standar Komunikasi OSI Layer
+By Dewi Isrofiati September 04, 2017  No comments
+                                 STANDAR KOMUNIKASI OSI LAYER
+
+
+
+    
+
+Standar Organisasi
+Standar adalah suatu hal yang penting dalam penciptaan dan pemeliharaan sebuah kompetisi pasar daripada manufaktur perangkat komunikasi dan menjadi jaminan interoperability data dalam proses komunikasi. Standar komunikasi data dapat dikategorikan dalam 2 kategori yakni kategori de facto (konvensi) dan de jure (secara hukum atau regulasi).
+
+Berbagai macam organisasi standar
+
+1. Internet Engineering Task Force(IETF) adalah badan dunia yang menjadi kunci di balik perkembangan Internet, biasanya mengambil jalan sangat demokratis, terbuka, open standard, praktis mengadopsi yang terbaik yang ada di lapangan, dan yang lebih penting lagi IETF lebih cepat berkembang dan terkenal dalam komunikasi data dan Internet. Cukup masuk akal karena IETF memang besar bersama Internet dan protokol IP.
+
+2.International Telecomunnication Union (ITU) adalah tempat berkumpulnya para regulator telekomunikasi dan operator telekomunikasi (termasuk Telkom, Telkomsel  & Indosat) secara tradisional akan memilih jalur formal, resmi dan sangat top down.
+
+3. International Standards Organization (ISO) adalah sebuah badan multinasional yang didirikan tahun 1947 yang bernama International Standards Organization (ISO) sebagai badan yang melahirkan standar – standar aspek yaitu model OSI. OSI adalah open system interconnetion yang merupakan himpunan protokol yang memungkinkan terhubungnya 2 sistem yang berbeda yang berasal dari underlying archeticture yang berbeda pula.
+
+
+4.American National Standards Institute (ANSI) adalah sebuah kelompok yang mendefinisikan standar Amerika Serikat untuk industri pemrosesan informasi. ANSI berpartisipasi dalam mendefinisikan standar protokol jaringan dan merepresentasikan Amerika Serikat dalam hubungannya dengan badan-badan penentu standar International lain, misalnya ISO,  Ansi adalah organisasi sukarela yang terdiri atas anggota dari sektor usaha, pemerintah, dan lain-lain yang mengkoordinasikan aktivitas yang berhubungan dengan standar, dan memperkuat posisi Amerika Serikat dalam organisasi standart nasional. ANSI membantu dengan komunikasi dan jaringan. ANSI adalah anggota IEC dan ISO.
+
+
+5.Institute Of Electrical and Electronics Engineers(IEEE) adalah organisasi nirlaba internasional, yang merupakan asosiasi profesional utama untuk peningkatan teknologi. Sebelumnya, IEEE merupakan kepanjangan dari Institute of Electricaland Electronics Engineers. Namun berkembangnya cakupan bidang ilmu dan aplikasi yang diperdalam organisasi ini membuat nama-nama kelektroan dianggap tidak relevan lagi, sehingga IEEE tidak dianggap memiliki kepanjangan lagi, selain sebuah nama yang dieja sebagai Eye-triple-E.
+
+  OSI
+Model referensi jaringan terbuka OSI atau OSI Reference Model for open networking adalah sebuah model arsitektural jaringan yang dikembangkan oleh badan International Organization For  Standarzation (ISO) di Eropa pada tahun 1977 OSI sendiri merupakan singkatan dari Open System Interconnection. Model ini disebut juga dengan model "Model tujuh lapis OSI" (OSI seven layer model).
+Sebelum munculnya model referensi OSI, sistem jaringan komputer sangat tergantung kepada pemasok (vendor). OSI berupaya membentuk standar umum jaringan komputer untuk menunjang interoperatibilitas antar pemasok yang berbeda.
+
+fungsi 7 layer OSI
+
+7.Aplication layer
+   
+Lapisan ke-7 ini menjelaskan spesifikasi untuk lingkup dimana aplikasi jaringan berkomunikasi dg layanan jaringan. Menyediakan jasa untuk aplikasi pengguna. Layer ini bertanggungjawab atas pertukaran informasi antara program komputer, seperti program e-mail, dan service lain yang jalan di jaringan, seperti server printer atau aplikasi komputer lainnya. Berfungsi sebagai antarmuka dengan aplikasi dengan fungsionalitas jaringan, mengatur bagaimana aplikasi dapat mengakses jaringan, dan kemudian membuat pesan-pesan kesalahan.
+# protokol yang berada pada lapisan ini
+   1.HTTP (Hyper Text Transfer Protocol )
+   2. FTP (File Transfer Protokol)
+   3. NFS (Network File system)
+   4. DNS (Domain Name System)
+   5. POP3 (Post Office Protocol)
+   6. MIME (Multipurpose Internet Mail Exension)
+   7. SMB (Server Messange Block)
+   8. NNTP (Network News Transfer Protocol)
+   9. DHCP (Dynamic Configuration Protocol)
+
+6. Presentation Layer :
+Lapisan ke-6 ini berfungsi untuk mentranslasikan data yang hendak ditransmisikan oleh aplikasi ke dalam format yang dapat ditransmisikan melalui jaringan
+#protokol yang berada pada level ini :
+  1.TELNET
+  2. SMTP (Simple Mail Transfer Protocol
+  3. SNMP (Simple Network Management Protocol)
+
+5. Session layer:
+Lapisan ke-5 ini berfungsi untuk mendefinisikan bagaimana koneksi dapat dibuat, dipelihara, atau dihancurkan. Selain itu, di level ini juga dilakukan resolusi nama.
+#protokol yang berada pada lapisan ini
+  1.NETBIOS
+  2.NETBEUI (NETBIOS Extended User Interface)
+  3.ADSP (AppleTalk Data Stream Protocol)
+  4.PAP (Printer Access Protocol)
+  5.SPDU (Session Protokol Data unit)
+  6. RCP
+
+4. Transport layer :
+Lapisan ke-4 ini berfungsi untuk memecah data ke dalam paket-paket data serta memberikan nomor urut ke paket-paket tersebut sehingga dapat disusun kembali pada sisi tujuan setelah diterima.
+#protokol yang berada pada lapisan ini
+  1.TCP (Trasmission Control Protocol)
+  2. UDP (User Datagram Protocol)
+ 
+3. Network layer :
+Lapisan ke-3 ini berfungsi untuk mendefinisikan alamat-alamat IP, membuat header untuk paket-paket, dan kemudian melakukan routing melalui internetworking dengan menggunakan router dan switch layer-3.
+# protokol yang berada pada lapisan ini
+  1. IP (Internetworking Protocol)
+  2.ARP (Address Resulotion Protocol)
+  3.RARP (Reverse Address Resulotion Protocol)
+  4. ICMP (Internet Control Message Protocol)
+  5. IGMP (Internet Group Message Protocol)
+ 
+2. Data-link layer :
+Lapisan ke-2 ini berfungsi untuk menentukan bagaimana bit-bit data dikelompokkan menjadi format yang disebut sebagai frame. Selain itu, pada level ini terjadi koreksi kesalahan, flow control, pengalamatan perangkat keras (seperti halnya Media Access Control Address (MAC Address)), dan menetukan bagaimana perangkat-perangkat jaringan seperti hub, bridge, repeater, dan switch layer 2 beroperasi.
+ # protokol yang berada pada lapisan ini
+   1.PPP (Point to Point Protocol)
+   2. SLIP (Serial Line Internet Protocol)
+
+1. Physical layer :
+Lapisan ke-1 ini berfungsi untuk mendefinisikan media transmisi jaringan, metode pensinyalan, sinkronisasi bit, arsitektur jaringan (seperti halnya Ethernet atau Token Ring), topologi jaringan dan pengabelan.
+#protokol yang berada pada lapisan ini
+  1.Layer TCP/IP
+
+
+Internet Standar  
+dalam teknik jaringan komputer  standard internet adalah spesifikasi normatif teknologi atau metodologi yang berlaku ke internet standard internet diciptakan dan diterbitkan oleh internet enggineering task force (ietf) 

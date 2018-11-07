@@ -1,0 +1,61 @@
+ELEMEN ELEMEN MULTIMEDIA
+
+ iblisbernyawa
+4 years ago
+Advertisements
+
+Pengertian Multimedia
+Pengertian Multimedia adalah media dan konten yang menggunakan kombinasi dari bentuk konten yang berbeda. Istilah ini dapat digunakan sebagai kata benda (media dengan beberapa bentuk) atau sebagai kata sifat yang menggambarkan media yang memiliki beberapa bentuk konten. Istilah ini digunakan dalam media yang berbeda dengan hanya menggunakan layar komputer dasar seperti teks saja, atau bentuk-bentuk tradisional dari bahan cetak. Intinya Pengertian Multimedia adalah kombinasi teks, audio, gambar diam, animasi, video, atau bentuk interaktivitas konten
+Penyajian dengan menggabungkan seluruh elemen multimedia tersebut menjadikan informasi dalam bentuk multimedia yang dapat diterima oleh indera penglihatan dan pendengaran, lebih mendekati bentuk aslinya dalam dunia sebenarnya. Multimedia interaktif adalah bila suatu aplikasi terdapat seluruh elemen multimedia yang ada dan pemakai (user) diberi kebebasan / kemampuan untuk mengontrol dan menghidupkan elemen-elemen tersebut. Kegunaan Multimedia Untuk Teknik Mesin
+Multimedia dimanfaatkan dalam berbagai aplikasi dan software simulasi yang berbasis teknik, seperti Autocad untuk merancang bangunan rumah, dalam bidang automotif software yang digunakan adalah Catia, Autodesk Inventor dan Solidworks, untuk simulasi menggunakan software CFD dan lain-lain. Simulasi dapat menampilkan objek- objek dua dimensi atau tiga dimensi yang dapat membantu dalam jurusan teknik mesin, multimedia dapat menampilkan objek komponen beserta karakteristik menyerupai bentuk nyata dan dapat menunjukan hasil dari simulasi yang berupa gelombang, angka dan persamaan matematis yang biasa disebut hasil simulasi atau post. Fungsi software dapat membantu karena dapat mempermudah menggambar dan mengetaui hasil simulasi dari benda yang kita analisa tanpa harus kita hitung secara keseluruhan. Hasil yang didapatkan dalam meenggunakan software itu tidak
+jauh berbeda karena software mempunyai nilai kesalahan 10% saja dari hasil
+sebenarnya.
+Elemen Multimedia
+Teknologi multimedia mulai diperkenalkan pada pertengahan tahun 80-an dan
+telah membuka dimensi baru dalam Teknologi Informasi. Teknologi multimedia telah
+membawa satu perubahan drastis pada industri media karena kemampuannya
+menyatukan kelebihan televisi sebagai alat audio visual dan kekuatan teknologi mesin
+cetak dan kemampuan teknologi interaktif komputer.
+Terdapat 5 elemen multimedia penting yang mendasar pada yaitu:
+1. Teks
+2. Grafis
+3. Audio
+4. Video
+5. Animasi
+1. Teks
+Merupakan elemen multimedia yang menjadi dasar utama dalam menyampaikan
+informasi, karena teks adalah jenis data yang paling sederhana dan membutuhkan
+tempat penyimpanan yang paling kecil. Biasanya dihasilkan oleh program
+pengolah kata dan merupakan informasi yang utama pada sebagian besar
+multimedia. Teks memegang peranan dasar dalam menyusun dokumen, karena
+hamper seluruh aplikasi multimedia menggunakan teks sebagai alat presentasi
+informasi yang paling sesuai untuk mendeskripsikan suatu nama, definisi atau
+aturan Memberi penekanan untuk sesuatu materi yang ingin disampaikan. Jenisjenis
+teks yang terdapat pada sebuah software ada berbagai macam, seperti : Times New Roman, Arial, Calibri, Comic sans dan lain lain 2. Grafis
+Merupakan elemen paling penting, memberikan penekanan secara visual terhadap sesuatu presentasi maklumat.Membantu menyampaikan informasi dengan lebih berkesan.Menjadikan presentasi atau penyampaian informasi dengan lebih menarik. penyampaian informasi akan menjadi semakin efektif dan bermanfaat, terutama informasi yang tidak dapat dijelaskan dengan kata-kata. Berikut adalah bidang aplikasi spesifik dari grafika komputer:
+• Antarmuka pengguna
+• Peta (Cartography)
+• Kesehatan
+• Perancangan objek
+• Sistem multimedia
+• Presentasi grafik
+• Presentasi saintifik
+• Pemrosesan citra
+• Simulasi
+3. Audio – Membantu menyampaikan informasi dengan lebih efektif (misalnya: penggunaan suara latar atau kesan audio khusus). Membantu meningkatkan daya tarik terhadap sesuatu tayangan.Membantu meningkatkan daya tarik terhadap isi yang di presentasikan. Multimedia tidak akan lengkap jika tanpa suara. Suara terbagi menjadi tiga katagori :
+1. Ucapan (speech) : suara orang berbicara
+2. Musik (music) : suara yang dihasilkan oleh alat music
+3. Efek suara (sound effect) : suara yang dibuat untuk menciptakan kesan atau kejadian, seperti suara tembakan, halilintar, gelas pecah, dll 4. Video – Menyediakan metode penyaluran informasi yang amat menarik dan hidup.Merupakan elemen atau media yang sangat dinamis dan efektif dalam menyampaikan informasi. Merupakan gabungan elemen multimedia yang lengkap karena menggabungkan semua elemen multimedia yanga ada untuk menyajikan informasi video menggunakan system animasi yang diambil melalui suatu kamera video dan disimpan dalam bentuk file dan format tertentu. 5. Animasi – Berperan sebagai penarik pada sebuah presentasi dan sangat membantu dalam menjelaskan suatu konsep yang kompleks dengan mudah. Animasi mengacu pada gambar-gambar yang bergerak. Animasi dapat dihasilkan dengan menayangkan frame-frame (bingkai-bingkai) gambar secara cepat untuk menghasilkan efek pergerakan. Animasi dapat dibagi ke dalam dua katagori :
+1. Animasi buatan. Animasi yang dihasilkan oleh manusia melalui bantuan program komputer.
+2. Animasi video. Animasi yang dihasilkan melalui rekaman darikamera video dan kejadian yang sesungguhnya.
+6. Special Efek
+Special Effects atau Efek Spesial di dalam bahasa indonesia, sering disingkat SFX atau SPFX banyak digunakan di dalam dunia film, pertelevisian dan hiburan. Dengan definisi ini, efek spesial tidak cuma terdapat dalam film, seperti yang diketahui masyarakat awam. Efek spesial tidak hanya berwujud gambar, tetapi memiliki pengertian luas. Jadi kalau kita sering melihat pertunjukan musik dengan segala macam sinar laser, kembang api, hal tersebut dapat pula dikategorikan sebagai efek spesial.
+Adapun bentuknya, efek special digunakan untuk meningkatkan dampak suatu objek terhadap indra manusia. Obyek tersebut berupa tontonan, gambar, atau pertunjukan. Dengan demikian, diharapkan efek special bias menigkatkan ketertariakn seseorang terhadap obyek tersebut.
+7. Interaktifitas
+Komunikasi antara orang-orang secara tatap muka ,yang memungkinkan setiap pesertanya menangkap reaksi orang lain secara langsung,baik secara verbal ataupun nonverbal. Kenyataannya komunikasi tatap muka membuat manusia merasa lebih akrab dengan sesamanya,berbeda dengan komunikasi lewat media massa seperti surat kabar dan televisi atau lewat teknologi komunikasi tercanggih sekalipun seperti telepon genggam, Email, atau telekonferensi, yang membuat manusia merasa terasing.
+Komunikasi manusia adalah komunikasi yang mengisyarakat penyampaian pesan searah dari (atau suatu lembaga) kepada seseorang (sekelompok orang) lainnya,baik secara langsung (tatap muka) ataupun melalui media, seperti surat (selebaran), surat kabar, majalah, radio, atau televisi. Jadi,komunikasi dianggap suatu proses linier yang dimulai dengan sumber atau pengirim dan berakhir pada penerima,sasaran atau tujuannya.
+Pemahaman komunikasi sebagai proses searah sebenarnya kurang sesuai bila diterapkan pada komunikasi tatap-muka,namun mungkin tidak terlalu keliru bila diterapkan pada komunikasi publik (pidato) yang tidak melibatkan tanya jawab dan komunikasi massa (cetak dan elektronik). Akan tetapi, komunikasi massa melalui radio dan telivisi pun sekarang ini juga cenderung dua arah (interaktif). Suatu acara di radio, ataupun telivisi, sering mengadakan acara yang melibatkan tanya jawab secara langsung dengan pendengar atau pemirsa.
+Perangkat aturan (meskipun tidak tertulis) yang ditetapkan di keluarga mempengaruhi cara berkomunikasi, begitu pun perangkat aturan (tertulis) yang di tetapkan pemerintah. Pemerintah,melalui aturan-aturannya, hingga derajat tertentu menetapkan norma komunikasi warganya, baik komunikasi langsung
+ataupun komunikasi bermedia, termasuk komunikasi massa. Setiap negara biasanya memiliki suatu sistem komunikasi tertentu.
+Kesimpulan :
+Bahwa fungsi multimedia untuk jurusan teknik mesin sangat membantu sekali karena dapat mempermudah menggambar dan mengetaui hasil simulasi dari benda yang kita analisa tanpa harus kita hitung secara keseluruhan. Hasil yang didapatkan dalam meenggunakan software itu tidak jauh berbeda karena software mempunyai nilai kesalahan 10% saja dari hasil sebenarnya.

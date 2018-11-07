@@ -1,0 +1,132 @@
+1.      Pengertian.
+Animasi komputer adalah seni menghasilkan gambar bergerak dengan sendiri melalui penggunaan komputer dan merupakan sebagian bidang komputer grafik dan animasi. Animasi komputer salah satu bentuk modern cara pembuatan dan pengembangan animasi dengan teknik stop motion dalam animasi tradisional. Animasi komputer atau animasi CGI(Computer generated Imagery) ini sendiri merupakan sebuah proses yang digunakan untuk menghasilkan sebuah gambar atau animasi itu sendiri dengan menggunakan komputer grafis. Dengan menggunakan Animasi CGI kita dapat membuat suatu animasi dengan adegan yang statis dan dinamis, sedangkan animasi komputer hanya mengacu pada sebuah gambar yang bergerak.
+
+Animasi tradisional pada dasarnya merupakan penerus digital dengan teknik stop motion yang digunakan dalam animasi tradisional. Animasi ini menggunakan model 3D dan frame by frame animasi ilustrasi 2D. Dengan menggunakan metode ini , animasi yang dihasilkan lebih terkendali daripada menggunakan proses manual, contohnya seperti saat kita ingin membaangun sebuah miniatures dengan memberikan efek keramaian tempat tersebut.
+
+ 
+
+2.      Sejarah dan Perkembangan
+Animasi komputer awal digital dikembangkan di Bell Telephone Laboratories pada tahun 1960 oleh Edward E. Zajac, Frank W. Sinden, Kenneth C. Knowlton, dan A. Michael Noll. Animasi digital lainnya juga dipraktekkan di Lawrence Livermore National Laboratory. Komputer animasi awalnya, digunakan untuk tujuan penelitian ilmiah, teknik dan lainnya, tetapi eksperimentasi artistik mulai terjadi pada pertengahan 1960-an.
+
+Pada pertengahan 1970-an, cara ini mulai masuk ke media publik. Banyak komputer grafis saat ini melibatkan penggambaran 2-dimensi, meskipun semakin banyak, seiring daya komputer meningkat, upaya untuk mencapai 3-dimensi realisme menjadi penekanan untuk perkembangan animasi komputer. Pada akhir 1980-an, foto-realistis 3-D mulai muncul di film bioskop, dan pada pertengahan 1990-an telah dikembangkan ke titik di mana 3-D animasi dapat digunakan untuk produksi film keseluruhan.
+
+Saat ini Animasi komputer modern biasanya menggunakan komputer grafis 3D, walaupun grafik komputer 2D masih digunakan, hal ini dikarenakan dengan menggunakan komputer 2D bisa membuat gaya, bandwidth lebih rendah, dan lebih cepat real-time rendering. Dengan menggunakan animasi komputer itulah seniman mulai menggunakan mesin permainan untuk membuat film non-interaktif, yang mengarah ke Machinima berbentuk seni.
+
+Fitur-panjang komputer pertama film animasi adalahn film Toy Story oleh Pixar tahun 1995 . Animasi ini mengikuti petualangan mainan dan pemiliknya. Film terobosan ini adalah yang pertama dari banyak film penuh animasi komputer.Selain itu dengan Animasi komputer diciptakanlah film blockbuster seperti Toy Story 3 (2010), Avatar (2009), Shrek 2 (2004), dan Cars 2 (2011).
+
+ 
+
+3.      Cara Kerja animasi komputer dan perkembangan teknologi.
+Proses pembuatan animasi awalnya melibatkan penggunaan gambar tangan (manual), Dengan ditemukannya komputer maka beban yang dikerjakan oleh para animatorpun sedikit terkurangi. Sebagai teknologi canggih dengan adanya komputer lebih mempermudah pembuatan animasi,dan konsep tiga dimensi (3D) animasi pun menjadi mungkin. Melalui perangkat lunak dan pengembangan perangkat keras, komputer dapat menciptakan ruang 3D virtual untuk proses animasi. Hal ini juga membuat lebih mudah untuk mengedit urutan animasi karena lebih mudah untuk mengubah informasi digital. Namun, kita juga harus ingat bahwa sudut pandang yang diberikan pada animasi 3D akan menjadi sama dengan animasi 2D. Kedua jenis animasi yang ditampilkan pada permukaan 2D,  merupakan layar. Satu-satunya perbedaan adalah seniman memiliki kontrol lebih besar atas animasi 3D dibandingkan animasi 2D. Dalam animasi 2D, jika sudut pandang perlu diaktifkan, seniman harus kembali menggambar gambar dalam sudut yang berbeda. Namun, dalam animasi 3D, semuanya adalah model 3D dalam dunia virtual 3D. Itu berarti para seniman hanya perlu mengganti tampilan kamera dengan menggunakan bantuan software. Dengan demikian, itu membuat animasi 3D lebih mudah untuk memproses dan terlihat lebih realistis.
+
+Animasi grafis tidak hanya berhenti di film dan gambar gambar bergerak, tetapi juga maju ke bidang yang berbeda dengan bantuan teknologi baru. Komputer dapat membuat foto realistis tanpa bantuan kamera dan akhirnya membuat footages animasi yang tampak seperti mereka tangkap oleh kamera video. Perangkat  video capture menjadi lebih canggih dan kuat. Film dapat direkam dengan resolusi sangat tinggi, dan proses transfer kepada konsumen menjadi lebih mudah. Namun demikian, peran teknologi memainkan bagian yang sangat besar dalam animasi, karena teknologi mempengaruhi perkembangan hardware dan software baru untuk proses pembuatan animasi. Bukan hanya itu, kemajuan perangkat capture seperti kamera video juga dapat menghasilkan film dengan resolusi yang lebih tinggi, sehingga membuat Computer Graphic Pencitraan (CGI) sangat fokus.
+
+Sekitar beberapa ratus tahun yang lalu di mana tidak ada mikroprosesor, proses pembuatan animasi lambat dan kualitas tidak benar-benar baik. Namun, sebagai teknologi baru yang ditemukan seperti komputer, proses render film menjadi lebih mudah setiap hari. Namun, karena teknologi baru memungkinkan gambar untuk memiliki resolusi sangat tinggi, daya perangkat keras pengolahan juga menjadi tantangan. Dengan “tenaga kuda” adanya komputer CPU (Central Processing Unit) dan GPU (Graphic Processing Unit), waktu render untuk gambar selama 20 tahun terakhir hanyamenghabiskan beberapa detik untuk menyelesaikannya. Namun, karena resolusi tinggi, proses render akan memakan waktu lebih lama. Misalnya, film “Transformers”, sebuah film tentang robot alien yang mencoba untuk menyerang bumi. Satu detik dari film biasanya memiliki 24 frame, dan kita dapat melihat lama waktu yang diperlukan untuk membuat rekaman CGI yang mengagumkan dengan teknologi terbaru yang tersedia.
+
+Perkembangan teknologi tidak akan pernah berhenti dan dengan demikian animasi juga akan berkembang. Jika kita lihat kembali pada teknologi lama, kita harus kagum dengan kreativitas tersebut. Jika gambar menjiwai dapat dibuat dari teknologi kuno tersebut, bisa dipastikan akan ada lagi prestasi yang luar biasa di masa depan dengan penemuan canggih. Mungkin di masa depan, animasi 3D tidak akan terbatas pada layar 2D, tetapi kita akan melihat animasi 3D pada lingkungan nyata 3D .
+
+ 
+
+ 
+
+4.      Tipe dan Jenis animasi computer
+TIPE ANIMASI KOMPUTER
+
+a.        Animasi 2 Dimensi
+Animasi 2 Dimensi adalah animasi yang paling sering kita jumpai, animasi ini biasa disebut dengan kartun. Animasi ini berbasis pada konsep gambar 2 dimensi.Contoh-contoh dari animasi ini adalah Doraemon,Shin Chan dan lain lain.
+
+b.      Animasi 3 Dimensi
+Animasi 3 Dimensi merupakan perkembangan dari animasi 2 dimensi. Dengan berdasarkan pada konsep gambar 3 dimensi sehingga menghasilkan animasi yang lebih realistis, detail dan nyata karena hampir menyerupai bentuk aslinya. Contoh dari animasi 3 Dimensi sendiri adalah Toys Story 3,Ants Finding Nemo dan lain-lain.
+
+JENIS ANIMASI KOMPUTER
+
+a.       Komputer Assist
+Beberapa contoh pertama dari animasi komputer komersial secara tradisional menggunakan bantuan komputer. Hal ini bisa dalam bentuk komputer  yang memproduksi ” perantara” atau gambar yang menghubungkan dua inputan yang sama oleh seniman (sehingga memungkinkan seniman untuk menggambar karakter lebih sedikit). Komputer animasi pembantu pertama kali digunakan dalam sebuah film animasi di “The Mouse Detective Besar” Disney pada tahun 1986. Sebuah adegan dalam film berlangsung didalam jam, dan roda gigi mekanik kompleks benar-benar diberikan dalam komputer sebagai kawat-frame grafis sebelum dipindahkan ke sel, di mana mereka bersatu dengan unsur-unsur lain dari TKP. Teknik yang sama digunakan oleh Disney dalam film kemudian seperti “Beauty and the Beast” (1991), “Pocahontas” (1995) dan “Tarzan” (1999) .
+
+b.      Gerak Kontrol dan Script
+Animasi komputer yang paling modern menggunakan sistem kendali gerak yang digunakan oleh animator untuk  memanipulasi pembuatan sebuah objek, dan kemudian memindahkan obyek telah yang melalui serangkaian pose. Metode ini  menghasilkan gerakan yang akan menghasilkan gambar gerakan akhir. Animasi gerak kontrol pertama dilakukan dengan sistem scripting seperti ASAS (Aktor Script Sistem Animasi). Dalam skenario ini, animator adalah seorang programmer komputer yang menulis kode dalam bahasa komputer untuk menghasilkan sebuah objek dan memberikan gerakan obyek itu. Sebagai animasi komputer berkembang, sistem yang lebih interaktif dikembangkan untuk memungkinkan animator untuk berinteraksi dengan gambar dan benda-benda melalui antarmuka yang lebih abstrak. Kode sekarang ditulis secara otomatis, berdasarkan masukan yang animator membuat menggunakan antarmuka visual dan memanipulasi subjek dengan mouse, keyboard atau perangkat input lainnya.
+
+c.       CGI Compositing
+Animasi komputer juga digunakan di tempat teknik yang lebih tua dari film animasi. Sejak adanya  bioskop, unsur-unsur animasi telah ditambahkan kedalam gambar difoto. Unsur-unsur lain, seperti model atau latar belakang dicat, juga digunakan dan harus susah payah dipasangkan dengan rekaman live-action. Ini melibatkan proses optik panjang di mana berbagai elemen yang kembali difoto beberapa kali agar dapat composited bersama menjadi satu gambar. Karena kompleksitas proses, efek khusus yang mahal dan jarang digunakan dalam jumlah besar oleh semua tapi film yang paling tinggi dibiayai. Komputer citra yang dihasilkan mengubah semua itu, yang memungkinkan pembuat film untuk menggunakan layar biru atau hijau untuk memilih bagian dari film yang nantinya dapat dengan mudah dihilangkan dengan komputer dan diganti dengan gambar dari sumber lain, baik foto atau sepotong adegan animasi. Komputer compositing animasi bahkan berfungsi di banyak konsumen tingkat program video editing.
+
+d.      Motion Capture
+Motion capture adalah jenis animasi komputer yang telah memperoleh banyak minat dalam beberapa tahun terakhir. Motion capture ini bergantung pada sensor kecil yang ditempatkan pada karakter di berbagai titik di sekitar tubuh mereka. Para aktor melakukan dan gerakan mereka ditangkap oleh kamera yang dapat menemukan sensor dan melacak gerakan mereka. Gerakan ini kemudian dapat ditransfer ke komputer-tokoh yang dirancang akan bergerak dengan cara yang persis sama seperti aktor lakukan. Motion capture sangat signifikan bagi yang menjembatani kesenjangan antara metode  tradisional pembuatan film dan teknologi baru. Beberapa contoh dari motion capture termasuk, Gollum di film “Lord of the Rings”,
+
+e.       Animasi Flash
+Salah satu jenis akhir animasi komputer adalah Flash animasi. Animasi Flash merupakan salah satu nama untuk program Flash dari Adobe yang telah mereka produksi, meskipun saat ini ada program lain yang juga memungkinkan animator untuk menciptakan “flash” animasi. Walaupun keterbatasan dalam hal gerakan dan gaya, namun Flash lebih murah untuk memproduksi ,karena itu sekarang flash semakin meningkat popularitasnya. Animasi Flash sering digunakan dalam iklan dan umum sebagai konten video di situs Web.
+
+ 
+
+5.      Kegunaan Animasi Komputer
+Kegunaan dari animasi komputer pada era ini sangat banyak. Animasi komputer mendukung dalam perkembangan banyak industri, tidak menentu hanya pada bidang program komputer atau siaran televisi saja tetapi pada hampir seluruh bidang sepertipengaplikasian pada bidang pendidikan, rekayasa, produksi film, simulasi penerbangan, forensik, medis, militer, visual bercorak ilmiah, simulasi, penjelajahan ruang angkasa , dan produksi video. Setelah kesesuaian diadaptasikan ke dalam berbagai bidang, maka tidak mustahil peggunaannya akan diperluas lagi dalam bidang-bidang yang baru.
+
+Dibidang pertelevisianlah animasi komputer paling banyak digunakan. Animasi komputer dibuat untuk periklanan dalam televisi, atau sebagai acara animasi sehari-hari. Namun dibidang pendidikan, penggunaan animasi komputer juga tidak kalah digunakan, animasi komputer digunakan untuk perkembangan dalam pendidikan dengan menggunakan metode audio visual, selain itu dengan menggunakan animasi komputer yang banyak diminati anak-anak ini, membuat proses belajar jauh lebih menarik dan lebih mudah dipahami.
+
+ 
+
+
+
+ 
+
+Timeline adalah sebuah panel yang menentukan frame dan durasi pada animasi. Timeline tersebut akan menunjukkan dimana animasi akan terjadi, termasuk animasi frame by frame, animasi tween dan motion path.  Satuan yang digunakan dalam timeline adalah frame per second atau fps.
+
+Komponen yang ada dalam timeline, yaitu:
+
+–          Playhead
+
+–          Keyframe
+
+–           Header
+
+–          ikon guide layer
+
+–          tampilan menu timeline
+
+–          animasi frame-by-frame
+
+–          nimasi tween
+
+ 
+
+Keyframe adalah frame kunci yang dapat berdiri sendiri. Pada Adobe Flash, diumpamakan seperti kanvas yang berisi gambar. Apabila kita tambahkan sebanyak 5 keyframe dan salah satu keyframe kita ubah gambarnya tidak akan mempengaruhi gambar di keyframe yang lain.
+
+Blank keyframe adalah keyframe yang tidak memiliki gambar/objek di dalamnya. Pada  Adobe Flash, diumpamakan seperti kanvas yang kosong tanpa ada coretan bahkan titik di sana.
+
+Tweening adalah proses membuat sebuah animasi pergerakan dengan cara memberikan perubahan pada bentuk atau posisi objek dengan menentukan keyframe awal dan akhir sehingga dapat terbentuk frame – frame baru. Fungsi utamanya adalah untuk menggerakkan objek dari satu titik ke titik lainnya.
+
+ 
+
+Tweening yang digunakan dalam animasi ada 2 jenis yaitu Shape Tweening dan Motion Tweening.
+
+Shape Tweening
+tweening
+ 
+
+Shape tweening biasanya digunakan untuk membuat animasi perubahan bentuk.
+Yang perlu diperhatikan, shape tweening hanya dapat diterapkan untuk menganimasi obyek shape.
+
+Untuk hasil yang baik biasanya digunakan satu shape. Jika Anda menggunakan banyak shape, semuanya harus dalam layer yang sama.
+
+ 
+
+Motion Tweening
+Animasi motion tweening biasa digunakan untuk membuat animasi objek bergerak (dari satu posisi ke posisi lain), berputar, dan perubahan ukuran (skala).
+Motion tweening tidak dapat diterapkan pada objek shape. Teknik ini hanya dapat diterapkan pada objek instance atau yang berupa simbol, group, dan teks. Teknik ini juga dapat men-tween warna dari simbol dan tulisan, gradasi warna, fade in atau fade out. Tetapi untuk men-tween warna dari group tulisan, harus di ubah menjadi symbol terlebih dahulu.
+
+Animasi tweening dapat di terapkan dengan melakukan cara di bawah ini :
+
+Tentukan terlebih dahulu isi di dalam frame pertama dan terakhir (keyframe akhir).
+Di dalam jendela Timeline,klik salah satu frame di antara frame pertama dan frame terakhir.
+Di dalam jendela Properties kotak Tween pilihlah opsi Shape untuk menerapkan shape tweening (jika obyek yang diaminasi adalah obyek shape), atau opsi Motion untuk menerapkan motion tweening (jika obyek yang dianimasi bukan obyek shape).
+Teknik masking dalam pembuatan animasi ialah cara yang digunakan untuk menampilkan objek yang berada dalam layer yang di masked berdasarkan area yang bersimpangan dengan objek yang berada dalam layer mask.  Pada dasarnya animasi making terjadi dikarenakan penumpukan 2 buah objek yang dibuat dalam leyer yang berbeda, layer utama di ditutup layer objek dengan bantuan masking, sehingga objek utama hanya terlihat seukuran objek penutup/objek yang dijadikan masking. Atau dengan kata lain, objek yang terlihat adalah objek yang saling bertumpukan sedangkan objek yang lain disembunyikan.
+
+masking
+Masking dalam animasi mempunyai 2 metode dasar yaitu :
+
+1.Area masking yang bergerak, objek yang di mask diam.
+
+2.Area masking yang diam dan objek yang di mask yang bergerak.
+
+Kedua teknik tersebut akan menampilkan hasil animasi yang berbeda.  Selain itu area masking hanya boleh berupa fill. Jadi untuk outline (garis) tidak diperbolehkan.
+
+MovieClip merupakan suatu wadah untuk menaruh suatu objek.Sama halnya movieclip, di dalam movieclip juga bisa ditaruh 1 bahkan seribu gambar ataupunvideo. Satu movieclip juga bisa berisi sebuah movieclip lain. Pastinya jika movieclip di bagian dalam membesar, otomatis movieclip bagian luar juga membesar.

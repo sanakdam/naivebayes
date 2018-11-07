@@ -1,0 +1,182 @@
+Alir Proses Produksi Produk Multimedia SMK
+
+
+PROSES PRODUKSI PRODUK MULTIMEDIA ( LIFE CYCLE )
+ Terdiri dari 3 sub proses : Pre-Production, Production, Post Production.
+1.        Pre-Production
+Preproduction atau Pra Produksi merupakan tahapan perencanaan. Secara umum merupakan tahapan persiapan sebelum memulai proses produksi (shooting film atau video). Dengan lahirnya teknologi digital video dan metode nonlinear editing maka proses produksi video menjadi lebih mudah. Ketika kita akan memulai sebuah proyek, terkadang kita telah memiliki stock-shoot/footage video yang kita butuhkan, untuk itu kita harus melakukan peninjauan ulang segala kebutuhan sesuai dengan cerita yang akan kita buat. Artinya, kita harus mempersiapkan footage video yang telah ada, fotografi, diagram dan grafik, gambar ilustrasi, atau animasinya. Tetapi banyak pula para videographer yang memulai dari awal atau dari nol. Pada intinya tujuan pra produksi adalah mempersiapkan segala sesuatunya agar proses produksi dapat berjalan sesuai konsep dan menghasilkan suatu karya digital video sesuai dengan harapan.
+
+
+
+•      proses penuangan ide (proposal) produk,
+1.      Title goals / Judul Tujuan
+2.      Audience / pemirsa
+3.      Title Genre - Doom type game, nonprofit web site, kiosk, etc. / Judul Jenis Karya - jenis permainan Doom, situs web nirlaba, kios, dll
+Marketing requirements / Penentuan Pemasaran
+Budget parameters / Anggaran Dana
+Schedule requirements / Penentuaan Jadwal Pelaksanaan
+•       Desain
+1.      Berita / konten / jasa
+2.      Arsitektur Informasi
+3.      Visual dan suara
+4.      Teknis
+5.      Interaksi
+6.      Navigasi
+perencanaan produk,
+1.      Storyboard / konten garis
+a. Menentukan lingkup proyek - berapa banyak halaman, suara, animasi, dll
+b.Tentukan aliran proyek - organisasi dan navigasi
+c. Dari ini datang informasi yang dibutuhkan untuk sisa rencana produksi
+2.      Penganggaran
+a. Produksi
+b.Konten ahli dan konsultan lainnya
+c. Hak akuisisi &amp; izin
+d.                        Pengujian
+e. Duplikasi atau hosting versi uji
+3.      Penjadwalan
+a. Hak akuisisi &amp; izin
+b.Konten produksi
+c. Konten akuisisi (video, teks, gambar, dll)
+d.                        Rekayasa perangkat lunak
+e. Pengujian
+4.      Aset manajemen
+a. Organisasi
+b.Penamaan konvensi
+c. Revisi manajemen
+d.                        Backup
+5.      Pengujian
+a. Pengguna pengujian
+b.Konten pengujian
+c. Fungsional pengujian
+6.      Staf
+a. Berapa banyak staf di-rumah
+b.Berapa banyak kontraktor
+c. Siapa melakukan apa
+7.      Pembayaran tonggak
+•         Dokumentasi
+a.       Desain
+b.      Rencana Produksi
+•         Kumpulkan tim
+a.       Designer
+b.      Produsen
+c.       Teknis desainer
+d.      Seni Direktur
+e.       Audio produser
+f.       Penulis dan editor
+g.      Grafis seniman
+h.      Programmer / coders HTML
+i.        Komponis / suara desainer / musisi
+j.        Konten spesialis
+k.      Teknis asisten
+l.        Produksi asisten
+m.    Hak dan peneliti
+n.      Pengacara
+•         Membangun prototype
+a.       Menguji arah desain
+b.      Buktikan keluar komponen teknologi baru
+c.       Dapatkan semua orang pada halaman yang sama tentang apa proyek
+d.      Lihat bagaimana tim bekerja sama
+•         pengurusan hak cipta dan
+•         penandatanganan kontrak dan pembiayaan.
+Proses kerja Pre Produksi :
+Secara singkat praproduksi yaitu menentukan ide cerita kemudian mensketsakan beberapa adegan penting ke dalam bentuk naskah cerita.
+Lalu dibuat Storyboard untuk menerjemahkan naskah menjadi cerita yg lebih mendetail. Dibuat Karakter tokoh &amp; background awal. Lalu membuat Keyframe.
+Test Shot, yaitu sebuah rangkaian pendek gambar yg dirender dgn full color untuk memastikan teknik pergerakan dan renderingnya.
+Sebelum proses cells animation sendiri dimulai, dibutuhkan konsep cerita yang harus dibuat dalam bentuk narasi
+Beberapa elemen yang perlu menjadi pertimbangan pra produksi
+Apakah tujuan dan pesan yang ingin disanpaikan? Dan apa essensinya
+Siapa pemirsa yang akan di tuju? Siapa yang akan menjadi pengguna akhir dari karya ini?, seperti apa flat form pemutaran multimedia mereka?
+Apa keinginan klien?
+atau membuat sesuatu yang sama sekali baru?
+Apakah sarana yang menunjang untuk pembuatan proyek telah terpenuhi?
+Menginventarisir perangkat lunak yang dibutuhkan.
+Menginventarisir Orang yang terlibat serta pembagian job deskripsi
+Membuat schedule kerja.
+Merancanakan biaya yang dibutuhkan
+Merencanakan pendistribusian hasil kerjqa.
+Mengupdate hasil kerja
+
+Misalnya Proses Pembuatan Film
+Outline
+Untuk mempermudah membuat proyek video, maka kita harus membuat sebuah rencana kasar sebagai dasar pelaksanaan. Outline dijabarkan dengan membuat point-point pekerjaan yang berfungsi membantu kita mengidentifikasi material apa saja yang harus dibuat, didapatkan, atau disusun supaya pekerjaan kita dapat berjalan. Outline dapat disusun dengan rekan kerja atau dengan klien kita, supaya kita dapat menghasilkan sebuah visi dan persepsi yang sama tentang langkah pelaksanaan proyek yang akan dibuat.
+Script/Skenario
+Dengan menggunakan outline saja sebenarnya sudah cukup untuk memulai tahapan pelaksanaan produksi, tetapi dalam berbagai model proyek video, seperti iklan televisi, company profile, sinetron, drama televisi, film cerita dan film animasi tetap membutuhkan skenario formal yang berisi dialog, narasi, catatan tentang setting lokasi, action, lighting, sudut dan pergerakan kamera, sound atmosfir, dan lain sebagainya.
+Storyboard
+Apabila kurang cukup dengan outline dan scenario, maka kita dapat pula menyertakan storyboard dalam rangkaian perencanaan proses produksi kita. Storyboard merupakan coretan gambar/sketsa seperti gambar komik yang menggambarkan kejadian dalam film. Di dalam gambar tersebut juga berisi catatan mengenai adegan, sound, sudut dan pergerakan kamera, dan lain sebagainya. Penggunaan storyboard jelas akan mempermudah pelaksanaan dalam proses produksi nantinya
+Rencana Anggaran Biaya
+Ketika kita sedang mengerjakan proyek professional ataupun pribadi, maka sangat dianjurkan untuk merencanakan anggaran biaya produksi. Dalam proyek professional, rencana anggaran biaya berguna untuk mengamankan keuangan perusahaan. Tanpa anggaran biaya yang terencana, dan hanya mengandalkan spekulasi, maka prosentase kerugian akan menjadi besar. Rencana anggaran biaya meliputi gaji untuk kita, rekan kerja, actor dan talent lainnya (effect specialist, graphics designer, musisi, narrator, dan animal trainers), begitu pula dengan pembelian kaset DV, biaya sewa lokasi, kostum, properties, sewa peralatan, catering dan yang lainnya
+2.        Production
+Tahap produksi merupakan tahap ketika proyek multimedia di render kemungkinan terjadi menghadapi masalah-masalah misalnya ketika file grafis lenyap dari server atau lupa mengirim, ketika suara hilang ataupun hard disk mengalami crash.
+
+
+
+Gambar 4.  Production
+Ilustrasi pelaksanaan produksi Multimedia
+
+
+Proses ini terdiri dari :
+a.       Konten Penciptaan
+o Grafis
+o Teks
+o Animasi
+o Video
+o Suara EFX
+o Musik
+b.      Pemsrosesan isi: Proofing, editing, assembly, formatting, compression, Sesuaikan dengan isi, tujuan pesan  mungkin juga pengguna dari produk ini
+o Proofing / pemeriksaan
+o Mengedit
+o Majelis
+o Format
+o Kompresi
+c.       Penciptaan Perangkat Lunak
+o Authoring
+o pengembangan perangkat lunak kustom
+o Menerapkan perilaku interaksi judul
+o Penerapan database dan layanan backend lainnya
+d.      Pengintegrasian isi dan software harus memudahkan  pelanggan/ pengguna untuk mengakses atau menggunakannya, serta software yang digunakan harus up  date
+o Sangat dekat hubungan antara konten dan piranti lunak
+o Salah satu tidak dapat melanjutkan jauh tanpa yang lain
+o versi perangkat lunak berhasil dan konten berjalan dengn baik
+e.       Merevisi desain
+o pengujian informal pengguna
+o pengujian formal pengguna
+o Berdasarkan hasil tes, merevisi dokumen desain
+f.       Pembekuan desain
+g.      Merevisi isi dan software mengikuit desain akhir, produk yang terbaik biasanya hasil dari umpan balik yang berkesinambuangan dan modifikasi yang yang di implemantasikan pada seluruh proses produksi
+h.      Membangun versi Alpha
+Ditetapkannya fungsionalitas, mayoritas melengkapi implementasi, mengintegrasikan semua modul lengkap dengan judul dalam bangunan
+i.        Pertama pengujian dan pelaporan bug untuk kesalahan fungsional dan konten
+j.        Mengevaluasi laporan bug dan menentukan yang akan diperbaiki
+Mengevaluasi setiap hambatan yang terjadi, hasil evaluasi harus dibuat catatannya serta catatan antisifasinya ini penting untung pegangan proyek berikutnya yang akan dibahas pada saat memulai proyek selanjutnya, untuk menge-liminir kesalahan serta gangguan
+k.      Merevisi perangkat lunak dan konten didasarkan pada evaluasi bug
+temuan – temuan dijadikan acuan untuk merisi kekurangan baik,itu berupa software atau isi.
+l.        sisa bagian Lengkap dari judul
+m.    Membangun versi Beta judul lengkap
+o fungsionalitas penuh, tidak sepenuhnya diuji
+3.        Post Production
+
+Gambar 5. Post-Production
+Setelah proses produksi maka akan dihasilkan footage atau koleksi klip video. Untuk membangun dan menyampaikan cerita, maka harus mengedit dan menyusun klip-klip tersebut dan tentu saja menambahkan visual effects, gambar, title dan soundtrack. Proses diatas disebut dengan postproduction atau pasca produksi. Berikut ini merupakan aplikasi dari Adobe yang khusus dirancang untuk proses pasca produksi :
+       Adobe Premiere Pro, aplikasi editing yang real-time untuk para professional dalam bidang digital video production.
+      Adobe After Effect, sebuah aplikasi khusus untuk Motion Graphics dan Visual Effect
+       Adobe Audition™, aplikasi professional untuk pengolahan audio digital.
+      Adobe Encore™ DVD, aplikasi professional untuk DVD authoring.
+Selain aplikasi-aplikasi diatas, dikenal pula dua aplikasi grafis professional yang juga memainkan peranan penting dalam menghasilkan elemen grafis berkualitas tinggi, aplikasi tersebut adalah Adobe Photoshop® dan Adobe Illustrator®. Pada bab lain akan dibahas pula metode integrasi berbagai produk Adobe untuk keperluan pasca produksi
+Proses Ini Meliputi
+Pengujian versi Beta dan pelaporan bug untuk kesalahan fungsional dan konten
+a.       Proof content / Bukti konten - teks, gambar, suara, kredit, dll
+b.       Proof interaction / Bukti interaksi - link yang benar, tanggapan, tindakan
+c.       Check for unexpected interactions /Periksa interaksi tak terduga - desain adalah selalu tidak lengkap dan tidak mengantisipasi segala sesuatu yang dapat terjadi
+d.      Check for crashes/ Periksa untuk crash
+Mengevaluasi laporan bug dan menentukan yang akan diperbaiki
+Merevisi perangkat lunak dan konten didasarkan pada evaluasi bug
+Ulangi tes, laporan, merevisi siklus sampai bug dikurangi sampai tingkat yang dapat diterima
+Lepaskan Golden Master ke publik untuk situs web  atau manufaktur
+Arsip semua bahan produksi
+Sumber aset - foto, video &amp; kaset audio, dokumen, dll
+Master file digital - grafis, audio, teks, video, dan hal lain dalam resolusi tinggi, format diedit
+Akhir aset
+Perangkat Lunak
+alat Kustom
+Dokumentasi
+Menyampaikan Arsip &amp; Dokumentasi untuk klien

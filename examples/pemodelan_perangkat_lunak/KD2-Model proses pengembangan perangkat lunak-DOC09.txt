@@ -1,0 +1,178 @@
+MODEL PROSES PERANGKAT LUNAK
+Saturday, August 15, 2015
+
+
+1.      Model Sekuensial Linier atau Waterfall Development Model
+
+Berikut Merupakan Tahapan – tahapan Pengembangan  Model Sekuensial Linear / Waterfall Development Model :
+
+Rekayasa dan pemodelan sistem/informasi
+Analisis kebutuhan perangkat lunak
+Desain
+Pengkodean
+Pengujian
+Pemeliharaan
+
+Kelebihan Model Sekuensial Linear / Waterfall Development Model :
+Tahapan proses pengembangannya tetap (pasti), mudah diaplikasikan, dan prosesnya teratur.
+Cocok digunakan untuk produk software/program yang sudah jelas kebutuhannya di awal, sehingga minim kesalahannya.
+Software yang dikembangkan dengan metode ini biasanya menghasilkan kualitas yang baik.
+Documen pengembangan sistem sangat terorganisir, karena setiap fase harus terselesaikan dengan lengkap sebelum melangkah ke fase berikutnya.
+Kekurangan Model Sekuensial Linear / Waterfall Development Model :
+Proyek yang sebenarnya jarang mengikuti alur sekuensial seperti diusulkan, sehingga perubahan yang terjadi dapat menyebabkan hasil yang sudah didapatkan tim pengembang harus diubah kembali/iterasi sering menyebabkan masalah baru.
+Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+Sulit untuk mengalami perubahan kebutuhan yang diinginkan oleh customer/pelanggan.
+Pelanggan harus sabar untuk menanti produk selesai, karena dikerjakan tahap per tahap, dan proses pengerjaanya akan berlanjut ke setiap tahapan bila tahap sebelumnya sudah benar-benar selesai.
+Perubahan ditengah-tengah pengerjaan produk akan membuat bingung tim pengembang yang sedang membuat produk.
+Adanya waktu kosong (menganggur) bagi pengembang, karena harus menunggu anggota tim proyek lainnya menuntaskan pekerjaannya.
+
+2.      Model Prototype
+
+Teknik – teknik Prototyping Meliputi :
+Perancangan Model
+Perancangan Dialog
+Simulasi
+Berikut adalah 4 langkah yang menjadi karakteristik dalam proses pengembangan pada metode prototype, yaitu :
+Pemilihan fungsi
+Penyusunan Sistem Informasi
+Evaluasi
+Penggunaan Selanjutnya
+
+Berikut adalah Tahapan – tahapan Proses Pengembangan dalam Model Prototype, yaitu :
+Pengumpulan kebutuhan
+Membangun prototyping
+Evaluasi protoptyping
+Mengkodekan sistem
+Menguji sistem
+Evaluasi Sistem
+Menggunakan sistem
+Kelebihan Model Prototype :
+Pelanggan berpartisipasi aktif dalam pengembangan sistem, sehingga hasil produk pengembangan akan semakin mudah disesuaikan dengan keinginan dan kebutuhan pelanggan.
+Penentuan kebutuhan lebih mudah diwujudkan.
+Mempersingkat waktu pengembangan produk perangkat lunak.
+Adanya komunikasi yang baik antara pengembang dan pelanggan.
+Pengembang dapat bekerja lebih baik dalam menentukan kebutuhan pelanggan.
+Lebih menghemat waktu dalam pengembangan sistem.
+Penerapan menjadi lebih mudah karena pelanggan mengetahui apa yang diharapkannya.
+Kekurangan Model Prototype :
+Proses analisis dan perancangan terlalu singkat.
+Biasanya kurang fleksibel dalam mengahadapi perubahan.
+Walaupun pemakai melihat berbagai perbaikan dari setiap versi prototype, tetapi pemakai mungkin tidak menyadari bahwa versi tersebut dibuat tanpa memperhatikan kualitas dan pemeliharaan jangka panjang.
+Pengembang kadang-kadang membuat kompromi implementasi dengan menggunakan sistem operasi yang tidak relevan dan algoritma yang tidak efisien.
+
+Model Rapid Application Development (RAD)
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembanganperangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek (kira-kira 60 sampai 90 hari). Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
+
+
+Berikut adalah Tahapan – tahapan Proses Pengembangan dalam Model Rapid Application Development (RAD), yaitu :
+Bussiness Modeling
+Data Modeling.
+Proses Modeling
+Aplication Generation
+Testing dan Turnover
+
+Kelebihan Model RAD :
+Lebih efektif dari Pengembangan Model waterfall/sequential linear dalam menghasilkan sistem yang memenuhi kebutuhan langsung dari pelanggan.
+Cocok untuk proyek yang memerlukan waktu yang singkat.
+Model RAD mengikuti tahap pengembangan sistem seperti pada umumnya, tetapi mempunyai kemampuan untuk menggunakan kembali komponen yang ada sehingga pengembang tidak perlu membuatnya dari awal lagi sehingga waktu pengembangan menjadi lebih singkat dan efisien.
+Kekurangan Model RAD :
+Model RAD menuntut pengembangan dan pelanggan memiliki komitmen di dalam aktivitas rapid-fire yang diperlukan untuk melengkapi sebuah sistem, di dalam kerangka waktu yang sangat diperpendek. Jika komitmen tersebut tidak ada, proyek RAD akan gagal.
+Tidak semua aplikasi sesuai untuk RAD, bila system tidak dapat dimodulkan dengan teratur, pembangunan komponen penting pada RAD akan menjadi sangat bermasalah.
+RAD tidak cocok digunakan untuk sistem yang mempunyai resiko teknik yang tinggi.
+Membutuhkan Tenaga kerja yang banyak untuk menyelesaikan sebuah proyek dalam skala besar.
+Jika ada perubahan di tengah-tengah pengerjaan maka harus membuat kontrak baru antara pengembang dan pelanggan.
+
+4.      Model Evolutionary Development / Evolutionary Software Process Models
+Model Evolutionary Development bersifat iteratif (mengandung perulangan). Hasil prosesnya berupa produk yang makin lama makin lengkap sampai versi terlengkap dihasilkan sebagai produk akhir dari proses. Model Evolutionary Development / Evolutionary Software Process terbagi menjadi 2, yaitu :
+Model Incremental
+Model Incremental merupakan hasil kombinasi elemen-elemen dari model waterfall yang diaplikasikan secara berulang, atau bisa disebut gabungan dari Model linear sekuensial (waterfall) dengan Model Prototype. Elemen-elemen tersebut dikerjakan hingga menghasilkan produk dengan spesifikasi tertentu kemudian proses dimulai dari awal kembali hingga muncul hasil yang spesifikasinya lebih lengkap dari sebelumnya dan tentunya memenuhi kebutuhan pemakai.
+
+
+Model ini berfokus pada penyampaian produk operasional dalam Setiap pertambahanya. Pertambahan awal ada di versi stripped down dari produk akhir, tetapi memberikan kemampuan untuk melayani pemakai dan juga menyediakan platform untuk evaluasi oleh pemakai. Model ini cocok dipakai untuk proyek kecil dengan anggota tim yang sedikit dan ketersediaan waktu yang terbatas.
+Kelebihan Model Incremental :
+Personil bekerja optimal.
+mampu mengakomodasi perubahan secara fleksibel, dengan waktu yang relatif singkat dan tidak dibutuhkan anggota/tim kerja yang banyak untuk menjalankannya.
+Pihak konsumen dapat langsung menggunakan dahulu bagian-bagian yang telah selesai dibangun. Contohnya pemasukan data karyawan.
+Mengurangi trauma karena perubahan sistem. Klien dibiasakan perlahan-lahan menggunakan produknya setiap bagian demi bagian.
+Memaksimalkan pengembalian modal investasi konsumen.
+Kekurangan Model Incremental :
+Tidak cocok untuk proyek berukuran besar (lebih dari 200.000 baris coding).
+Sulit untuk memetakan kebutuhan pemakai ke dalam rencana spesifikasi tiap-tiap hasil dari increament.
+
+
+2. Model Spiral / Model Boehm
+Model ini mengadaptasi dua model perangkat lunak yang ada yaitu model prototyping dengan pengulangannya dan model waterfall dengan pengendalian dan sistematikanya.  Model ini dikenal dengan sebutan Spiral Boehm. Pengembang dalam model ini memadupadankan beberapa model umum tersebut untuk menghasilkan produk khusus atau untuk menjawab persoalan-persoalan tertentu selama proses pengerjaan proyek.
+
+
+Tahap-tahap model ini dapat dijelaskan secara ringkas sebagai berikut :
+Tahap Liason:pada tahap ini dibangun komunikasi yang baik dengan calon pengguna/pemakai.
+Tahap Planning (perencanaan):pada tahap ini ditentukan sumber-sumber informasi, batas waktu dan informasi-informasi yang dapat menjelaskan proyek.
+Tahap Analisis Resiko:mendefinisikan resiko, menentukan apa saja yang menjadi resiko baik teknis maupun manajemen.
+Tahap Rekayasa (engineering):pembuatan prototipe.
+Tahap Konstruksi dan Pelepasan (release):pada tahap ini dilakukan pembangunan perangkat lunak yang dimaksud, diuji, diinstal dan diberikan sokongan-sokongan tambahan untuk keberhasilan proyek.
+Tahap Evaluasi:Pelanggan/pemakai/pengguna biasanya memberikan masukan berdasarkan hasil yang didapat dari tahap engineering dan instalasi.
+Kelebihan model iniadalah sangat mempertimbangkan resiko kemungkinan munculnya kesalahan sehingga sangat dapat diandalkan untuk pengembangan perangkat lunak skala besar. Pendekatan model ini dilakukan melalui tahapan-tahapan yang sangat baik dengan menggabungkan model waterfall ditambah dengan pengulangan-pengulangan sehingga lebih realistis untuk mencerminkan keadaan sebenarnya. Baik pengembang maupun pemakai dapat cepat mengetahui letak kekurangan dan kesalahan dari sistem karena proses-prosesnya dapat diamati dengan baik.
+Kekurangan model iniadalah waktu yang dibutuhkan untuk mengembangkan perangkat lunak cukup panjang demikian juga biaya yang besar. Selain itu, sangat tergantung kepada tenaga ahli yang dapat memperkirakan resiko. Terdapat pula kesulitan untuk mengontrol proses. Sampai saat ini, karena masih relatif baru, belum ada bukti apakah metode ini cukup handal untuk diterapkan.
+3.       WINWIN Spiral Model
+
+
+Dalam hal ini win win merupakan situasi kemenangan antara tim pengembang dan pelanggan. Yang membedakan antara win win spiral model dan spiral model adalah setelah selesai mendapatkan feed back dari pelanggan, tim pengembang perangkat lunak dan pelanggan akan kembali melakukan negosiasi untuk perkembangan perangkat lunak tersebut.
+Tahapan-tahapan WINWIN Spiral model:
+Identifikasi kunci sistem atau subsistem dari yang berkepentinagn
+Penentuan kondisi kemenangan dari yang berkepentingan
+Negosiasi kondisi menang yang berkepentingan agar terjadi kedamaian.
+Berikut ada beberapa kelebihan dan kekurangan WINWIN Spiral Model
+
+Kelebihan :
+
+1.       Sama sama adanya kesepakatan developer dengan customer
+2.       Terdapat kepuasan dan keuntungan antara developer dengan customer karena aplikasi yang dijalankan dengan negoisasi sesuai kesepakatan
+3.       Sangat efektif untuk digunakan karena kesepakatan antara developer dengan customer sama-sama disepakati sehingga tidak akan menimbulkan ketidak puasan customer
+
+Kekurangan :
+1.       Membutuhkan waktu yang cukup lama 2.Seringkali pada awalnya customer dengan developer mengalami kecekcokkan pada saat negoisasi
+
+5.       Component Based Development
+Component-based development sangat berkaitan dengan teknologi berorientasi objek. Pada pemrograman berorientasi objek, banyak class yang dibangun dan menjadi komponen dalam suatu software. Class-class tersebut bersifat reusable artinya bisa digunakan kembali. Model ini bersifat iteratif atau berulang-ulang prosesnya.
+Secara umum proses yang terjadi dalam model ini adalah:
+1.       Identifikasi class-class yang akan digunakan kembali dengan menguji class tersebut dengan data yang akan dimanipulasi dengan aplikasi/software dan algoritma yang baru
+2.       Class yang dibuat pada proyek sebelumnya disimpan dalam class library, sehingga bisa langsung diambil dari library yang sudah ada. Jika ternyata ada kebutuhan class baru, maka class baru dibuat dengan metode berorientasi objek.
+3.       Bangun software dengan class-class yang sudah ditentukan atau class baru yang dibuat, integrasikan.
+
+Penggunaan kembali komponen software yang sudah ada menguntungkan dari segi:
+1.      Siklus waktu pengembangan   software, karena   mampu   mengurangi  waktu 70%
+2.      Biaya produksi berkurang sampai 84% arena pembangunan komponen berkurang
+
+Pembangunan software dengan menggunakan komponen yang sudah tersedia dapat menggunakan komponen COTS (Commercial off-the-shelf) – yang bisa didapatkan dengan membeli atau komponen yang sudah dibangun sebelumnya secara internal. Component-Based Software Engineering (CBSE) adalah proses yang menekankan perancangan dan pembangunan software dengan menggunakan komponen software yang sudah ada. CBSE terdiri dari dua bagian yang terjadi secara paralel yaitu software engineering (component-based development) dan domain engineering. 
+
+Berikut adalah beberapa kekurangan dan kelebihan dari Component Based Development           :
+A.     Kelebihan model ini adalah tinggal mencaplok atau menggunakan program atau komponen yang sudah ada dan menyusunnya menjadi sebuah program yang lebih kompleks dan berkembang sesuai dengan kebutuhan user/pengguna sehingga dapat mengefisienkan penggunaan waktu dan tenaga.Selain itu,model ini juga menyediakan kemampuan untuk memvisualisasikan hasil rakitan dengan kesanggupan untuk mengukur, menganalisa, merancang dan merancang ulang program.
+B.     Kekurangan model ini adalah seringnya program atau komponen-komponen terdahulu tidak kompatibel atau sejalan dengan model perakitan komponen ini sehingga untuk perusahaan berskala kecil akan kesulitan menemukan komponen yang sesuai untuk dirakit.
+
+6.      Formal Method Model
+Teknik formal method adalah teknik yang mengandalkan perhitungan matematika dalam setiap prosesnya. Hanya digunakan pada sistem yang sangat memperhatikan keamanan atau keselamatan dari pengguna. Contoh penggunaan teknik ini adalah aerospace engineering.
+
+Keuntungan menggunakan teknik formal method adalah meminimalkan resiko dengan adanya perhitungan komputasi.
+
+Sedangkan kerugiannya adalah:
+1.      Biaya Tinggi.
+2.      Kompleks
+3.      Tidak Umum untuk Proyek Software pada umumnya
+
+7.      4th Generation
+Metode pengembangan perangkat lunak 4GT menggunakan perangkat bantu (tools) yang akan membuat kode sumber secara otomatis berdasarkan spesifikasi dari pengembang perangkat lunak. Hanya digunakan untuk menggunakan perangkat lunak yang menggunakan bahasa khusus atau notasi grafik yang diselesaikan dengan syarat yang dimengerti pemakai. Cakupan aktivitas 4GT meliputi:
+Pengumpulan kebutuhan, idealnya pelanggan akan menjelaskan kebutuhan yang akan ditranslasikan ke prototype operasional.
+Translasi kebutuhan menjadi prototype operasional, atau langsung melakukan implementasi secara langsung dengan menggunakan bahasa generasi keempat (4GL) jika aplikasi relatif kecil.
+Untuk aplikasi yang cukup besar, dibutuhkan strategi perancangan sistem walaupun 4GL akan digunakan.
+Pengujian.
+Membuat dokumentasi.
+Melaksanakan seluruh aktivitas untuk mengintegrasikan solusi-solusi yang membutuhkan paradigma rekayasa perangkat lunak lainnya.
+Kelebihan dari metode pengembangan perangkat lunak ini diantaranya :
+Pengurangan waktu dan peningkatan produktivitas secara besar
+Karena 4GT menggunakan 4GL yang merupakan bahasa pemrograman yang  khusus dirancang dengan tujuan tertentu (spesifik), maka untuk permasalahan yang tertentu dengan 4GL tertentu pula sangat tepat menggunakan 4GT.
+Tool yang menggunakan metode pengembangan perangkat lunak 4GL bisa meng-generate sistem dari output yang dihasilkan oleh CASE tools.
+Kekurangan metode pengembangan perangkat lunak ini
+Penggunaan perangkat bantu (tools) dibandingkan dengan bahasa pemrograman, dan juga kode sumber yang dihasilkannya tidak efisien.
+Untuk usaha yang besar, dibutuhkan pengembangan strategi desain untuk sistem, walau digunakan bahasa 4GL.
+Penggunaan 4GT tanpa perencanaan matang (untuk proyek besar) akan menyebabkan kesulitan yang sama (kualitas dan pemeliharaan yang jelek, ketidakpuasan pelanggan) seperti dengan metode konvensional.
+4GL tidak selalu berhasil menghasilkan sistem yang diinginkan.

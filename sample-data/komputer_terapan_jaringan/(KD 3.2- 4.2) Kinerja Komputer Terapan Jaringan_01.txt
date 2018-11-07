@@ -1,0 +1,157 @@
+KOMPUTER TERAPAN
+
+Senin, 09 Maret 2015
+Kinerja Komputer Terapan Jaringan
+Fungsi spesifik piranti pendukung jaringan pada komunikasi data :
+
+
+Piranti pendukung jaringan komunikasi data ada banyak kita jumpai, namun dalam garis besarnya dibagi menjadi 2 bagian, yaitu hardware dan software. Hardware adalah perangkat keras yang digunakan pengguna komputer untuk dapat mengunakan internet. Sedangkan software adalah perangkat lunak yang mendukung agar komputer mampu melakukan akses internet. Macam – macam hardware yaitu : Komputer Server, Modem, Network Interface Card, WiFi, dll. sedangkan Macam – macam software yaitu : Sistem Operasi, Browser, Driver, dll.
+
+Hardware Pendukung Jaringan Internet :
+
+Modem
+Modem berasal dari MOdulator DEModulator. Modulator merupakan bagian yang mengubah sinyal informasi kedalam sinyal pembawa (Carrier) dan siap untuk dikirimkan, sedangkan Demodulator adalah bagian yang memisahkan sinyal informasi (yang berisi data atau pesan) dari sinyal pembawa (carrier) yang diterima sehingga informasi tersebut dapat diterima dengan baik. Modem merupakan penggabungan kedua-duanya, artinya modem adalah alat komunikasi dua arah. Setiap perangkat komunikasi jarak jauh dua-arah umumnya menggunakan bagian yang disebut “modem”, seperti VSAT, Microwave Radio, dan lain sebagainya.
+Modem merupakan perangkat perantara antara komputer anda dengan saluran telepon agar dapat berhubungan dengan ISP (Internet Service Provider – penyedia jasa internet) anda.Kabel modem adalah alat yang memberikan akses berkecepatan tinggi ke internet melalui jaringan kabel televisi.
+
+
+
+
+HUB
+Hub adalah salah satu perangkat dalam Jaringan Komputer yang berguna untuk menghubungkan antar segmen dalam jaringan. Dia bekerja di level fisik (layer pertama) dari model referensi OSI.
+Dengan adanya hub, maka CSMA/CD yang bertugas untuk mensharing medium (kabel, udara, fiber, dll) agar semua bisa terkoneksi dapat berjalan dengan baik. Hub bertugas mengkoneksikan setiap node agar terhubung dengan sebuah backbone utama dalam proses transmisi data. 
+
+
+Router
+Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+
+Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Router berbeda dengan switch. Switch merupakan penghubung beberapa alat untuk membentuk suatu Local Area Network (LAN).
+
+Kartu Jaringan (NIC)
+Kartu jaringan (Inggris: network interface card disingkat NIC atau juganetwork card) adalah sebuah kartu yang berfungsi sebagai jembatan darikomputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna.
+ NIC fisik umumnya berupa kartu yang dapat ditancapkan ke dalam sebuah slot dalam motherboard komputer, yang dapat berupa kartu dengan bus ISA, bus PCI,bus EISA, bus MCA, atau bus PCI Express. Selain berupa kartu-kartu yang ditancapkan ke dalam motherboard, NIC fisik juga dapat berupa kartu eksternal yang berupa kartu dengan bus USB,PCMCIA, bus serial, bus paralel atau Express Card, sehingga meningkatkan mobilitas (bagi pengguna yang mobile).
+Kartu NIC Fisik terbagi menjadi dua jenis, yakni:
+Kartu NIC dengan media jaringan yang spesifik (Media-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis berdasarkan media jaringan yang digunakan. Contohnya adalah NIC Ethernet, yang dapat berupaTwisted-Pair (UTP atau STP), Thinnet, atau Thicknet, atau bahkan tanpa kabel (Wireleles Ethernet)
+
+Software Pendukung Jaringan Internet
+
+Sistem operasi
+Sistem operasi jaringan (Inggris: network operating system) adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas,layanan berbagi alat pencetak (printer) , DNS service, HTTP Service, dan lain sebagainya. Istilah ini populer pada akhir dekade 1980-an hingga awal dekade 1990-an.Beberapa sistem operasi jaringan yang umum dijumpai adalah sebagai berikut:
+Microsoft NS-NET
+Microsoft LAN manager
+Novell Net Ware
+Microsoft Windows NT Server
+GNU/linux
+Banyan VINES
+Beberapa varian UNIX, seperti SCO OpenServer, Novel UnixWare, atau Solaris
+Web browser
+
+Piranti penyimpanan Data dan penyedia data
+
+Perangkat Penyimpanan Data :
+•Hard disk
+•Hard disk merupkan alat penyimpanan data sekunder yang kapasitasnya cukup besar. Selain memiiki kapasitas yang bervariasi harddisk juga memiliki interface yang berbeda sesuai teknologi yang diusungnya. Dalam computer desktop saat ini harddisk memiliki fungsi utama untuk meyimpaan system operasi dan aplikasi yang ada.
+
+•FLASHDISK
+•Flasdisk merupakan media penyimpan data paling popular dalam hal mobilitas karena karena ukurannya yang kecil. Selain untuk menyimpan data penting saat ini Flashdisk juga berfungsi sebagai alat bootable media sistem operasi komputer karena dapat diganti sesuai keperluan dan tidak terbatas.
+
+•RAM
+•RAM adalah memori yang berfungsi untuk menyimpan sementara perintah dan data pada saat sebuah program dijalankan. Perintah data tersebut mencakup data yang akan dibaca dari hard disk, data-data yang dimasukkan melalui alat input komputer, dan juga data-data hasil pemrosesan sebuah program.
+
+Perangkat Penyedia Data :
+•Modem adalah singkatan dari modulator dan demodulator. Modulator berfungsi untuk melakukan proses menumpangkan data pada sinyal informasi ke sinyal pembawa agar dapat dikirim ke pengguna melalui media tertentu, proses ini biasa disebut dengan proses modulasi. pada proses ini data dari komputer yang berbentuk sinyal digital akan diubah menjadi sinyal analog. Sedangkan Demodulator berfungsi sebagai proses mendapatkan kembali data yang dikirim oleh pengirim.
+
+Konsentrator dan Kabel Jaringan Komputer
+•Jenis-jenis kabel Jaringan Komputer
+1.UTP (Unshielded Twisted Pair)
+2.Coaxial
+3.FDDI (Fiber Data Distributed Interface)
+Jenis Sambungan Kabel UTP
+
+1. Stright fungsinya untuk menghubungkan dua atau lebih peralatan yang berbeda. dan ujung yang A dengan ujung yang B sama.
+contoh : PC/Laptop dengan HUB, PC dengan AP (Acsess Point)
+
+2. Cross fungsinya untuk menghubungkan dua atau lebih peralatan yang sama. dan ujung yang A dengan ujung yang B berbeda.
+contoh :  PC/Laptop dengan PC/Laptop,AP denganAP (Acsess Point)
+
+Urutan Pemasangan kabel Strigh menurut OSI (Open System Interconection).
+Urutan Pertama       : White Orange
+Urutan kedua          : Orange
+Urutan ketiga          : White Green
+Urutan Keempat     : Blue
+Urutan kelima         : White Blue
+Urutan keenam       : Green
+Urutan ketujuh        : White Brown
+Urutan kedelapan    : Brown
+
+Urutan Pemasangan kabel Cross menurut OSI (Open System Interconection).
+Urutan Pertama        : White Green
+Urutan Kedua          : Green
+Urutan Ketiga          : White Orange
+Urutan Keempat      : Blue
+Urutan Kelima         : white Blue
+Urutan Keenam       : Orange
+Urutan Ketujuh        : White Brown
+Urutan Kedelapan    : Brown
+
+
+Coaxial
+Kabel coaxial banyak digunakan di jaringan lokal karena biaya pembangunan jaringan relatif murah dan tidak memerlukan hub sebagai konsentrator jaringan.
+Kabel coaxial terdiri dari beberapa jenis, yaitu :
+
+Thick Co-axial yang memiliki jangkauan antar titik koneksi  sepanjang 500 m.
+Thin Co-axial yang memiliki jangkauan antar titik koneksi   sepanjang  185 m.
+
+Kabel tipe ini banyak dipakai di jaringan komunikasi analog. Seperti 2M band. Adapun jenis kabel coaxial yang biasa digunakan adalah RG-58, RG-8, dan lan-lain.
+
+FDDI (Fiber Data Distributed Interface)
+FDDI (Fiber Data Distributed Interface) atau yang sering disebut dengan kabel Fiber Optic, menggunakan 2 buah ring. Pertama, Primary ring yang digunakan untuk komunikasi data. Kedua, Secondary ring yang digunakan sebagai media komunikasi cadangan. Kedua ring ini bertransmisi secara berlawanan (counter rotating).
+Versi FDDI ada yang menggunakan inti copper dan disebut sebagai CDDI (Copper Distributed Data Interface). FDDI Fiber Optik mempunyai dua mode transmisi, yaitu single mode dan multi mode.
+Single mode menggunakan sinar laser sebagai media, transmisi data sehingga mempunyai jangkauan yang lebih jauh. Sedangkan multimode menggunakan LED sebagai media transmisi.
+Keuntungan menggunakan Fiber Optic, antara lain :
+a.     Fiber Optic tidak mentransmisi sinyal elektrik sehingga tidak ada gangguan secara elektrik dari Radio Frequency Interference (RFI) dan Electromagnetic Interference (EMI)
+b.     Jangkauan FDDI sekitar 2 km untuk single mode dan 26 km untuk multi mode.
+
+Konsentrator EThernet
+Konsentrator adalah perangkat yang digunakan untuk memperluas dan menambah jumlah komputer dalam sebuah jaringan.
+Konsentrator terdiri dari dua jenis yaitu hub dan switch. Perbedaan keduanya pada kemampuan transfer data. Pada hub kecepatan transfer data adalah 6,25 Kbps sedangkan pada switch kecepatan transfer data adalah 100 Kbps.
+1. Hub atau Repeater
+2. Switch
+3. Bridge
+4. Router
+
+•Hub
+Suatu perangkat yang memiliki banyak port yang akan menghubungkan beberapa node (komputer) sehingga membentuk suatu jaringan pada topologi star.
+Beberapa hub di pasaran kadang disebut dengan istilah hub-switch yang sering dikira oleh kita sebagai switch, tentu saja hub lebih lambat performanya daripada switch.
+
+Cara Kerja: Ketika sebuah paket tiba di salah satu port, paket itu akan disalin ke port-port yang lain di hub. Atau dengan kata lain hub hanya menyalin data ke semua simpul yang terhubung ke hub. Hal ini menyebabkan unjuk kerja jaringan akan lambat.
+Hub dengan spesifikasi 10/100Mbps harus berbagi bandwidth dengan masing-masing port. Jadi ketika hanya satu PC yang menggunakan, akan mendapat akses bandwith yang maksimum yang tersedia. Namun, jika beberapa PC beroperasi atau di gunakan pada jaringan tersebut, maka bandwidth akan dibagi kepada semua PC, sehingga akan menurunkan kinerja jaringan
+
+
+•Switch
+Switch bentuknya hampir sama dengan hub.
+Switch atau lebih dikenal dengan istilah LAN Switch merupakan perluasan dari konsep bridge.
+Salah satu contohnya adalah HP Procurve V1810-8G yang merupakan 8 Port Gigabit Switch.
+
+Cara Kerja: Ada dua arsitektur dasar yang digunakan yaitu: cut-through dan store and forward.
+Switch cut trough memiliki kelebihan di sisi kecepatan karena ketika sebuah paket datang, switch hanya memperhatikan alamat tujuan sebelum diteruskan ke segmen tujuannya. Sedangkan Switch store and forward merupakan kebalikan dari switch cut-through. Switch ini menerima dan menganalisa seluruh isi paket sebelum meneruskannya ke tujuan dan untuk meneriksa satu paket memerlukan waktu, tetapi ini memungkinkan switch untuk mengetahui adanya kerusakan pada paket dan mencegahnya agar tidak mengganggu jaringan.
+Switch dengan spesifikasi 10/100Mbps akan mengalokasikan 10/100Mbps penuh untuk setiap port nya. Jadi berapapun jumlah computer yang terhubung, pengguna akan selalu memiliki bandwidth penuh.
+
+•Router
+
+Router adalah sebuah alat yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+
+Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Router berbeda dengan switch. Switch merupakan penghubung beberapa alat untuk membentuk suatu Local Area Network (LAN).
+
+
+•Bridge
+Bridge adalah jenis konsentrator yang berfungsi untuk menghubungkan jaringan yang menggunakan transmisi berbeda. misalnya jaringan ethernet baseband dengan jaringan ethernet broadband. Bridge juga dapat menghubungkan jaringan yang menggunakan tipe kabel yang berbeda ataupun topologi yang berbeda. bridge juga dapat mengetahui alamat setiap client yang terhubung pada jaringan.
+
+
+
+Print Server
+Pengertian print server adalah sistem komputer dalam jaringan yang menangani dan mengeksekusi permintaan percetakan dari perangkat jaringan lainnya.
+
+
+
+Titik akses nirkabel
+suatu peranti yang memungkinkan peranti nirkabel untuk terhubung ke dalam jaringan dengan menggunakan Wi-Fi, Bluetooth, atau standar lain. WAP biasanya tersambung ke suatu router (melalui kabel) sehingga dapat meneruskan data antara berbagai peranti nirkabel (seperti komputer atau pencetak) dengan jaringan berkabel pada suatu jaringan. Standar yang diterapkan untuk WAP ditetapkan oleh IEEE dan sebagian besar menggunakan IEEE 802.11.

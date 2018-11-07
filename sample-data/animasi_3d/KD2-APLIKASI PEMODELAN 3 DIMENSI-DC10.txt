@@ -1,0 +1,39 @@
+Macam-Macam Software Untuk Membuat Animasi
+Written By Handiswan Handy on Tuesday, June 17, 2014 | Tuesday, June 17, 2014
+Animasi berasal dari kata dalam bahasa latin anima, yang secara harfiah berarti jiwa (soul), atau animare yang berarti nafas kehidupan (vital breath). Dalam bahasa Inggris, animation yang berasal dari kata animated atau to animate, yang berarti membawa hidup atau bergerak. Istilah animasi berawal dari semua penciptaan kehidupan atau meniupkan kehidupan ke dalam obyek yang tidak bernyawa atau benda mati (gambar).  
+
+Dari sisi fungsi penggunaan software animasi dapat dikelompokkan menjadi Software Animasi 2 Dimensi dan Software Animasi 3 Dimensi.
+1.      Software Animasi 2D
+Software animasi 2D adalah software yang digunakan untuk membuat animasi tradisional (flat animation), umumnya mempunyai kemampuan untuk menggambar, mengatur gerak, mengatur waktu, beberapa dapat mengimpor suara. Dari sisi penggunaan umumnya tidak sulit. Contoh dari Software Animasi 2D ini antara lain: Macromedia Flash, Adobe Flash, Macromedia Director, ToonBoom Studio, Adobe ImageReady, Corel RaVe, Swish Max, dan sebagainya.
+2.      Software Animasi 3D
+Software animasi 3D mempunyai fasilitas dan kemampuan yang canggih untuk membuat animasi 3 dimensi. Fasilitas dan kemampuan tersebut antara lain, membuat obyek 3D, pengaturan gerak kamera, pemberian efek, import video dan suara, serta masih banyak lagi. Beberapa software animasi 3D mempunyai kemampuan khusus, misalnya untuk animasi figure(manusia), animasi landscape (pemandangan), animasi title (judul), dll. Karena kemampuannya yang canggih, dalam penggunaannya diperlukan pengetahuan yang cukup tinggi dan terkadang rumit. Contoh dari Software Animasi 3D ini antara lain: 3D Studio Max, Maya, Poser (figure animation), Bryce (landscape animation), Vue (landscape animation), Auto Cad, dan sebagainya.
+Saat ini terdapat banyak jenis software animasi yang beredar di pasaran, dari software yang mempunyai kemampuan yang sederhana hingga yang komplek, dari yang gratis hingga puluhan juta rupiah. Software-software animasi yang umum digunakan adalah sebagai berikut:
+1.      Macromedia Flash
+Macromedia Flash adalah program yang sedang populer sekarang ini untuk membuat dan memanipulasi grafik dan animasi. Sekarang namanya adalah Adobe Flash, yang sebelumnya dikenal sebagai Macromedia Flash. Software ini adalah salah satu program yang paling umum digunakan untuk membuat halaman web animasi, video player dan aplikasi audio streaming. File flash berekstensi .SWF atau Shockwave Flash, meskipun banyak jenis file lainnya yang dapat dilihat atau dimanipulasi dengan software ini.
+
+2.      AnimPixels
+AnimPixels adalah perangkat lunak film animasi khusus dalam Isometric Pixel Art.. Menggunakan komponen film anda sendiri, atau download dari web, untuk membuat film animasi asli.
+3.      Easy GIF Animator 5 pro
+Easy GIF Animator 5 pro adalah software kuat namun sangat mudah untuk membuat dan mengedit gambar GIF animasi. Dengan animasi GIF editor sobat dapat dengan mudah membuat gambar animasi, banner dan tombol dalam waktu singkat. Sobat dapat menggunakan fitur-fitur khusus untuk menambahkan efek visual yang menakjubkan dan mempersiapkannya untuk dipublikasikan pada halaman web sobat. Easy GIF Animator 5 pro mendukung semua jenis animasi GIF dan menyediakan kompresi tinggi dan kualitas yang hebat untuk gambar GIF animasi. Untuk melengkapi semua ini, Easy GIF Animator 5 pro adalah yang terbaik sebagai animasi GIF editor saat ini.
+4.      Alligator Flash Designer
+Alligator Flash Designer adalah software animasi vektor berbasis snap. Menghasilkan grafik animasi kompleks dengan gambar, bentuk dan teks, menggunakan lebih dari 130 built-in efek animasi seperti Fade, Zoom, Putar, Fly dan banyak lagi. Ekspor Desainer Flash SWF file dalam format Macromedia Flash, dan kode HTML yang diperlukan untuk mengintegrasikan animasi dengan halaman Web Anda. Ini juga menawarkan perangkat pengeditan dasar untuk memodifikasi gambar apapun, mengubah ukurannya, menambahkan objek dll. dengan software ini kita lebih mudah untuk membuat animasi pada web dan banner.
+5.      Flash CS4
+Flash CS4 untuk merancang konten interaktif untuk digital, animasi web, dan platform mobile. Buat situs web interaktif, media yang kaya iklan, media pembelajaran, presentasi dan permainan perangkat lunak grafis animasi.
+6.      CoffeeCup GIF Animator
+CoffeeCup GIF Animator membuat animasi untuk halaman web Anda dengan mudah. CoffeeCup GIF Animator dapat mengkonversi grafis JPEG dan BMP GIF secara otomatis, serta impor dan ekspor file AVI.
+7.      Ulead GIF Animator 5
+Ulead GIF Animator 5  perangkat lunak animasi kuat dan terjangkau. Mudah membuat animasi cepat-loading untuk situs web Anda dan presentasi PowerPoint.
+8.      Corner-A ArtStudio
+Corner-A ArtStudio adalah perangkat lunak animasi yang powerful yang dapat membawa hidup keluar dari gambar statis membosankan. ArtStudio memiliki banyak filter built-in, memiliki dukungan akselerasi hardware, kemungkinan ekspor ke berbagai format dan antarmuka yang sederhana. Anda tidak perlu menjadi seorang seniman atau desainer untuk menggunakan ArtStudio.
+9.      3D Studio Max
+3D Studio Max (kadangkala disebut 3ds Max atau hanya MAX) adalah sebuah perangkat lunak grafik vektor 3-dimensi dan animasi, ditulis oleh Autodesk Media & Entertainment (dulunya dikenal sebagai Discreet and Kinetix. Perangkat lunak ini dikembangkan dari pendahulunya 3D Studio fo DOS, tetapi untuk platform Win32.
+10.  Macromedia Director
+Macromedia Director adalah sebuah program yang dirancang khusus untuk membuat self-contained atau program yang dapat berjalan sendiri. Aplikasi ini dapat dijadikan sebagai media presentasi maupun sebagai Media Interaktif untuk Membuat CD Interaktif. Director ini juga dapat digunakan untuk menciptakan konten halaman web dalam bentuk Shockwave.
+11.  Adobe ImageReady
+Adobe ImageReady adalah editor grafis bitmap yang dikirim dengan Adobe Photoshop oleh Adobe Systems selama hampir sepuluh tahun. ImageReady ditulis dalam bahasa C + + pemrograman Itu tersedia untuk Windows dan Mac OS X platform 1998-2007, setelah itu dihentikan. ImageReady memiliki fitur khusus seperti GIF penciptaan animasi, optimasi kompresi gambar, dan efek rollover, dan generasi HTML.
+12.  Corel Rave
+Corel rave merupakan sebuah aplikasi berbasiskan vector yang baisa digunakan untuk membuat animasi bergerak yang dibuat oleh perusahaan corel. Corel rave merupakan aplikasi bawaan (satu paket) yang telah tersedia jika kita menginstall corel draw 12.
+13.  Swish Max
+Swish Max, adalah program aplikasi lengkap untuk pembuatan animasi berbasis flash player (sebuah program aplikasi pengoperasi suatu animasi sederhana, permainan digital dan berbagai perangkat yang menggunakan multimedia)(SWiSHzone.com Pty. Ltd, 2007). Swish Max digunakan untuk membuat beragam animasi yang menarik dan penuh kreasi tanpa menggunakan program aplikasi Adobe Flash (generasi ke-sembilan dari macromedia flash yang merupakan program aplikasi perintis penghasil aplikasi berbasis flash).
+14.  Adobe After Effect
+Adobe After Effects CS4 efek visual yang sangat baik dan perangkat lunak animasi menarik. Bekerja dengan peralatan canggih dan integrasi yang erat dengan aplikasi desain terkemuka saat Anda memberikan bekerja untuk hampir semua jenis media. Membuat dari awal atau memulai proyek dari ratusan preset disesuaikan dan template, semua dari dalam streamlineantarmuka.

@@ -1,0 +1,98 @@
+Operasi Logika dan Operasi aritmatika melalui operator dan fungsi-fungsi aritmatika pada algoritma dan bahasa pemrograman dasar
+Di artikel kali ini akan dijelaskan mengenai operator aritmatika dan juga logika yang terdapat di dalam algoritma untuk bahasa pemrograman dasar. namun sebelum diuraikan lebih jauh saya akan jelaskan sedikit mengenai pengertian operasi logika, operasi aritmatika, operator matematika dan operator logika yang terdapat di dalam alogritma.
+
+Operasi aritmatika adalah operasi  yang melibatkan beberapa operator aritmatika seperti misalnya penjumlahan, pengurangan, perkalian dan pembagian untuk memproses 2 buah nilai atau lebih.
+
+operasi aritmatika dan logika dalam algoritma dan pemrograman dasar
+
+
+Operasi logika proses yang melibatkan beberapa operator logika seperti AND, OR, NOR, XOR dan operator logika lainnya yang menghasilkan nilai true dan false atau menghasilkan nilai benar dan salah. operasi logika ini sangat sering sekali digunakan di algoritma dan bahasa pemrograman dasar.
+
+Sedangkan Operator matematika adalah operator yang digunakan untuk memproses operasi aritmatika, operater matematika yang sudah kita kenal misalnya penjumlahan, pengurangan, perkalian dan pembagian.
+
+Mengenal Pelbagai Jenis Operator Aritmatika dan Logika dalam algoritma dan bahasa pemrograman
+Berikut adalah beberapa kategori operator aritmatika dan operator logika yang sering digunakan di dalam bahasa pemrograman dan algoritma:
+
+1. Operator Aritmatika
++ (jumlah) adalah operator untuk menjumlahkan dua buah angka atau lebih
+-(kurang) adalah jenis operator untuk memproses operasi pengurangan antara dua angka atau lebih
+* (kali) adalah operator yang digunakan untuk proses perkalian
+/ (bagi) adalah operator uang digunakan untuk mendapatkan hasil bagi dari 2 buah angka
+MOD  atau % (modular) adalah operator yang sering digunakan di dunia algoritma yang digunakan untuk mendapatkan sisa hasil bagi.
+
+Operator baru yang tidak umum adalah MOD atau bisa disimbolkan dengan %, operator ini akan menghasilkan sisa hasil pembagian, misal 4%2=0. 5%3=2.
+Operator aritmatika biasanya digunakan untuk memproses perhitungan matematika yang dilibatkan di dalam program.
+
+2. Operator Pembanding
+Operator pembanding adalah operator yang merupakan bagian dari operator logika yang digunakan untuk membandingkan 2 buah nilai atau operan, sehingga dapat menghasilkan nilai true dan false, beberapa operator pembanding yang sering digunakan adalah:
+> lebih besar
+< lebih kecil
+>= lebih besar sama dengan
+<= lebih kecil sama dengan
+<> tidak sama dengan
+!= tidak sama dengan 
+== apakah sama dengan
+:= sama dengan
+Di dalam bahasa pemrograman Operator pembanding biasanya digunakan dalam flow control IF then ELSE untuk mendapatkan hasil sesuai dengan kondisi yang diinginkan. 
+
+3. Operator Logika
+Operator Logika adalah operator yang digunakan untuk melakukan operasi logika yaitu operator yang menghasilkan nilai TRUE (benar) atau FALSE (salah). Bebarapa macam operator logika antara lain:
+and : menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+or : menghasilkan nilai TRUE jika salah satu operand bernilai TRUE
+xor : menghasilkan nilai TRUE jika salah satu operand bernilai TRUE tetapi bukan keduaduanya bernilai TRUE
+! (simbol tidak): mengasilkan nilai tidak TRUE
+&& (simbol AND): menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+|| (simbol OR): menghasilkan nilai TRUE jika salah satu operand bernailai TRUE
+
+Operator logika sering digunakan di dalam flow control berkolaborasi dengan operator pembanding untuk mendapatkah hasil yang paling sesuai dengan kondisi tertentu.
+
+4. Assignment Operator / Operator Penugasan
+Assignment Operator (operator penugasan) adalah operator yang menggunakan tanda sama   dengan (=) untuk mengisi sebuah nilai dalam suatu variabel.
+Beberapa contoh assignmen operaor adalah sebagai berikut:
++= contoh: x+=10; atau x=x+10 (artinya: jumlahkan nilai yang terdapat di dalam variable x dengan 10)
+= contoh: x=y
+*=  contoh: x*=10 atau x=x*10 (artinya: kalikan nilai yang terdapat di dalam variable x dengan 10)
+/=
+%=
+
+Contoh Jenis operasi aritmatika dan logika dalam algoritma (bahasa pemrograman dasar)
+1. Operasi artimatika
+Beberapa contoh proses operasi aritatika adalah sebagai berikut
+x+y, menjumlahkan antara nilai yang terdapat di x dan y
+x*y, mengalikan antara nilai yang terdapat di x dan y
+x-y,  mengurangi antara nilai yang terdapat di x dan y
+x/10, membagi antara nilai yang terdapat di x dan y misal 10/2 maka hasilnya 5.
+x%y, mendapatkan hasil bagi antara x dan y misal 10/5 maka hasilnya adalah 0, karena 10/5 adalah 2 dan tidak terdapat sisa setelah pembagian. 10/7 sisa hasil pembagiannya adalah 3, artinya ketika 10 dibagi 7 maka akan mendapatkan 1 dan sisanya adalah 3.
+
+2. Operasi Logika 
+A and B atau A && B, untuk operator AND, jika salah satu kondisi bernilai salah maka akan menghasilkan FALSE, sedangkan jika kedunya benar  maka akan bernilai true, agar kondisi bernilai benar maka A dan B harus benar.
+A or B atau A || B, untuk operator OR, jika salah satu kondisi bernilai benar baik untuk kondisi A maupun B maka akan menghasilkan TRUE (benar), jika kedua kondisi baik A maupun B bernilai salah maka hasilnya FALSE (salah), untuk menghasilkan kondisi benar maka setidaknya harus ada kondisi yang benar baik itu untuk konsisi  A maupun B
+
+Perlu anda ketahuai bahwa setiap instruksi bahasa pemrograman sangat dipengaruhi oleh instuksi standar program yang digunakan walaupun logika cara berfikirnya sama.
+
+
+Cara Kerja Operasi aritmatika dan operasi logika di dalam program
+Operasi aritmatika cara kerjanya tidak jauh berbeda dengan proses aritmatika yang terdapat dalam pelajaran matematika. Untuk memahami cara kerja operasi aritmatika dan operasi logika dalam program maka harus dibuatkan studi kasus yang harus dipecahkan dengan algoritma. sebagai berikut:
+
+Contoh Kasus:
+2 buah bilangan bulat diinput oleh pengguna, bilangan tersebut kemudian dikalikan, jika hasil kali ke dua bilangan tersebut MOD 2=0 maka output yang harus di cetak ke layar adalah "Bilangan genap", sedangkan jika hasil kali ke dua bilangan MOD 2 =1 maka itu adalah bilangan ganjil.
+
+Untuk menyelesaikan kasus di atas di dalam algoritma langkahnya adalah sebagai berikut:
+
+ program ganjil_bulat
+deklarasi
+var x: integer
+y: integer
+hasil:integer
+
+Algoritma:
+read(x,y) 
+hasil <- x*y 
+if(hasil MOD 2==0) then
+write('bilangan bulat')
+else 
+write('bilangan ganjil')
+
+Algoritma diatas akan menghasilkan output berupa tulisan yaitu bilangan bulat / bilangan ganjil, jika hasil perkalian ganjil maka outputnya adalah "bilangan ganjil" sedangkan jika hasil perkalian adalah bilangan bulat maka akan menghasilkan outuput "bilangan bulat".
+
+Sesuai dengan uraian di atas dapat disimpulkan bahwa operasi logika dan operasi aritmatika melalui operator dan fungsi-fungsi aritmatika, tidak jauh berbeda seperti halnya di matematika yang sudah sangat kita kenal.

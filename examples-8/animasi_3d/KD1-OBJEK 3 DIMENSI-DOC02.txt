@@ -1,0 +1,45 @@
+Pengenalan Dasar Objek 3 Dimensi Beserta Komponennya
+ 
+ 
+komponen dasar objek polygon tiga dimensi
+ 
+Pengertian Vertex, Edge, Face, Normal pada Objek 3 Dimensi
+Komponen dasar pada objek 3D (3 dimensi) umumnya mencakup pada vertex, edge, face, dan normal. Karena semua komponen tadi lah yang membentuk suatu objek tiga dimensi. Selain itu untuk menentukan posisi atau lokasi suatu objek 3D juga karena adanya kordinat x, y, dan z.
+
+Banyak cara untuk membuat objek tiga dimensi. Yang paling umum adalah menggunakan aplikasi 3D seperti Autodesk Maya, Softimage XSI, Blender, dan lainnya. Tapi aplikasi seperti Adobe Illustrator, Adobe Photoshop, maupun Inkscape juga mampu membuat suatu gambar berbentuk 3 dimensi, walaupun tidak semudah dan kurang flexibel dibandingkan menggunakan aplikasi yang khusus untuk membuat objek 3 dimensi.
+
+Nah di software 3D umumnya ada beberapa tipe objek, seperti polygon, NURBS, metaball dan lainnya. Namun yang umum ada di semua aplikasi 3D adalah polygon.
+
+Polygon itu sendiri umumnya terdiri dari vertex, edge, dan face. Untuk lebih jelas apa itu polygon, bisa dilihat di sini.
+
+Pengertian Objek 3D: Vertex
+Vertex adalah titik-titik yang dihubungkan dengan edge, dan merupakan komponen paling dasar dari objek 3 dimensi. Untuk memanipulasi posisi vertex dapat dilakukan dengan mengganti nilai kordinat x, y, dan z pada vertex tersebut. Contoh vertex pada objek polygon:
+
+
+
+
+
+Pengertian Objek 3D: Edge
+Edge adalah garis yang menghubungkan lebih dari dua vertex(titik). Contoh edge pada objek polygon:
+
+
+
+
+
+Pengertian Objek 3D: Face
+Face adalah sebuah permukaan yang dibentuk oleh minimal 3 edges (tris) yang tertutup. Contoh face pada objek polygon:
+
+
+
+
+
+Pengertian Objek 3D: Normal
+Satu lagi komponen yang lumayan penting adalah normal. Normal digambarkan dengan sebuah vector yang tegaklurus dengan permukaan sebuah face. Normal ini biasanya akan menentukan sisi mana yang akan dimasukan kedalam kalkulasi proses render, atau dalam beberapa hal, normal suatu face juga salah satu elemen penting dalam kalkulasi simulasi dynamic. Kalau normal arahnya terbalik, biasanya suka ada warna hitam pada sekeliling edges dari face tersebut. Dan dalam proses simulasi dynamic, juga suka bermasalah karena arah normal biasanya menentukan kalkulasi berbenturan antar objek yang disimulasikan. Tapi untungnya tiap software 3D ada fasilitas untuk membalik normal. Lengkapnya di sini.
+
+
+
+
+
+Selain itu ada lagi salah satu komponen yang disebut kordinat UV. Kordinat UV ini biasanya digunakan untuk memberikan suatu tekstur atau gambar pada sisi face yang dituju. Jadi biasanya setelah selesai membuat objek 3D, objek tadi akan melalui proses unwrapping, untuk kemudian di atur UV kordinatnya. Lengkapnya bisa lihat di sini.
+
+Nah sekarang sudah mengertikan dasar dari objek 3 dimensi itu terdiri dari apa saja, khususnya untuk polygon?

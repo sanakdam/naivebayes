@@ -1,0 +1,42 @@
+Teknologi Komunikasi Data dan Suara
+Diterbitkan September 16, 2017
+ TAGS
+    Hai kawan selamat datang di blog saya. Pada kesempatan kali ini saya akan memberikan materi tentang Teknologi Komunikasi Data dan Suara. Mari kita simak gan...
+
+
+Pengertian Komunikasi Data 
+
+     Komunikasi Data adalah proses pengiriman informasi (buka) yang telah di ubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmis dari pengirim(sender) ke penerima(receiver).
+Karakteristik Komunikasi Data:
+* Data yang dikomunikasikan berupa angka,huruf, gambar, video ataupun suara.
+* Diperlukan penalaran (sintak dan semantik) untuk dapatmemahami data yang dikirimkan atau
+    data yang diterima.
+* Komunikasi yang dilakukan biasanya jarak jauh dan secara tidak langsung.
+
+Contoh Teknologi Komunikas Data:
+1. Telegraf 
+          Telegraf adalah sistem telekomunikasi yang menggunakan peralatan listik untuk mengirimkan dan menerima sinyal sesuai dengan kode dalam bentuk pulsa listrik.
+2. Faksimile 
+          Faksimile berasal dari kata facsimile yang artinya menyalin sama persis dengan aslinya, Mesin faks merupakan peralatan telekomunikiasi yang digunakan untuk mengirimkan tulisan dan gambar melalui kabel telepon.
+3. Pager 
+          Pager sebenarnya hanya untuk memanggil saja atau memberikan instruksi satu arah saja atau tidak interaktif.
+4. Jaringan Komputer (Email, Website, Media Sosial dll.).
+
+
+Pengertian Komunikasi Suara :
+      Komunikasi Suara adalah proses komunikasi yang hanya dapat ditangkap indra pendengar.
+ jenis komunikasi suara: 1.komunikasi radio satu arah
+                                        2.komunikasi radio dua arah 
+
+Karakteristik Komunikasi Suara : 
+Data yang dikomunikasikan berupa suara dan gambar.
+Menggunakan bahasa secara lisan.
+Komunikasi yang dilakukan biasanya jarak dekat atau jauh dan secara lisan atau langsung.
+
+Contoh Teknologi Komunikasi Suara :
+1. Telephone
+     Prinsip kerja telepon yaitu mikropon telepon menangkap gelombang dan mengubahnya menjadi fluktuasi arus listrik. arus dikirim lewat nomor telepon yang kita tekan, energi listrik.
+2. Televisi
+     Televisi adalah alat yang biasa kita kenal sehari-hari. Pada TV gambar yang dihasilkan pada layar sebenarnya adalah serangkaian gambar diam yang ditampilkan berurutan dalam kecepatan tinggi.
+3. Radio
+     Radio menggunakan gelombang radio dalam penyampaian pesan. Gelombang radio dalam bentuk frekuensi dan setiap chanel radio memiliki frekuensi tersendiri dalam memancarkan gelombangnya.

@@ -1,0 +1,423 @@
+Array (1 dimensi dan 2 dimensi)
+Setelah kita membahas tentang LOOPING sekarang kita waktunya bahas tentang ARRAY ya…
+
+Array adalah sesuatu yang berbaris atau berderet-deret sedemikian rupa sehingga alamatnya saling bersambung  atau bersebelahan/berdampingan (contiguous). Array dibagi menjadi dua yaitu Array satu dimensi dan multi dimensi….
+berikut perjabarannya….. ??
+
+==Array satu dimensi==
+
+Array satu dimensi adalah kumpulan elemen yang tersusun dalam suatu baris.
+
+Berikut adalah contoh programnya..
+Menggunakan C#..
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+</pre>
+using System;
+ using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+ 
+namespace Array1dimensi
+ {
+ class Program
+ {
+ public byte more;
+ static void Main(string[] args)
+ {
+ array one = new array();
+ one.plow();
+ Console.WriteLine();
+ Console.Write("end");
+ Console.ReadKey(true);
+ }
+ }
+ class array
+ {
+ public void plow()
+ {
+ Program utama = new Program();
+ string[] nama;
+ Console.Write(" Masukkan banyak elemen : ");
+ utama.more = Convert.ToByte(Console.ReadLine());
+ Console.WriteLine();
+ nama = new string[utama.more];
+ 
+for (byte i = 0; i < utama.more; i++)
+ {
+ Console.Write(" masukkan nama barang ke {0} : ", i + 1);
+ nama[i] = Console.ReadLine();
+ }
+ // menampilkan array
+ for (byte i = 0; i < utama.more; i++)
+ {
+ Console.WriteLine(" nama barang ke - {0} adalah :{1} ", i + 1, nama[i]);
+ }
+ }
+<pre>
+Berikut adalah Hasilnya….
+
+
+Menggunakan C++…
+
+#include
+
+<cstdlib>
+#include <iostream>
+
+using namespace std;
+int input(string a)
+{
+int data;
+cout<<a;
+cin>>data;
+return data;
+}
+int* arr(int a)
+{
+int* data=new int[a];
+for (int i=0;i<a;i++)
+{
+cout<<“Data ke-{“<<i<<“} = “;
+cin>>data[i];
+}
+return data;
+}
+void tampil(int a,int* b)
+{
+for (int i=0;i<a;i++)
+{
+cout<<“Nilai Data ke-{“<<i<<“} = “<<+b[i]<<endl;
+}
+}
+
+int main(int argc, char *argv[])
+{
+int a;
+a=input(“Banyak Data = “);
+int*data=new int[a];
+data=arr(a);
+tampil(a,data);
+system(“PAUSE”);
+return 0;
+}
+
+Berikut Hasilnya…
+
+
+
+Menggunakan Java…
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+</pre>
+package array1;
+ import java.util.Scanner;
+ 
+public class arre1d
+ {
+ public byte more;
+ public static void main(String[] args)
+ {
+ arraye one = new arraye();one.plow();
+ System.out.println();
+ }
+ }
+ class arraye
+ {
+ public void plow()
+ {
+ Scanner apa = new Scanner(System.in);
+ arre1d utama = new arre1d();
+ String [] nama;
+ System.out.print(" banyak elemen : ");
+ utama.more = apa.nextByte();
+ nama = new String[utama.more];
+ for (byte i=0;i<utama.more;i++)
+ {
+ System.out.print(" masukkan nama barang ke - " + (i+1)+" = ");
+ nama[i] = apa.next();
+ }
+ for (byte i=0;i<utama.more;i++)
+ {
+ System.out.println(" nama barang ke - " + (i+1)+" : " + nama[i]);
+ }
+ }
+ }
+<pre>
+Berikut adalah Hasilnya…
+
+==Array Dua Dimensi(Multidimensi)==
+
+Array Multidimensi merupakan sebuah perluasan dari sebuah array satu dimensi. Jika pada array satu dimensi hanya terdiri dari sebuah baris dengan beberapa kolom elemen maka pada array dua dimensi terdiri dari beberapa baris dan beberapa kolom elemen yang bertype sama.
+
+Berikut adalah programnya..
+Menggunakan C#…
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Arraymultidimensi
+{
+class aredm
+{
+public void chek()
+{
+Program stu = new Program();
+Console.Write(” jumlah baris : “);
+stu.baris = Convert.ToByte(Console.ReadLine());
+Console.Write(” jumlah kolom : “);
+stu.kolom = Convert.ToByte(Console.ReadLine());
+byte[,] trick = new byte[stu.kolom, stu.baris];
+for (byte i = 0; i < stu.kolom; i++)
+{
+for (byte j = 0; j < stu.baris; j++)
+{
+Console.Write(” nilai ke – [{0},{1}] : “, i, j);
+trick[i, j] = Convert.ToByte(Console.ReadLine());
+}
+}
+for (byte i = 0; i < stu.kolom; i++)
+{
+for (byte j = 0; j < stu.baris; j++)
+{
+Console.WriteLine(“isi matrik [{0},{1}] adalah = {2}”, i, j, trick[i, j]);
+}
+}
+}
+}
+
+class Program
+{
+public byte baris;
+public byte kolom;
+static void Main(string[] args)
+{
+aredm dua = new aredm();
+dua.chek();
+Console.WriteLine();
+
+Console.Write(“Press any key to continue….”);
+Console.ReadLine();
+}
+}
+}
+
+Berikut hasilnya….
+
+
+Menggunakan C++…
+
+#include <cstdlib>
+#include <iostream>
+
+using namespace std;
+class arraye2d
+{
+private : int a,b;
+public : void pintu()
+{
+cout << ” baris : “; cin >> a;
+cout << ” kolom : “; cin >> b;
+cout << endl;
+int trick [a][b];
+for(int i=0;i<a;i++)
+{
+for(int j=0;j<b;j++)
+{
+cout << ” nilai metrik ke [“<<i<<“,”<<j<<“] :”;
+cin>> trick [i][j];
+}
+}
+cout << endl;
+for(int i=0;i<a;i++)
+{
+for(int j=0;j<b;j++)
+{
+cout << ” isi metrik ke [“<<i<<“,”<<j<<“] :”
+<<trick [i][j]<<endl;
+}
+}
+}
+};
+int main(int argc, char *argv[])
+{
+arraye2d arrya;
+arrya.pintu();
+cout << endl;
+cout << endl;
+system(“PAUSE”);
+return 0;
+}
+
+Berikut hasilnya….
+
+
+
+Menggunakan Java…
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+</pre>
+package arraymulti;
+ import java.util.Scanner;
+ public class arrey2d
+ {
+ public byte baris;
+ public byte kolom;
+ public static void main(String[] args)
+ {
+ arry2 dua = new arry2();
+ dua.chek();
+ System.out.println();
+ }
+ }
+ class arry2
+ {
+ public void chek()
+ {
+ Scanner apa = new Scanner(System.in);
+ arrey2d satu = new arrey2d();
+ String [][] trick;
+ System.out.print(" jumlah deret : ");
+ satu.baris = apa.nextByte();
+ System.out.print(" jumlah lajur : ");
+ satu.kolom = apa.nextByte();
+ trick = new String[satu.baris][satu.kolom];
+ for (byte i=0 ;i<satu.baris;i++)
+ {
+ for (byte j=0;j<satu.kolom;j++)
+ {
+ System.out.print(" metric ke - ["+i+","+j+"]"+" adalah ");
+ trick[i][j] = apa.next();
+ }
+ }
+ for (byte i=0 ;i<satu.baris;i++)
+ {
+ for (byte j=0;j<satu.kolom;j++)
+ {
+ System.out.print(" isi ke - ["+i+","+j+"] = " + trick[i][j]+"\n");
+ }
+ }
+ }
+ }
+<pre>

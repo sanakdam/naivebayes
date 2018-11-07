@@ -1,0 +1,23 @@
+Objek 3 dimensi : Karakteristik obyek 3 dimensi, Vertex, edge, face
+Posted on April 30, 2016by Catur Sugiharto with No comments
+
+Media tiga dimensi ialah sekelompok media tanpa proyeksi yang penyajiannya secara visual tiga dimensional. Kelompok media ini dapat berwujud sebagai benda asli baik hidup maupun mati, dan dapat pula berwujud sebagai tiruan yang mewakili aslinya. Benda asli ketika akan difungsikan sebagai media pembelajaran dapat dibawa langsung ke kelas, atau siswa sekelas dikerahkan langsung ke dunia sesungguhnya di mana benda asli itu berada. Apabila benda aslinya sulit untuk dibawa ke kelas atau kelas tidak mungkin dihadapkan langsung ke tempat di mana benda itu berada, maka benda tiruannya dapat pula berfungsi sebagai media pembelajaran yang efektif.
+
+
+1. Karakteristik objek 3D 
+karakteristik  tiga dimensi  adalah sebagai berikut: 
+Pesan yang sama dapat disebarkan keseluruh siswa secara serentak
+Penyajiannya berada dalam kontrol guru 
+Cara penyimpanannya mudah (praktis) 
+Dapat mengatasi keterbatasan ruang, waktu, dan indera
+Menyajikan objek-objek secara diam 
+Terkadang dalam penyajiannya memerlukan ruangan gelap 
+Lebih mahal dari kelompok media grafis
+Sesuai untuk mengajarkan keterampilan tertentu 
+Sesuai untuk belajar secara berkelompok atau individual 
+Praktis digunakan untuk semua ukuran ruangan kelas
+Mampu menyajikan teori dan praktik secara terpadu.
+2. Fertex, Edge, Face
+Vertex adalah titik-titik yang dihubungkan dengan edge
+Edge adalah garis yang menghubungkan lebih dari dua vertex (titik)
+Face adalah sebuah permukaan yang dibentuk oleh minimal 3 edges yang tertutup.

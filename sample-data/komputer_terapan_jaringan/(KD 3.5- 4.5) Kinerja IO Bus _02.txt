@@ -1,0 +1,505 @@
+Kinerja I/O BUS
+3 MEI 2015 | FIRDAEMA99
+UNIT MASUKAN DAN KELUARAN PADA SISTEM KOMPUTER
+Sistem Komputer
+
+Sistem komputer memiliki tiga komponen utama, yaitu : CPU, Memory (primer & sekunder), dan peralatan masukan/keluaran (I/O) seperti printer, monitor, keyboard, mouse dan modem. dalam menjalankan fungsinya sebagai masukan dan keluaran diperlukan modul I/O. Modul I/O merupakan peralatan antarmuka (interface) bagi sistem bus atau switch sentral dan mengontrol satu atau lebih perangkat periperhal.
+
+Modul I/O tidak hanya sekedar mosul penghubung, tetapi sebuah piranti yang berisi logika dalam melakukan fungsi komunikasi antara perperhal dan bus komputer.Ada beberapa alasan kenapa tidak langsung dihubungkan dengan bus komputer yaitu:
+
+Bervariasinya metode operasi piranti periperhal, sehingga tidak praktis apabila sistem komputer harus menangani berbagai macam sistem operasi periperhal tersebut.
+Kecepatan transfer data piranti periperhal umumnya lebih lambat daripada laju transfer data pada CPU
+Format dan panjang data pada piranti periperhal seringkali berbeda dengan CPU, sehingga perlu modul untuk menselaraskannya.
+Dari beberapa alasan diatas, modul I/O memiliki 2 buah fungsi utama, yaitu :
+
+Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+Sebagaimana piranti antarmuka dengan peralatan periperhal lainnya menggunakan link data tertentu.
+Sistem Masukan dan Keluaran Komputer
+
+Bagaimana modul I/O dapat menjalankan tugasnya, yaitu menjembatani CPU dan memori dengan dunia luar merupakan hal terpenting untuk kita ketahui. Inti mempelajari sistem I/O komputer adalah mengetahui fungsi dan struktur kerja modul I/O.
+
+Featured image
+
+Gambar 1. model generik dari suatu modul I/O
+
+Fungsi Modul Input/Output
+
+Modul I/O adalah sebuah komponen dalam sistem komputer yang bertanggung jawab atas pengontrolan sebuah perangkat luar atau lebih dan bertanggung jawab juga terhadap pertukaran data antara perangkat luar tersebut dengan memori utama ataupun register-register dalam CPU. Dalam mewujudkan fungsi tersebut, diperlukan antarmuka internal dengan komputer (CPU dan memori utama) dan antarmuka dengan perangkat eksternalnya untuk menjalankan fungsi-fungsi pengontrolan.
+
+Dua fungsi utama Modul I/O ialah :
+
+Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+Sebagai piranti antarmuka dengan peralatan peripheral lainnya dengan menggunakan link data tertentu
+Fungsi dalam menjalankan tugas, modul I/O dapat dibagi menjadi beberapa kategori, yaitu:
+
+Kontrol dan pewaktuan
+Komunikasi CPU
+Komunikasi dengan perangkat eksternal
+Pem-buffer-an data
+Deteksi kesalahan
+Fungsi kontrol dan pewaktuan (control & timming) merupakan hal yang penting untuk mensinkronkan kerja masing-masing komponen penyusun komputer. Dalam sekali waktu CPU berkomunikasi dengan satu atau lebih perangkat dengan pola tidak menentu dan kecepatan transfer data yang beragam, baik dengan perangkat internal seperti register-register, memori utama, memori sekunder, perangkat periperhal.  Proses tersebut bisa berjalan apabila ada fungsi kontrol dan pewaktuan yang mengatur sistem secara keseluruhan.  Contoh kontrol pemindahan data dari periperhal ke CPU melalui sebuah modul I/O meliputi langkah-langkah sebagai berikut:
+
+Permintaan dan pemeriksaan status perangkat dari CPU ke modul I/O.
+Modul I/O memberikan jawaban atas permintaan CPU tersebut.
+Apabila perangkat eksternal telah siap untuk transfer data, maka CPU akan mengirimkan perintah ke modul I/O
+Modul I/O akan menenrima paket data dengan panjang tertentu dari periperhal.
+Selanjutnya data dikirim ke CPU setelah diadakan seinkronisasi panjang data dan kecepatan transfer oleh modul I/O sehingga paket-paket data dapat diterima CPU dengan baik.
+Transfer data tidak akan lepas dari penggunaan sistem bus, maka interaksi CPU dan modul I/O akan melibatkan kontrol dan pewaktuan sebuah arbitrasi bus atau lebih. Ada fungsi komunikasi antara CPU dan modul I/O meliputi proses-proses berikut ini :
+
+Command Decoding, yaitu modul I/O menerima perintah-perintah dari CPU yang dikirimkan sebagai sinyal bus kontrol. Misalnya, sebuah modul I/O untuk disk dapat menerima perintah : Read sector, Scan Record ID, Format disk.
+Data, pertukaran data antara CPU dan modul I/O melalui bus data.
+Status Reporting, yaitu pelaporan kodisi status modul I/O maupun perangkat periperhal, umumnya berupa status kondisi busy atau ready. Juga status bermacam-macam kodisi kesalahan (error).
+Address recognition, bahwa peralatan atau komponen penyusun komputer dapat dihubungi atau dipanggil maka harus memiliki alamat yang unik, begitu pula pada perangkat periperhal, sehingga setiap modul I/O harus mengetahui alamat periperhal yang dikontrolnya
+Pada sisi modul I/O ke perangkat periperhal juga terdapat komunikasi yang meliputi komunikasi data, kontrol maupun status.
+
+Featured image
+
+Gambar 2. Skema suatu perangkat periperhal
+
+Fungsi selanjutnya adalah buffering. Tujuan utama buffering adalah mendapatkan penyesuaian data sehubungan perbedaan laju transfer data dari perangkat periperhal dengan kecepatan pengolahan pada CPU . Umumnya laju transfer data pada dari perangkat periperhal lebih lambat dari kecepatan CPU maupun media penyimpanan.
+
+Fungsi terakhir adalah deteksi kesalahan. Apabila pada perangkat periperhal terdapat masalah sehingga proses tidak dapat dijalankan, maka modul I/O akan melaporkan kesalahan tersebut. Misalnya informasi pada periperhal printer seperti: kertas tergulung, kertas habis, tinta habis, dan lain-lain. Teknik yang umum untuk deteksi kesalahan adalah penggunaan bit paritas.
+
+Struktur Modul Input/Output
+
+Terdapat berbagai macam modul I/O seiring perkembangan komputer itu sendiri, contoh yang sederhana dan fleksibel adalah intel  8255A yang sering disebut PPI (Programmable Periperhal Interface). Bagaimanapun komplesitas suatu modul I/O terdapat kemiripan struktur,.
+
+Antarmuka modul I/O ke CPU melalui bus sistem komputer terdapat tiga saluran, yaitu saluran data, saluran alamat dan saluran kontrol. Bagian terpenting adalah blok logika I/O yang berhubungan dengan semua peralatan antarmuka periperhal, terdapat fungsi pengaturan dan switching pada blok ini.
+
+Teknik Masukan dan Keluaran
+
+Terdapat tiga buah teknik operasi I/O, yaitu : I/O terprogram, interrupt-driven I/O, dan DMA (Dirrect Memory Access). Ketiganya memiliki keunggulan dan kelemahan, yang penggunanya disesuaikan sesuai unjuk kerja masing-masing teknik.
+
+I/O Terprogram
+
+Pada I/O terprogram, data saling dipertukarkan antara CPU dan modul I/O. CPU mengeksekusi program yang memberikan operasi I/O kepada CPU secara langsung seperti pemindahan data, pengiriman perintah baca atau tulis dan monitoring perangkat.
+
+I/O terprogram mempunyai kelemahan sebagai berikut :
+
+CPU akan menunggu sampai operasi I/O selesai dilakukan modul I/O sehingga akan membuang waktu, CPU lebih cepat proses operasinya.
+Dalam teknik ini, modul I/O tidak dapat melakukan interupsi kepada CPU terhadap proses – proses yang diinteruksikan padanya.
+Seluruh proses merupakan tanggung jawab CPU sampai operasi lengkap dilaksanakan
+Untuk melaksanakan perintah-perintah I/O, CPU akan mengeluarkan sebuah alamat bagi modul I/O dan perangkat periperhalnya sehingga terspesifikasi secara khusus dan sebuah perintah I/O yang akan dilakukan. Terdapat empat klasifikasi perintah input/output, yaitu:
+
+Perintah Control yaitu perintah yang digunakan untuk mengaktivasi perangkat periperhal dan memberitahukan tugas yang diperintahkan kepadanya.
+Perintah Test, yaitu perintah yang digunakan CPU untuk menguji berbagai kondisi status modul I/O dan periperhalnya. CPU perlu mngetahui perangkat periperhalnya dalam keadaan aktif dan siap digunakan, juga untuk megetahui operasi-operasi I/O yang dijalankan serta mendeteksi kesalahannya.
+Perintah Read, yaitu perintah pada modul I/O untuk mengambil suatu paket data kemudian menaruhnya di dalam buffer internal. Proses selanjutnya paket data dikirim melalui bus data setelah terjadi sinkronisasi data maupun kecepatan transfernya.
+Perintah Write, Perintah ini kebalikan dari read. CPU memerintahkan modul I/O untuk mengambil data dari bus data untuk diberikan pada perangkat periperhal tujuan data tersebut.
+Dalam teknik I/O terprogram, terdapat dua macam implementasi perintah I/O yang tertuang dalam instruksi I/O, yaitu memory mapped I/O dan isolated I/O.
+
+Dalam memory mapped I/O, terdapat ruang tunggal untuk lokasi memori dan perangkat I/O. CPU memperlakukan register status dan register data pada modul I/O sebagai lokasi memori dan menggunakan instruksi mesin yang sama untuk mengakses baik memori maupun perangkat I/O. Konsekuensinya adalah diperlukan saluran tunggal untuk pembacaan dan saluran tunggal untuk penulisan. Keuntungan memory mapped ini adalah efisien dalam pemrograman namun memakan banyak ruang memory alamat.
+
+Dalam teknik isolated I/O, dilakukan pemisahan ruang pengalamatan bagi memori dan ruang pengalamatan bagi I/O. Dengan teknik ini diperlukan bus yang dilengkapi dengan pembacaan dan penulisan memori ditambah dengan saluran perintah output. Kesuntungan isolated I/O adalah sedikitnya instruksi I/O.
+
+Interrupt – Driven I/O
+
+      Teknik interupt driven I/O memungkinkan proses memungkinkan proses tidak membuang-buang waktu. Prosesnya adalah CPU mengeluarkan perintah I/O pada modul I/O, bersamaan perintah I/O dijalankan oleh modul I/O, maka CPU melakukan eksekusi perintah-perintah lainnya. Apabila modul I/O telas selesai menjalankan instruksi yang diberikan padanya, maka modul I/O tersebut kemudian akan memberikan interupsi  pada CPU bahwa tugasnya telah selesai.
+
+Dalam teknik ini kendali perintah masih menjadi tanggung jawab CPU, baik pengambilan perintah dari memori maupun pelaksanaan isi perintah tersebut. Terdapat selangkah kemajuan dari teknik sebelumnya, yaitu  CPU melakukan multitasking beberapa perintah sekaligus sehingga tidak ada waktu tunggu bagi  CPU.
+
+Cara kerja teknik interupsi di sisi modul I/O adalah modul I/O menerima perintah, misalnya read. Kemudian modul I/O melaksanakan perintah pembacaan dari periperhal dan meletakkan paket data ke register data modul I/O, selanjutnya modul mengeluarkan sinyal interupsi ke CPU melalui saluran kontrol. Kemudian mosul menunggu datanya diminta CPU. Saat permintaan terjadi, modul meletakkan data pada bus data dan modul siap menerima perintah selanjutnya.
+
+Pengolahan interupsi saat perangkat I/O telah menyelesaikan sebuah operasi I/O adalah sebagai berikut:
+
+Perangkat I/O akan mengirimkan sinyal interupsi ke CPU.
+CPU menyelesaikan operasi yang sedang dijalankan kemudian merespon interupsi.
+CPU memeriksa interupsi tersebut, kalau valid maka CPU akan mengirimkan sinyal acknoledgement ke perangkat I/O untuk menghentikan interupsinya.
+CPU mempersiapkan pengontrolan transfer routine interupsi. Hal yang dilakukan adalah menyimpan informasi yang diperlukan untuk melanjutkan operasi yang tadi dijalankan sebulum adanya interupsi. Informasi yang diperlukan berupa : Status Processor, berisi register yang dipanggil PSW (Program Status Word) dan Lokasi intruksi berikutnya yang akan dieksekusi
+Kemudian CPU akan menyimpan PC (Program Counter) eksekusi sebelum interupsi ke stack pengontrol bersama informasi PSW. Selanjutnya mempersiapkan PC untuk penanganan interupsi.
+Selanjutnya CPU memproses interupsi sampai selesai.
+Apabila pengolahan interupsi selesai, CPU akan memanggil kembali informasi yang telah disimpan pada stack pengontrol untuk meneruskan operasi sebelum interupsi.
+Terdapat bermacam teknik yang digunakan CPU untuk menangani interupsi ini diantaranya adalah Multiple interupt lines, Software poll, Daisy Chain, Arbitrasi bus. Teknik yang paling sederhana adalah menggunakan saluran interupsi berjumlah banyak (Multiple Interupt Lines) antara CPU dengan modul-modul I/O. Namun tidak praktis untuk menggunakan sejumlah saluran interupsi modul – modul I/O.
+
+Alternatif lainnya menggunakan software poll. Prosesnya apabila CPU mengetahui adanya interupsi, maka CPU akan menuju ke routine layanan interupsi yang tugasnya melakkukan poll seluruh modul I/O untuk menentukan modul yang akan melakukan interupsi. Kerugian software poll adalah memerlukan waktu yang lama karen aharus mengidentifikasi seluruh modul untuk mengetahui modul I/O yang melakukan interupsi.
+
+Teknik yang lebih efisien adalah daisy chain,  yang menggunakan hardware poll.  Seluruh modul yang tersambung dalam saluran interupsi CPU secara melingkar (chain). Apabila ada permintaan interupsi, maka CPU akan menjalankan sinyal acknoledgement yang berjalan pada saluran interupsi sampai menjumpai modul I/O yang mengirimkan interupsi.
+
+Teknik berikutnya adalah arbitrasi bus. Dalam metode ini, pertama-tama modul I/O memperoleh kontrol bus sebelum modul sebelum modul ini menggunakan saluran permintaan interupsi. Dengan demikian hanya akan terdapat sebuah modul I/O yang dapat melakukan interupsi.
+
+              Macam – macam Alat Input dan Output pada Komputer
+
+IMPUT (Masukkan)
+
+Adalah perangkat keras komputer yang berfungsi sebagai alat untuk memasukan data atau perintah ke dalam komputer yang berupa signal input atau maintenance input. Di dalam sistem komputer, signal input berupa data yang dimasukkan ke dalam sistem komputer, sedangkan maintenance input berupa program yang digunakan untuk mengolah data yang dimasukkan. Dengan demikian, alat input selain digunakan untuk memasukkan data juga untuk memasukkan program.
+
+Beberapa alat input mempunyai fungsi ganda, yaitu disamping sebagai alat input juga berfungsi sebagai alat output sekaligus. Alat yang demikian disebut sebagai terminal.
+
+Terminal dapat dihubungkan ke sistem komputer dengan menggunakan kabel langsung atau lewat alat komunikasi. Terminal dapat digolongkan menjadi non intelligent terminal, smart terminal, dan intelligent terminal. Non intelligent terminal hanya berfungsi sebagai alat memasukkan input dan penampil output, dan tidak bisa diprogram karena tidak mempunyai alat pemroses. Peralatan seperti ini juga disebut sebagai dumb terminal. Smart terminal mempunyai alat pemroses dan memori di dalamnya sehingga input yang terlanjur dimasukkan dapat dikoreksi kembali.
+
+Walaupun demikian, terminal jenis ini tidak dapat diprogram oleh pemakai, kecuali oleh pabrik pembuatnya. Sedangkan intelligent terminal dapat diprogram oleh pemakai. Peralatan yang hanya berfungsi sebagai alat input dapat digolongkan menjadi alat input langsung dan tidak langsung.
+
+Alat input langsung yaitu input yang dimasukkan langsung diproses oleh alat pemroses, sedangkan alat input tidak langsung melalui media tertentu sebelum suatu input diproses oleh alat pemroses. Alat input langsung dapat berupa papan ketik (keyboard), pointing device (misalnya mouse, touch screen, light pen, digitizer graphics tablet), scanner (misalnya magnetic ink character recognition, optical data reader atau optical character recognition reader), sensor (misalnya digitizing camera), voice recognizer (misalnya microphone). Sedangkan alat input tidak langsung misalnya keypunch yang dilakukan melalui media punched card (kartu plong), key-to-tape yang merekam data ke media berbentuk pita (tape) sebelum diproses oleh alat pemroses, dan key-to-disk yang merekam data ke media magnetic disk (misalnya disket atau harddisk) sebelum diproses lebih lanjut.
+
+Alat input (alat masukan) adalah alat yang digunakan untuk menerima input atau masukan. Input tersebut merupakan energi yang dimasukkan ke sistem.
+Input terbagi menjadi :
+
+Signal Input : energi yang akan diolah oleh sistem, yaitu data yang dimasukkan ke sistem computer
+   Maintanace Input : energi yang akan digunakan untuk mengolah signal input, dalam sistem komputer boleh dikatakan maintenance input adalah program yang digunakan untuk mengolah data yang dimasukkan
+Keyboard       
+Penciptaan keyboard komputer di ilhami oleh penciptaan mesin ketik yang dasar rancangannya di buat dan di patenkan oleh Christopher Latham pada tahun 1868 dan banyak dipasarkan pada tahun 1877 oleh Perusahaan Remington.
+
+Keyboard komputer pertama disesuaikan dari kartu pelubang (punch card) dan teknologi pengiriman tulisan jarak jauh (Teletype). Tahun 1946 komputer ENIAC menggunakan pembaca kartu pembuat lubang (punched card reader) sebagai alat input dan output.
+
+Bila mendengar kata “keyboard” maka pikiran kita tidak lepas dari adanya sebuah komputer, karena keyboard merupakan sebuah papan yang terdiri dari tombol-tombol untuk mengetikkan kalimat dan simbol-simbol khusus lainnya pada komputer. Keyboard dalam bahasa Indonesia artinya papan tombol jari atau papan tuts.
+
+Pada keyboard terdapat tombol-tombol huruf (alphabet) A – Z, a – z, angka (numeric) 0 – 9, tombol dan karakter khusus seperti : ‘ ~ @ # $ % ^ & * ( ) _ – + = < > / , . ? : ; ” ‘ \ |, tombol fungsi (F1 – F12), serta tombol-tombol khusus lainnya yang jumlah seluruhnya adalah 104 tuts. Sedangkan pada Mesin ketik jumlah tutsnya adalah 52 tuts. Bentuk keyboard umumnya persegi panjang, tetapi saat ini model keyboard sangat variatif.
+
+Dahulu orang banyak yang menggunakan mesin ketik baik yang biasa maupun mesin ketik listrik. Keyboard mempunyai kesamaan bentuk dan fungsi dengan mesin ketik. Perbedaannya terletak pada hasil output atau tampilannya. Bila kita menggunakan mesin ketik, kita tidak dapat menghapus atau membatalkan apa-apa saja yang sudah ketikkan dan setiap satu huruf atau simbol kita ketikkan maka hasilnya langsung kita lihat pada kertas. Tidak demikian dengan keyboard. Apa yang kita ketikkan hasil atau keluarannya dapat kita lihat di layar monitor terlebih dahulu, kemudian kita dapat memodifikasi atau melakukan perubahan-perubahan bentuk tulisan, kesalahan ketikan dan yang lainnya. Keyboard dihubungkan ke komputer dengan sebuah kabel yang terdapat pada keyboard. Ujung kabel tersebut dimasukkan ke dalam port yang terdapat pada CPU komputer.
+
+Mouse
+Pada dasarnya, penunjuk (pointer) yang dikenal dengan sebutan “Mouse” dapat digerakkan kemana saja berdasarkan arah gerakan bola kecil yang terdapat dalam mouse. Jika kita membuka dan mengeluarkan bola kecil yang terdapat di belakang mouse, maka akan terlihat 2 pengendali gerak di dalamnya. Kedua pengendali gerak tersebut dapat bergerak bebas dan mengendalikan pergerakan penunjuk, yang satu searah horisontal (mendatar) dan satu lagi vertikal (atas dan bawah).
+
+Jika kita hanya menggerakkan pengendali horisontal maka penunjuk hanya akan bergerak secara horisontal saja pada layar monitor komputer. Dan sebaliknya jika penunjuk vertikal yang digerakkan, maka penunjuk (pointer) hanya bergerak secara vertikal saja dilayar monitor. Jika keduanya kita gerakkan maka gerakan penunjuk (pointer) akan menjadi diagonal. Jika bola kecil dimasukkan kembali, maka bola itu akan menyentuh dan menggerakkan kedua pengendali gerak tersebut sesuai dengan arah mouse yang kita gerakkan.
+
+Pada sebagian besar mouse terdapat tiga tombol, tetapi umumnya hanya dua tombol yang berfungsi, yaitu tombol paling kiri dan yang paling kanan. Pengaruh dari penekanan tombol atau yang di kenal dengan istilah “Click” ini tergantung pada obyek (daerah) yang kita tunjuk. Komputer akan mengabaikan penekanan tombol (click) bila tidak mengenai area atau obyek yang tidak penting.
+
+Kemudian dalam penggunaan mouse juga kita kenal istilah “Drag” yang artinya menggeser atau menarik. Apabila kita menekan tombol paling kiri tanpa melepaskannya dan sambil menggesernya, salah satu akibatnya obyek tersebut berpindah atau menjadi pindah (tersalin) ke obyek lain dan terdapat kemungkinan lainnya. Kemungkinan-kemungkinan ini tergantung pada jenis program aplikasi apa yang kita jalankan. Mouse terhubung dengan komputer dengan sebuah kabel yang terdapat pada mouse. Ujung kabel tersebut dimasukkan dalam port yang terdapat di CPU komputer.
+
+Scanner
+Scanner adalah suatu alat elektronik yang fungsinya mirip dengan mesin fotokopi. Mesin fotocopy hasilnya dapat langsung kamu lihat pada kertas sedangkan scanner hasilnya ditampilkan pada layar monitor komputer dahulu kemudian baru dapat dirubah dan dimodifikasi sehingga tampilan dan hasilnya menjadi bagus yang kemudian dapat disimpan sebagai file text, dokumen dan gambar.
+
+Bentuk dan ukuran scanner bermacam-macam, ada yang besarnya seukuran dengan kertas folio ada juga yang seukuran postcard, bahkan yang terbaru, berbentuk pena yang baru diluncurkan oleh perusahaan WizCom Technologies Inc. Scanner berukuran pena tersebut bisa menyimpan hingga 1.000 halaman teks cetak dan kemudian mentransfernya ke sebuah komputer pribadi (PC).
+
+Scanner berukuran pena tersebut dinamakan Quicklink. Pena scanner itu berukuran panjang enam inci dan beratnya sekitar tiga ons. Scanner tersebut menurut WizCom dapat melakukan pekerjaannya secara acak lebih cepat dari scanner yang berbentuk datar. Data yang telah diambil dengan scanner itu, bisa dimasukkan secara langsung ke semua aplikasi komputer yang mengenali teks ASCII. Perbedaan tiap scanner dari berbagai merk terletak pada pemakaian teknologi dan resolusinya. Pemakaian teknologi misalnya penggunaan tombol-tombol digital dan teknik pencahayaan.
+
+Cara kerja Scanner :
+
+Ketika kamu menekan tombol mouse untuk memulai Scanning, yang terjadi adalah :
+
+Penekanan tombol mouse dari komputer menggerakkan pengendali kecepatan pada mesin scanner. Mesin yang terletak dalam scanner tersebut mengendalikan proses pengiriman ke unit scanning.
+Kemudian unit scanning menempatkan proses pengiiman ke tempat atau jalur yang sesuai untuk langsung memulai scanning.
+Nyala lampu yang terlihat pada Scanner menandakan bahwa kegiatan scanning sudah mulai dilakukan.
+Setelah nyala lampu sudah tidak ada, berarti proses scan sudah selesai dan hasilnya dapat dilihat pada layar monitor.
+Apabila hasil atau tampilan teks / gambar ingin dirubah, kita dapat merubahnya dengan menggunakan software-software aplikasi yang ada. Misalnya dengan photoshop, Adobe dan lain- lain. pot scanned.
+Ada dua macam perbedaan scanner dalam memeriksa gambar yang berwarna yaitu :
+
+Scanner yang hanya bisa satu kali meng-scan warna dan menyimpan semua warna pada saat itu saja.
+Scanner yang langsung bisa tiga kali digunakan untuk menyimpan beberapa warna. Warna-warna tersebut adalah merah, hijau dan biru.
+Scaner yang disebut pertama lebih cepat dibandingkan dengan yang kedua, tetapi menjadi kurang bagus jika digunakan untuk reproduksi warna. Kebanyakan scanner dijalankan pada 1-bit (binary digit / angka biner), 8-bit (256 warna), dan 24 bit (lebih dari 16 juta warna). Nah, bila kita membutuhkan hasil yang sangat baik maka dianjurtkan menggunakan scanner dengan bit yang besar agar resolusi warna lebih banyak dan bagus.
+
+  Kamera Digital
+Salah satu input device yang sedang marak belakangan ini adalah digital camera. Dengan adanya alat ini, kita dapat lebih mudah memasukan data berupa gambar apa saja, dengan ukuran yang relatif cukup besar, ke dalam komputer kita. Digital camera yang beredar di pasaran saat ini ada berbagai macam jenis, mulai dari jenis camera untuk mengambil gambar statis, sampai dengan camera yang dapat merekam gambar dinamis seperti video.
+
+MIC
+Kalau camera digunakan untuk memasukkan input berupa gambar (dan suara), maka mic digunakan hanya untuk memasukkan input berupa suara. Penggunaan mic tentu saja memerlukan perangkat keras tambahan untuk menerima input suara tersebut yaitu sound card, dan speaker untuk mendengarkan hasil rekaman suara.
+
+        
+
+ Touch Screen
+Layar monitor yang akan mengaktifkan program bila layarnya disentuh dengan tangan ( menggantikan mouse).
+
+Sensor
+Merupakan alat yang mampu secara langsung menangkap data kejadian fisik, data analog diubah ke analog to digital converter yang akan di proses.
+
+OUTPUT (Keluaran)
+
+Adalah perangkat keras komputer yang berfungsi untuk menampilkan keluaran sebagai hasil pengolahan data. Keluaran dapat berupa hard-copy (ke kertas), soft-copy (ke monitor), ataupun berupa suara.
+
+Output yang dihasilkan dari pemroses dapat digolongkan menjadi empat bentuk, yaitu tulisan (huruf, angka, simbol khusus), image (dalam bentuk grafik atau gambar), suara, dan bentuk lain yang dapat dibaca oleh mesin (machine-readable form). Tiga golongan pertama adalah output yang dapat digunakan langsung oleh manusia, sedangkan golongan terakhir biasanya digunakan sebagai input untuk proses selanjutnya dari komputer.
+
+Peralatan output dapat berupa:
+
+Hard-copy device, yaitu alat yang digunakan untuk mencetak tulisan dan image pada media keras seperti kertas atau film. Sifatnya permanen dan lebih portable (dapat dilepas dari alat outputnya dan dapat dibawa ke mana-mana). Alat yang umum digunakan untuk ini adalah printer, plotter, dan alat microfilm.
+Soft-copy device, yaitu alat yang digunakan untuk menampilkan tulisan dan image pada media lunak yang berupa sinyal elektronik. Misalnya video display, flat panel, dan speaker.
+Drive device atau driver, yaitu alat yang digunakan untuk merekam simbol dalam bentuk yang hanya dapat dibaca oleh mesin pada media seperti magnetic disk atau magnetic tape. Alat ini berfungsi ganda, sebagai alat output dan juga sebagai alat input.
+Output bentuk pertama sifatnya adalah permanen dan lebih portable (dapat dilepas dari alat outputnya dan dapat dibawa ke mana-mana). Alat yang umum digunakan untuk ini adalah printer, plotter, dan alat microfilm. Sedangkan output bentuk kedua dapat berupa video display, flat panel, dan speaker. Dan alat output bentuk ketiga yang menggunakan media magnetic disk adalah disk drive, dan yang menggunakan media magnetic tape adalah tape drive.
+
+Printer dan Plotter
+Printer dan plotter adalah jenis hard-copy device, karena keluaran hasil proses dicetak di atas kertas. Printer memiliki berbagai macam bentuk dan ukuran, serta ketajaman hasil cetak. Ukuran kertas yang dapat digunakan pun beragam. Tetapi, untuk mencetak di atas kertas dengan ukuran yang sangat besar, digunakanlah plotter.
+
+Monitor
+Monitor adalah salah satu jenis soft-copy device, karena keluarannya adalah berupa signal elektronik, dalam hal ini berupa gambar yang tampil di layar monitor. Gambar yang tampil adalah hasil pemrosesan data ataupun informasi masukan. Monitor memiliki berbagai ukuran layar seperti layaknya sebuah televisi. Tiap merek dan ukuran monitor memiliki tingkat resolusi yang berbeda. Resolusi ini lah yang akan menentukan ketajaman gambar yang dapat ditampilkan pada layar monitor. Jenis-jenis monitor saat ini sudah sangat beragam, mulai dari bentuk yang besar dengan layar cembung, sampai dengan bentuk yang tipis dengan layar datar (flat).
+
+Infocus
+Infocus hampir sama dengan monitor. Fungsinya adalah untuk menampilkan gambar/visual hasil pemrosesan data. Hanya saja, infocus memerlukan obyek lain sebagai media penerima pancaran singnal-signal gambar yang dipancarkan. Media penerima tersebut sebaiknya memiliki permukaan datar dan berwarna putih (terang).
+
+Biasanya yang digunakan adalah dinding putih, whiteboard, ataupun kain/layar putih yang dibentangkan.
+
+http://sigusmegayanto.blogspot.com/2013/05/unit-masukan-dan-keluaran-pada-sistem.html Jum’at Jam 22.30
+
+Pengertian dan Karakteristik Sistem Bus Komputer
+Pengertian Sistem Bus
+
+Bus adalah Jalur komunikasi yang dibagi pemakai Suatu set kabel tunggal yang digunakan untuk menghubungkan berbagai subsistem. Karakteristik penting sebuah bus adalah bahwa bus merupakan media transmisi yang dapat digunakan bersama. Sistem komputer terdiri dari sejumlah bus yang berlainan yang menyediakan jalan antara dua buah komponen pada bermacam-macam tingkatan hirarki sistem komputer.
+Suatu Komputer tersusun atas beberapa komponen penting seperti CPU, memori, perangkat Input/Output. setiap computer saling berhubungan membentuk kesatuan fungsi. Sistem bus adalah penghubung bagi keseluruhan komponen computer dalam menjalankan tugasnya. Transfer data antar komponen komputer sangatlah mendominasi kerja suatu computer. Data atau program yang tersimpan dalam memori dapat diakses dan dieksekusi CPU melalui perantara bus, begitu juga kita dapat melihat hasil eksekusi melalui monitor juga menggunakan system bus. dari bawah ke atas: EISA, ISA dan XT konektor
+
+Cara Kerja Sistem Bus
+
+Pada sistem komputer yang lebih maju, arsitektur komputernya  akan  lebih kompleks, sehingga untuk meningkatkan  performa digunakan beberapa buah bus. Tiap bus merupakan jalur data antara beberapa device yang berbeda. Dengan cara ini RAM, Prosesor, GPU (VGA AGP) dihubungkan oleh bus utama berkecepatan tinggi yang lebih dikenal dengan nama FSB (Front Side Bus) . Sementara perangkat lain yang lebih lambat dihubungkan oleh bus yang berkecepatan lebih rendah yang terhubung dengan bus lain yang lebih cepat sampai ke bus utama. Untuk komunikasi antar bus ini digunakan sebuah bridge.
+
+Jenis-jenis Bus
+
+Berdasar jenis busnya, bus dapat dibedakan menjadi bus yang khusus menyalurkan data tertentu, contohnya paket data saja, atau alamat saja, jenis ini disebut Dedicated Bus. Namun apabila bus yang dilalui informasi yang berbeda baik data, alamat, dan sinyal kontrol dengan metode multipleks data maka bus ini disebut Multiplexed Bus. Kekurangan multiplexed bus adalah hanya memerlukan saluran sedikit sehingga menghemat tempat tapi kecepatan transfer data menurun dan diperlukan mekanisme yang komplek untuk mengurai data yang telah dimultipleks. Sedangkan untuk dedicated bus merupakan kebalikan dari multipexed bus.
+
+Struktur Bus
+
+Sebuah bus sistem terdiri dari 50 hingga 100 saluran yang terpisah. Masing-masing saluran ditandai dengan arti dan fungsi khusus. Walaupun terdapat sejumlah rancangan bus yang berlainan, fungsi saluran bus dapat diklasifikasikan menjadi tiga kelompok, yaitu saluran data, saluran alamat, dan saluran kontrol. Selain itu, terdapat pula saluran distribusi daya yang memberikan kebutuhan daya bagi modul yang terhubung.
+
+Saluran Data
+Saluran data memberikan lintasan bagi perpindahan data antara dua modul sistem. Saluran ini secara kolektif disebut bus data. Umumnya bus data terdiri dari 8, 16, 32 saluran, jumlah saluran diakitakan denang lebar bus data. Karena pada suatu saat tertentu masing-masing saluran hanya dapat membawa 1 bit, maka jumlah saluran menentukan jumlah bit yang dapat dipindahkan pada suatu saat. Lebar bus data merupakan faktor penting dalam menentukan kinerja sistem secara keseluruhan. Misalnya, bila bus data lebarnya 8 bit, dan setiap instruksi panjangnya 16 bit, maka CPU harus dua kali mengakses modul memori dalam setiap siklus instruksinya.
+
+Saluran Alamat
+Saluran alamat digunakan untuk menandakan sumber atau tujuan data pada bus data. Misalnya, bila CPU akan membaca sebuah word data dari memori, maka CPU akan menaruh alamat word yang dimaksud pada saluran alamat. Lebar bus alamat akan menentukan kapasitas memori maksimum sistem. Selain itu, umumnya saluran alamat juga dipakai untuk mengalamati port-port input/outoput. Biasanya, bit-bit berorde lebih tinggi dipakai untuk memilih lokasi memori atau port I/O pada modul.
+
+Saluran Kontrol
+Saluran kontrol digunakan untuk mengntrol akses ke saluran alamat dan penggunaan data dan saluran alamat. Karena data dan saluran alamat dipakai bersama oleh seluruh komponen, maka harus ada alat untuk mengontrol penggunaannya. Sinyal-sinyal kontrol melakukan transmisi baik perintah maupun informasi pewaktuan diantara modul-modul sistem. Sinyal-sinyal pewaktuan menunjukkan validitas data dan informasi alamat. Sinyal-sinyal perintah mespesifikasikan operasi-operasi yang akan dibentuk. Umumnya saluran kontrol meliputi : memory write, memory read, I/O write, I/O read, transfer ACK, bus request, bus grant, interrupt request, interrupt ACK, clock, reset.
+
+Contoh-Contoh Bus
+
+Banyak perusahaan yang mengembangakan bus-bus antarmuka terutama untuk perangkat peripheral. Diantara jenis bus yang beredar di pasaran saat ini adalah, PCI, ISA, USB, SCSI, FuturaBus+, FireWire, dan lain-lain. Semua memiliki keunggulan, kelemahan, harga, dan teknologi yang berbeda sehingga akan mempengaruhi jenis-jenis penggunaannya.
+
+Bus Industry Standard Architecture (ISA)
+
+Pengertian ISA
+
+  Singkatan dari “Arsitektur Standar Industri.” ISA adalah jenis bus yang digunakan dalam PC untuk menambahkan kartu ekspansi. Sebagai contoh, sebuah slot ISA dapat digunakan untuk menambahkan kartu video, kartu jaringan, atau port serial tambahan. Versi 8-bit asli PCI menggunakan sambungan pin 62 dan mendukung kecepatan clock 8 dan 33 MHz. 16-bit PCI menggunakan 98 pin dan mendukung kecepatan clock yang sama.
+
+Versi 8-bit ISA asli diperkenalkan pada tahun 1981 tetapi teknologi tidak menjadi banyak digunakan sampai tahun 1984, ketika versi 16-bit dirilis. Dua teknologi bersaing – MCA dan VLB – juga digunakan oleh beberapa produsen, tetapi tetap ISA bus ekspansi yang paling umum untuk sebagian besar 1980-an dan 1990-an. Namun, pada akhir abad kedua puluh, port ISA mulai diganti dengan lebih cepat PCI dan AGP slot. Saat ini, kebanyakan komputer hanya mendukung PCI dan kartu ekspansi AGP.
+
+Bus ISA (Industry Standard Architecture) adalah sebuah arsitektur bus data selebar 8-bit yang diperkenalkan dalam IBM PC 5150 pada tanggal 12 Agustus 1981. Bus ISA diperbarui dengan menambahkan bus data selebar menjadi 16-bit pada IBM PC/AT pada tahun 1984, sehingga jenis bud ISA yang beredar pun terbagi menjadi dua bagian, yakni ISA 8-bit dan ISA 16-bit. ISA merupakan bus dasar dan paling umum digunakan dalam komputer IBM PC hingga tahun 1995, sebelum akhirnya digantikan oleh bus PCL yang diluncurkan pada tahun 1992.
+
+ISA (Industry Standard Architecture)
+
+Featured image
+
+Bus ISA dikembangkan oleh IBM di Boca Raton, Florida. Ketika IBM memperkenalkan IBM PC tahun 1981, digunakanlah bus ISA 8 bit, namun pada bulan Agustus 1984 IBM memperkenalkan IBM PC-AT (Advance Technology) yang menggunakan bus ISA 16 bit.Slot ISA terdiri dari 16 bit, meskipun tersedia yang 8 bit yang merupakan subset dari ISA 16 bit. Oleh karena itu kartu ISA 8 bit dapat dipasang pada slot ISA 16 bit namun tidak sebaliknya.Pada ISA 8 bit hanya terdapat sebuah pengontrol  DMA (DMA Controller). Bus ISA 16 bit mempunyai 2 buah pengontrol DMA yaitu master dan slave. Pengontrol DMA dapat diprogram untuk transfer baca (data dibaca dari memori ke piranti I/O), transfer tulis (data dibaca dari piranti I/O ke memori) dan transfer verify yang digunakan oleh DMA kanal 0 untuk merefresh RAM/memori di komputer.
+
+Featured image
+
+Berikut Tabel perbandingan Bandwith ISA, EISA, dan Micro Channel Bus.
+
+       Tabel Karakteristik berbagai Bus
+
+Semakin canggih komputer, yang membutuhkan kecdepatan bus yang berbeda (missal port ISA dengan VGA Card), para desainer motherboard mendesain ulang bus yang disebut sebagai local bus. Ide dari local bus ialah mengakses sistem bus pada kecepatan yang sama dengan mikroprosesor atau mendekatinya.  Pada mikroprosesor berkecepatan 33MHz yang memiliki bus local dan ISA, kecepatan bus ISA terbatas hanya 8 MHz, tetapi sinyal local bus diakses pada kecepatan yang sama dengan CPU, yaitu 33MHz.
+ISA 8-bit
+
+Bus ISA 8-bit merupakan varian dari bus ISA, dengan bus data selebar 8-bit, yang digunakan dalam IBM PC 5150 (model PC awal). Bus ini telah ditinggalkan pada sistem-sistem modern ke atas tapi sistem-sistem Intel 286/386 masih memilikinya. Kecepatan bus ini adalah 4.77 MHz (sama seperti halnya prosesor Intel 8088 dalam IBM PC), sebelum ditingkatkan menjadi 8.33 MHz pada IBM PC/AT. Karena memiliki bandwidth 8-bit, maka transfer rate maksimum yang dimilikinya hanyalah 4.77 Mbyte/detik atau 8.33 Mbyte/detik. Meskipun memiliki transfer rate yang lamban, bus ini termasuk mencukupi kebutuhan saat itu, karena bus-bus I/O semacam serial port, parallel port, kontrolir floppy disk, kontrolir keyboard dan lainnya sangat lambat. Slot ini memiliki 62 konektor.
+
+Meski desainnya sederhana, IBM tidak langsung mempublikasikan spesifikasinya saat diluncurkan tahun 1981, tapi harus menunggu hingga tahun 1987, sehingga para manufaktur perangkat pendukung agak kerepotan membuat perangkat berbasis ISA 8-bit.
+
+ISA 16-bit
+
+Bus ISA 16-bit adalah sebuah bus ISA yang memiliki bandwidth 16-bit, sehingga mengizinkan transfer rate dua kali lebih cepat dibandingkan dengan ISA 8-bit pada kecepatan yang sama. Bus ini diperkenalkan pada tahun 1984, ketika IBM merilis IBM PC/AT dengan mikroprosesor Intel 80286 di dalamnya. Mengapa IBM meningkatkan ISA menjadi 16 bit adalah karena Intel 80286 memiliki bus data yang memiliki lebar 16-bit, sehingga komunikasi antara prosesor, memori, dan motherboard harus dilakukan dalam ordinal 16-bit. Meski prosesor ini dapat diinstalasikan di atas motherboard yang memiliki bus I/O dengan bandwidth 8-bit, hal ini dapat menyababkan terjadinya bottleneck pada bus sistem yang bersangkutan.
+
+Daripada membuat bus I/O yang baru, IBM ternyata hanya merombak sedikit saja dari desain ISA 8-bit yang lama, yakni dengan menambahkan konektor ekstensi 16-bit (yang menambahkan 36 konektor, sehingga menjadi 98 konektor), yang pertama kali diluncurkan pada Agustus tahun 1984, tahun yang sama saat IBM PC/AT diluncurkan. Ini juga menjadi sebab mengapa ISA 16-bit disebut sebagai AT-bus. Hal ini memang membuat interferensi dengan beberapa kartu ISA 8-bit, sehingga IBM pun meninggalkan desain ini, ke sebuah desain di mana dua slot tersebut digabung menjadi satu slot.
+
+PCI (kepanjangan dari bahasa Inggris: Peripheral Component Interconnect) adalah bus yang didesain untuk menangani beberapa perangkat keras. Standar bus PCI ini dikembangkan oleh konsorsium PCI Special Interest Group yang dibentuk oleh Intel Corporation dan beberapa perusahaan lainnya, pada tahun 1992. Tujuan dibentuknya bus ini adalah untuk menggantikan Bus ISA/EISA yang sebelumnya digunakan dalam komputer IBM PC atau kompatibelnya.
+
+Komputer lama menggunakan slot ISA, yang merupakan bus yang lamban. Sejak kemunculan-nya sekitar tahun 1992, bus PCI masih digunakan sampai sekarang, hingga keluar versi terbarunya yaitu PCI Express (add-on). Spesifikasi bus PCI pertama kali dirilis pada bulan Juni 1992, sebagai PCI vesi 1.0.
+
+Extended ISA (EISA) dan Bus Lokal VESA
+
+Extended ISA (EISA)
+
+Bus EISA (Extended/Enhanced Industry Standard Architecture) adalah sebuah bus I/O yang diperkenalkan pada september 1988 sebagai respons dari peluncuran bus MCA oleh IBM, mengingat IBM hendak “memonopoli” bus MCA dengan mengharuskan pihak lain membayar royati untuk mendapatkan lisensi MCA. Standar ini dikembangkan oleh beberapa vendor IBM PC Compatible, selain IBM, meskipun yang banyak menyumbang adalah Compaq Computer Corporation. Compaq jugalah yang membentuk EISA Committee, sebuah organisasi nonprofit yang didesain secara spesifik untuk mengatur pengembangan bus EISA. Selain Compaq, ada beberapa perusahaaan lain yang mengembangkan EISA yang jika diurutkan, maka kumpulan perusahaan dapat disebut sebagai WATCHZONE.
+
+Wyse
+AT&T
+Tandy Corporation
+Compaq Computer Corporation
+Hewlett-Packard
+Zenith
+Olivetti
+NEC
+Epson
+Meski menawarkan pengembangan yang signifikan jika dibandingkan dengan ISA 16-bit, hanya beberapa kartu berbasis EISA yang beredar dipasaran (atau yang dikembangkan). Itu pun hanya berupa kartu pengontrol larik hard disk (SCSI/RAID), dan kartu jaringan server.
+
+Bus EISA pada dasarnya adalah versi 32-bit dari bus ISA yang biasa. Tidak seperti MCA dari IBM yang benar-benar baru (arsitektur serta desain slotnya), pengguna masih dapat menggunakan kartu ISA 8-bit atau 16-bit yang lama kedalam slot EISA, sehingga hal ini memiliki nilai tambah: Kompatibilitas ke belakang (backward compatibility). Seperti halnya bus MCA, EISA juga mengizinkan konfigurasi kartu EISA secara otomatis dengan menggunakan perangkat lunak, sehingga bisa dibilang EISA dan MCA adalah pelopor “plug-and-play”, meski masih primitif.
+
+Featured image
+
+dari bawah ke atas: EISA, ISA dan XT konektor
+
+Standard Arsitektur Industri Extended (dalam prakteknya hampir selalu disingkat menjadi EISA dan sering diucapkan “eee-Suh”) adalah standar bus untuk IBM PC yang kompatibel komputer . Hal itu disampaikan pada bulan September 1988 oleh sebuah konsorsium dari klon PC vendor (yang “Geng Sembilan”) sebagai counter untuk penggunaan IBM dari perusahaan milik arsitektur Micro Channel (AMK) di nya PS / 2 seri. EISA memperluas AT bus, yang Geng Sembilan surut berganti nama ke ISA bus untuk menghindari pelanggaran merek dagang IBM pada perusahaan PC / AT komputer , menjadi 32 bit dan memungkinkan lebih dari satu CPU untuk berbagi bus. The bus mastering dukungan juga ditingkatkan untuk menyediakan akses sampai 4 GB memori. Tidak seperti MCA, EISA dapat menerima lebih tua XT papan dan ISA – garis dan slot untuk EISA adalah superset dari ISA.
+
+EISA lebih disukai oleh produsen karena sifat kepemilikan MCA, dan bahkan menghasilkan beberapa mesin IBM mendukungnya. Ini agak mahal untuk diterapkan (meskipun tidak sebanyak AMK), sehingga tidak pernah menjadi sangat populer di PC desktop. Namun, itu cukup berhasil di pasar server, seperti yang lebih cocok untuk bandwidth-intensif tugas (seperti akses disk dan jaringan). Kartu EISA paling banyak diproduksi entah SCSI atau kartu jaringan. EISA juga tersedia pada beberapa mesin non-IBM kompatibel seperti AlphaServer , HP 9000 -D, SGI Indigo2 dan MIPS Magnum.
+
+Pada saat ada kebutuhan pasar yang kuat untuk bus dari kecepatan dan kemampuan, Bus VESA lokal dan kemudian PCI diisi niche ini dan EISA lenyap ke dalam ketidakjelasan.
+
+Featured image
+
+Sebuah SCSI Controller (Adaptec AHA-1740).
+
+Featured image
+
+ELSA Pemenang 1000 untuk ISA dan EISA.
+
+Asli IBM PC termasuk lima 8-bit slot, berjalan pada kecepatan sistem jam dari 4,77 MHz. The PC / AT , diperkenalkan pada 1984, memiliki tiga slot 8-bit dan lima 16-bit slot, semua berjalan pada kecepatan jam sistem dari 6 MHz di model sebelumnya dan 8 MHz dalam versi terakhir dari komputer. 16-bit slot adalah superset dari konfigurasi 8-bit, sehingga sebagian besar kartu 8-bit mampu plug ke slot 16-bit (beberapa kartu menggunakan “rok” desain yang mengganggu bagian diperpanjang slot) dan terus berjalan dalam 8-bit mode. Salah satu alasan kunci untuk keberhasilan IBM PC (dan klon PC yang mengikutinya) adalah ekosistem aktif dari pihak ketiga kartu ekspansi yang tersedia untuk mesin. IBM dibatasi dari paten bus, dan dipublikasikan secara luas spesifikasi bus.
+
+Sebagai industri PC-clone terus membangun momentum di pertengahan sampai akhir 1980-an, beberapa masalah dengan bus mulai menjadi jelas. Pertama, karena “AT slot” (seperti yang dikenal pada saat itu) tidak dikelola oleh kelompok standar pusat, tidak ada yang mencegah produsen dari “mendorong” standar. Salah satu masalah yang paling umum adalah bahwa sebagai klon PC menjadi lebih umum, produsen PC mulai ratcheting kecepatan prosesor untuk mempertahankan keunggulan kompetitif. Sayangnya, karena bus ISA awalnya terkunci ke jam prosesor, ini berarti bahwa beberapa mesin memiliki 286 bus ISA yang berlari di 10, 12, atau bahkan 16 MHz. Bahkan, sistem pertama ke jam di bus ISA 8 MHz adalah 8088 turbo klon bahwa clock prosesor pada 8 MHz. Hal ini menyebabkan banyak masalah dengan ketidakcocokan, di mana IBM-kompatibel benar pihak ketiga kartu (dirancang untuk bus MHz 8 MHz atau 4,77) mungkin tidak bekerja dalam sistem kecepatan yang lebih tinggi (atau bahkan lebih buruk, akan bekerja unreliably). Kebanyakan pembuat PC akhirnya dipisahkan jam slot dari jam sistem, tapi masih belum ada badan standar untuk “polisi” industri.
+
+AT arsitektur bus begitu juga bercokol bahwa tidak ada produsen klon tunggal memiliki pengaruh untuk membuat alternatif standar, dan tidak ada alasan kuat bagi mereka untuk bekerja sama dalam standar baru. Karena itu, ketika pertama 386 sistem berbasis (dengan Compaq Deskpro 386) memukul pasar pada tahun 1986, masih didukung 16-bit slot. Lain-lain 386 PC mengikutinya, dan AT (kemudian ISA) bus tetap menjadi bagian dari kebanyakan sistem bahkan ke akhir 1990-an. Beberapa sistem memiliki 386 milik 32-bit ekstensi untuk bus ISA.
+
+Sementara itu, IBM mulai khawatir bahwa itu kehilangan kontrol dari industri telah dibuat. Pada tahun 1987, IBM merilis PS / 2 baris komputer, yang mencakup MCA bus. MCA termasuk berbagai perangkat tambahan atas 16-bit AT bus, termasuk bus mastering , modus burst , sumber daya perangkat lunak dikonfigurasi, dan 32-bit kemampuan. Namun, dalam upaya untuk menegaskan kembali peran dominan, IBM mematenkan bus, dan ditempatkan lisensi ketat dan kebijakan royalti pada penggunaannya. Sebuah beberapa produsen tidak memproduksi mesin lisensi MCA (terutama NCR ), tapi secara keseluruhan industri menolak keras pembatasan IBM.
+
+Sebagai tanggapan, sekelompok produsen PC (yang “Geng Sembilan”), dipimpin oleh Compaq, menciptakan sebuah bus baru, yang bernama Extended (atau Enhanced) Standar Industri Arsitektur, atau “EISA”. (The Arsitektur Standar Industri , atau “ISA”, nama diganti “AT” nama yang umum digunakan untuk bus 16-bit.) ini memberikan hampir semua keuntungan teknis MCA, namun tetap kompatibel dengan yang ada 8-bit dan 16 – sedikit kartu, dan (yang paling menarik untuk para pembuat sistem dan kartu) biaya lisensi minimal.
+
+Para EISA komputer pertama pergi ke pasar adalah Compaq Deskpro 486 dan SystemPro . Para SystemPro, menjadi salah satu PC-gaya sistem pertama kali dirancang sebagai jaringan Server , dibangun dari bawah ke atas untuk mengambil keuntungan penuh dari bus EISA. Ini termasuk fitur seperti multiprocessing , perangkat keras RAID , dan bus-mastering kartu jaringan.
+
+Ironisnya, salah satu manfaat untuk keluar dari standar EISA adalah kodifikasi final standar yang ISA slot dan kartu harus dilakukan (khususnya, kecepatan clock yang tetap pada suatu standar industri dari 8,33 MHz). Jadi, bahkan sistem yang tidak menggunakan bus EISA memperoleh keuntungan dari memiliki standar ISA, yang memberikan kontribusi terhadap umur panjang.
+
+Data teknis / Spesifikasi
+
+Featured image
+
+Featured image
+
+Meskipun bus EISA memiliki kelemahan kinerja sedikit lebih MCA (bus kecepatan 8,33 MHz, dibandingkan dengan 10 MHz), EISA terkandung hampir semua manfaat teknologi yang membual MCA, termasuk bus mastering , modus burst , sumber daya perangkat lunak dikonfigurasi, dan 32 – bit data / bus alamat. Ini EISA membawa hampir secara normal dengan MCA dari sudut pandang kinerja, dan EISA mudah dikalahkan MCA dalam mendukung industri.
+
+EISA menggantikan membosankan jumper konfigurasi umum dengan kartu ISA dengan perangkat lunak berbasis konfigurasi. Setiap sistem EISA dikirimkan dengan sebuah utilitas konfigurasi EISA, ini biasanya sedikit versi disesuaikan dari utilitas standar yang ditulis oleh para pembuat chipset EISA. Pengguna akan boot ke utilitas ini, baik dari floppy disk atau pada partisi hard berdedikasi keras. Perangkat lunak utilitas akan mendeteksi semua kartu EISA dalam sistem, dan dapat mengkonfigurasi sumber daya perangkat keras ( interupsi , port memori, dll) pada setiap kartu EISA (setiap kartu EISA akan mencakup sebuah disk dengan informasi yang menggambarkan pilihan yang tersedia pada kartu) , atau pada sistem EISA motherboard . Pengguna juga bisa memasukkan informasi tentang kartu ISA dalam sistem, yang memungkinkan utilitas untuk secara otomatis mengkonfigurasi ulang kartu EISA untuk menghindari konflik sumber daya.
+
+Demikian pula, Windows 95, dengan perusahaan Plug-and-Play kemampuan, tidak bisa mengubah konfigurasi kartu EISA, tetapi bisa mendeteksi kartu, membaca konfigurasi mereka, dan mengkonfigurasi ulang Plug and Play perangkat keras untuk menghindari konflik sumber daya. Windows 95 juga akan secara otomatis mencoba untuk menginstal driver yang sesuai untuk kartu EISA terdeteksi.
+
+Featured image
+
+Tiga EISA slot.
+
+Featured image
+
+SVGA VLB card (ATI Mach64)
+
+Pada awal 1990-an I / O bandwidth dari bus ISA yang menjadi hambatan penting bagi kinerja PC grafis. Kebutuhan untuk grafis lebih cepat sedang didorong dengan meningkatkan adopsi Graphical User Interface dalam sistem operasi PC. Sementara upaya IBM untuk menghasilkan pengganti ISA dengan Micro Channel Arsitektur adalah pilihan yang layak secara teknis, gagal di pasar karena sifat eksklusif dan biaya lisensi yang dikenakan. Para bersaing EISA standar terbuka masih tidak dapat menawarkan peningkatan kinerja yang cukup selama ISA untuk memberikan solusi. Jadi untuk waktu yang singkat, produsen perangkat keras menciptakan implementasi milik dari bus lokal pada motherboard mereka untuk memberikan kartu grafis akses langsung ke prosesor dan memori sistem – dan menghindari keterbatasan bus ISA. Namun sebagai produsen solusi spesifik ini tidak standar, tidak ada ketentuan untuk menyediakan interoperabilitas antara mereka. Hal ini menyebabkan VESA konsorsium mengusulkan dan menetapkan suatu standar Local Bus pada tahun 1992. Selain itu yang lebih besar sementara performa kartu grafis adalah tujuan utama dari VLB, perangkat lain juga bisa mendapatkan keuntungan dari standar VLB; pengendali massa terutama banyak penyimpanan ditawarkan untuk VLB dengan peningkatan kinerja disk drive.
+
+Sebuah “slot VLB” itu sendiri adalah hanya sebuah tambahan konektor tepi ditempatkan dalam-line dengan ISA tradisional atau EISA konektor, dengan bagian ini diperpanjang sering diwarnai coklat khas. Hasilnya adalah slot ISA atau EISA yang normal menjadi tambahan mampu menerima kartu kompatibel VLB. Tradisional kartu ISA tetap kompatibel karena mereka tidak akan memiliki pin masa lalu ISA normal atau bagian dari slot EISA. Kebalikannya juga benar – kartu VLB adalah dengan kebutuhan yang cukup panjang untuk mencapai konektor VLB, dan itu mengingatkan tua full-length kartu ekspansi dari sebelumnya XT IBM era. Ironisnya bagian dari VLB slot tampak mirip dengan slot MCA IBM, karena memang itu adalah fisik yang sama 116 pin konektor digunakan oleh kartu MCA diputar oleh 180 derajat. IBM AMK standar belum sepopuler IBM diharapkan dan terdapat kelebihan yang banyak dari konektor, sehingga murah dan mudah tersedia.
+
+Keterbatasan
+
+Bus VESA lokal dirancang sebagai pengganti sementara solusi untuk masalah keterbatasan bus ISA bandwith . Dengan demikian, salah satu persyaratan untuk VLB untuk mendapatkan adopsi industri adalah bahwa hal itu menjadi beban minimal untuk manufaktur untuk menerapkan, dalam hal biaya papan desain ulang dan komponen – jika produsen tidak akan telah diyakinkan untuk berubah dari solusi milik mereka sendiri . Sebagai VLB fundamental terikat kartu langsung ke bus prosesor 486 dengan logika perantara minimal (mengurangi desain logika dan biaya komponen), waktu dan tugas arbitrase adalah sangat tergantung pada kartu dan CPU. ini kesederhanaan VLB sayangnya dibuat beberapa faktor yang berfungsi untuk membatasi masa manfaat secara substansial:
+
+80486 ketergantungan. Bus VESA lokal sangat bergantung pada Intel 80486 CPU desain memori bus itu. Bila Pentium prosesor tiba ada perbedaan besar dalam desain bus nya , dan tidak mudah beradaptasi dengan implementasi VESA Local Bus. Beberapa motherboard Pentium dengan slot VLB yang pernah dibuat. Juga bergerak bus non- x86 arsitektur hampir mustahil.
+Terbatas jumlah slot yang tersedia. Kebanyakan PC yang digunakan VESA Local Bus hanya memiliki satu atau dua slot ISA VLB mampu dari 5 atau 6 yang tersedia (dengan demikian 4 ISA slot umumnya hanya itu, ISA saja). Ini adalah hasil dari Bus VESA lokal menjadi cabang langsung dari 80486 memori bus. Prosesor ini tidak memiliki kemampuan listrik untuk benar mendorong (sinyal dan kekuasaan) lebih dari 2 atau 3 perangkat pada satu waktu langsung dari bus ini.
+. Keandalan masalah Keterbatasan listrik ketat di bus juga dikurangi pun “margin keselamatan” tersedia – negatif mempengaruhi keandalan. Glitches antara kartu yang umum, seperti interaksi antara kartu individu, kombinasi kartu, implementasi motherboard, dan bahkan prosesor itu sendiri sulit untuk memprediksi. Ini terutama terjadi pada rendah-end motherboard , seperti penambahan kartu VLB lagi yang bisa mengalahkan sebuah implementasi sudah marjinal. Hasil bisa agak spektakuler ketika perangkat sering penting seperti hard disk controller terlibat konflik dengan bus dengan perangkat memori intensif seperti kartu video di mana-mana. Sebagai VLB perangkat harus langsung kecepatan tinggi akses ke memori sistem pada tingkat yang sama dengan prosesor utama, tidak ada jalan bagi sistem untuk intervensi jika perangkat adalah salah dikonfigurasi atau menjadi tidak stabil. Jika dua perangkat menimpa lokasi memori yang sama dalam suatu konflik, dan kontroler hard disk mengandalkan lokasi ini (controller HDD sering menjadi perangkat yang bertentangan 2) ada kemungkinan semua-terlalu-umum besar-besaran korupsi data .
+Skalabilitas terbatas. Saat bus kecepatan 486 sistem meningkat, stabilitas VLB menjadi semakin sulit untuk mengelola. Desain bus erat lokal yang memberikan VLB kecepatan menjadi semakin tidak toleran terhadap variasi waktu – terutama 40MHz terakhir. Asli Intel 50MHz 486 prosesor menghadapi kesulitan di pasar sebagai motherboard yang sudah ada banyak (bahkan non-VLB desain) tidak mengatasi dengan baik dengan peningkatan kecepatan front side bus untuk 50MHz. Jika orang bisa mencapai operasi yang dapat diandalkan VLB di 50MHz itu sangat cepat – tapi sekali lagi ini adalah sangat sulit untuk mencapai, dan sering ditemukan tidak menjadi mungkin dengan konfigurasi hardware tertentu. Penerus Para 486DX-50, para 486DX2 -66 dielakkan masalah ini dengan menggunakan kecepatan bus lebih lambat tapi lebih kompatibel (33MHz) dan menggunakan pengganda (x2) untuk menurunkan clock speed prosesor.
+Instalasi kesengsaraan. Panjang slot dan jumlah pin dibuat VLB kartu notoriously sulit untuk menginstal dan menghapus. Upaya mekanis belaka diperlukan adalah stres untuk kedua kartu dan motherboard, dan pecah tidak biasa. Ini diperparah oleh panjang diperpanjang dewan logika kartu, sering tidak ada cukup ruang dalam kasus PC untuk memiringkan kartu ke slot, mengharuskan mereka harus didorong dengan kuat lurus ke bawah ke dalam slot. Untuk menghindari meregangkan berlebihan dari motherboard selama tindakan ini chassis dan motherboard harus dirancang dengan baik, dukungan relatif berjarak dekat untuk motherboard, yang tidak selalu terjadi, dan orang yang memasukkan papan harus mendistribusikan gaya ke bawah merata di seluruh nya atas tepi. Panjang slot VLB, dan instalasi sulit yang dihasilkan dari itu, menyebabkan perluasan alternatif dari akronim: Bisnis Sangat Panjang.
+Featured image
+
+VLB VESA Local Bus
+
+Multi-I/O-Controller dengan 1 × × IDE/SCSI-2/FDD/parallel/2 RS232/Game
+
+Tahun dibuat                   : 1992
+
+Dibuat oleh                     : VESA
+
+Digantikan oleh               : PCI (1993)
+
+Lebar dalam bit               : 32
+
+Jumlah perangkat            : 3
+
+Kapasitas                       : 33 MHz
+
+Gaya                              : Paralel
+
+Hotplugging antarmuka   : tidak
+
+Eksternal antarmuka       : tidak
+
+Featured image
+
+VLB dan ISA slot pada motherboard
+
+Meskipun masalah ini, Bus VESA lokal menjadi sangat biasa di kemudian 486 motherboard, dengan mayoritas kemudian (pasca 1993) 486 sistem berbasis menampilkan kartu VESA Bus video yang Lokal. VLB penting ditawarkan sebuah antarmuka kecepatan tinggi untuk sistem terjangkau konsumen, karena hanya dengan 1996 adalah PCI luar biasanya tersedia dari pasar server melalui Pentium dan Intel chipset Triton. PCI juga mengungsi Bus VESA lokal di pasar 486 yang tersisa, dengan beberapa motherboard 80486 lalu yang menampilkan slot PCI bukan slot VLB. Namun sebagian besar masih baik slot PCI atau VLB samping masih-di mana-mana slot ISA, dan apa yang disebut “VIP” (VESA / ISA / PCI) papan dengan ketiga jenis slot yang juga diproduksi.
+
+Bus Peripheral Component Interconnection (PCI)
+
+Featured image
+
+  Bus PCI (Peripheral Component Interconnect) adalah bus yang didesain untuk menangani beberapa perangkat keras. PCI juga adalah suatu bandwith tinggi yang populer, prosesor   independent bus ini dapat berfungsi sebagai bus mezzenine atau bus periferal. Standar bus PCI ini dikembangkan oleh konsorsium PCI Special Interest Group yang dibentuk oleh intel corporation dan beberapa perusahaan lainnya, pada tahun 1992. Tujuan dibentuknya bus ini adalah untuk menggantikan Bus ISA/EISA yang sebelumnya digunakan dalam komputer IBM PC atau kompatibelnya.
+
+Featured image
+
+Komputer lama menggunakan slot ISA, yang merupakan bus yang lamban. Sejak kemunculan-nya sekitar tahun 1992, bus PCI masih digunakan sampai sekarang, hingga keluar versi terbarunya yaitu PCI Express (add-on).
+
+Spesifikasi bus PCI pertama kali dirilis pada bulan Juni 1992, sebagai PCI vesi 1.0.
+
+Bus PCI (Peripherals Component Interconnect). Bus PCI tidak tergantung prosesor dan berfungsi sebagai bus peripheral. Bus ini memiliki kinerja tinggi untuk sistem I/O berkecepatan tinggi. Bus ini berjalan pada kecepatan 33 MHz dengan lebar lajur 32-bit. Bus ini ditemukan pada hampir semua komputer PC yang beredar, dari mulai prosesor Intel 486 karena memang banyak kartu yang menggunakan bus ini, bahkan hingga saat ini. Bus ini dikontrol oleh chipset pengatur memori (northbridge, Intel MCH) atau Southbridge (Intel ICH, atau NVIDIA nForce MCP).
+Bus Universal Serial Bus (USB)
+
+USB (Universal Serial Bus) adalah standar bus serial untuk perangkat penghubung, biasanya kepada komputer namun juga digunakan di peralatan lainnya seperti konsol permainan, ponsel dan PDA.
+
+Sistem USB mempunyai desain yang asimetris, yang terdiri dari pengontrol host dan beberapa peralatan terhubung yang berbentuk pohon dengan menggunakan peralatan hub yang khusus.
+
+Featured image
+
+Konektor USB (Tipe A dan B)
+
+Featured image
+
+Konektor USB Tipe A
+
+Desain USB ditujukan untuk menghilangkan perlunya penambahan expansion card ke ISA komputer atau bus PCI, dan memperbaiki kemampuan plug-and-play (pasang-dan-mainkan) dengan memperbolehkan peralatan-peralatan ditukar atau ditambah ke sistem tanpa perlu mereboot komputer. Ketika USB dipasang, ia langsung dikenal sistem komputer dan memroses device driver yang diperlukan untuk menjalankannya.
+
+USB dapat menghubungkan peralatan tambahan komputer seperti mouse, keyboard, pemindai gambar, kamera digital, printer, hard disk, dan komponen networking. USB kini telah menjadi standar bagi peralatan multimedia seperti pemindai gambar dan kamera digital.
+
+Versi terbaru (hingga Januari 2005) USB adalah versi 2.0. Perbedaan paling mencolok antara versi baru dan lama adalah kecepatan transfer yang jauh meningkat. Kecepatan transfer data USB dibagi menjadi tiga, antara lain:
+
+Super speed data dengan frekuensi clock 4,800.00Mb/s
+High speed data dengan frekuensi clock 480.00Mb/s dan tolerasi pensinyalan data pada ± 500ppm.
+Full speed data dengan frekuensi clock 12.000Mb/s dan tolerasi pensinyalan data pada ±0.25% atau 2,500ppm.
+Low speed data dengan frekuensi clock 1.50Mb/s dan tolerasi pensinyalan data pada ±1.5% atau 15,000ppm.
+Paket data umum USB
+
+Data di bus USB disalurkan dengan cara mendahulukan Least Significant Bit(LSB). Paket-paket USB terdiri dari data-data berikut ini:
+
+Sync
+Semua paket harus diawali dengan data sync. Sync adalah data 8 bit untuk low dan full speed atau data 32 bit untuk high speed yang digunakan untuk mensinkronkan clock dari penerima dengan pemancar. Dua bit terakhir mengindikasikan dimana data PID dimulai.
+
+PID (Packet Identity/Identitas paket)
+Adalah field untuk menandakan tipe dari paket yang sedang dikirim. Tabel dibawah ini menunjukkan nilai-nilai PID:
+
+Featured image
+
+Ada 4 bit PID data, supaya yakin diterima dengan benar, 4 bit di komplementasikan dan diulang, menjadikan 8 bit data PID. Hasil dari pengaturan tersebut adalah sebagai berikut.
+
+Featured image
+
+ADDR (address)
+Bagian alamat dari peralatan dimana paket digunakan. Dengan lebar 7 bit, 127 peralatan dapat disambungkan. Alamat 0 tidak sah, peralatan yang belum terdaftar harus merespon paket yang dikirim ke alamat 0.
+
+ENDP (End point)
+Titik akhir dari field yang terdiri dari 4 bit, menjadikan 16 kemungkinan titik akhir. Low speed devices, hanya dapat mempunyai 2 tambahan end point pada puncak dari pipe default. (maksimal 4 endpoints)
+
+CRC
+Cyclic Redundancy Check dijalankan pada data di dalam paket yang dikirim. Semua penanda (token) paket mempunyai sebuah 5 bit CRC ketika paket data mempunyai sebuah 16 bit CRC.
+
+EOP (End of packet)
+Akhir dari paket yang disinyalkan dengan satu angka akhir 0 (Single Ended Zero/SEO) untuk kira-kira 2 kali bit diikuti oleh sebuah J 1 kali.
+
+Data yang dikirim dalam bus USB adalah salah satu dari 4 bentuk, yaitu control, interrupt, bulk, atau isochronous.
+
+Perancangan peralatan yang menggunakan USB
+
+Untuk membuat suatu peralatan yang dapat berkomunikasi dengan protokol USB tidak perlu harus mengetahui secara rinci protokol USB. Bahkan kadang tidak perlu pengetahuan tentang USB protokol sama sekali. Pengetahuan tentang USB protokol hanya diperlukan untuk mengetahui spesifikasi yang dibutuhkan untuk alat kita. Pada kenyataannya untuk mengimplemetasikan USB protokol di FPGA ataupun perangkat bantu lain sangat tidak efisien dan banyak waktu terbuang untuk merancangnya. Menggunakan kontroler USB sangat lebih dianjurkan dalam membuat alat yang dapat berkomunikasi melalui protokol ini. Kontroler USB mempunyai banyak macam bentuk, dari microcontroller berbasis 8051 yang mempunyai input output USB secara langsung sampai pengubah protocol dari serial seperti I2C bus ke USB.
+
+USB controller biasanya dijual dengan disertai berbagai fasilitas yang mempermudah pengembangan alat, diantaranya manual yang lengkap, driver untuk windows XP, contoh code aplikasi untuk mengakses USB, contoh code untuk USB controller, dan skema rangkaian elektronikanya.
+
+Dalam sisi pengembangan software aplikasi dalam personal computer, komunikasi antar hardware di dalam perangkat keras USB tidak terlalu diperhatikan karena Windows ataupun sistem operasi lain yang akan mengurusnya. Pengembang perangkat lunak hanya memberikan data yang akan dikirim ke alat USB di buffer penyimpan dan membaca data dari alat USB dari buffer pembaca. Untuk driver pun kadang-kadang Windows sudah menyediakannya, kecuali untuk peralatan yang mempunyai spesifikasi khusus kita harus membuatnya sendiri.
+
+Accelarate Graphics Port
+
+Bus AGP, singkatan dari Accelerated Graphics Port adalah sebuah bus yang dikhususkan sebagai bus pendukung kartu grafis berkinerja tinggi, menggantikan bus ISA, bus VESA atau bus PCI yang sebelumnya digunakan.
+
+Spesifikasi AGP pertama kali (1.0) dibuat oleh Intel dalam seri chipset Intel 440 pada Juli tahun 1996. Sebenarnya AGP dibuat berdasarkan bus PCI, tapi memiliki beberapa kemampuan yang lebih baik. Selain itu, secara fisik, logis dan secara elektronik, AGP bersifat independen dari PCI. Tidak seperti bus PCI yang dalam sebuah sistem bisa terdapat beberapa slot, dalam sebuah sistem, hanya boleh terdapat satu buah slot AGP saja.
+
+Spesifikasi AGP 1.0 bekerja dengan kecepatan 66 MHz (AGP 1x) atau 133 MHz (AGP 2x), 32-bit, dan menggunakan pensinyalan 3.3 Volt. AGP versi 2.0 dirilis pada Mei 1998 menambahkan kecepatan hingga 266 MHz (AGP 4x), serta tegangan yang lebih rendah, 1.5 Volt. Versi terakhir dari AGP adalah AGP 3.0 yang umumnya disebut sebagai AGP 8x yang dirilis pada November 2000. Spesifikasi ini mendefinisikan kecepatan hingga 533 MHz sehingga mengizinkan throughput teoritis hingga 2133 Megabyte/detik (dua kali lebih tinggi dibandingkan dengan AGP 4x). Meskipun demikian, pada kenyataannya kinerja yang ditunjukkan oleh AGP 8x tidak benar-benar dua kali lebih tinggi dibandingkan AGP 4x, karena beberapa alasan teknis.
+
+Featured image
+
+Selain empat spesifikasi AGP di atas, ada lagi spesifikasi AGP yang dinamakan dengan AGP Pro. Versi 1.0 dari AGP Pro diperkenalkan pada bulan Agustus 1998 lalu direvisi dengan versi 1.1a pada bulan April 1999. AGP Pro memiliki slot yang lebih panjang dibandingkan dengan slot AGP biasa, dengan tambahan pada daya yang dapat didukungnya, yakni hingga 110 Watt, lebih besar 25 Watt dari AGP biasa yang hanya 85 Watt. Jika dilihat dari daya yang dapat disuplainya, terlihat dengan jelas bahwa AGP Pro dapat digunakan untuk mendukung kartu grafis berkinerja tinggi yang ditujukan untuk workstation graphics, semacam ATi FireGL atau NVIDIA Quadro. Meskipun demikian, AGP Pro tidaklah kompatibel dengan AGP biasa: kartu grafis AGP 4x biasa memang dapat dimasukkan ke dalam slot AGP Pro, tapi tidak sebaliknya. Selain itu, karena slot AGP Pro lebih panjang, kartu grafis AGP 1x atau AGP 2x dapat tidak benar-benar masuk ke dalam slot sehingga dapat merusaknya. Untuk menghindari kerusakan akibat hal ini, banyak vendor motherboard menambahkan retensi pada bagian akhir slot tersebut: Jika hendak menggunakan kartu grafis AGP Pro lepas retensi tersebut.
+
+Selain faktor kinerja video yang lebih baik, alasan mengapa Intel mendesain AGP adalah untuk mengizinkan kartu grafis dapat mengakses memori fisik secara langsung, yang dapat meningkatkan kinerja secara signifikan, dengan biaya integrasi yang relatif lebih rendah. AGP mengizinkan penggunaan kartu grafis yang langsung mengakses RAM sistem, sehingga kartu grafis on-board dapat langsung menggunakan memori fisik, tanpa harus menambah chip memori lagi, meski harus dibarengi dengan berkurangnya memori untuk sistem operasi.
+
+Mulai tahun 2006, AGP telah mulai digeser oleh kartu grafis berbasis PCI Express x16, yang dapat mentransfer data hingga 4000 Mbyte/detik, yang hampir dua kali lebih cepat dibandingkan dengan AGP 8x, dengan kebutuhan daya yang lebih sedikit (voltase hanya 800 mV saja.)
+
+Featured image
+
+Bus AGP (Accelerated Graphic Port). Bus ini merupakan bus yang didesain secara spesifik untuk kartu grafis. Bus ini berjalan pada kecepatan 66 MHz (mode AGP 1x), 133 MHz (mode AGP 2x), atau 533 MHz (mode AGP 8x) pada lebar jalur 32-bit, sehingga bandwidth maksimum yang dapat diraih adalah 2133 MByte/s. Umumnya, bus ini terkoneksi ke chipset pengatur memori (Northbridge, Intel Memory Controller Hub, atau NVIDIA nForce SPP). Sebuah sistem hanya dapat menampung satu buah bus AGP. Mulai tahun 2005, saat PCI Express mulai marak digunakan, bus AGP ditinggalkan.
+
+Bus Small Computer System Interface (SCSI)
+
+Small Computer System Interface (SCSI) adalah perangkat peripheral eksternal yang dipo[ulerkan oleh macintosh pada tahun 1984. SCSI merupakan interface standar untuk drive CD-ROM, peralatan audio, hard disk, dan perangkat penyimpanan eksternal berukuan besar. SCSI menggunakan interface paralel dengan 8,16, atau 32 saluran data.
+
+Bus P1394 / Fire Wire
+
+Semakin pesatnya kebutuhan bus I/O berkecepatan tinggi dan semakin cepatnya prosesor saat ini yang mencapai 1 GHz, maka perlu diimbangi dengan bus berkecepatan tinggi juga. Bus SCSI dan PCI tidak dapat mencukupi kebutuhan saat ini. Sehingga dikembangkan bus performance tinggi yang dikenal dengan FireWire (P1393 standard IEEE). P1394 memiliki kelebihan dibandingkan dengan interface I/O lainnya, yaitu sangat cepat, murah, dan mudah untuk diimplementasikan. Pada kenyataan P1394 tidak hanya popular pada system computer, namun juga pada peralatan elektronik seperti pada kamera digital, VCR, dan televise. Kelebihan lain adalah penggunaan transmisi serial sehingga tidak memerlukan banyak kabel.

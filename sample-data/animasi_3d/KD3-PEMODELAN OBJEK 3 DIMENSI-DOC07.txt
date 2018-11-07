@@ -1,0 +1,26 @@
+Teknik Modeling 3D
+ Pandu Aji Wirawan  Minggu, Oktober 28, 2012  8 comment
+Teknik modeling 3 dimensi secara umum dibedakan menjadi 3 macam. Yaitu
+Constructive Solid Geometry (Primitive Modeling)
+Implicit Surfaces (Nurbs Modeling)
+Subdivision Surface (Sculpting?)
+Saya sendiri masih bingung dengan low polly modeling dan high polly modeling, jika kedua metode modeling tersebut tidak termasuk dalam teknik pemodelan 3D lalu masuk dalam apa? Jenis model kah? atau yang lain? Semoga ada yang bisa membantu menjawab.
+
+Kembali lagi ke topik utama, saya akan coba menjelaskan 3 macam teknik pemodelan 3D
+Constructive Solid Geometry sering disebut dengan primitive modeling, merupakan salah satu teknik dasar teknik pemodelan 3D. Modeling dibuat dari objek primitive yang sudah ada seperti kubus, bola, silinder, dsb.
+Implicit Surfaces atau yang sering disebut dengan NURBS Modeling yang merupakan teknik pemodelan yang menggunakan perhitungan matematika. Biasanya menggunakan curve
+Subdivision Surface merupakan teknik yang pertama dikenalkan oleh Ed Catmull dan Clark dari Pixar pada tahun 1978. Awalnya teknik ini hanya digunakan untuk merepresentasikan bidang yang halus, namun belakangan dimanfaatkan bersamaan dengan teknik yang bernama sculpting (pahat), sehingga memungkinkan seseorang memahat objek 3D dalam bentuk digital.
+
+Sampai saat ini saya bingung, karena teknik modeling yang ada di wikipedia hampir sama dengan proses modeling. Jumlahnya sama-sama 3. Saya sendiri kurang tahu apa yang membedakannya karena penjelasannya pun mirip. Berikut penjelasan tentang 3 cara merepresentasikan model.
+
+Polygonal Modeling, merupakan modeling yang terdiri dari vertices(vertex/titik), yang jika disambungkan akan membentuk sebuah edge(garis), sehingga jika disambungkan dengan edge lain dapat membentuk sebuah face (bidang). Bidang yang dibentuk oleh vertex, edges maupun face ini salah satunya adalah primitive objek yang juga termasuk dalam teknik pemodelan. Nah lho?
+polygon modeling 
+polygon modeling ~ wikipedia
+Curve Modeling merupakan modeling yang memanfaatkan curve untuk membentuk sebuah bidang. Tidak ada yang namanya vertex dalam curve, namun dapat membuat sebuah bidang dengan perhitungan matematika sama seperti implicit surfaces / NURBS
+curve modeling
+curve modeling ~ blenderunderground
+Sedangkan digital sculpting merupakan modeling yang terbentuk dari hasil pahatan sebuah model yang memiliki tingkat kehalusan bidang tinggi sehingga dapat digunakan untuk membuat detail pada model. Detail yang tinggi tersebut pun terdiri dari vertex, edge, dan face dalam jumlah besar. Sehingga bisa dikategorikan dalam polygonal modeling. Yang membedakan adalah proses pembuatan modelnya yang dipahat menggunakan alat digital.
+
+dadat sculpting
+dadat sculpting by budip
+Saya sendiri sedikit bingung dengan materi tesebut. Mungkin ada teman-teman yang dapat membantu menjelaskan tentang modeling, sehingga penafsiran saya tidak salah dan bisa valid untuk referensi tugas akhir maupun skripsi :D. Ditunggu koreksinya. hehehe

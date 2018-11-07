@@ -1,0 +1,69 @@
+Pengertian, Metode, dan Bidang Yang Menggunakan Pemodelan 3 Dimensi
+ Muhammad Faris Al Fatih     Tugas Softskill
+
+Tugas Softskill
+
+
+
+Assalamu’alaikum..
+
+            Dalam pembasahan kali ini saya ingin membahas Tentang 3D Modelling dalam mata kuliah Softskill (Desain Permodelan Grafik). Oke langsung saja ya disimak.
+
+3D Modelling
+
+
+            Dalam grafik komputer 3 Dimensi, 3d modeling adalah proses mengembangkan matematika representasi dari setiap tiga-dimensi benda (baik benda mati atau hidup) melalui perangkat lunak khusus. Produk ini disebut sebagai model 3d atau 3 Dimensi. Hal ini dapat ditampilkan sebagai gambar dua dimensi melalui proses yang disebut 3d rendering atau digunakan dalam komputer simulasi fenomena fisik. Model juga dapat secara fisik dibuat menggunakan perangkat printing 3d.
+            Model dapat dibuat secara otomatis atau manual. Manual proses pemodelan geometris mempersiapkan data untuk komputer grafis 3d mirip dengan seni plastik seperti mematung.
+
+Model
+
+            Model 3d mewakili objek 3d menggunakan koleksi poin dalam ruang 3d, dihubungkan dengan berbagai entitas geometris seperti segitiga, garis, permukaan lengkung, dll menjadi pengumpulan data (poin dan informasi lainnya), model 3d dapat dibuat dengan tangan , algorithmically (model prosedural), atau scan.
+            Model 3d banyak digunakan di mana saja di grafis 3d. Sebenarnya, menggunakan grafis 3d pada kompute. Banyak permainan komputer yang digunakan untuk membuat model 3d seperti sprite sebelum komputer dapat membuat mereka secara real-time.
+
+ Banyak Model 3d Ini Digunakan Dalam Berbagai Bidang, Yaitu :
+
+Industri medis menggunakan model rinci organ.
+
+Industri film menggunakan sebagai karakter dan objek untuk animasi dan kehidupan nyata film.
+
+Industri permainan video menggunakan sebagai aset untuk komputer dan video games.
+
+Sektor ilmu menggunakan sebagai model senyawa kimia.
+
+Industri arsitektur menggunakan untuk menunjukkan bangunan dan lanskap yang diusulkan melalui arsitektur perangkat lunak models.
+
+Komunitas teknik desain menggunakan sebagai alat baru, kendaraan dan struktur serta sejumlah penggunaan lainnya.
+
+Proses pemodelan
+
+            Pemodelan adalah membentuk suatu benda-benda atau obyek. Membuat dan mendesain obyek tersebut sehingga terlihat seperti hidup. Sesuai dengan obyek dan basisnya, proses ini secara  keseluruhan dikerjakan di komputer. Melalui konsep dan proses desain, keseluruhan obyek bisa diperlihatkan secara 3 dimensi, sehingga banyak yang menyebut hasil ini sebagai pemodelan 3 dimensi (3d modelling) (nalwan, 1998).
+            Ada beberapa aspek yang harus dipertimbangkan bila membangun model obyek, kesemuanya memberi kontribusi pada kualitas hasil akhir. Hal-hal tersebut meliputi metoda untuk mendapatkan atau membuat data yang mendeskripsikan obyek, tujuan dari model, tingkat kerumitan, perhitungan biaya, kesesuaian dan enyamanan, serta kemudahan manipulasi model.
+Proses pemodelan 3d membutuhkan  perancangan yang dibagi dengan beberapa tahapan untuk pembentukannya. Seperti obyek apa yang ingin dibentuk sebagai obyek dasar, metoda pemodelan obyek 3d, pencahayaan dan animasi gerakan obyek sesuai dengan urutan proses yang akan dilakukan.
+
+Ada Lima Cara Populer Untuk Mewakili Model:
+
+1. Polygonal Pemodelan
+
+            Points dalam ruang 3d, yang disebut simpul, terhubung dengan segmen garis membentuk suatu poligonal mesh. Digunakan, misalnya, oleh blender. Sebagian besar model 3d saat ini dibangun sebagai model poligonal bertekstur, karena mereka fleksibel dan karena komputer dapat membuat mereka begitu cepat. Namun, poligon adalah planar dan hanya dapat mendekati permukaan lengkung menggunakan banyak poligon.
+
+2. Nurbs Modelling
+
+            Nurbs surfaces ditentukan oleh kurva spline, yang dipengaruhi oleh tertimbang titik kontrol.  Kurva berikut (tetapi tidak perlu interpolasi) titik. Meningkatkan berat badan untuk suatu titik akan menarik kurva mendekati titik itu. Nurbs permukaan yang benar-benar halus, bukan pendekatan dengan menggunakan permukaan datar kecil, dan begitu juga sangat cocok untuk model organik. Maya dan rhino 3d adalah yang paling terkenal software komersial yang menggunakan nurbs aslinya.
+
+3. Pemodelan Splines & Patch
+
+            Seperti nurbs, splines dan patch tergantung pada garis lengkung untuk menentukan permukaan terlihat. Patch jatuh di suatu tempat antara nurbs dan poligon dalam hal fleksibilitas dan kemudahan penggunaan.
+
+4. Primitif Pemodelan
+
+            Prosedur ini memerlukan geometris primitif seperti bola, silinder, kerucut atau kubus sebagai blok bangunan untuk model yang lebih kompleks. Manfaat yang cepat dan mudah konstruksi dan bahwa bentuk-bentuk secara matematis didefinisikan dan dengan demikian benar-benar tepat, juga definisi bahasa dapat lebih sederhana.
+Primitif pemodelan yang cocok untuk aplikasi teknis dan kurang untuk bentuk-bentuk organik. Beberapa perangkat lunak 3d bisa langsung render dari primitif (seperti pov-ray), yang lain menggunakan primitif hanya untuk pemodelan dan mengkonversikannya ke jala-jala untuk operasi lebih lanjut dan rendering.
+            Pemodelan dapat dilakukan dengan menggunakan program khusus (misalnya : maya, 3ds max, blender, lightwave, modo) atau komponen aplikasi (pembentuk, lofter di 3ds max) atau bahasa deskripsi adegan (seperti dalam pov - ray). Dalam beberapa kasus, tidak ada perbedaan yang tegas antara fase-fase ini, dalam kasus-kasus seperti pemodelan adalah bagian dari proses penciptaan adegan (hal ini terjadi, misalnya, dengan caligari truespace dan realsoft 3d).
+            Bahan-bahan seperti pasir bertiup, awan, dan cairan semprotan model dengan sistem partikel, dan merupakan massa 3d koordinat yang memiliki titik-titik, poligon, tekstur gambar percikan, atau sprite.
+
+Metode Modeling 3D
+
+
+            Dasar metode  modeling  3d, ada beberapa metode yang digunakan untuk pemodelan 3d. Ada jenis metode pemodelan obyek yang disesuaikan dengan kebutuhannya seperti dengan nurbs dan polygon  ataupun  subdivision. Modeling polygon  merupakan bentuk segitiga dan segiempat yang menentukan  area dari permukaan sebuah karakter. Setiap polygon menentukan sebuah bidang datar dengan meletakkan sebuah jajaran polygon sehingga kita bisa menciptakan bentuk-bentuk permukaan.
+            Untuk mendapatkan permukaan yang halus, dibutuhkan banyak bidang polygon. Bila hanya menggunakan sedikit  polygon, maka object yang didapat akan terbagi sejumlah pecahan polygon. Sedangkan modeling dengan nurbs (non-uniform rational bezier spline) merupakan metode paling populer untuk membangun sebuah model organik. Kurva pada nurbs dapat dibentuk dengan hanya tiga titik saja.
+            Dibandingkan dengan kurva polygon yang membutuhkan banyak titik (verteks) metode ini lebih memudahkan untuk dikontrol. Satu titik cv (control verteks) dapat mengendalikan satu area untuk proses tekstur.

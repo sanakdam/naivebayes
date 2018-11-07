@@ -1,0 +1,66 @@
+Animasi Komputer
+ANIMASI KOMPUTER
+Animasi komputer adalah seni menghasilkan gambar bergerak dengan sendiri melalui penggunaan komputer dan merupakan sebagian bidang komputer grafik  dan animasi. Sesuai dengan namanya, animasi ini secara keseluruhan dikerjakan dengan menggunakan komputer. Dari pembuatan karakter, mengatur gerakkan “pemain” dan kamera, pemberian suara, serta special effeknya semuanya di kerjakan dengan komputer. Animasi semakin banyak dihasilkan melalui grafik komputer 3D, walaupun grafik komputer 2D masih banyak ada .
+
+Dengan animasi komputer, hal-hal yang awalnya tidak mungkin digambarkan dengan animasi menjadi mungkin dan lebih mudah. Sebagai contoh perjalanan wahana ruang angkasa ke suatu planet dapat digambarkan secara jelas, atau proses terjadinya tsunami.
+
+Perkembangan teknologi komputer saat ini, memungkinkan orang dengan mudah membuat animasi. Animasi yang dihasilkan tergantung keahlian yang dimiliki dan software yang digunakan.
+Animasi komputer menggunakan CGI . CGI (Computer Generated Image) adalah penerapan bidang komputer grafis, untuk pembuatan dan memanipulasi gambar (visual) secara digital. Bentik sederhana dari grafika komputer adalah grafika komputer 2D yang kemudian berkembang menjadi grafika komputer 3D (untuk efek-efek khusus dalam film-film, program-program televisi, iklan-iklan, simulator-simulato dan sumilasi umumnya, dan media cetak), pemrosesan citra, dan pengenalan pola. Grafika 3D adalah representasi dari data geometrik 3 dimensi sebagai hasil dari pemrosesan dan pemberian efek cahaya terhadap grafika komputer 2D. Data matematis ini belum bisa dikatakan sebagai gambar grafis hingga saat ditampilkan secara visual pada layar komputer atau printer. Secara umum prinsip yang dipakai mirip dengan grafika komputer 2D, dalam hal penggunaan algoritma, grafika vektor, dan grafika rasternya. Proses penampilan suatu model matematis ke bentuk citra 2D biasanya dikenal dengan proses 3D rendering.
+
+Animasi 2D terus dikonsumsi oleh para animator-animator dunia. Selain Disney, perusahaan lain yang menggunakan animasi 2D adalah Nickelodeon. Nickelodeon menciptakan beberapa film-film kartun, salah satu yang menjadi icon juga adalah SpongeBob Square Pants.
+animasi komputer mulai ada setelah teknologi komputer berkembang di era 80-an Animasi komputer mulai terkenal semenjak munculnya film Pixar yaitu Toy Story (1995)
+
+Cara kerja animasi computer mulai dari :
+
+Pra-produksi (Konsep, Skenario, Pembentukan karakter, Storyboard, Dubbing awal, Musik dan sound FX),   Produksi (Lay out, Key motion, In Between, Background, Scanning, Coloring),
+Post-produksi (Compo­site, Editing, Rendering, Pemindahan film kedalam berbagai media berupa VCD, DVD, VHS dan lainnya)
+Dikerjakan/digarap seorang animator dengan banyak bantuan komputer, teknik cell animasi diadopsi   dalam animasi komputer, kertas gambar dalam pembuatan sebelumnya di program menjadi frame komputer, jadi yang semula kumpulan gambar menjadi kumpulan frame dan dibuat di dalam satu layer atau beberapa layer.
+Perbedaan  animasi tradisional dan animasi komputer :
+
+ A. animasi tradisional
+
+merupakan sejenis teknik animasi yang pembuatan gambarnya dilukis/digambar dengan tangan. Teknik ini merupakan bentuk animasi yang paling sering digunakan sebelum adanya animasi computer.
+
+B. animasi computer
+
+seni menghasilkan gambar bergerak melalui penggunaan komputer dan dengan menggunakan bantuan software – software (tools) yang telah ada. terutama software atau aplikasi dalam bidang komputer grafik dan animasi. Contoh software : Adobe Flash, Macromedia Flash, Ulead GIF Animator 5, dan lain-lain.
+
+Jadi , perbedaan keduanya sudah jelas terlihat pada proses pembuatan gambar dan pergerakan animasinya, yaitu :
+
+untuk animasi tradisional proses pembuatan gambar dikerjakan secara manual atau dengan tangan dan untuk proses pergerakkannya memakai banyak frame jadi setiap satu animasi memerlukan sekitar 20 frame dan diperlukan waktu serta tenaga yang besar untuk menghasilkan sebuah animasi yang lengkap. Animasi ini dibuat dari berlembar-lembar kertas gambar yang kemudian di-”putar” sehingga muncul efek gambar bergerak. Gambar pertama dipaparkan pada screne. Kemudian gambar kedua yang mungkin lebih kecil atau berukuran sama dengan gambar pertama ditumpuk pada gambar pertama. Proses ini diulang beberapa kali, setiap kali gambar yang baru menunjukkan sedikit perubahan. Sekiranya proses ini diulang-ulang, ia kelihatannya seperti bergerak.
+sedangkan animasi komputer proses pembuatan gambar dan proses pergerakkan animasinya dibantu dengan komputer dan software-software khusus untuk pembuatan animasi jadi tidak terlalu sulit dan tidak memakan banyak waktu.
+TIPE DAN JENIS ANIMASI KOMPUTER
+TIPE ANIMASI KOMPUTER
+
+Animasi 2 Dimensi Animasi 2 Dimensi adalah animasi yang paling sering kita jumpai, animasi ini biasa disebut dengan kartun. Animasi ini berbasis pada konsep gambar 2 dimensi.Contoh-contoh dari animasi ini adalah spongbob dan lain lain.
+Animasi 3 Dimensi Animasi 3 Dimensi merupakan perkembangan dari animasi 2 dimensi. Dengan berdasarkan pada konsep gambar 3 dimensi sehingga menghasilkan animasi yang lebih realistis, detail dan nyata karena hampir menyerupai bentuk aslinya. Contoh dari animasi 3 Dimensi sendiri adalah smurf, avatar dan lain-lain.
+JENIS ANIMASI KOMPUTER
+
+Komputer Assist
+Beberapa contoh pertama dari animasi komputer komersial secara tradisional menggunakan bantuan komputer. Hal ini bisa dalam bentuk komputer yang memproduksi ” perantara” atau gambar yang menghubungkan dua inputan yang sama oleh seniman (sehingga memungkinkan seniman untuk menggambar karakter lebih sedikit). Komputer animasi pembantu pertama kali digunakan dalam sebuah film animasi di “The Mouse Detective Besar” Disney pada tahun 1986. Sebuah adegan dalam film berlangsung didalam jam, dan roda gigi mekanik kompleks benar-benar diberikan dalam komputer sebagai kawat-frame grafis sebelum dipindahkan ke sel, di mana mereka bersatu dengan unsur-unsur lain dari TKP. Teknik yang sama digunakan oleh Disney dalam film kemudian seperti “Beauty and the Beast” (1991), “Pocahontas” (1995) dan “Tarzan” (1999) .
+
+  Gerak Kontrol dan Script
+Animasi komputer yang paling modern menggunakan sistem kendali gerak yang digunakan oleh animator untuk memanipulasi pembuatan sebuah objek, dan kemudian memindahkan obyek telah yang melalui serangkaian pose. Metode ini menghasilkan gerakan yang akan menghasilkan gambar gerakan akhir. Animasi gerak kontrol pertama dilakukan dengan sistem scripting seperti ASAS (Aktor Script Sistem Animasi). Dalam skenario ini, animator adalah seorang programmer komputer yang menulis kode dalam bahasa komputer untuk menghasilkan sebuah objek dan memberikan gerakan obyek itu. Sebagai animasi komputer berkembang, sistem yang lebih interaktif dikembangkan untuk memungkinkan animator untuk berinteraksi dengan gambar dan benda-benda melalui antarmuka yang lebih abstrak. Kode sekarang ditulis secara otomatis, berdasarkan masukan yang animator membuat menggunakan antarmuka visual dan memanipulasi subjek dengan mouse, keyboard atau perangkat input lainnya.
+
+CGI Compositing
+Animasi komputer juga digunakan di tempat teknik yang lebih tua dari film animasi. Sejak adanya bioskop, unsur-unsur animasi telah ditambahkan kedalam gambar difoto. Unsur-unsur lain, seperti model atau latar belakang dicat, juga digunakan dan harus susah payah dipasangkan dengan rekaman live-action. Ini melibatkan proses optik panjang di mana berbagai elemen yang kembali difoto beberapa kali agar dapat composited bersama menjadi satu gambar. Karena kompleksitas proses, efek khusus yang mahal dan jarang digunakan dalam jumlah besar oleh semua tapi film yang paling tinggi dibiayai.
+Komputer citra yang dihasilkan mengubah semua itu, yang memungkinkan pembuat film untuk menggunakan layar biru atau hijau untuk memilih bagian dari film yang nantinya dapat dengan mudah dihilangkan dengan komputer dan diganti dengan gambar dari sumber lain, baik foto atau sepotong adegan animasi. Komputer compositing animasi bahkan berfungsi di banyak konsumen tingkat program video editing.
+
+Motion Capture
+Motion capture adalah jenis animasi komputer yang telah memperoleh banyak peminat dalam beberapa tahun terakhir. Motion capture ini bergantung pada sensor kecil yang ditempatkan pada karakter di berbagai titik di sekitar tubuh mereka. Para aktor melakukan dan gerakan mereka ditangkap oleh kamera yang dapat menemukan sensor dan melacak gerakan mereka. Gerakan ini kemudian dapat ditransfer ke komputer-tokoh yang dirancang akan bergerak dengan cara yang persis sama seperti aktor lakukan.
+Motion capture sangat signifikan bagi yang menjembatani kesenjangan antara metode tradisional pembuatan film dan teknologi baru. Beberapa contoh dari motion capture termasuk, Gollum di film “Lord of the Rings”,
+
+Animasi Flash
+Salah satu jenis akhir animasi komputer adalah Flash animasi. Animasi Flash merupakan salah satu nama untuk program Flash dari Adobe yang telah mereka produksi, meskipun saat ini ada program lain yang juga memungkinkan animator untuk menciptakan “flash” animasi. Walaupun keterbatasan dalam hal gerakan dan gaya, namun Flash lebih murah untuk memproduksi ,karena itu sekarang flash semakin meningkat popularitasnya. Animasi Flash sering digunakan dalam iklan dan umum sebagai konten video di situs Web.
+
+Perkembangan Animasi Komputer
+Perkembangan animasi seiring dengan perkembangan dunia pertelevisian. Pada awalnya diciptakanlah animasi berbasis dua dimensi (2D Animation). Yakni objek yang dianimasi mempunyai ukuran panjang (x-axis) dan lebar (y-axis) saja. Realisasi nyata dari perkembangan animasi dua dimensi yang cukup revolusioner berupa dibuatnya film-film kartun. Seven Dwarfs (1937) dan Fantasia (1940) dari Walt Disney adalah karya-karya film kartun yang melegenda sampai sekarang. Bahkan beberapa tokoh-tokoh kartun buatan Walt Disney yang lain masih dapat bertahan dan populer sampai saat ini mekipun pembuatan film-film tersebut dikerjakan hampir 500 tahun yang lalu.
+
+Kalau dibandingkan, sedikit sekali tokoh-tokoh film layar lebar yang mampu bertahan sekian lamanya. Pembuatan animasi film kartun itu sendiri pada awalnya dikerjakan dengan membuat sketsa gambar yang digerakkan satu demi satu. Untuk membuat satu durasi animasi membutuhkan jumlah gambar yang cukup banyak. Sejak ditemukannya teknik animasi sel, maka pembuatannya menjadi lebih mudah. Kertas gambar yang biasa dipergunakan diganti dengan kertas transparan yang terbuat dari bahan celluloid sheet. Teknik animasi sel inilah yang kemudian diadopsi dalam animasi komputer.
+
+Kertas gambar dalam pembuatan animasi sebelumnya kemudian diprogram menjadi frame di komputer. Sehingga yang semula berupa kumpulan gambar-gambar maka di komputer hal tersebut sudah merupakan kumpulan dari frame-frame yang tersusun dalam sebuah alur waktu. Adanya perubahan pergerakan suatu objek yang dianimasi oleh komputer dapat dibuat menjadi sebuah keyframe. Sehingga menjadi jauh lebih efektif dan efisien dibandingkan dengan animasi
+yang dilakukan manual.
+
+Di tahun-tahun mendatang, dunia animasi diprediksikan akan lebih gemerlap lagi. Sebagai contoh dengan dirilisnya software eye matic face station. Dengan dukungan software animasi berbasis 3D ini maka sutradara tidak perlu lagi mendatangkan seorang aktris atau aktor yang bayarannya mahal dalam pembuatan film. Cukup dengan mempunyai foto tampak samping dan tampak depan maka wajah artis tadi dapat dimodel mirip dengan aslinya, dalam bentuk tiga dimensi tentunya.
+
+Dengan program combustion yang merupakan plug in software 3D Studio Max maka pembuatan efek transisi yang dipergunakan dalam pergantian antarsekuel film di satu sisi menjadi lebih mudah dan lebih menarik. Sehingga makin luas pula lahan pekerjaan yang ditawarkan dan menjadi tantangan bagi komunitas animator Indonesia.

@@ -1,0 +1,120 @@
+Sistem Komputer
+
+Sistem komputer memiliki tiga komponen utama, yaitu : CPU, Memory (primer & sekunder), dan peralatan masukan/keluaran (I/O) seperti printer, monitor, keyboard, mouse dan modem. dalam menjalankan fungsinya sebagai masukan dan keluaran diperlukan modul I/O. Modul I/O merupakan peralatan antarmuka (interface) bagi sistem bus atau switch sentral dan mengontrol satu atau lebih perangkat periperhal.
+
+Modul I/O tidak hanya sekedar mosul penghubung, tetapi sebuah piranti yang berisi logika dalam melakukan fungsi komunikasi antara perperhal dan bus komputer.   Ada beberapa alasan kenapa tidak langsung dihubungkan dengan bus komputer yaitu:
+
+Bervariasinya metode operasi piranti periperhal, sehingga tidak praktis apabila sistem komputer harus menangani berbagai macam sistem operasi periperhal tersebut.
+Kecepatan transfer data piranti periperhal umumnya lebih lambat daripada laju transfer data pada CPU
+Format dan panjang data pada piranti periperhal seringkali berbeda dengan CPU, sehingga perlu modul untuk menselaraskannya.
+Dari beberapa alasan diatas, modul I/O memiliki 2 buah fungsi utama, yaitu :
+
+Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+Sebagaimana piranti antarmuka dengan peralatan periperhal lainnya menggunakan link data tertentu.
+Sistem Masukan dan Keluaran Komputer
+
+Bagaimana modul I/O dapat menjalankan tugasnya, yaitu menjembatani CPU dan memori dengan dunia luar merupakan hal terpenting untuk kita ketahui. Inti mempelajari sistem I/O komputer adalah mengetahui fungsi dan struktur kerja modul I/O.
+
+ 
+
+ 
+
+Gambar 1. model generik dari suatu modul I/O
+
+Fungsi Modul Input/Output
+
+Modul I/O adalah sebuah komponen dalam sistem komputer yang bertanggung jawab atas pengontrolan sebuah perangkat luar atau lebih dan bertanggung jawab juga terhadap pertukaran data antara perangkat luar tersebut dengan memori utama ataupun register-register dalam CPU. Dalam mewujudkan fungsi tersebut, diperlukan antarmuka internal dengan komputer (CPU dan memori utama) dan antarmuka dengan perangkat eksternalnya untuk menjalankan fungsi-fungsi pengontrolan.
+
+Dua fungsi utama Modul I/O ialah :
+
+Sebagai piranti antarmuka ke CPU dan memori melalui bus sistem.
+Sebagai piranti antarmuka dengan peralatan peripheral lainnya dengan menggunakan link data tertentu
+Fungsi dalam menjalankan tugas, modul I/O dapat dibagi menjadi beberapa kategori, yaitu:
+
+Kontrol dan pewaktuan
+Komunikasi CPU
+Komunikasi dengan perangkat eksternal
+Pem-buffer-an data
+Deteksi kesalahan
+Fungsi kontrol dan pewaktuan (control & timming) merupakan hal yang penting untuk mensinkronkan kerja masing-masing komponen penyusun komputer. Dalam sekali waktu CPU berkomunikasi dengan satu atau lebih perangkat dengan pola tidak menentu dan kecepatan transfer data yang beragam, baik dengan perangkat internal seperti register-register, memori utama, memori sekunder, perangkat periperhal.  Proses tersebut bisa berjalan apabila ada fungsi kontrol dan pewaktuan yang mengatur sistem secara keseluruhan.  Contoh kontrol pemindahan data dari periperhal ke CPU melalui sebuah modul I/O meliputi langkah-langkah sebagai berikut:
+
+Permintaan dan pemeriksaan status perangkat dari CPU ke modul I/O.
+Modul I/O memberikan jawaban atas permintaan CPU tersebut.
+Apabila perangkat eksternal telah siap untuk transfer data, maka CPU akan mengirimkan perintah ke modul I/O
+Modul I/O akan menenrima paket data dengan panjang tertentu dari periperhal.
+Selanjutnya data dikirim ke CPU setelah diadakan seinkronisasi panjang data dan kecepatan transfer oleh modul I/O sehingga paket-paket data dapat diterima CPU dengan baik.
+Transfer data tidak akan lepas dari penggunaan sistem bus, maka interaksi CPU dan modul I/O akan melibatkan kontrol dan pewaktuan sebuah arbitrasi bus atau lebih. Ada fungsi komunikasi antara CPU dan modul I/O meliputi proses-proses berikut ini :
+
+Command Decoding, yaitu modul I/O menerima perintah-perintah dari CPU yang dikirimkan sebagai sinyal bus kontrol. Misalnya, sebuah modul I/O untuk disk dapat menerima perintah : Read sector, Scan Record ID, Format disk.
+Data, pertukaran data antara CPU dan modul I/O melalui bus data.
+Status Reporting, yaitu pelaporan kodisi status modul I/O maupun perangkat periperhal, umumnya berupa status kondisi busy atau ready. Juga status bermacam-macam kodisi kesalahan (error).
+Address recognition, bahwa peralatan atau komponen penyusun komputer dapat dihubungi atau dipanggil maka harus memiliki alamat yang unik, begitu pula pada perangkat periperhal, sehingga setiap modul I/O harus mengetahui alamat periperhal yang dikontrolnya
+Pada sisi modul I/O ke perangkat periperhal juga terdapat komunikasi yang meliputi komunikasi data, kontrol maupun status.
+
+ 
+
+ 
+
+Gambar 2. Skema suatu perangkat periperhal
+
+Fungsi selanjutnya adalah buffering. Tujuan utama buffering adalah mendapatkan penyesuaian data sehubungan perbedaan laju transfer data dari perangkat periperhal dengan kecepatan pengolahan pada CPU . Umumnya laju transfer data pada dari perangkat periperhal lebih lambat dari kecepatan CPU maupun media penyimpanan.
+
+Fungsi terakhir adalah deteksi kesalahan. Apabila pada perangkat periperhal terdapat masalah sehingga proses tidak dapat dijalankan, maka modul I/O akan melaporkan kesalahan tersebut. Misalnya informasi pada periperhal printer seperti: kertas tergulung, kertas habis, tinta habis, dan lain-lain. Teknik yang umum untuk deteksi kesalahan adalah penggunaan bit paritas.
+
+Struktur Modul Input/Output
+
+Terdapat berbagai macam modul I/O seiring perkembangan komputer itu sendiri, contoh yang sederhana dan fleksibel adalah intel  8255A yang sering disebut PPI (Programmable Periperhal Interface). Bagaimanapun komplesitas suatu modul I/O terdapat kemiripan struktur,.
+
+Antarmuka modul I/O ke CPU melalui bus sistem komputer terdapat tiga saluran, yaitu saluran data, saluran alamat dan saluran kontrol. Bagian terpenting adalah blok logika I/O yang berhubungan dengan semua peralatan antarmuka periperhal, terdapat fungsi pengaturan dan switching pada blok ini.
+
+Teknik Masukan dan Keluaran
+
+Terdapat tiga buah teknik operasi I/O, yaitu : I/O terprogram, interrupt-driven I/O, dan DMA (Dirrect Memory Access). Ketiganya memiliki keunggulan dan kelemahan, yang penggunanya disesuaikan sesuai unjuk kerja masing-masing teknik.
+
+I/O Terprogram
+
+Pada I/O terprogram, data saling dipertukarkan antara CPU dan modul I/O. CPU mengeksekusi program yang memberikan operasi I/O kepada CPU secara langsung seperti pemindahan data, pengiriman perintah baca atau tulis dan monitoring perangkat.
+
+I/O terprogram mempunyai kelemahan sebagai berikut :
+
+CPU akan menunggu sampai operasi I/O selesai dilakukan modul I/O sehingga akan membuang waktu, CPU lebih cepat proses operasinya.
+Dalam teknik ini, modul I/O tidak dapat melakukan interupsi kepada CPU terhadap proses – proses yang diinteruksikan padanya.
+Seluruh proses merupakan tanggung jawab CPU sampai operasi lengkap dilaksanakan
+Untuk melaksanakan perintah-perintah I/O, CPU akan mengeluarkan sebuah alamat bagi modul I/O dan perangkat periperhalnya sehingga terspesifikasi secara khusus dan sebuah perintah I/O yang akan dilakukan. Terdapat empat klasifikasi perintah input/output, yaitu:
+
+Perintah Control yaitu perintah yang digunakan untuk mengaktivasi perangkat periperhal dan memberitahukan tugas yang diperintahkan kepadanya.
+Perintah Test, yaitu perintah yang digunakan CPU untuk menguji berbagai kondisi status modul I/O dan periperhalnya. CPU perlu mngetahui perangkat periperhalnya dalam keadaan aktif dan siap digunakan, juga untuk megetahui operasi-operasi I/O yang dijalankan serta mendeteksi kesalahannya.
+Perintah Read, yaitu perintah pada modul I/O untuk mengambil suatu paket data kemudian menaruhnya di dalam buffer internal. Proses selanjutnya paket data dikirim melalui bus data setelah terjadi sinkronisasi data maupun kecepatan transfernya.
+Perintah Write, Perintah ini kebalikan dari read. CPU memerintahkan modul I/O untuk mengambil data dari bus data untuk diberikan pada perangkat periperhal tujuan data tersebut.
+Dalam teknik I/O terprogram, terdapat dua macam implementasi perintah I/O yang tertuang dalam instruksi I/O, yaitu memory mapped I/O dan isolated I/O.
+
+Dalam memory mapped I/O, terdapat ruang tunggal untuk lokasi memori dan perangkat I/O. CPU memperlakukan register status dan register data pada modul I/O sebagai lokasi memori dan menggunakan instruksi mesin yang sama untuk mengakses baik memori maupun perangkat I/O. Konsekuensinya adalah diperlukan saluran tunggal untuk pembacaan dan saluran tunggal untuk penulisan. Keuntungan memory mapped ini adalah efisien dalam pemrograman namun memakan banyak ruang memory alamat.
+
+Dalam teknik isolated I/O, dilakukan pemisahan ruang pengalamatan bagi memori dan ruang pengalamatan bagi I/O. Dengan teknik ini diperlukan bus yang dilengkapi dengan pembacaan dan penulisan memori ditambah dengan saluran perintah output. Kesuntungan isolated I/O adalah sedikitnya instruksi I/O.
+
+Interrupt – Driven I/O
+
+      Teknik interupt driven I/O memungkinkan proses memungkinkan proses tidak membuang-buang waktu. Prosesnya adalah CPU mengeluarkan perintah I/O pada modul I/O, bersamaan perintah I/O dijalankan oleh modul I/O, maka CPU melakukan eksekusi perintah-perintah lainnya. Apabila modul I/O telas selesai menjalankan instruksi yang diberikan padanya, maka modul I/O tersebut kemudian akan memberikan interupsi  pada CPU bahwa tugasnya telah selesai.
+
+Dalam teknik ini kendali perintah masih menjadi tanggung jawab CPU, baik pengambilan perintah dari memori maupun pelaksanaan isi perintah tersebut. Terdapat selangkah kemajuan dari teknik sebelumnya, yaitu  CPU melakukan multitasking beberapa perintah sekaligus sehingga tidak ada waktu tunggu bagi  CPU.
+
+Cara kerja teknik interupsi di sisi modul I/O adalah modul I/O menerima perintah, misalnya read. Kemudian modul I/O melaksanakan perintah pembacaan dari periperhal dan meletakkan paket data ke register data modul I/O, selanjutnya modul mengeluarkan sinyal interupsi ke CPU melalui saluran kontrol. Kemudian mosul menunggu datanya diminta CPU. Saat permintaan terjadi, modul meletakkan data pada bus data dan modul siap menerima perintah selanjutnya.
+
+Pengolahan interupsi saat perangkat I/O telah menyelesaikan sebuah operasi I/O adalah sebagai berikut:
+
+Perangkat I/O akan mengirimkan sinyal interupsi ke CPU.
+CPU menyelesaikan operasi yang sedang dijalankan kemudian merespon interupsi.
+CPU memeriksa interupsi tersebut, kalau valid maka CPU akan mengirimkan sinyal acknoledgement ke perangkat I/O untuk menghentikan interupsinya.
+CPU mempersiapkan pengontrolan transfer routine interupsi. Hal yang dilakukan adalah menyimpan informasi yang diperlukan untuk melanjutkan operasi yang tadi dijalankan sebulum adanya interupsi. Informasi yang diperlukan berupa : Status Processor, berisi register yang dipanggil PSW (Program Status Word) dan Lokasi intruksi berikutnya yang akan dieksekusi
+Kemudian CPU akan menyimpan PC (Program Counter) eksekusi sebelum interupsi ke stack pengontrol bersama informasi PSW. Selanjutnya mempersiapkan PC untuk penanganan interupsi.
+Selanjutnya CPU memproses interupsi sampai selesai.
+Apabila pengolahan interupsi selesai, CPU akan memanggil kembali informasi yang telah disimpan pada stack pengontrol untuk meneruskan operasi sebelum interupsi.
+Terdapat bermacam teknik yang digunakan CPU untuk menangani interupsi ini diantaranya adalah Multiple interupt lines, Software poll, Daisy Chain, Arbitrasi bus. Teknik yang paling sederhana adalah menggunakan saluran interupsi berjumlah banyak (Multiple Interupt Lines) antara CPU dengan modul-modul I/O. Namun tidak praktis untuk menggunakan sejumlah saluran interupsi modul – modul I/O.
+
+Alternatif lainnya menggunakan software poll. Prosesnya apabila CPU mengetahui adanya interupsi, maka CPU akan menuju ke routine layanan interupsi yang tugasnya melakkukan poll seluruh modul I/O untuk menentukan modul yang akan melakukan interupsi. Kerugian software poll adalah memerlukan waktu yang lama karen aharus mengidentifikasi seluruh modul untuk mengetahui modul I/O yang melakukan interupsi.
+
+Teknik yang lebih efisien adalah daisy chain,  yang menggunakan hardware poll.  Seluruh modul yang tersambung dalam saluran interupsi CPU secara melingkar (chain). Apabila ada permintaan interupsi, maka CPU akan menjalankan sinyal acknoledgement yang berjalan pada saluran interupsi sampai menjumpai modul I/O yang mengirimkan interupsi.
+
+Teknik berikutnya adalah arbitrasi bus. Dalam metode ini, pertama-tama modul I/O memperoleh kontrol bus sebelum modul sebelum modul ini menggunakan saluran permintaan interupsi. Dengan demikian hanya akan terdapat sebuah modul I/O yang dapat melakukan interupsi.
+
+http://banjirochiko.blogspot.com/2014/09/unit-masukan-dan-keluaran.html

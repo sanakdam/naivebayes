@@ -1,0 +1,297 @@
+KINERJA KOMPUTER TERAPAN JARINGAN
+1.  Fungsi spesifik piranti pendukung jaringan komunikasi data
+Piranti pendukung jaringan komunikasi data terbagi dua, yaitu software dan hardware. Hardware pendukungnya yaitu : Komputer server, modem,       NIC, wifi, dll. Sedangkan software pendukungnya yaitu : Sistem Operasi, browser, dll.
+
+
+A.      Hardware pendukung jaringan internet
+Berikut ini macam macam hardware pendukung jaringan internet :
+
+Modem
+Modem berasal dari singkatan Modulator Demodulator. Modulator merupakan bagian yang mengubah sinyal informasi ke dalam sinyal pembawa (carrier) dan siap untuk dikirimkan, sedangkan Demodulator adalah bagian yang memisahkan sinyal informasi (yang berisi data atau pesan) dari sinyal pembawa yang diterima sehingga informasi tersebut dapat diterima dengan baik. Modem merupakan penggabungan kedua-duanya, artinya modem adalah alat komunikasi dua arah. Setiap perangkat komunikasi jarak jauh dua-arah umumnya menggunakan bagian yang disebut “modem”, seperti VSAT, Microwave Radio, dan lain sebagainya, namun umumnya istilah modem lebih dikenal sebagai Perangkat keras yang sering digunakan untuk komunikasi pada komputer.
+
+Data dari komputer yang berbentuk sinyal digital diberikan kepada modem untuk diubah menjadi sinyal analog, ketika modem menerima data dari luar berupa sinyal analog, modem mengubahnya kembali ke sinyal digital supaya dapat diproses lebih lanjut oleh komputer. Sinyal analog tersebut dapat dikirimkan melalui beberapa media telekomunikasi seperti telepon dan radio.
+
+Setibanya di modem tujuan, sinyal analog tersebut diubah menjadi sinyal digital kembali dan dikirimkan kepada komputer. Terdapat dua jenis modem secara fisiknya, yaitu modem eksternal dan modem internal.
+
+HUB / Switch
+HUB Berfungsi untuk menggabungkan beberapa komputer menjadi satu buah kelompok jaringan.Mungkin bila kita hanya akan menghubungkan duabuah PC kita hanya akan memerlukan Kabel UTPdengan Crimping dengan metode cross cable. Tapi bagaimana halnya dengan 10 PC ? atau 20 PC ?disinilah fungsi hub bekerja dimana computer-komputer tersebut akan dihubungkin dengan UTP Straight Cable yang dicolokkan ke port-port yang ada di hub dan diset dengan IP dengan alamat jaringan yang sama, maka kita akan berada di dalam jaringan komputer yangterdiri lebih dari 2 buah PC.
+
+Cara kerja HUB, Pada dasarnya adalah sebuah pemisah sinyal (signal splitter). Ia mengambilbit-bit yang datang dari satu port dan mengirimkan copynya ke tiap-tiap port yang lain. Setiap host yang tersambung ke hub akan melihat paket ini tapihanya host yang ditujukan saja yang akan memprosesnya. Ini dapat menyebabkan masalah network traffic karena paket yang ditujukan ke satu host sebenarnya dikirimkan ke semua host (meskipun ia hanya diproses oleh salahsatu yang ditujukannya saja).
+
+Switch merupakan pengembangan dari konsep Bridge. Ada dua arsitektur dasar yang digunakan pada switch, yaitu cut-through dan store and forward. Switch cut-through mempunyai kelebihan di sisi kecepatan karena ketika sebuah paket datang, switch hanya memperhatikan alamat tujuan sebelum diteruskan ke segmen tijuannya, sedangkan switch store and forward merupakan kebalikannya. Switch ini menerima dan memeriksa seluruh isi paket sebelum meneruskannya ke tujuan dan untuk memeriksa satu paket merlukan waktu, tetapi proses ini memungkinkan switch mengetahui adanya kerusakan pada paket data dan mencegahnya agar tidak mengganggu jaringan. Switch terdapat beberapa kelebihan karena semua segmen jaringan memiliki bandwidth 10 Mbps penuh. Tidak terbagi seperti share network pada penggunaan HUB.
+
+Router
+Sebuah router adalah perangkat jaringan yang meneruskan paket data antara jaringan komputer. Router melakukan “lalu lintas mengarahkan” fungsi pada Internet. Sebuah paket data biasanya diteruskan dari satu router ke yang lain melalui jaringan yang merupakan internetwork sampai mencapai node tujuan.
+
+Router terhubung ke jalur dua atau lebih data dari jaringan yang berbeda (sebagai lawan dari switch jaringan, yang menghubungkan jalur data dari satu jaringan tunggal). Ketika paket data masuk pada salah satu baris, router membaca informasi alamat dalam paket untuk menentukan tujuan akhirnya. Kemudian, dengan menggunakan informasi dalam nya tabel routing atau routing kebijakan, itu mengarahkan paket ke jaringan berikutnya pada perjalanannya. Hal ini menciptakan overlay internetwork.
+
+Jenis yang paling akrab router rumah dan router kantor kecil yang hanya melewatkan data, seperti halaman web, email, IM, dan video antara komputer rumah dan internet. Contoh dari sebuah router akan kabel atau DSL router pemilik, yang menghubungkan ke Internet melalui ISP. Router lebih canggih, seperti router perusahaan, menghubungkan jaringan bisnis atau ISP besar hingga kuat router inti yang meneruskan data dengan kecepatan tinggi di sepanjang serat optik baris dari backbone Internet. Meskipun router biasanya didedikasikan perangkat keras, penggunaan router berbasis software telah berkembang semakin umum.
+
+NIC
+NIC adalah kartu jaringan atau disebut juga LAN Card berupa papan elektronik yang nantinya di pasang pada com puter yang akan digunakan ke suatu jaringan. Jaringan ini tidak terbatas pada LAN saja, bias juga Workgroup. Sesuai perkembangannya teknologi khususnya jaringan, saat ini banyak jenis dan merek kartu jaringan
+
+Komputer
+Komputer merupakan komponen utama untuk dapat mengkases internet. Spesifikasi komputer yang digunakan dalam koneksi internet sangat mentukan cepat atau lambatnya kinerja akses internet. semakin tinggi spesifikasi sebuah komputer, semakin cepat kinerja akses internet, begitu pula sebaliknya.  Spesifikasi minimal sebuah komputer dalam akses internet anatra lain sebagi berikut :
+
+Processor, merupakan otak dari komputer untuk menjalankan aplikasi- aplikasi dalam komputer. Processor minimal pentium III 500Mhz.
+RAM, berfungsi sebagai media penyimpanan sementara. RAM minimal 64MB.
+Harddisk digunakan untuk media penyimpanan data secara magnetik. Harddisk minimal 10GB.
+VGA card, merupakan perangkat keras untuk menampilakan gambar pada layar monitor. VGA card minimal 4MB
+Monitor, merupakan perangkat output untuk menampilkan proses kerja dari komputer
+Kabel
+Ada beberapa jenis kabel yang digunakan dan menjadi standar dalam penggunaan untuk komunikasi data dalam jaringan computer, yaitu :
+
+Coaxial Cable
+Media ini paling banyak digunakan sebagai media LAN meskipun lebih mahal dan lebih sukar penggunaannya dibandingkan twisted pair. Kabel ini memiliki bandwith yang lebar, sehingga bisa digunakan untuk komunikasi broadband. Thick Coaxial biasanya digunakan untuk kabel backbone pada jaringan instalasi Ethernet antar gedung. Dapat menjangkau jarak 500 m bahkan 2500 m dengan menggunakan repeater.
+
+Twisted Pair Cable
+Kabel TP merupakan suatu kabel yang berintikan tembaga berukuran kecil. Pada masing-masing kabel berisikan 8 buah kabel kecil dengan warna yang berbeda antara satu dengan yang lainnya. Perbedaan warna pada kabel bertujuan untuk mempermudah dalam memasukannya pada konektor RG-45.
+Fiber Optic Cable
+Kabel fiber optik merupakan suatu jenis kabel yang berisi serat optik yang sangat halus, digunakan untuk mentransfer data pada jaringan komputer. Pada inti kabel terdapat serat sebai inti (core) atau sering dinamakan dengan inner optik. Inner optik dilapisi atau dilindungi oleh bahan gelas yang disebut dengan cladding. Fiber optik terdapat dua jenis sumber cahaya yang dapat digunakan untuk melakukan pensignalan, yaitu Semiconductor Laser (LED). Kecepatan transfer kabel fiber optik dapat mencapai ratusan mega bit per detik (Mbps). Oleh karena itu, serat fiber optik juga dapat digunakan untuk mengirimkan signal listrik dengan bite rate yang rendah dalam lingkungan noise sekalipun.
+
+Kabel Telepon
+Beberapa tahun belakangan ini mulai banyak digunakan kebel telepon untuk jaringan komputer (LAN). Kabel ini biasanya digunakan untuk menghubungkan jaringan antar gedung. Biasanya kabel yang digunakan untuk menghubungkan antar gedung ini jenis yang cukup kuat dan dilengkapi dengan kawat baja, sehingga kalau dibentang tidak patah. Biasanya kabel telepon yang digunakan untuk diluar gedung (out door) ini dilengkapi dengan 3 kawat, 2 kawat yang akan digunakan seagai penghubung data dan satu kawat digunakan agar tidak putus apabila kawat tersebut dibentang. Akan lebih baik jika ujung dari baja sebagai penguat tersebut dihubungkan ke grounding agar apabila terjadi petir tidak akan bermasalah. Jadi pada intinya hanya dua kawat yang ada dalam kabel tersebut yang digunakan.
+
+Repeater
+Repeater berfungsi untuk penguat sinyal dari kabel , misalnya pada sebuah jaringan LAN dengan topologi start yang menggunakan kabel UTP juga berfungsi memperbaiki dan memperkuat sinyal atau isyarat yang melewatinya,dua sub yang dilewatkan pada repeater memiliki protocol yang sama untuksemua lapisan. Repeater juga berfungsi sebagai memperbesar batasan panjang satu segmen.
+
+Bridge
+Bridge biasanya disebut sebagai sebuah repeater mengcopy atau mengulang paket dari satu segment jaringan ke yang lainnya. Kompleksitas dari sebuah bridge dan fungsi pasti bergantung padaperbedaan antara segement jaringan yang terkoneksi. Bridge yang sederhana mengkoneksi segment jaringan yang menggunakan identik kecepatan transmisi, tipe paket dan protokol. Bridge yang lebihkomplek menghubungkan segment jaringan yang tidak sama dan menterjemaahkan format paket dan protokol jaringan. Bridge biasanya digunakan untuk :
+
+Membangun sebuah virtual LAN dari dua LAN yang terpisah
+Membagi sebuah LAN ke dalam segment untuk meminimalkan kesempitan pada jaringan
+B.       Software pendukung jaringan internet
+Berikut ini adalah software pendukung jaringan internet :
+
+Sistem Operasi
+Sistem operasi jaringan adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service. Dan berikut ini adalah Sistem Operasi jaringan yang umum dijumpai antara lain :
+
+Microsoft MS-NET
+Microsoft LAN Manager
+NovellNetWare
+Microsoft Windows NT Server
+GNU/Linux
+Banyan VINES
+Beberapa varian UNIX, seperti SCO OpenServer, NovellUnixWare, atau Solaris
+ 
+
+Web browser
+Web Browser adalah software yang berfungsi untuk menampilkan dan berinteraksi dengan dokumen-dokumen yang disediakan oleh server web. Web adalah kumpulan jaringan berisi dokumen teks dan multi media yang tersambung satu dengan yg lainya atau yang dikenal dengan World Wide Web (WWW)
+
+1.  Piranti penyimpanan dan penyedia data
+Berikut merupakan piranti penyimpanan dan penyedia data :
+
+A. Hard disk                                                                                                                        1
+
+Hard disk merupkan alat penyimpanan data sekunder yang kapasitasnya cukup besar. Selain memiiki kapasitas yang bervariasi harddisk juga memiliki interface yang berbeda sesuai teknologi yang diusungnya. Dalam computer desktop saat ini harddisk memiliki fungsi utama untuk meyimpaan system operasi dan aplikasi yang ada. Namun juga ada hard disk eksternal yang fungsinya untuk menyimpan data tetapi lebih portable karena menggunakan interface USB.
+
+B. Flashdisk
+
+12
+
+Flasdisk merupakan media penyimpan data paling popular dalam hal mobilitas karena karena ukurannya yang kecil. Selain untuk menyimpan data penting saat ini Flashdisk juga berfungsi sebagai alat bootable media sistem operasi komputer karena dapat diganti sesuai keperluan dan tidak terbatas. Namun flashdisk dapat disalah fungsikan, yaitu untuk menyebarkan virus untuk menyerang computer dan mencuri data.
+
+C. Floppy Disk
+
+123
+
+Floppy disk adalah alat penyimpanan yang berbentuk persegi dan ada juga yang berbentuk persegi panjang dengan daya penyimpanan pada umumnya sebesar 1,44 MB. Dengan kapasitas sebesar itu tentunya dalam fungsionalitas sebagai penyimpan data portable pada masanya floppy disk hanya cukup menampung beberapa file saja. Disket juga berfungsi sebagai media untuk menjalankan OS DOS.
+
+D. Compact Disc
+
+1234
+
+CD adalah sebuah media penyimpanan optical yang paling awal muncul. CD juga mempunyai diameter luar sebesar 120 mm dan diameter dalam sebesar 15 mm, serta pembacaan dan penulisaan data pada piringannya menggunakan laser. Kapasitas dari CD pada umumnya adalah sebesar 750 MB. kebebanyakan digunakan untuk menyimpan data berupa music, gambar, dan video.
+
+E. Digital Versatile Disc
+
+12345
+
+DVD merupakan media penyimpanan optical setelah CD, yang mempunyai kapasitas penyimpanan yang lebih besar yaitu pada umumnya 4,7 GB, tetapi ada juga yang mempunyai kapasitas sebesar 17GB. Pada umunya media DVD digunakan untuk instalasi OS, walaupun begitu DVD juga berfungsi sama seperti CD.
+
+F. Blu Ray
+
+1212
+
+Jika sebelumnya ada CD dan DVD, versi selanjutnya yaitu Blue Ray yang merupakan upgrade atau pengembangan dari CD dan DVD. Kapasitasnya juga tentu jauh lebih besar yaitu sekita 50GB. Bluray dipasaran kebanyakan digunakan untuk penyimpanan film/video.
+
+G. Fluroscent Multiplayer Disc
+
+21
+
+Fluorescent merupakan yang saat ini menempati media penyimpanan yang paling besar, betapa tidak dengan kapasitas penyimpanannya sebesar 140 GB mampu membaca data sebesar 1GB perdetik. Biasa disebut juga FM Disk, permukaannya yang transparan bisa dilihat dari sisi depan atau belakang, karena dua sisi tersebut bisa digunakan untuk penyimpanan data alias Multilayer. FM Disk berfungsi untuk menyimpan berbagai data termasuk file dokumen.
+
+H. Random Access Memory
+
+22
+
+RAM adalah memori yang berfungsi untuk menyimpan sementara perintah dan data pada saat sebuah program dijalankan. Perintah data tersebut mencakup data yang akan dibaca dari harddisk, data-data yang dimasukkan melalui alat input komputer, dan juga data-data hasil pemrosesan sebuah program.
+
+I. Cache Memory
+
+23
+
+Cache Memory merupakan media penyimpanan data sekunder berkecepatan tinggi, dimana tempat menyimpan data atau informasi sementara yang sering digunakan atau diakses oleh komputer.
+
+J. Read Only Memory
+
+24
+
+Umumnya ROM tidak dapat diubah oleh sembarang pihak, karena ROM hanya dapat diakses dengan software tertentu dalam pengisiannya. Biasanya, data atau program yang tertulis pada ROM diisi oleh pabrik yang membuatnya. Umumnya ROM digunakan untuk menyimpan firmware, yaitu perangkat lunak yang berhubungan dengan perangkat keras.
+
+3. Kartu Antarmuka Jaringan
+Berikut contoh kartu antarmuka jaringan :
+
+PCI Adapter                                                                                                              1PCI (Peripheral Component Interconnect) adalah bus yang pada awalnya didesign untuk menggantikan Bus ISA/EISA yang dipakai dalam system komputer IBM. Dirilis pertama kali tahun 1992 dan masih banyak dipakai sampai sekarang ini untuk komputer desktop yang mempunyai slot PCI tentunya. Dari jenis adapter jaringan ada dua macam pemakaian yaitu yang untuk adapter jaringan kabel dan untuk adapter jaringan wireless atau jaringan nirkabel. Gambar berikut menunjukkan slot PCI pada motherboard komputer dan kartu jaringan PCI untuk LAN dan untuk wireless.
+USB Adapter
+2USB (Universal Serial Bus) adalah standard Bus serial yang mempunyai design asimmetris dan di design sebagai slot yang sangat praktis untuk menghilangkan perlunya tambahan slot PCI pada komputer. USB mempunyai kemampuan PnP (Plug and Play – pasang dan mainkan) sehingga saat dipasang di komputer tidak memerlukan suatu reboot komputer. Kartu jaringan wireless USB, yang banyak dipakai karena sifatnya yang praktis dan banyak dipakai untuk kartu jaringan wireless. Tidak ada kartu jaringan LAN yang memakai slot USB kecuali yang dari jenis wireless.
+
+3. Card Bus / PCMCIA
+
+3
+
+Kartu jaringan Cardbus atau PCMCIA yang dipakai pada slot Cardbus atau PCMCIA dari notebook. Kartu jaringan dari jenis Cardbus ini lebih banyak dipakai untuk kartu jaringan wireless juga, walaupun pada awalnya banyak diproduksi adapter LAN dengan speed 10 Mbps di era laptop jaman dulu yang tidak dilengkapi dengan kartu jaringan onboard, sekarang sudah tidak ada lagi.
+
+4. Express Card
+
+4
+
+ 
+
+ExpressCard, awalnya disebut NEWCARD, adalah sebuah antarmuka untuk menghubungkan perangkat periferal ke komputer,biasanya komputer laptop. ExpressCard standar teknis menentukan desain slot dibangun ke dalam komputer dan kartu ekspansiuntuk menyisipkan dalam slot. Kartu berisi sirkuit elektronik dan kadang-kadang konektor untuk perangkat eksternal. ExpressCard standar menggantikan PC Card (juga dikenal sebagai PCMCIA) standar.
+
+ExpressCard dapat menghubungkan berbagai perangkat ke komputer termasuk modem mobile broadband (kadang-kadang disebutkartu connect), IEEE 1394 (FireWire) konektor, USB konektor, Ethernet port jaringan, Serial ATA perangkat penyimpanan, solid-state drive, kandang eksternal untuk desktop- Ukuran PCI Express kartu grafis dan perangkat periferal lain, wireless controller antarmuka jaringan (NIC), kartu TV tuner, Umum Akses Kartu (CAC) pembaca, dan kartu suara.
+
+5. PCI Express USB 3.0 Adapter
+
+5
+
+Sejak 2006, sudah mulai banyak produk computer yang melengkapi motherboardnya dengan PCIexpress dengan tersedianya slot PCIe. Sekarang ini banyak produk yang memanfaatkan slot PCI ini antara lain USB port PCI Express adapter. PCI adapter ini mengusung port USB 3.0 SuperSpeed. Lihat juga mengenal lebih dekat USB 3.0. Salah contoh dari adapter PCIe USB 3.0 ini adalah TRENDnet 2-Port USB 3.0 PCI Express Adapter TU3-H2PIE. USB 3.0 ini PCI adapter ini mempunyai 2 port type A yang bisa digunakan pada komputer yang mempunyai slot PCI Express. Adapter ini dilengkapi dengan konektor power dari PC 4-pin untuk memberikan kekuatan power kepada perangkat USB yang terhubung kepada USB portnya. Kecepatan data transfer sungguh luar biasa sampai 5 Gbps lebih dari 10 kali lipat kecepatan transfer rate dari USB 2.0 yang hanya sampai 480 Mbps.
+
+4. Consentrator Ethernet
+Konsentrator adalah perangkat untuk menyatukan kabel – kabel jaringan dari setiap workstation, server atau perangkat dalam sebuah jaringan komputer. Berikut merupakan contoh consentrator ethernet :
+
+Bridge                                                                                       11
+Bridge adalah sebuah komponen jaringan yang digunakan untuk memperluas jaringan atau membuat sebuah segmen jaringan. Bridge jaringan beroperasi di dalam lapisan data-link pada model OSI. Bridge juga dapat digunakan untuk menggabungkan dua buah media jaringan yang berbeda, seperti halnya antara media kabel Unshielded Twisted-Pair (UTP) dengan kabel serat optik atau dua buah arsitektur jaringan yang berbeda. Fungsi dan cara kerja Bridge :
+
+Bekerja di lapisan Data Link
+Telah menggunakan alamat-alamat untuk meneruskan data ke tujuannya
+Secara otomatis membuat tabel penterjemah untuk diterima masing-masing port
+2. Switch
+
+12
+
+Switch merupakan perangkat jaringan yang berfungsi menghubungkan Hub untuk membentuk jaringan yang lebih besar atau menghubungkan komputer – komputer yang membutuhkan bandwith yang besar.
+Switch merupakan perangkat keras jaringan yang hampir sama dengan Hub, bedanya switch sedikit lebih pintar walaupun dengan harga sama atau sedikit lebih mahal. Switch bekerja dengan cara menerima paket data pada suatu port lalu melihat alamat MAC tujuan dan membagun sebuah koneksi logika dengan port yang terhubung dengan node/perangkat tujuan, sehingga port – port selain port yang dituju tidak akan menerima paket data yang dikirim dan mengurangi terjadinya tabrakan data (collision). Setiap Perangkat yang tersambung ke port tertentu, MAC addressnya akan dicatat pada MAC address table yang disimpan di memori cache switch. Fungsi dan Cara Kerja Switch :
+
+Bekerja di lapisan Data Link
+Setiap port didalam swith memiliki domain collision sendiri-sendiri
+Memiliki tabel penterjemah pusat yang memiliki daftar penterjemah untuk semua port
+Memungkinkan transmisi secara full duflex (dua arah)
+ 
+
+Fungsi lainnya yaitu :
+
+Fungsi Learning
+Pembelajaran Learning merupakan salah satu fungsi dari switch, dimana ia akan mempelajari MAC pengirim dan memastikan alamat tujuan yang menerima paket tersebut.
+
+ 
+
+Fungsi Forwarding
+Forwarding merupakan suatu proses mengirimkan paket dari satu port ke port lainya pada perangkat yang terhubungan dengan switch.
+
+ 
+
+Fungsi Mencegah Looping
+Dalam teknis sebuah local area network sebuah koneksi gagal akan mengakibatkan seluruh proses pada jaringan tersebut ikut terganggu atau yang dinamakan looping. Switch dalam hal ini akan berfungsi untuk mencegah terjadinya loop seperti ini jika terjadi broken pada saat pengiriman data atau paket tersebut.
+
+5. Router
+
+13
+
+Router adalah salah satu perangkat keras jaringan komputer yang digunakan untuk membagi protocol kepada anggota jaringan yang lainnya. Router dengan skala besar menawarkan berbagai tingkat fungsionalitas tergantung pada tujuan bagaimana fungsi router dibuat. Menggunakan router yang tepat sangat penting dalam jaringan komputer, sehingga Anda harus memahami berbagai jenis router dan fungsi router yang mereka berikan.
+
+Fungsi router pada umumnya adalah sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Namun router berbeda dengan Switch, karena Switch hanya digunakan untuk menghubungkan beberapa komputer dan membentuk LAN (local area network). Sedangkan router digunakan untuk menghubungkan antar satu LAN dengan LAN yang lainnya.
+
+Fungsi dan Cara Kerja Router :
+
+Router berfungsi penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya.
+Router berfungsi menyaring atau memfilter lalu lintas data
+Menentukan dan memilih jalur alternatif yang akan dilalui oleh data
+6. Printer Server
+
+14
+
+Sebuah server print, atau server printer, adalah perangkat yang menghubungkan printer ke komputer klien melalui jaringan. Ia menerima pekerjaan cetak dari komputer dan mengirimkan pekerjaan ke printer yang sesuai, antrian pekerjaan lokal untuk mengakomodasi fakta bahwa pekerjaan mungkin tiba lebih cepat dari printer benar-benar dapat menangani. Fungsi tambahan mencakup kemampuan untuk memeriksa antrian pekerjaan untuk diproses, kemampuan untuk menyusun ulang atau menghapus menunggu pekerjaan cetak, atau kemampuan untuk melakukan berbagai jenis akuntansi (seperti halaman menghitung, yang mungkin melibatkan membaca data yang dihasilkan oleh printer).
+
+Server cetak dapat mendukung berbagai protokol pencetakan industri-standar atau eksklusif termasuk Internet Printing Protocol, Jalur protokol Printer Daemon, NetWare, NetBIOS / NetBEUI, atau JetDirect.
+
+Sebuah server print mungkin komputer jaringan dengan satu atau lebih printer bersama. Atau server cetak mungkin perangkat khusus pada jaringan, dengan koneksi ke LAN dan satu atau lebih printer. Peralatan dedicated server cenderung cukup sederhana di kedua konfigurasi dan fitur. Cetak fungsi server dapat diintegrasikan dengan perangkat lain seperti router nirkabel, firewall, atau keduanya. Printer mungkin memiliki server cetak built-in.
+
+Semua printer dengan jenis hak konektor yang kompatibel dengan semua server cetak; produsen server membuat daftar yang tersedia dari printer yang kompatibel karena server tidak dapat menerapkan semua komunikasi fungsi printer (sinyal tinta misalnya rendah).
+
+Pada dasarnya print server adalah suatu alat atau komputer yang dihubungkan ke satu atau lebih printer dalam suatu jaringan, alat atau komputer tersebut akan menerima perintah print dari komputer – komputer lain dan mengirimkan pada printer yang telah ditentukan.
+
+ 
+
+Jadi dari pengertian diatas maka print server dapat berupa:
+
+Komputer yang terhubung dengan satu printer atau lebih yang di share.
+Komputer yang mengimplementasikan Line Printer Daemon protocol atau Microsoft Network Printing protocol.
+Perangkat Dedicated yang terhubung dengan printer didalam suatu LAN, port fisik (usb, serial atau paralel port. pada prinsipnya alat ini menyediakan protokol konversi. alat ini dapat mendukung protokol LPD/LPR, TCP/IP, NetWare, NetBIOS/NetBEUI, NBF, protokol pencetak RAW atau TCP Port 9100 atau DLC IPX/SPX. biasanya peralatan ini juga integrated dengan perangkat lain seperti Wireless Router maupun Firewall.
+ 
+
+Beberapa Vendor telah mengeluarkan produk ini, seperti HP, Zebra, NETGEAR dan D-link dengan tipe wireless maupun wired.
+
+Kembali pada kasus yang dihadapi client tadi. beberapa kemungkinan bisa saja menyebabkan terjadinya masalah tersebut missal : trafic yang terlalu padat hingga membuat antrian cetakan yang panjang, jarak antara print server dengan workstation lainya (10/100) atau pada sistem yang dipakai. dalam pemrograman (VB) dapat dilakukan set printer melalui DOS command.
+
+7. Titik Akses Nirkabel
+
+15
+
+Wireless Access Point adalah adalah sebuah alat yang berfungsi untuk menyambungkan alat-alat wireless ke sebuah jaringan berkabel (wired network) menggunakan wifi, bluetooth dan sejenisnya.
+
+Wireless Access Point digunakan untuk membuat jaringan WLAN (Wireless Local Area Network) ataupun untuk memperbesar cakupan jaringan wifi yang sudah ada (menggunakan mode bridge).
+
+Access Point merupakan titik pusat jaringan wireless, alat ini memancarkan frekuensi radio untuk mengirimkan dan menerima data. Fungsi Wireless Access Point ini kira-kira sama dengan switch / hub dalam jaringan kabel yang memungkinkan banyak client terhubung ke jaringan
+
+Access Point adalah sebuah node yang telah dikonfigurasi secara khusus pada sebuah WLAN (Wireless Local Area Network). Access Point bertindak sebagai pusat pemancar dan penerima untuk sinyal-sinyal radio WLAN. Access Point sering disebut juga base station. Sehingga client yang terhubung dengan perangkat tersebut bisa berkomunikasi satu sama lainnya dengan subnet mask yang sama. Fungsi access point yaitu :
+
+Berbagi koneksi dari server lokal (kantor) maupun internet dengan perangkat client lainnya (notebook, PC, gadget, handphone dll) maupun perangkat access point lainnya (seperti extender/repeater) dalam satu subnet mask yang sama.
+Access Point berfungsi sebagai pengatur lalu lintas data, sehingga memungkinkan banyak Client dapat saling terhubung melalui jaringan.
+Sebagai Hub/Switch yang bertindak untuk menghubungkan jaringan lokal dengan jaringan wireless/nirkabel,
+Access point dapat memancarkan atau mengirim koneksi data / internet melalui gelombang radio, ukuran kekuatan sinyal juga mempengaruhi area coverage yang akan dijangkau, semakin besar kekuatan sinyal (ukurannya dalam satuan dBm atau mW) semakin luas jangkauannya.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sumur :
+
+https://id.wikipedia.org/wiki/Modem
+
+http://mohamadsyaifuddin.blogspot.co.id/2015/04/fungsi-spesifik-piranti-pendukung.html
+
+http://tutorial-mj.blogspot.co.id/2012/11/pengertian-dan-fungsi-hub.html
+
+https://en.wikipedia.org/wiki/Router_(computing)
+
+http://ragiltriatmojo.blogspot.co.id/2014/09/fungsi-perangkat-penyimpan-dan  penyedia.html
+https://id.wikipedia.org/wiki/Kartu_jaringan
+
+http://www.indoza.com/2014/01/pengertian-dan-fungsi-router.html
+
+https://en.wikipedia.org/wiki/Print_server

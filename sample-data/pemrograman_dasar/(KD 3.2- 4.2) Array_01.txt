@@ -1,0 +1,96 @@
+ARRAY 1, 2,3, DAN ARRAY MULTIDIMENSI (RPL SMK)
+November 22, 2017
+ARRAY DALAM BAHASA PEMROGRAMAN
+
+A.    Pengertian array 1dimensi
+Array 1 dimensi adalah kumpulan elemen-elemen yang identik, yang tersusun dalam satu baris. Elemen tersebut memiliki tipe data yang sama, tetapi isi dari elemen tersebut bisa berbeda.
+Bentuk Umum:
+Type <NamaArray> = array[indexArray] of TipeData; (Kurniawan, 2015)
+
+ contoh array 1 dimensi:
+int a[10]= {...,...,...,...}
+
+
+Terdapat 3 langkah untuk membuat array:
+1.      Mendeklarasikan variabel array
+Contoh :
+int [ ] angka;
+“ Variabel angka kita deklarasikan sebagai variabel array dimana setiap elemennya akan menyimpan data bertipe int ”.
+
+2.      Create array beserta ukurannya.
+Contoh :
+angka = new int[6];
+int[] angka = new int[6];
+“Berarti kita memesan 4 elemen untuk variabel angka dan array adalah sebuah object, maka
+create array dengan operator new.”
+
+3.      Memberikan sebuah nilai pada setiap element array.
+Contoh :
+int[ ] angka = {5, 3, 23, 99, 2};
+int scores = new int[3];
+scores[0] = 75;
+scores[1] = 80;
+scores[2] = 100; (Yusuf, 2014)
+contoh pemrograman array 1 dimensi:
+
+
+
+B.     Pengertian Array 2 Dimensi
+Merupakan sebuah variabel yang menyimpan sekumpulan data yang memiliki tipe sama dan elemen yang akan diakses melalui 2 indeks atau subskrip yaitu indeks baris dan indeks kolom.
+Bentuk umum pendeklarasian:
+nama_array[jumlah_eleman_baris][jumah_eleme_kolom]; (Cihuys, 2009)
+
+contoh array 2 dimensi:
+int a [3][4]={...,...,...,}
+3 adalah baris, 4 adalah kolom. 
+
+contoh lain adalah: matrik/ int A[3][4]={{2,3,9,2},{7,5,4,3},{3,2,5,4}}
+
+
+
+ Maka untuk penginisialisasian matrik diatas adalah sebagai berikut : int Mat_A = {{2,3,9,2},{7,5,4,3},{3,2,5,4}}
+
+Contoh pembuatan program untuk mencetak elemen - elemen Matriks A yang mempunyai ukuran 3x4 yang telah dilakukan penginisialisasian
+
+/*Array dua dimensi dibaca
+dari media masukan
+Nama File : Lat_5*/
+
+#include<iostream.h>
+#include<conio.h>
+main () 
+{
+int Mat_A[3] [4]={{3,1,6,8},{5,2,3,4},{6,1,2,4}};
+int i,j;
+//Mencetak Elemen Matriks
+for (i=0;1<3;i++)
+{
+for(j=0;j<4; j++)
+cout<<mat_A[i] [j]<<" ";
+cout<<endl;
+}
+getch();
+}
+
+C. MATRIK 3 DIMENSI/ MULTIDIMENSI
+
+array 3 dimensi merupakan gabungan dari array 2 dimensi yang membentuk ruang.
+jika ruang itu dipecahkan maka akan terdapat minimal 2 rak/tabel tipe array 2 dimensi.
+untuk penyebutan dan penulisan  array 3 dimensi adalah sebagai berikut:
+contoh: int A[3][4][3]={{....},{....},{....},{....}}
+angka 3 pertama adalah jumlah baris,
+angka 4 adalah jumlah kolom
+angka 3 terakhir adalah jumlah array/ matriksnya.
+
+
+
+
+
+
+
+
+Sumber: 
+1. http://laskar21.blogspot.co.id/2016/09/pengertian-array-1-dimensi-dan-2-dimensi.html
+2. http://www.komputerdia.com/2017/04/pengertian-array-dan-pembahasan-array-satu-dimensi-dalam-c-plus-plus.html
+3. http://www.komputerdia.com/2017/04/pengertian-dan-penjelasan-array-dua-dimensi-c-plus-plus.html
+4. 

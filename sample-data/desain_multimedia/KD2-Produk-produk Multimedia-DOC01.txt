@@ -1,0 +1,45 @@
+Produk Multimedia
+Multimedia  adalah  media  yang  menggabungkan  dua  unsur  atau  lebih media  yang  terdiri  dari  teks,  grafik,  gambar,  foto,  audio,  dan  animasi  secara terintegrasi. Multimedia terbagi menjadi dua kategori, yaitu: multimedia linear dan multimedia interaktif.
+1) Multimedia linear 
+    Multimedia linear dimulai dari satu posisi awal menuju ke suatu posisi akhir 
+    dengan  sedikit  atau  tanpa  interferensi  pemakai.  Misalnya  televisi,  film, 
+    majalah,  koran.  Pemakai  hanya  menjadi  penonton  dan  menikmati  produk
+    multimedia yang disajikan dari awal hingga akhir.
+
+
+Gambar Diagram multimedia linear
+
+Ciri-ciri dari multimedia linear :
+1.  Sederhana
+2.  Bersifat logical
+3.  Ideal untuk produk yang kecil
+
+2)  Multimedia interaktif
+     Multimedia interaktif  adalah integrasi digital antara text, graphics, animasi, 
+     audio,  gambar  tak  bergerak  (still  images)  dan  bergerak  (motion  video) 
+     dimana disediakan kontrol terhadap konten dan interaksi tingkat tinggi bagi 
+     pemakai  individu  dan  aplikasi  multimedia.  Misalnya  game,  multimedia 
+     pembelajaran, website. Pengguna dapat mengontrol apa dan kapan elemen
+     elemen multimedia akan dikirimkan atau ditampilkan.
+     Ciri-ciri dari multimedia interaktif :
+     1.  Bersifat non-linear
+     2.  Ada unsur interaktif didalamnya
+     3.  Pengguna  menentukan  apa,  kapan  dan  bagaimana  konten 
+          ditampilkan
+     Multimedia interaktif terbagi menjadi dua, yaitu :
+     1.  Hierarchycal, pemakai memiliki pilihan, tetapi topik-topik dapat dibagi menjadi subtopik
+          yang lebih spesifik. 
+
+
+Gambar Diagram multimedia interaktif hierarchycal
+
+     2.  Non-linear,  memungkinkan  pemakai  untuk  bebas  bergerak  untuk 
+          melihat isi materi dengan cara berinteraksi. Tidak ada hierarchy yang 
+          dipaksakan, pemakai dapat bergerak bebas ke materi manapun.
+
+
+Gambar Diagram multimedia interaktif nonlinear
+
+Untuk membuat multimedia interaktif diperlukan konsep dasar media yang akan  dibuat  (meliputi  materi  dan  pesan  yang  ingin  disampaikan),  layout  atau desain dan sistem navigasi (mapping).
+
+Sebagai contoh akan dibuat sebuah multimedia interaktif  tentang sebuah studio  foto  bernama  SMK  Foto.  Multimedia  interaktif  ini  nantinya  digunakan sebagai  media  promosi,  sehingga  selain  informasi  terkait  dengan  penjelasan tentang  studio  foto  SMK  Foto,  juga  ditampilkan  produk-produk  layanan  yang diberikan dan contoh portfolio yang pernah dikerjakan. 

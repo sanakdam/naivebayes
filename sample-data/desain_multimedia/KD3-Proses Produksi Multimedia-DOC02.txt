@@ -1,0 +1,84 @@
+Alur Proses Produksi MultiMedia
+1. Pre Production
+Adalah proses penyiapan semua elemen yang terlibat dalam sebuah produksi (shoting)
+film/video. Dari mulai pengaturan budget, pemilihan sutradara, aktor, cameramen, crew, lokasi,
+peralatan, kostum/wardrobe dll.
+
+A. Ide & Pemilihan Konsep.
+Adalah merupakan realisasi dari sebuah ide pemikiran dan gagasan yang bertujuan
+untuk menuangkannya kedalam media visual dan audio.
+
+B. Story Line / Sinopsis.
+Adalah ringkasan cerita/film, menjadi bentuk pemendekan dari sebuah film dengan
+tetap memperhatikan unsur-unsur cerminan film tersebut. membuat Sinopsis merupakan
+suatu cara yang efektif untuk menyajikan karangan film yang panjang dalam bentuk
+yang singkat.
+Dalam sinopsis, keindahan gaya bahasa, ilustrasi, dan penjelasan-penjelasan
+dihilangkan, tetapi tetap mempertahankan isi dan gagasan umum pegarangnya.
+Sinopsis biasanya dibatasi oleh jumlah halaman, misalnya satu atau dua halaman,
+seperlima atau sepersepuluh dari panjang film.
+Langkah-langkah membuat sinopsis.
+– Mencatat gagasan utama dengan menggaris bawahi gagasan – gagasan yang penting.
+– Menulis ringkasan berdasarkan gagasan-gagasan.
+– Gunakan kalimat yang padat, efektif, dan menarik untuk merangkai jalan cerita.
+– Dialog dan monolog tokoh cukup ditulis isi atau dicari garis besarnya saja.
+– Sinopsis tidak boleh menyimpang dari jalan cerita dan isi dari keseluruhan film.
+
+C. Script/Naskah Skenario.
+Membuat rancangan audio visual treatment dan penulisan naskah secara rinci yang
+mengembangkan gagasan utama pada synopsis menjadi sebuah cerita yang menarik
+dan informatif. Diawali dengan penjelasan dan pengenalan tiap karakter dalam cerita
+secara menyeluruh.
+D. Shot List & Storyboard.
+Sebuah teknik shoting management. Disini dibuat daftar pengambilan gambar pada
+setiap adegan, dan divisualisasikan dalam bentuk sketsa gambar/storyboard jika
+diperlukan.
+2. Production
+Adalah proses pelaksanaan produksi (shoting) yang mengacu pada persiapan yang dihasilkan
+dari proses PreProduction.
+A. Directing/Penyutradaraan.
+Sutradara/Director adalah orang yang memimpin pelaksanaan shoting dan bertugas
+mengatur bagaimana tim dalam pembuatan film seperti: aktor, cameramen, lighting,
+artistik, editor & special effect artist harus tampil sebagaimana mestinya dalam
+pembuatan sebuah film sesuai dengan script/naskah. Dan biasanya didamping oleh satu
+orang atau lebih asisten sutradara.
+B. Penguasaan Kamera & Teknik Shoting.
+Anggle
+Adalah sudut pandang pengambilan gambar yang dapat dilihat dari viewfinder pada
+sebuah kamera film/video. Dimana pemilihan anggel sangat berperan penting dalam
+menciptakan unsur artistik dan pemahaman cerita dalam pengadeganan sesuai dengan
+script/naskah.
+Lighting/Pencahayaan
+Dalam sebuah proses pengambilan gambar diperlukan adanya aset pencahayaan yang
+memadai. Baik itu didapat dari sumber natural (sinar matahari) pada shoting
+exterior/luar ruang, ataupun melalui bantuan sinar lampu pada shoting interior/dalam
+ruang.
+Komposisi
+Merupakan teknik pengaturan posisi gambar, ukuran & kedalaman ruang, perspektif &
+mood adegan untuk menghasilkan citra sesuai dengan tuntutan script/naskah.
+Log/Catatan Shoting
+Diperlukan adanya log/catatan yang dibuat menjelaskan penandaan setiap gambar peradegan
+yang sudah selesai diambil, dilengkapi dengan keterangan koordinat waktu
+(timecode) pada kaset yang digunakan. Proses ini akan sangat membantu mempercepat
+proses pengeditan gambar.
+3.Post Production
+Adalah proses penyelesain akhir (finishing) dari sebuah rangkaian produksi (shoting) yang
+meliputi mengeditan gambar, penambahan title, grafik, animasi & special effects, musik, sound
+effects, audio dubing, & output ke media video seperti: Betacam, DVCAM, MiniDV, & CD/DVD.
+Video Standart : PAL,D1/DV
+Frame Size : 720 X 576 (pixel)
+Frame Rate : 25 fps
+Pixel Aspect Ratio : D1/DV,PAL (4:3/1,067)
+Audio : 48 kHz 16 Bit Stereo
+Pembagian tahap Post Production
+1. Offline :
+– Capture
+– Edit
+2. Online :
+– Compositing
+– Motion Graphic
+– Visual Effects
+– Color Grading
+– Music & Sound FX
+– Titling
+– 3D

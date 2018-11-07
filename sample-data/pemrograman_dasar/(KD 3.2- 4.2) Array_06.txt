@@ -1,0 +1,52 @@
+ARRAY SATU DIMENSI DAN MULTIDIMENSI
+ PENGERTIAN ARRAY 
+
+Suatu Array adalah sebuah struktur data yang terdiri atas banyak variabel dengan tipe data sama dimana masing-masing elemen array mampu untuk menyimpan satu jenis data (yaitu variabel).
+
+Disini saya akan membahas tentang Array Satu Dimensi dan Array Multi-dimensi
+
+Pengertian Array Satu Dimensi Menurut Beberapa Sumber
+ Array satu dimensi adalah struktur data yang statis mempunyai satu nama tetapi memiliki  banyak tempa.
+Array satu dimensi atau dalam variabel beberapa literatur disebut sebagai larik, adalah suatu tipe variabel yang berisi kumpulan data dengan setiap element datanya  bertipe sama.
+ Array satu dimensi merupakan sebuah variabel yang menyimpan sekumpulan data yang memiliki tipe sama dan elemen yang diakses hanya melalui 1 indeks atau  subskrip..
+Pengertian Array Multi-dimensi Menurut Beberapa Sumber
+Array multi-dimensi merupakan sebuah variabel yang menyimpan sekumpuln data yang memiliki tipe sama dan elemen yang akan diakses melalui banyak indeks atau subskrip.
+Array multi-dimensi merupakan array yang mempunyai
+ukuran lebih dari dua.
+Fungsi Dalam Array
+
+array_combine : Membuat array baru dengan menggunakan array sebagai key dan array lainnya  sebagai nilai.
+array_diff_key : Mengurangi array dengan array lainnya dengan menggunakan key sebagai pembanding.
+array_diff : Menghitung beda dari suatu array dengan menggunakan nilainya sebagai pembanding
+array_merge : Menyatukan array-array
+array_pop : Mendelete elemen terakhir suatu array
+array_push : Menambah satu atau lebih elemen baru di akhir array
+array_rand :  Mengambil satu atau lebih secara random nilai suatu array
+array_reverse : Menghasilkan array dengan susuan elemen terbalik
+array_search : Mencari nilai pada nilai elemen-elemen array, jika sukses hasilnya berupa keyarray_shift : Mendelete elemen awal suatu array
+array_unique : Menghapus elemen array yang nilainya sama
+array_unshift : Menambah satu atau lebih elemen array di awal
+count : Menghitung jumlah elemen suatu array
+each : Menghasilkan key dan nilai elemen saat ini dari suatu array
+in_array : Cek apakah suatu nilai ada atau tidak di elemen-elemen suatu array
+rsort : Menyusun array terbalik
+shuffle :Mengacak array
+sort :Menyusun array
+
+Contoh Program Array
+
+
+
+
+
+
+
+
+
+
+
+
+
+sumber : http://mazadie.wordpress.com/2012/03/29/fungsi-array/ 
+               http://aldhilacihuys.blogspot.com/2009/11/pengertian-array-satu-dimensi-dua.html
+               contoh array dari saya sendiri 

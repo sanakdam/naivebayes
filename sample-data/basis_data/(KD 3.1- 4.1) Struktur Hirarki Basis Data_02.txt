@@ -1,0 +1,60 @@
+Basis Data Untuk SMK Kelas XI Rekayasa Perangkat Lunak (BAB II)
+BAB II
+STRUKTUR HIRARKI BASIS DATA
+ 1) Definisi Struktur atau arsitektur Basis Data
+     Arsitektur  basis data merupakan serangkaian pengetahuan tentang pemodelan data. Pengetahuan tentang File, table, field, record indeks, abstraksi data dan serangkaian konsep yang digunakan untuk membuat diskripsi struktur basis data. Melalui diskripsi Struktur basis data dapat ditentukan jenis data, hubungan dan konstrain (keterbatasan) data yang ditangani.  Dalam basis data, data diorganisasikan kedalam bentuk elemen data (field), rekaman (record), dan berkas (file). Definisi dari ketiganya adalah sebagai berikut:
+
+Elemen (kolom atau field) data adalah satuan data terkecil yang tidak  dapat dipecah lagi menjadi unit lain yang bermakna.  Misalnya data siswa terdiri dari NIS, Nama, Alamat, Telepon atau Jenis Kelamin.
+Rekaman (record) merupakan gabungan sejumlah elemen data yang saling terkait. Istilah lain dari record adalah baris atau tupel.
+Berkas(file) adalah himpunan seluruh record yang bertipe sama
+Struktur hirarki sebuah database dapat digambarkan dalam diagram hirarki begai berikut :  
+
+2) Skema Atau Abstraksi Basis Data Abstraksi data
+adalah merupakan tingkatan atau level bagaimana melihat data dalam sistem basis data.Abstraksi data diwujudkan dalam pemodelan data yang merupakan sejumlah konsep yang digunakan untuk membuat diskripsi struktur basis data.Melalui diskripsi struktur basis data, dapat ditentukan jenis data dan hubungannya deangan data lain
+     Skema basis data merupakan diskripsi dari basis data yang spesifikasinya ditentukan dalam tahap perancangan. Skema ini digunakan untuk memisahkan antara fisik basis data dan program aplikasi pemakai. Penggambaran skema bsisi data biasanya ditampilkan dalam diagram yang berisi sebagian detail data dari diskripsi basis data. Secara umum arsitektur basis data menggunakan arsitektur tiga skema yang meliputi tiga level yaitu :
+Level Internal atau skema internal. Level ini mendifinisikan secara detail penyimpanan basis data dan pengaksesan data. Pada level ini memuat diskripsi struktur penyimpanan basis data, menggunakan model data fisikal, 
+Level Konseptual (skema konseptual), memuat diskripsi struktur basis data seara keseluruhan untuk semua pemakai. Level ini memuat diskripsitentang entity, atribut, relasi dan konstrain tanpa memuat diskripsi data secara detail.
+Level eksternal (skema eksternal atau view), mendefinisikan pandangan data terhadap sekelompok pemakai(local view) dengan menyembunyikan data lain yang tidak diperlukan oleh kelompok pemakai tersebut.
+
+3) Pemodelan data
+     Pemodelan data merupakan sarana untuk melakukan abstraksi data. Merupakan sejumlah konsep untuk membuat diskripsi stuktur basis data. Kebanyakan model data memuat spesifikasi untuk operasi dasar (basic operation) dalam pengaksesan dan pembaharuan data. Pada perkembangan terakhir dikenal dengan istilah tabiat data (data behavior) pada pemrograman berorientasi object. Terdapat sejumlah cara dalam merepresentasikan model dalam perancangan basis data. Secara umum pemodelan data dapat dikelompokkan menjadi dua yaitu :
+1. Object based logical model. Dalam pemodelan ini struktur atau hirarki basis data diilustrasikan berdasarkan object. Model ini meliputi: 1) Model keterhubungan entitas (Entity Relationalship Model atau ERD). 2) Model berorientasi object (Object-Oriented Model). 3) Model Data Semantik(Semantic Data Model). 2) Model data Fungsional (Function Data Model).
+2. Record-based logical model. Dalam model ini struktur basis data diilustrasikan berdasarkan record. Model ini meliputi: 1) Model relational (Relational Model). 2) Model Herarkis (Hierarchical Model) 3) Model Jaringan (Network Model). 
+4) Struktur konseptual basis data
+     Tiga konsep dasar dalam pembuatan diskripsi struktur basis data yaitu model data konseptual, model data fisikal dan model view.Konseptual data menyajikan konsep tentang bagaimana user basis data memandang atau memberlakukan data. Konseptual merupakan level tinggi (hight level) yang dekat dengan user. Didalam Konseptual data menjelaskan beberapa hal yaitu entitas, atribute, key dan relasi antar entitas (akan dibawah dalam kegiatan belajar 3)  
+
+a) Entity atau Entitas
+Entitas adalah obyek yang mewakili sesuatu dalam dunia nyata dan dapat dibedakan antara satu dengan lainnya (unique).Setiap entitas memiliki beberapa atribut yang mendeskripsikan karakteristik dari objek. Entitas dapat berupa:
+ Data Fisik (seperti mobil, rumah, manusia, pegawai, peserta didik.
+Abstrak atau konsep (seperti department, pekerjaan, mata pelajaran)
+Kejadian (pembelian, penjualan, peminjaman, dll)
+Entitas dapat dibedakan menjadi dua macam yaitu Entitas kuat dan entitas lemah. Entitas lemah adalah yang keberadaannya tergantung pada entitas lain. Gambar dibawah ini menjelaskan notasi umum entitas kuat dengan nama entitas pegawan dan entitas lemah dengan nama entitas tanggungan. Entitas tanggungan disebut sebagai entitas lemah karena jika data seorang pegawai dihapus maka data tanggungannya juga akan terhapus. Keberadaan data tanggungan tergantung pada data di pegawai
+
+b) Atribute,
+Attribute merupakan karakteristik dari entitas atau relationship, yang menyediakan penjelasan detail tentang entitas atau relationship. Dalam penerapannya (level fisik) atribut merupakan field atau kolom dari sebuah tabel. Misalnya entitas mahasiswa memiliki atribute nama, alamat, NIM.  Berdasarkan karakteristik sifatnya, atribut dapat dikelompokkan menjadi; 1) Simple attribute dan composite attribute. 2) Single valued attribute dan multi valued attribute. 3) Mandatory attribute 4) Derived attribute (attribut turunan) dan 5) key attribute. Simple 
+
+Contohnya adalah atribut JenisKel pada entitas pegawai. Gambar diatas  menjelaskan simbol atau notasi Simple Attribute 
+
+Composite attribute adalah atribut yang dapat dibagi menjadi atribut yang lebih kecil. Attribut ini dapat diartikan attribute atomic yang menggambarkan atribut dasar dengan suatu arti tertentu. Contoh: atribut Nama pada entitas pegawai dapat dipecah menjadi atribut NmDepan, Inisial dan NmBlk. Gambar diatasmenjelaskan simbol atau notasi composite attribute. Atribut nama merupakan composite attribute.
+
+Single value Attribute adalah suatu atribut yang hanya mempunyai satu nilai. Misalnya atribut NmDepan pada entitas pegawai. NmDepan seorang pegawai selalu bernilai satu nilai, tidak mungkin lebih dari satu. Gambar diatas menjelaskan simbol atau notasi Single value Attribute
+
+Multi Value attribute adalah atribut yang dapat memiliki lebih dari satu nilai yang jenisnya sama dari sebuah data tunggal. Misalnya atribut lokasi pada entitas departemen dapat berisi 2 nilai atau lebih seperti Surabaya atau Jakarta. Gambar diatas menjelaskan simbol atau notasi  Multi Value attribute
+
+Derived Attribute atau Attribut Turunanadalah atribut yang nilai-nilainya diperoleh dari pengolahan atau dapat diturunkan dari atribut atau tabel lain yang berhubungan. Misalnyaatribut JmlPegawai pada entitas Departemen. Gambar diatas menjelaskan simbol atau notasi  Multi Value attribute
+
+c) Key attribute.
+Key adalah merupakan suatu atribut yang menandakan kunci dari suatu entitas yang bersifat unik. Key attribute adalah satu atau beberapa atribut yang mempunyai nilai unik sehingga dapat digunakan untuk membedakan data pada suatu baris/record dengan baris lain pada suatu entitas. Key attribute dibedakan menjadi tiga yaitu: 1) Superkey 2) Candidat Key dan 3) Primary key Tabel dibawah ini menjelaskan beberapa contoh nama entitas beserta nama atribut-atributnya
+
+Superkey adalah satu atau gabungan beberapa atribut yang dapat membedakan setiap baris data dalam sebuah tabel secara unik. Misalnya superkey untuk entitas pegawai antara lain: 1) NoKTP, Nama, Alamat, JenisKel, Gaji. 2)  NoKTP, Nama, Alamat, JenisKel. 3) NoKTP, Nama, Alamat. 4) NoKTP, Nama. 5) Nama (jika dapat dijamin kalau tidak ada nama yang sama antara satu baris dengan baris yang lain). 6) NoKTP
+Candidat Key adalah merupakan superkey yang jumlah atributnya paling sedikit. Misalnya candidat key untuk entitas pegawai antara lain:
+Nama (jika dapat dijamin kalau tidak ada nama yang sama antara satu baris dengan baris yang lain) 
+NoKTP 
+
+
+Primary key adalah suatu candidat key yang dipilih menjadi kunci utama karena sering dijadikan acuan untuk mencari informasi, ringkas, menjadi keunikan suatu baris. Misalnya NoKTP antara satu pegawai dengan pegawai lain pasti berbeda, dalam hal ini noKTP dapat digunakan sebagai suatu key. Gambar diatas menjelaskan simbol atau notasi  primary key.
+
+5) Struktur Fisik Basis Data
+     Physical data merupakan suatu konsep bagaimana diskripsi detail data disimpan dalam sebuah komputer. Physical data merupakan level rendah (low level) yang mendekati ke data sebenarnya. Dalam physical data menjelaskan  definisi data yang meliputi nama atribut, type data (misalnya varchar, integer dll), size atau ukurannya data. Data yang diimplementasikan berupa table yang  terdiri dari barisan data dalam kolom (field) dan baris (record). Setiap DBMS mempunyai aturan-aturan tersendiri dalam membuat definisi, struktur basis data dan tipe data yang digunakan.
+
+

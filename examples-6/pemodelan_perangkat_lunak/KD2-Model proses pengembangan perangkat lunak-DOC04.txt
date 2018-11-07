@@ -1,0 +1,320 @@
+Macam-Macam Metode Pengembangan Perangkat Lunak
+Admin AndroidApril 22, 2017Artikel2 Comments
+Macam-Macam Metode Pengembangan Perangkat Lunak
+
+1. Linear Sequential Model (Model Sequential Linear)/ Model Waterfall
+
+a. Model Waterfall
+
+Menurut  (Pressman, Roger S. 2001) Metode Waterfall adalah suatu proses pengembangan perangkat lunak berurutan, di mana kemajuan dipandang sebagai terus mengalir ke bawah (seperti air terjun) melewati fase-fase perencanaan, pemodelan, implementasi (konstruksi), dan pengujian.
+
+Tahapan metode Waterfall dapat digambarkan sebagai berikut: 
+
+Dalam pengembangannya, metode Waterfall memiliki beberapa tahapan yang runtut: Requirement (analisis kebutuhan), Desain Sistem (system design), Coding & Testing, penerapan program dan pemeliharaan. Tahapan tahapan dari metode Waterfall adalah sebagai berikut :
+
+Requirement Analysis
+Pada tahap ini, pengembang sistem diperlukan suatu komunikasi yang bertujuan untuk memahami software yang diharapkan pengguna dan batasan software. Informasi ini biasanya dapat diperoleh melalui wawancara, survei atau diskusi. Informasi tersebut dianalisis untuk mendapatkan data yang dibutuhkan oleh pengguna.
+
+2. System Design
+
+Spesifikasi kebutuhan dari tahap pertama akan dipelajari dalam fase ini dan desain sistem disiapkan. Desain Sistem membantu dalam menentukan perangkat keras dan sistem persyaratan dan juga membantu dalam mendefinisikan arsitektur sistem secara keseluruhan.
+
+3. Implementation
+
+Pada tahap ini, sistempertama kali dikembangkan di program kecil yang disebut unit, yang terintegrasi dalam tahap berikutnya. Setiap unit dikembangkan dan diuji untuk fungsionalitas yang disebut sebagai Unit Testing.
+
+4. Integration dan Testing
+
+Semua unit yang dikembangkan dalam tahap implementasi diintegrasikan ke dalam sistem setelah pengujian masing-masing unit. Pasca integrasi seluruh sistem diuji untuk mengecek  setiap kesalahan dan kegagalan.
+
+5. Operation dan Maintenance
+
+Ini merupakan tahap terakhir dalam model waterfall. Softwareyang  sudah  jadi dijalankan  serta dilakukan pemeliharaan. Pemeliharaan termasuk dalam memperbaiki  kesalahan yang tidakditemukan pada langkah sebelumnya. Perbaikan implementasi unitsistem dan peningkatan jasa sistem sebagai kebutuhan baru
+
+Kelebihan Waterfall :
+
+Keuntungan pengembangan dengan metode waterfall adalah metode ini memungkinkan untuk departementalisasi dan kontrol. proses pengembangan model fase satu per satu, sehinggameminimalis kesalahan-kesalahan yang mungkin akan terjadi. Pengembanganya bergerak dari konsep,  yaitu melalui desain, implementasi, pengujian, instalasi, troubleshooting, dan berakhir di operasi dan pemeliharaan.
+Kualitas dari sistem yang dihasilkan akan baik. Ini dikarenakan oleh pelaksanaannya secara bertahap. Sehingga tidak terfokus pada tahapan tertentu.
+Document pengembangan system sangat terorganisir, karena setiap fase harus terselesaikan dengan lengkap sebelum melangkah ke fase berikutnya. Jadi  setiap fase atau tahapan akan mempunyai dokumen tertentu.
+Metode ini masih lebih baik digunakan walaupun sudah tergolong kuno, daripada menggunakan pendekatan asal-asalan. Selain itu, metode ini juga masih masuk akal jika kebutuhan sudah diketahui dengan baik.
+Kerugian Waterfall :
+
+Kerugian pembangunan menggunakan metode waterfall adalah tidak memungkinkan untuk banyak refleksi atau revisi jika terjadi kesalahan. Karna setelah aplikasi ini dalam tahap pengujian, sangat sulit untuk kembali dan mengubah sesuatu yang tidak terdokumentasi dengan baik dalam tahap konsep.
+Diperlukan majemen yang baik, karena proses pengembangan tidak dapat dilakukan secara berulang sebelum terjadinya suatu produk.
+Kesalahan kecil akan menjadi masalah besar jika tidak diketahui sejak awal pengembangan yang berakibat pada tahapan selanjutnya.
+Pelanggan sulit menyatakan kebutuhan secara eksplisit sehingga tidak dapat mengakomodasi ketidak pastian pada saat awal pengembangan.
+Pelanggan harus sabar, karena pembuatan perangkat lunak akan dimulai ketika tahap desain sudah selesai. Sedangkan pada tahap sebelum desain bisa memakan waktu yang lama.
+Pada kenyataannya, jarang mengikuti urutan sekuensial seperti pada teori. Iterasi sering terjadi menyebabkan masalah baru.
+b. Model v
+
+Model v merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang. Dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
+
+
+
+Berikut penjelasan masing-masing tahap beserta tahap pengujiannya:
+
+Requirement Analysis & Acceptance Testing
+Tahap Requirement Analysis sama seperti yang terdapat dalam model waterfall. Keluaran dari tahap ini adalah dokumentasi kebutuhan pengguna. Acceptance Testing merupakan tahap yang akan mengkaji apakah dokumentasi yang dihasilkan tersebut dapat diterima oleh para pengguna atau tidak.
+
+System Design & System Testing
+Dalam tahap ini analis sistem mulai merancang sistem dengan mengacu pada dokumentasi kebutuhan pengguna yang sudah dibuat pada tahap sebelumnya. Keluaran dari tahap ini adalah spesifikasi software yang meliputi organisasi sistem secara umum, struktur data, dan yang lain. Selain itu tahap ini juga menghasilkan contoh tampilan window dan juga dokumentasi teknik yang lain seperti Entity Diagram dan Data Dictionary.
+
+Architecture Design & Integration Testing
+Sering juga disebut High Level Design. Dasar dari pemilihan arsitektur yang akan digunakan berdasar kepada beberapa hal seperti: pemakaian kembali tiap modul, ketergantungan tabel dalam basis data, hubungan antar interface, detail teknologi yang dipakai.
+
+Module Design & Unit Testing
+Sering juga disebut sebagai Low Level Design. Perancangan dipecah menjadi modul-modul yang lebih kecil. Setiap modul tersebut diberi penjelasan yang cukup untuk memudahkan programmer melakukan coding. Tahap ini menghasilkan spesifikasi program seperti: fungsi dan logika tiap modul, pesan kesalahan, proses input-output untuk tiap modul, dan lain-lain.
+
+Coding
+Dalam tahap ini dilakukan pemrograman terhadap setiap modul yang sudah dibentuk.
+
+Keuntungan V Model :
+
+Bahasa yang digunakan untuk merepresentasikan konsep V model menggunakan bahasa formal. Contoh : dengan menggunakan objek model ataupun frame-frame • Meminimalisasikan kesalahan pada hasil akhir karena ada test pada setiap prosesnya
+Penyesuaian yang cepat pada projek yang baru
+Memudahkan dalam pembuatan dokumen projek
+Biaya yang murah dalam perawatan dan modifikasinya
+V Model sangat fleksibel. V Model mendukung project tailoring dan penambahan dan pengurangan method dan tool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.
+V Model dikembangkan dan di-maintain oleh publik. User dari V Model berpartisipasi dalam change control board yang memproses semua change request terhadap V Model.
+Kerugian V Model :
+
+Aktifitas V-Model hanya difokuskan pada projectnya saja, bukan pada keseluruhan organisasi. V-Model adalah proses model yang hanya dikerjakan sekali selama project saja, bukan keseluruhan organisasi.
+Prosesnya hanya secara sementara. Ketika project selesai, jalannya proses model dihentikan. Tidak berlangsung untuk keseluruhan organisasi.
+Metode yang ditawarkan terbatas. Sehingga kita tidak memiliki cara pandang dari metode yang lain. Kita tidak memiliki kesempatan untuk mempertimbangkan jika ada tools lain yang lebih baik.
+oolnya tidak selengkap yang dibicarakan. SDE (Software Development Environment).Tidak ada tools untuk hardware di V-Model. Tool yang dimaksud adalah “software yang mendukung pengembangan atau pemeliharaan / modifikasi dari system IT.
+V Model adalah model yang project oriented sehingga hanya bisa digunakan sekali dalam suatu proyek.
+V Model terlalu fleksibel dalam arti ada beberapa activity dalam V Model yang digambarkan terlalu abstrak sehingga tidak bisa diketahui dengan jelas apa yang termasuk dalam activity tersebut dan apa yang tidak.
+2. Metode Prototype (evolusioner)
+
+Proses pengembangan sistem seringkali menggunakan pendekatan prototipe (prototyping).  Metode ini sangat baik digunakan untuk menyelesesaikan masalah kesalahpahaman antara  user  dan analis yang timbul akibat  user  tidak mampu mendefinisikan secara jelas kebutuhannya (Mulyanto, 2009).
+
+Prototyping  adalah pengembangan yang cepat dan pengujian terhadap model kerja (prototipe) dari aplikasi baru melalui proses interaksi dan berulang?ulang yang biasa digunakan ahli sistem informasi dan ahli bisnis. Prototyping   disebut juga desain aplikasi cepat  (rapid application design/RAD) karena menyederhanakan dan mempercepat desain sistem (O’rien, 2005).
+
+Sebagian  user   kesulitan mengungkapkan keinginannya untuk mendapatkan aplikasi yang sesuai dengan kebutuhannya. &esulitan ini yang perlu diselesaikan oleh analis dengan memahami kebutuhan  user  dan menerjemahkannya ke dalam bentuk model (prototipe). Model ini selanjutnya diperbaiki secara terus menerus sampai sesuai dengan kebutuhan  user.
+
+Model Prototype dapat dilihat pada gambar dibawah ini.
+
+
+
+Pengumpulan kebutuhan: developer dan klien bertemu dan menentukan tujuan umum, kebutuhan yang diketahui dan gambaran bagian-bagian yang akan dibutuhkan berikutnya;Pendekatan Prototyping melewati tiga proses, yaitu pengumpulan kebutuhan, perancangan, dan evaluasi Prototype.  Proses-proses tersebut dapat dijelaskan sebagai berikut:
+
+Perancangan: perancangan dilakukan cepat dan rancangan mewakili semua aspek software yang diketahui, dan rancangan ini menjadi dasar pembuatan prototype;
+Evaluasi Prototype: klien mengevaluasi prototype yang dibuat dan digunakan untuk memperjelas kebutuhan software.
+Kelebihan prototyping :
+
+Dapat menjalin komunikasi yang baik antar user dan pengembang sistem
+Setiap perbaikan yang dilakukan pada prototype merupakan hasil masukan dari user yang akan menggunakan sistem tersebut, sehingga lebih reliabel
+User akan memberikan masukan terhadap sistem sesuai dengan kemauannya
+Menghemat waktu dalam mengembangkan sebuah sistem
+Menghemat biaya, terutama pada bagian analisa, karena hanya mencatat poin – point penting saja
+Cocok digunakan pada sebuah sistem kecil, yang digunakan pada ruang lingkup tertentu, seperti sistem di dalam sebuah kantor
+Penerapan dari sistem yang menjadi lebih mudah untuk dilakukan.
+Kelemahan dari Metode Prototyping :
+
+Untuk menghemat waktu, biasanya pengembang hanya menggunakan bahasa pemrograman sederhana, yang mungkin rentan dari segi keamanannya
+Tidak cocok untuk diimplementasikan pada sebuah sistem yang sangat besar dan global, seperti sistem operasi komputer.
+3. Rapid Application Development (RAD)
+
+Rapid Application Development (RAD) adalah strategi siklus hidup yang ditujukan untuk menyediakan pengembangan yang jauh lebih cepat dan mendapatkan hasil dengan kualitas yang lebih baik dibandingkan dengan hasil yang dicapai melalui siklus tradisional (McLeod, 2002). RAD merupakan gabungan dari bermacam-macam teknik terstruktur dengan teknik prototyping dan teknik pengembangan joint application untuk mempercepat pengembangan sistem/aplikasi (Bentley, 2004). Dari definisi-definisi konsep RAD ini, dapat dilihat bahwa pengembangan aplikasi dengan menggunakan metode RAD ini dapat dilakukan dalam waktu yang relatif lebih cepat.
+
+Profesor Clifford Kettemborough dari College Whitehead,  University of Redlands,  mendefinisikan Rapid Application Development sebagai “pendekatan untuk membangun sistem komputer yang menggabungkan Computer Assisted  Software Engineering (CASE) tools dan teknik, user­driven prototyping. RAD meningkatkan kualitas sistem secara drastis dan mengurangi waktu yang diperlukan untuk membangun sistem.
+
+
+
+Berikut ini adalah tahap-tahap pengembangan aplikasi dari tiap-tiap fase pengembangan aplikasi.
+
+Requirements Planning (Perencanaan Syarat-Syarat)
+Dalam fase ini, pengguna dan penganalisis bertemu untuk mengidentifikasikan tujuan-tujuan aplikasi atau sistem serta untuk megidentifikasikan syarat-syarat informasi yang ditimbulkan dari tujuan-tujuan tersebut. Orientasi dalam fase ini adalah menyelesaikan masalah-masalah perusahaan. Meskipun teknologi informasi dan sistem bisa mengarahkan sebagian dari sistem yang diajukan, fokusnya akan selalu tetap pada upaya pencapaian tujuan-tujuan perusahaan (Kendall, 2010).
+
+RAD Design Workshop (Workshop Desain RAD)
+Fase ini adalah fase untuk merancang dan memperbaiki yang bisa digambarkan sebagai workshop. Penganalisis dan dan pemrogram dapat bekerja membangun dan menunjukkan representasi visual desain dan pola kerja kepada pengguna. Workshop desain ini dapat dilakukan selama beberapa hari tergantung dari ukuran aplikasi yang akan dikembangkan. Selama workshop desain RAD, pengguna merespon prototipe yang ada dan penganalisis memperbaiki modul-modul yang dirancang berdasarkan respon pengguna. Apabila sorang pengembangnya merupakan pengembang atau pengguna yang berpengalaman, Kendall menilai bahwa usaha kreatif ini dapat mendorong pengembangan sampai pada tingkat terakselerasi (Kendall, 2010).
+
+Implementation (Implementasi)
+Pada fase implementasi ini, penganalisis bekerja dengan para pengguna secara intens selama workshop dan merancang aspek-aspek bisnis dan nonteknis perusahaan. Segera setelah aspek-aspek ini disetujui dan sistem-sistem dibangun dan disaring, sistem-sistem baru atau bagian dari sistem diujicoba dan kemudian diperkenalkan kepada organisasi (Kendall, 2010).
+
+Kelebihan dan Kekurangan RAD
+
+Metode pengembangan sistem RAD relatif lebih sesuai dengan rencana pengembangan aplikasi yang tidak memiliki ruang lingkup yang besar dan akan dikembangkan oleh tim yang kecil. Namun, RAD pun memiliki kelebihan dan kekurangannya sebagai sebuah metodoligi pengembangan aplikasi. Berikut ini adalah kelebihan metodologi RAD menurut Marakas (2006):
+
+Penghematan waktu dalam keseluruhan fase projek dapat dicapai.
+RAD mengurangi seluruh kebutuhan yang berkaitan dengan biaya projek dan sumberdaya manusia.
+RAD sangat membantu pengembangan aplikasi yang berfokus pada waktu penyelesaian projek.
+Perubahan desain sistem dapat lebih berpengaruh dengan cepat dibandingkan dengan pendekatan SDLC tradisional.
+Sudut pandang user disajikan dalam sistem akhir baik melalui fungsi-fungsi sistem atau antarmuka pengguna.
+RAD menciptakan rasa kepemilikan yang kuat di antara seluruh pemangku kebijakan projek.
+Sedangkan, mengacu pada pendapat Kendall (2010), maka dapat diketahui bahwa kekurangan penerapan metode RAD adalah sebagai berikut:
+
+Dengan metode RAD, penganalisis berusaha mepercepat projek dengan terburu-buru.
+Kelemahan yang berkaitan dengan waktu dan perhatian terhadap detail. Aplikasi dapat diselesaikan secara lebih cepat, tetapi tidak mampu mengarahkan penekanan terhadap permasalahan-permasalahan perusahaan yang seharusnya diarahkan.
+RAD menyulitkan programmer yang tidak berpengalaman menggunakan prangkat ini di mana programmer dan analyst dituntut untuk menguasai kemampuan-kemampuan baru sementara pada saat yang sama mereka harus bekerja mengembangkan sistem.
+4. Model Evolutionary Development/ Evolutionary Software Process Models
+
+a. Incremental Model
+
+Incremental model adalah model pengembangan sistem pada software engineering berdasarkan requirement software yang dipecah menjadi beberapa fungsi atau bagian sehingga model pengembangannya secara bertahap. dilain pihak ada mengartikan model incremental sebagai  perbaikan dari model waterfall dan sebagai standar pendekatan topdown. Layaknya Model Waterfall, model ini pun juga memiliki tahapan tahapan untuk perancangan perangkat lunaknya, yaitu:
+
+
+
+tahapan tahapan model incremental
+
+Requirement , Requirment adalah proses tahapan awal yang dilakukan pada incremental model adalah penentuan kebutuhan atau analisis kebutuhan.
+Specification, Specification adalah proses spesifikasi dimana menggunakan analisis kebutuhan sebagai acuannya.
+Architecture Design, adalah tahap selanjutnya, perancangan software yang terbuka agar dapat diterapkan sistem pembangunan per-bagian pada tahapan selanjutnya.
+Code setelah melakukan proses desain selanjutnya ada pengkodean.
+Test merupakan tahap pengujian dalam model ini.
+Beberapa Kelebihan Dari Mode Incremental atara lain :
+
+Merupakan model dengan manajemen yang sederhana
+Pengguna tidak perlu menunggu sampai seluruh sistem dikirim untuk mengambil keuntungan dari sistem tersebut. Increment yang pertama sudah memenuhi persyaratan mereka yang paling kritis, sehingga perangkat lunak dapat segera digunakan.
+Resiko untuk kegagalan proyek secara keseluruhan lebih rendah. Walaupun masalah masih dapat ditemukan pada beberapa increment. Karena layanan dengan prioritas tertinggi diserahkan pertama dan increment berikutnya diintegrasikan dengannya, sangatlah penting bahwa layanan sistem yang paling penting mengalami pengujian yang ketat. Ini berarti bahwa pengguna akan memiliki kemungkinan kecil untuk memenuhi kegagalan perangkat lunak pada increment sistem yang paling bawah.
+Nilai penggunaan dapat ditentukan pada setiap increment sehingga fungsionalitas sistem disediakan lebih awal.
+Memiliki risiko lebih rendah terhadap keseluruhan pengembagan sistem,
+Prioritas tertinggi pada pelayanan sistem adalah yang paling diuji
+Kelemahannya adalah :
+
+kemungkinan tiap bagian tidak dapat diintegrasikan
+Dapat menjadi build and Fix Model, karena kemampuannya untuk selalu mendapat perubahan selama proses rekayasa berlangsung
+Harus Open Architecture
+Mungkin terjadi kesulitan untuk memetakan kebutuhan pengguna ke dalam rencana spesifikasi masing-masing hasil increment.
+b. Spiral Model/ Spiral Boehm
+
+(Software Engineering by Roger S. Pressman) Model spiral (spiral model) adalah model proses software yang evolusioner yangmerangkai sifat iteratif dari prototipe dengan cara kontrol dan aspek sistematis dari modelsekuensial linier. Model ini berpotensi untuk pengembangan versi pertambahan software secaracepat. Di dalam model spiral, software dikembangkan di dalam suatu deretan pertambahan.Selama awal iterasi, rilis incremental bias merupakan sebuah model atau prototype kertas.Selama iterasi berikutnya, sedikit demi sedikit dihasilkan versi sistem rekayasa yang lebihlengkap.
+
+
+
+Komunikasi Pelanggan (Customer Communication)
+
+Tugas yang dibutuhkan untuk membangun komunikasi yang efektif di antarapengembangan dan pelanggan
+
+Perencanaan (Planning)
+Tugas yang dibutuhkan untuk mendefinisikan sumber
+Sumber daya, ketepatanwaktu, dan proyek informasi lain yang berhubungan
+Analisis Risiko (Risk Analysis)
+Tugas yang dibutuhkan untuk menaksir risiko
+Risiko, baik manajemen maupunteknis.
+Perekayasaan (Engineering)
+Tugas yang dibutuhkan untuk membangun satu atau lebih representasi dariaplikasi tersebut.
+Konstruksi dan peluncuran (Construction and Release)
+Tugas yang dibutuhkan untuk mengkonstruksi, menguji, memasang (instal) danmemberikan pelayanan kepada pemakai (contohnya pelatihan dan dokumentasi).
+Evaluasi pelanggan (Customer Evaluation)
+Tugas yang dibutuhkan untuk memperoleh umpan balik dari pelanggan dengandidasarkan pada evaluasi  representasi software, yang dibuat selama masa perekayasaan,dan diimplementasikan selama masa pemasangan.
+Kelebihan model Spiral:
+
+Setiap tahap pengerjaan dibuat prototyping sehingga kekurangan dan apa yang diharapkan oleh client dapat diperjelas dan juga dapat menjadi acuan untuk client dalam mencari kekurangan kebutuhan.
+Lebih cocok untuk pengembangan sistem dan perangkat lunak skala besar.
+Dapat disesuaikan agar perangkat lunak bisa dipakai selama hidup perangkat lunak komputer.
+Pengembang dan pemakai dapat lebih mudah memahami dan bereaksi terhadap resiko setiap tingkat evolusi karena perangkat lunak terus bekerja selama proses.
+Menggunakan prototipe sebagai mekanisme pengurangan resiko dan pada setiap keadaan di dalam evolusi produk.
+Tetap mengikuti langkah-langkah dalam siklus kehidupan klasik dan memasukkannya ke dalam kerangka kerja iteratif.
+Membutuhkan pertimbangan langsung terhadp resiko teknis sehingga mengurangi resiko sebelum menjadi permaslahan yang serius.
+Kekurangan model Spiral:
+
+Banyak konsumen (Client) tidak percaya bahwa pendekatan secara evolusioner dapat dikontrol oleh kedua pihak. Model spiral mempunyai resiko yang harus dipertimbangkan ulang oleh konsumen dan developer.
+Memerlukan tenaga ahli untuk memperkirakan resiko, dan harus mengandalkannya supaya sukses.
+Belum terbukti apakah metode ini cukup efisien karena usianya yang relatif baru.
+Memerlukan penaksiran resiko yang masuk akal dan akan menjadi masalah yang serius jika resiko mayor tidak ditemukan dan diatur.
+Butuh waktu lama untuk menerapkan paradigma ini menuju kepastian yang absolute.
+5. Component Assembly Model (CAM/ Model Perakitan Komponen)
+
+Pada kali ini saya akan membahas tentang CAM, untuk definisi nya sendiri Component Assembly Model adalah suatu model metodologi penelitian RPL yang merupakan gabungan dari berbagai model yang lain karena terdapat beberapa kesamaan dari model RPL prototype model, spiral boehm model dan RAD model.
+
+
+Sifat karakteristik dari CAM ini yaitu yang seperti saya sebutkan tadi model spiral boehm dan sangat erat keterikatannya dengan model RAD (Rapid Application Development), model karena model CAM ini menggunakan peralatan-peralatan dan GUI (Graphic User Interface) untuk membangun software. Dengan kata lain pembuatan aplikasinya dibuat dari paket perangkat lunak yang berisi serangkaian komponen yang telah ada sebelumnya. Namun, waktu yang dibutuhkan dapat disesuaikan atau lebih efektif daripada harus mengerjakan program dari awal.
+
+Seperti yang sudah saya sebutkan tadi CAM ini mirip dengan prototype model karena dalam pengembangannya di haruskan membuat prototype sesuai dengan kebutuhan customer agar lebih pasti perancangannya dan sesuai keinginan, dengan langkah ini artinya dapat menghemat dari segi efesiensi waktu dalam pengerjaanya.
+Tahapan-tahapan CAM yaitu sebagai berikut :
+
+Tahap identifikasi calon-calon komponen (kelas objek)
+Tahap melihat komponen-komponen dalam pustaka
+Tahap mengekstrak komponen
+Tahap membangun komponen
+Tahap menyimpan komponen baru pada pustaka
+Tahap mengkonstruksi iterasi ke-n dari sistem.
+Kelebihan CAM adalah tinggal mencaplok atau menggunakan program atau komponen yang sudah ada dan menyusunnya menjadi sebuah program yang lebih kompleks dan berkembang sesuai dengan kebutuhan user/pengguna sehingga dapat mengefisienkan penggunaan waktu dan tenaga.  Selain itu, model ini juga menyediakan kemampuan untuk memvisualisasikan hasil rakitan dengan kesanggupan untuk mengukur, menganalisa, merancang dan merancang ulang program.
+
+Kekurangan CAM adalah seringnya program atau komponen-komponen terdahulu tidak kompatibel atau sejalan dengan model perakitan komponen ini sehingga untuk perusahaan berskala kecil akan kesulitan menemukan komponen yang sesuai untuk dirakit.
+
+Jadi, bisa di ambil kesimpulan bahwa CAM ini sesuai di gunakan oleh perusahaan besar yang sudah berpengalaman mengembangkan software. Mereka dapat memanfaatkan software-software yang telah umum dikembangkan sebelumnya menjadi bentuk baru dari software yang ingin dikomersilkan dan para pengembang hanya perlu mengetahui kebutuhan pelanggan, mencari komponen yang berguna yang berguna untuk menjawab kebutuhan pelanggan dan akhirnya menempatkan mereka bersama-sama untuk membangun sebuah program baru yang bermanfaat.
+
+6. The Concurrent Development Model
+
+Concurrent Engineering merupakan model yang dapat direpresentasikan dengan skema sebagai series dari kerangka aktifitas, aksi software engineering dan juga tugas dari jadwal
+
+Pada model ini aktifitas kerja dilakukan secara bersamaan, setiap proses kerja memiliki beberapa pemicu kerja dari aktifitas. Pemicu dapat berasal dari awal proses kerja maupun dari pemicu yang lain karena setiap pemicu akan saling berhubungan. Misalnya proses desain akan berubah atau dihentikan sementara karena ada perubahan permintaan kebutuhan dari customer.
+
+Concurrent Process Model dapat digambarkan secara skematik sebagai rangkaian dari kegiatan teknis utama, tugas dan hubungan antar bagian. Jadi, pada intinya Metode CDM ini suatu skema model yang mengimplementasikan suatu proses kerja yang dilakukan cepat namun dikerjakan secara bersama-sama dan tetap efektif dalam menyelesaikan berbagai penyelesaian masalah sesuai permintaan customer.
+
+Diagram Modeling Activity menunjukkan skematik dari satu aktivitas dengan Concurrent Process Model. Aktivitas analisa pada setiap orang mencatat bagian-bagian di setiap waktu sesuai jadwal. Dengan cara yang sama, aktivitas yang lain seperti komunikasi antara customer dapat digambarkan dengan cara yang sama.
+
+Concurrent Process Model sering digunakan sebagai paradigma untuk pengembangan aplikasi Client/Server. Sistem Client/Server terdiri atas satu set komponen yang fungsional. Ketika diaplikasikan untuk Client/Server, Concurrent Process Model menggambarkan aktivitas di dua dimensi yaitu dimensi sistem dan dimensi komponen.
+
+Dimensi Sistem ditujukan menggunaan tiga aktivitas : Design, Perakitan (Assembly) dan Penggunaan (Use).
+Dimensi Komponen ditujukan dengan dua aktivitas : Design dan Realisasi.
+Concurrency dicapai dalam jalan dua arah yaitu sebagai berikut :
+
+Sistem dan komponen aktivitas terjadi secara simultan dan dapat diperagakan menggunakan pendekatan yang berorientasi status sebelumnya.
+Kekhasan aplikasi Client/Server adalah diterapkan dengan banyak komponen, masing-masing dapat dirancang dan direalisasi secara bersamaan.
+Kelebihan dari Model CDM : Hasil yang di dapat akan menghasilkan suatu sistem yang  sangat baik karena terdapat perancangan yang terjadi secara besar dan terencana secara matang.
+
+Kekurangan dari Model CDM : Memungkinkan terjadinya perubahan besar-besaran, maka akan membuat biaya dan waktu yang diperlukan membengkak.
+
+7. Formal Method Models
+
+Teknik formal method adalah teknik yang mengandalkan perhitungan matematika dalam setiap prosesnya. Hanya digunakan pada sistem yang sangat memperhatikan keamanan atau keselamatan dari pengguna keamanan atau keselamatan dari pengguna. Contoh penggunaan teknik ini adalah aerospace engineering.
+
+Dalam ilmu komputer, rekayasa perangkat lunak khusus, metode formal adalah jenis tertentu dari teknik matematis berdasarkan untuk spesifikasi, pengembangan dan verifikasi sistem perangkat lunak dan perangkat keras. Penggunaan metode formal untuk perangkat lunak dan desain hardware dimotivasi oleh harapan bahwa , seperti dalam disiplin ilmu teknik lainnya, melakukan analisis matematis yang tepat dapat berkontribusi untuk keandalan dan ketahanan dari desain.
+
+Metode formal digambarkan sebagai penerapan berbagai cukup luas fundamental ilmu komputer teoritis, dalam kalkuli logika tertentu, bahasa formal, teori automata, dan semantik program, tetapi juga sistem jenis dan tipe data aljabar untuk masalah dalam spesifikasi perangkat lunak dan perangkat keras dan verifikasi.
+
+Metode formal dapat digunakan di sejumlah tingkatan:
+
+Tingkat 0: spesifikasi formal dapat dilakukan dan kemudian program yang dikembangkan dari ini informal. Hal ini telah dijuluki metode formal lite. Ini mungkin menjadi pilihan biaya yang paling efektif dalam banyak kasus.
+
+Tingkat 1: Pengembangan Formal dan verifikasi formal dapat digunakan untuk menghasilkan sebuah program dengan cara yang lebih formal. Misalnya, bukti dari sifat atau penyempurnaan dari spesifikasi untuk program dapat dilakukan. Ini mungkin yang paling tepat dalam sistem integritas tinggi yang melibatkan keselamatan atau keamanan.
+
+Level 2: provers Teorema dapat digunakan untuk melakukan sepenuhnya resmi mesin-diperiksa bukti. Hal ini bisa sangat mahal dan hanya praktis berharga jika biaya kesalahan sangat tinggi (misalnya, dalam bagian-bagian penting dari desain mikroprosesor).
+
+Informasi lebih lanjut mengenai hal ini diperluas di bawah ini.
+
+Seperti dengan semantik bahasa pemrograman, gaya metode formal dapat secara kasar diklasifikasikan sebagai berikut:
+
+Denotational semantik, di mana makna dari suatu sistem dinyatakan dalam teori matematika dari domain. Pendukung metode tersebut bergantung pada sifat dipahami dengan baik domain untuk memberi arti bagi sistem, kritikus menunjukkan bahwa tidak setiap sistem mungkin secara intuitif atau alami dipandang sebagai fungsi.
+
+Operasional semantik, di mana makna dari suatu sistem dinyatakan sebagai urutan tindakan model (mungkin) komputasi sederhana. Pendukung metode tersebut menunjukkan kesederhanaan model mereka sebagai alat untuk kejelasan ekspresif, kritikus kontra bahwa masalah semantik baru saja tertunda (yang mendefinisikan sem       antik dari model sederhana?).
+
+Aksiomatis semantik, dimana arti dari sistem dinyatakan dalam prasyarat dan postconditions yang benar sebelum dan setelah sistem melakukan tugas masing-masing. Para pendukung perhatikan koneksi ke logika klasik, kritik mencatat bahwa semantik seperti itu tidak pernah benar-benar menggambarkan apa yang sistem tidak (hanya apa yang benar sebelum dan sesudahnya).
+
+Lightweight Formal Methods
+
+Beberapa praktisi percaya bahwa masyarakat metode formal telah ditekankan formalisasi penuh spesifikasi atau desain. Mereka berpendapat bahwa ekspresi dari bahasa yang terlibat, serta kompleksitas sistem yang dimodelkan, membuat formalisasi penuh sulit dan tugas mahal. Sebagai alternatif, berbagai metode formal yang ringan, yang menekankan spesifikasi parsial dan aplikasi terfokus, telah diusulkan. Contoh dari pendekatan ringan untuk metode formal termasuk objek Alloy notasi pemodelan, sintesis Denney tentang beberapa aspek dari notasi Z dengan kasus pengembangan penggunaan didorong, dan CSK VDM Alat.
+
+Keuntungan menggunakan teknik formal method adalah : Meminimalkan resiko dengan adanya perhitungan komputasi.
+
+Sedangkan kerugiannya adalah :
+
+biaya tinggi
+kompleks
+Tidak Umum untuk Ptoyek software pada umumnya
+8. Fourth Generation Techniques/Model Teknik Generasi ke-4/4GT
+
+Istilah Fourth Generation Techniques (4GT) mencakup seperangkat peralatan perangkat lunak yang berfungsi sebagai perangkat bantu yang memudahkan seorang pengembang software mengaplikasi beberapa karakteristik software pada tingkat yang tinggi, yang akan menghasilkan source code dan object code secara otomatis sesuai dengan spesifikasi (persyaratan khusus) yang dibuat oleh sang pengembang perangkat lunak.
+
+Dewasa ini, 4GT tools dipakai sebagai bahasa non prosedur untuk DataBase Query, Pembentukan laporan (Report Generation), Manipulasi data, Definisi dan interaksi layar (screen), Pembentukan object dan source (Object and source generation ), Kemampuan grafik yang tinggi, dan Kemampuan spreadsheet.
+
+Tahapan-tahapan model 4GT dapat diringkas sebagai berikut.
+
+Tahap Pengumpulan Kebutuhan: tahap ini dimulai dengan mengumpulkan serangkaian kebutuhan yang nantinya akan diterjemahkan ke dalam prototipe. Namun, apabila pelanggan tidak yakin dengan apa yang diperlukan dan fakta-fakta tidak jelas diketahui maka prototipe tidak dapat dikerjakan oleh peralatan 4GT.
+
+Tahap Merancang Strategi: tahap ini dibutuhkan untuk proyek besar yakni dengan menterjemahkan kebutuhan menjadi prototipe operasional  agar tidak timbul masalah yang sama jika dibuat dengan model konvensional. Namun, untuk proyek skala kecil tahap ini dapat dihilangkan dengan  langsung melakukan implementasi dengan menggunakan bahasa generasi keempat (4GT).
+
+Tahap Implementasi Menggunakan Bahasa Keempat: untuk skala kecil tahap ini dapat langsung dilakukan ketika kebutuhan telah jelas, dan untuk proyek besar tahapan ini dijalankan setelah dirancang prototipe operasional. Implementasi yang menggunakan 4GT memudahkan pengembang software untuk menjelaskan hasil yang diharapkan yang nantinya akan diterjemahkan ke dalam bentuk kode sumber dan kode objek.
+
+Tahap Produksi: Tahap ini merupakan langkah terakhir yakni mengubah implementasi  4GT ke dalam hasil akhir berupa produk.
+
+Kelebihan model ini adalah pengurangan waktu dan peningkatan produktivitas yang besar.
+
+Kekurangan model ini adalah kemungkinan akan sulit memanfaatkan alat bantu/peralatan/tools 4GT dibandingkan dengan menggunakan bahasa pemrograman yang konvensional, selain itu terdapat juga masalah dalam hal kode sumber yang tidak efisien. Di samping itu, pemeliharaan sistem software besar yang dikembangkan oleh 4GT juga masih sedang dalam proses pengkajian.
+
+Model ini diaplikasikan untuk mengembangkan perangkat lunak yang memakai bentuk bahasa khusus atau notasi grafik yang dieksekusi/diselesaikan dengan syarat atau ketentuan yang dipahami oleh pemakai/pengguna/kustomer.
+
+ 

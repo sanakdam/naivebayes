@@ -1,0 +1,30 @@
+Jenis – Jenis Sistem Operasi Jaringan
+ Agustus 19, 2014 anotherorion  2 Komentar jaringan, komputek, kurikulum 2013
+Untuk masyarakat biasa, Microsoft Windows mungkin terdengar sebagai satu2nya referensi sistem operasi yang terpercaya. Terpercaya karena banyak yang make, tapi sebenarnya Sistem Operasi di dunia ini bukan hanya Microsoft Windows. Masih banyak jenis Operating System yang berjalan diatas sistem komputer. Setidaknya dalam dunia komputer, selain OS Windows, masih ada beberapa OS yang digunakan oleh banyak pihak, misalnya Linux, BSD, Mac OS, dan Solaris.
+
+Anak2 Teknik Komputer dan Jaringan biasanya mempelajari sistem operasi jaringan untuk membuat bermacam2 jenis Server, mengaplikasikan Routing protocol maupun membuat Firewall. Sistem Operasi Jaringan adalah Sistem Operasi yang fungsi utamanya menyediakan dan mengatur alokasi sumber daya jaringan, sumber daya jaringan tersebut antara lain koneksi internet, bandwith, kecepatan, file server, web server, printer, keamanan jaringan dan masih banyak lagi. Pada kurikulum 2013 saat ini, siswa TKJ diajak mengenal jenis-jenis sistem operasi Jaringan.
+
+Open Source VS Closed Source
+Ada apa saja di artikel ini?	
+Open Source VS Closed Source
+Dari berbagai macam sistem operasi tersebut mana sajakah yang merupakan sistem operasi jaringan?
+Post You May Also Like
+Bagikan ini:
+Menyukai ini:
+Varian sistem operasi Linux dianggap sebagai sistem operasi jaringan yang paling banyak diimplementasikan, hal ini tidak lepas karena varian Linux menggunakan konsep Open Source. Open Source artinya, sebuah software/sistem operasi yang dapat dilihat kode sumbernya, sehingga pengguna bisa melihat, menambah/mengurangi dan membuat duplikasinya tanpa perlu membayar. Oleh karena itu, banyak pihak yang akhirnya tertarik untuk bergerak bersama mengembangkan sistem operasi Linux, baik membuat varian baru atau melengkapi dan mengatasi masalah yang muncul pada varian yang sudah ada. Kebalikan dari Open Source adalah closed source.
+
+Closed Source adalah software yang kode sumbernya tidak dapat diakses oleh setiap orang, hanya orang/pihak tertentu yang diperkenankan melihat kode aslinya, dengan alasan hak cipta/patent perusahaan, biasanya yang dapat mengaksesnya adalah para developer perusahaan pemilik software tersebut, contoh aplikasi close source adalah Adobe Photoshop, Ms. Word, Corel Draw dan lain2, sementara operasi sistem Closed source contohnya adalah semua keluarga Microsoft Windows (Windows 1.0, Windows 3.1,  Windows 95, Windows 98, Windows NT, Windows Me, Windows 2000, Windows 2000 Server,  Windows XP, Windows 2003 Server, Windows Vista, Windows 7, Windows 2008 Server, Windows 2012 Server dan Windows 8) serta keluarga Mac OS X (Leopard, Panther, Jaguar, Cheetah, Puma, Maverick, dll)
+
+BACA JUGA:   Warna port Audio
+jenis-jenis-sistem-operasi-jaringan Jenis - Jenis Sistem Operasi Jaringan  wallpaper
+
+Dari berbagai macam sistem operasi tersebut mana sajakah yang merupakan sistem operasi jaringan?
+Pada umumnya varian Sistem Operasi Linux semuanya dapat digunakan sebagai sistem operasi jaringan, sedangkan dari keluarga Windows diwakili oleh keluarga Microsoft Windows NT (sebelum tahun 2000) dan Microsoft Windows Server. Selain kedua keluarga sistem operasi tersebut, bisa juga menggunakan varian keluarga BSD seperti freeBSD, openBSD dan netBSD. Sistem operasi jaringan rata2 didesain secara minimalis, tidak membutuhkan aplikasi desktop yang banyak, tampilan GUI yang memukau dan animasi yang memanjakan mata, karena memang tujuan utama sistem operasi jaringan adalah mengutamakan kecepatan dalam melayani komputer lain dalam berkomunikasi.
+
+Maka jangan heran jika rata2 PC server, tidak memiliki monitor, mouse dan keyboard, rata2 diakses secara remote menggunakan komputer lain dan itupun hanya menggunakan tampilan grafis ala kadarnya, bahkan dalam bentuk DOS atau CLI.
+
+Sementara itu, pada perangkat jaringan sendiri juga terdapat sistem operasi yang dikembangkan oleh masing2 vendor perangkat, misalnya Cisco iOS yang dikembangkan oleh Cisco untuk router dan catalyst-nya dan Mikrotik RouterOS yang dikembangkan oleh Mikrotik.
+
+Di dalam dunia mobile computing saat ini semakin banyak operasi system yang muncul, dahulu ada sistem Operasi Symbian untuk ponsel Nokia, Sony Ericsson dan Siemens, kemudian untuk gadget PDA terdapat sistem operasi PalmPC, Windows CE dan Windows Mobile, sekarang muncul Apple iOS, Blackberry OS dan Google Android, sebentar lagi muncul keluarga sistem operasi penantang dari perusahaan browser yaitu firefoxOS dan Google Chrome OS.
+
+BACA JUGA:   Membua

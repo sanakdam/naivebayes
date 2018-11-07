@@ -1,0 +1,73 @@
+Sistem Operasi Open Source dan Closed Source||Materi XI TKJ Semester Gasal
+POSTED BY FARID ASYARI POSTED ON 01.45 WITH NO COMMENTS
+ Sistem Operasi 
+
+
+
+
+     Sistem operasi (bahasa Inggris: operating system ; OS) adalah seperangkat program yang mengelola sumber daya perangkat keras komputer atau hardware, dan menyediakan layanan umum untuk aplikasi perangkat lunak. Sistem operasi adalah jenis yang paling penting dari perangkat lunak sistem dalam sistem komputer. Tanpa sistem operasi, pengguna tidak dapat menjalankan program aplikasi pada komputer mereka, kecuali program aplikasi booting.
+Sistem operasi mempunyai penjadwalan yang sistematis mencakup perhitungan penggunaan memori, pemrosesan data, penyimpanan data, dan sumber daya lainnya.
+Untuk fungsi-fungsi perangkat keras seperti sebagai masukan dan keluaran dan alokasi memori, sistem operasi bertindak sebagai perantara antara program aplikasi dan perangkat keras komputer,
+
+     meskipun kode aplikasi biasanya dieksekusi langsung oleh perangkat keras dan seringkali akan menghubungi OS atau terputus oleh itu. Sistem operasi yang ditemukan pada hampir semua perangkat yang berisi komputer-dari ponsel dan konsol permainan video untuk superkomputer dan server web.
+Contoh sistem operasi modern adalah Linux, Android, iOS, Mac OS X, dan Microsoft Windows.[3]
+Macam-Macam Sistem Operasi
+            Sistem Operasi terbagi menjadi dua bagian, ada Sistem Operasi Open Source dan ada juga yang Closed Source berikut :
+
+  1.Sistem Operasi Open Source
+
+ 
+Unix
+Termasuk sistem operasi yang paling awal ada untuk komputer. Merupakan induk dari sistem operasi linux. Unix atau UNIX adalah sebuah sistem operasi komputer yang diawali dari project Multics(Multiplexed Information and Computing Service) pada tahun 1965 yang dilakukan American Telephone and Telegraph AT&T, General Electric (GE), dan Institut Teknologi Massachusetts (MIT), dengan biaya dari Departemen Pertahanan Amerika (Departement of Defence Advenced Research Project, DARPA atau ARPA), UNIX didesain sebagai Sistem operasi yang portable, multi-tasking dan multi-user.
+BSD (Berkeley Software Distribution)
+Berkeley Software Distribution (BSD) pertama kali dibangun dan dikembangkan oleh Computer System Research Group (CSRG) di University of California at Berkeley (UCB),     BSD pertama kali keluar pada akhir 1977 sebagai paket tambahan dan patch dari AT&T UNIX versi 6, yang mana waktu itu beroperasi pada mesin PDP-11 minicomputer.
+BSD dibuat, dikembangkan, dan digunakan secara “Bebas” sebagai perlawanan terhadap lisensi UNIX yang dimiliki oleh AT&T dan oleh
+karena itu BSD mempunyai lisensi tersendiri yang memungkinkan setiap orang bebas melakukan pengembangan, dan menggunakan kode sumber BSD. Pada tahun 1993, versi 4.4BSD dirilis sebagai sebuah Sistem Operasi yang utuh.
+MINIX
+Minix adalah sebuah sistem operasi keturunan UNIX yang bersifat open-source, yang dibuat berdasarkan arsitektur microkernel. Kernel sistem operasi ini dibuat oleh seorang profesor di Vrije Universiteit Amsterdam, Belanda yang bernama Andrew Stuart Tanenbaum yang pada awalnya ditujukan untuk tujuan edukasional. Minix juga menjadi inspirasi bagi Linus Torvalds untuk membuat kernel Linux.
+Sun Solaris adalah salah satu UNIX yang paling dikenal dunia. Solaris dibuat oleh Sun Microsystem. Solaris berjalah pada high-end hardware yang dapat mendukung puluhan processor, GB RAM, serta harddisk. Ia banyak digunakan sebagai platform oleh aplikasi enterprise, seperti Oracle. Solaris didesain untuk berjalan pada processor SPARC yang diproduksi oleh SUN. Karena SUN mengontrol sendiri hardware dan software, mereka dapat mengembangkan system dengan fitur2 menarik, seperti, hot-swappable RAM, mainboard, harddisk, CPU.Dan masih banyak lagi.
+GNU Linux adalah sebuah kloning UNIX, ditulis benar-benar dari bawah lebih dari satu dekade lalu. Linux sama dengan BSD dalam banyak hal, namun BSD telah mempunyai budaya yang telah lama, serta lebih ramah terhadap dunia komersial. Sistem Operasi ini dibuat oleh Linus Torvald dan berkembang sedemikian cepatnya sehingga hampir bisa melampaui jumlah pengguna Windows di dunia. Linux bisa didapatkan dalam berbagai distribusi (sering disebut Distro). Distro adalah bundel dari kernel Linux, beserta sistem dasar linux, program instalasi, tools basic, dan program-program lain yang bermanfaat sesuai dengan tujuan pembuatan distro. Dan masih banyak lagi.  
+
+Kelebihan Open Source    
+     Software open source umumnya dikembangkan oleh sebuah lembaga maupun komunitas yang telah ahli dibidangnya secara bersama, sehingga ketika ditemukan sebuah masalah dapat dengan cepat terselesaikan. Jadi apabila komunitas ini tergolong pemula masalah yang dijumpai dapat segera terselesaikan. Kelebihan open source selanjutnya dapat dilihat dari fitur yang dimiliki.
+
+Banyak fitur kompleks yang memiliki kemampuan baik didalamnya. Tentu hal ini sangatlah menguntungkan. Belum cukup sampai disini ternyata point plus dari software ini adalah berlisensi GPL. Software open source telah berlisensi General Public Licence atau GPL, sehingga pengguna tidak dikenakan biaya untuk software tersebut. Beberapa program berbasis open source ini seperti sistem linux (OS) untuk komputer, seperti debian, mint, slackware dan sebagainya.
+
+Kekurangan Open Source
+     Dibalik pengertian open source yang memiliki beragam kelebihan tersebut, terdapat kelemahan yang ada didalamnya. Kekurangan open source yang pertama adalah tampilan dari software ini cenderung rumit, sehingga cukup menyulitkan bagi para pemula untuk dapat mempelajarinya. Bahkan para pemula sering kali menemukan kesulitan dalam instalasi serta penggunaan software open souce tersebut.
+
+Tentu itu semua disebabkan karena tampilannya yang cukup rumit. Bahkan kelemahan lainnya terdapat dari sektor kinerjanya. Beberapa software open source memiliki kinerja yang kurang baik, bahkan tidak lebih baik dari software close source.
+
+ 2. Sistem operasi closed source.
+ 
+
+         Close Source adalah sebuah Source Coden yang tidak di bagikan kepada umum, sehingga hanya beberapa orang yang dapat mengatur/mengubah Source Coden yang telah di buat (Orang-orang yang sudah di percaya oleh penyedia Close Source).
+Contoh sistem operasi closed source
+Windows.
+     Microsoft Windows atau yang lebih dikenal dengan sebutan Windows adalah keluarga sistem operasi. yang dikembangkan oleh Microsoft, dengan menggunakan antarmuka pengguna grafis.
+     Sistem operasi Windows telah berevolusi dari MS-DOS, sebuah sistem operasi yang berbasis modus teks dan command-line. Windows versi pertama, Windows Graphic Environment 1.0 pertama kali diperkenalkan pada 10 November 1983, tetapi baru keluar pasar pada bulan November tahun 1985, yang dibuat untuk memenuhi kebutuhan komputer dengan tampilan bergambar. Windows 1.0 merupakan perangkat lunak 16-bit tambahan (bukan merupakan sistem operasi) yang berjalan di atas MS-DOS (dan beberapa varian dari MS-DOS), sehingga ia tidak akan dapat berjalan tanpa adanya sistem operasi DOS. Versi 2.x, versi 3.x juga sama. Beberapa versi terakhir dari Windows (dimulai dari versi 4.0 dan Windows NT 3.1) merupakan sistem operasi mandiri yang tidak lagi bergantung kepada sistem operasi MS-DOS. Microsoft Windows kemudian bisa berkembang dan dapat menguasai penggunaan sistem operasi hingga mencapai 90%.   seperti windows 98, windows 2000, windowsXP, WIndows Vista,windows7,windows 8,dll...
+SYMBIAN.
+    Symbian OS adalah sistem operasi tak bebas yang dikembangkan oleh Symbian Ltd. yang dirancang untuk digunakan peralatan bergerak (mobile).
+      Sebelum Nokia mengumumkan pembelian seluruh sisa saham Symbian Ltd. yang tidak dimilikinya pada 24 Juni 2008,[1] Symbian dimiliki Nokia (47,9%), Ericsson (15,6%), Panasonic (10,5%), Samsung (4,5%), Siemens/BenQ (8,4%), Sony Ericsson (13,1%). Versi Symbian yang terbaru adalah Symbian ^3 dengan PR 02 yang disebut symbian belle. Sedangkan ponsel yang paling banyak beredar saat ini menggunakan Symbian OS v6.1s, v7.0s, RV 47 75, v8.OS,v9.1s dan s60 v5.
+     Sekarang keseluruhan saham di symbian limited telah dimiliki oleh nokia dan posisi sistem operasi symbian sebagai penguasa pasar sistem operasi bergerak telah direbut oleh sistem operasi buatan google yaitu sistem operasi android yang meluncur pada akhir tahun 2009 dengan ponsel pertamanya htc dreaam g1.vendor ponsel seperti samsung,lg,sony ericsson sekarang tidak laagi menggunakan sistem oprasi symbian dan menyatakan berhenti mendukung sistem operasi ini.
+     Saat ini Symbian OS  telah banyak digunakan oleh berbagai vendor produk peralatan komunikasi mobile pada berbagai jenis produk mereka yang bervariasi.
+MacOS(Macintosh).
+    Mac OS adalah singkatan dari Macintosh Operating System. Mac OS adalah sistem operasi komputer yang dibuat oleh Apple Computer khusus untuk komputer Macintosh dan tidak kompatibel dengan PC berbasis IBM. Diperkenalkan pada tahun 1984, Mac OS sejak tahun 2006 telah memiliki kompatibilitas dengan arsitektur PowerPC maupun x86.    
+     sistem ini pertama kali dikeluarkan pada tahun 2001.
+ 
+iOS.
+    iOS (sebelumnya iPhone OS) adalah sistem operasi perangkat bergerak yang dikembangkan dan didistribusikan oleh Apple Inc. Sistem operasi ini pertama diluncurkan tahun 2007 untuk iPhone dan iPod Touch, dan telah dikembangkan untuk mendukung perangkat Apple lainnya seperti iPad dan Apple TV. Tidak seperti Windows Phone (Windows CE) Microsoft dan Android Google, Apple tidak melisensikan iOS untuk diinstal di perangkat keras non-Apple. Pada 12 September 2012, App Store Apple berisi lebih dari 700.000 aplikasi iOS, yang secara kolektif telah diunduh lebih dari 30 miliar kali.
+     iOS diturunkan dari OS X, yang memiliki fondasi Darwin dan karena itu iOS merupakan sistem operasi Unix. iOS adalah versi bergerak dari sistem operasi OS X yang dipakai di komputer-komputer Apple.
+ Keuntungan/Kelebihan Close Source
+    Kestablian sistem terjamin
+    Support/dukungan langsung dari pemilik program
+    Lebih mudah digunakan.
+Kerugian/Kekurangan Close Source
+    Celah yang terbuka
+    Adanya lisensi yang mengharuskan pengguna menyediakan dana
+    Pengembangan terbatas
+    Diperlukan antivirus
+    Harga lisensi mahal.
+ 
+Kesimpulan
+     Dari penjelasan diatas dapat disimpulkan, Sistem operasi adalah software yang berfungsi untuk mengaktifkan seluruh perangkat yang terpasang pada komputer sehingga masing-masingnya dapat saling berkomunikasi. Secara umum, Sistem Operasi adalah software pada lapisan pertama yang ditaruh pada memori komputer pada saat komputer dinyalakan. Sedangkan software-software lainnya dijalankan setelah Sistem Operasi berjalan, dan Sistem Operasi akan melakukan layanan inti umum untuk software-software itu. Layanan inti umum tersebut seperti akses ke disk, manajemen memori, skeduling task, dan antar-muka user. Sehingga masing-masing software tidak perlu lagi melakukan tugas-tugas inti umum tersebut, karena dapat dilayani dan dilakukan oleh Sistem Operasi. Bagian kode yang melakukan tugas-tugas inti dan umum tersebut dinamakan dengan “kernel” suatu Sistem Operasi.

@@ -1,0 +1,14 @@
+Objek 3D
+Sekedar Share… . 3D (Three Dimensional) atau tiga dimensi adalah setiap objek tiga dimensi yang mempunyai lebar, tinggi, dan kedalaman (width, height, dan depth). Dengan kata lain grafik 3D adalah grafik yang dipaparkan dalam bentuk 3 dimensi pada paksi atau koordinat x, y, dan z. Setiap obyek yang dibuat menggunakan software aplikasi 3D akan mempunyai dimensi seperti yang disebutkan di atas.
+                 
+Menggambar 3 Dimensi
+Membuat Gambar Tiga Dimensi (Perspektif) adalah kegiatan menuangkan angan-angan dalam ukuran tiga dimensi kedalam kertas dua dimensi, baik dengan pengamatan langsung atau berdasarkan kenyataan. Dalam gambar benda yang lebih dekat dengan mata akan tergambar lebih besar bila dibandingkan dengan yang jauh dengan mata. Semakin jauh dari pandangan mata semakin kecil dan akhirnya menghilang dititik horizontal.
+Bagian-bagian dalam sebuah Obyek 3 Dimensi :
+1. Vertex. Dalam objek 3 dimensi, Vertex (plural : Vertices), dapat diistilahkan sebagai titik  (jamak : Simpul), adalah titik di mana dua atau lebih garis lurus bertemu.
+
+2. Edge. Dalam obyek 3 dimensi, Edge, dapat diistilahkan sebagai tepi, adalah ruas garis yang menghubungkan dua simpul.
+
+3. Face. Dalam objek 3d, Face, dapat diistilahkan sebagai wajah/sisi/permukaan, adalah salah satu permukaan individual dari sebuah benda padat.
+
+Topologi dalam dunia 3 Dimensi
+Topologi di dalam dunia 3D dapat diartikan sebagai “Pemetaan bidang-bidang (polygons/ faces) yang dibangun dari setiap titik-titik (vertices) atau rusuk (edge) yang membentuk kesinambungan secara menyeluruh pada objeknya”. Sehingga pada prinsipnya adalah semua objek benda dibangun dari minimal dua titik (vertices) yang membentuk rusuk (edge) dan minimal ada tiga rusuk yang akan membentuk satu sisi (face).

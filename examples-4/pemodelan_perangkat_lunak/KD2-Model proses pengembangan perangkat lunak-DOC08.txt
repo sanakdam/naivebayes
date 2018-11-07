@@ -1,0 +1,163 @@
+RAGAM MODEL PROSES PENGEMBANGAN PERANGKAT LUNAK
+18 Februari 2016 nurfaridasari116
+Pada postingan kali ini, saya akan membahas tentang “Model – Model Pengembangan Perangkat Lunak ”. Sebelumnya, Apa itu Pengembangan Perangkat Lunak?
+
+Proses Pengembangan Perangkat Lunak (Software Development Process) adalah suatu penerapan struktur pada pengembangan suatu Perangkat Lunak (Software), yang bertujuan untuk mengembangkan sistem dan memberikan panduan untuk menyukseskan proyek pengembangan sistem melalui tahapan-tahapan tertentu. Dalam prosesnya, terdapat beberapa paradigma model pengembangan sistem perangkat lunak, diantaranya :
+
+Model Sekuensial Linier atau Waterfall Development Model
+gb1-1
+
+Model Sekuensial Linier atau sering disebut Model Pengembangan Air Terjun, merupakan paradigma model pengembangan perangkat lunak paling tua, dan paling banyak dipakai. Model ini mengusulkan sebuah pendekatan perkembangan perangkat lunak yang sistematik dan sekunsial yang dimulai pada tingkat dan kemajuan sistem pada seluruh tahapan analisis, desain , kode, pengujian, dan pemeliharaan.
+
+Berikut Merupakan Tahapan – tahapan Pengembangan  Model Sekuensial Linear / Waterfall Development Model :
+
+Rekayasa dan pemodelan sistem/informasi
+Langkah pertama dimulai dengan membangun keseluruhan elemen sistem dan memilah bagian-bagian mana yang akan dijadikan bahan pengembangan perangkat lunak, dengan memperhatikan hubungannya dengan Hardware, User, dan Database.
+
+Analisis kebutuhan perangkat lunak
+Pada proses ini, dilakukan penganalisaan dan pengumpulan kebutuhan sistem yang meliputi Domain informasi,   Hasil penganalisaan dan pengumpulan tersebut didokumentasikan dan diperlihatkan kembali kepada pelanggan.
+
+Desain
+Pada proses Desain, dilakukan penerjemahan syarat kebutuhan sebuah perancangan perangkat lunak yang dapat diperkirakan sebelum dibuatnya proses pengkodean (coding). Proses ini berfokus pada  struktur data, arsitektur perangkat lunak, representasi interface, dan detail algoritma prosedural.
+
+Pengkodean
+Pengkodean merupakan proses menterjemahkan perancangan desain ke bentuk yang dapat dimengerti oleh mesin, dengan menggunakan bahasa pemrograman.
+
+Pengujian
+Setelah Proses Pengkodean selesai, dilanjutkan dengan proses pengujian pada program perangkat lunak, baik Pengujian logika internal, maupun Pengujian eksternal fungsional untuk memeriksa segala kemungkinan terjadinya kesalahan dan memeriksa apakah hasil dari pengembangan tersebut sesuai dengan hasil yang diinginkan.
+
+Pemeliharaan
+Proses Pemeliharaan erupakan bagian paling akhir dari siklus pengembangan dan dilakukan setelah perangkat lunak dipergunakan. Kegiatan yang dilakukan pada proses pemeliharaan antara lain :
+
+Corrective Maintenance : yaitu mengoreksi apabila terdapat kesalahan pada perangkat lunak, yang baru terdeteksi pada saat perangkat lunak dipergunakan.
+Adaptive Maintenance : yaitu dilakukannya penyesuaian/perubahan sesuai dengan lingkungan yang baru, misalnya hardware, periperal, sistem operasi baru, atau sebagai tuntutan atas perkembangan sistem komputer, misalnya penambahan driver, dll.
+Perfektive Maintenance : Bila perangkat lunak sukses dipergunakan oleh pemakai. Pemeliharaan ditujukan untuk menambah kemampuannya seperti memberikan fungsi-fungsi tambahan, peningkatan kinerja dan sebagainya.
+Kelebihan Model Sekuensial Linear / Waterfall Development Model :
+
+Tahapan proses pengembangannya tetap (pasti), mudah diaplikasikan, dan prosesnya teratur.
+Cocok digunakan untuk produk software/program yang sudah jelas kebutuhannya di awal, sehingga minim kesalahannya.
+Kekurangan Model Sekuensial Linear / Waterfall Development Model :
+
+Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+Sulit untuk mengalami perubahan kebutuhan yang diinginkan oleh customer/pelanggan.
+ 
+
+2. Model Prototype
+
+EEEEE.jpg
+Metode Prototype merupakan suatu paradigma baru dalam metode pengembangan perangkat lunak dimana metode ini tidak hanya sekedar evolusi dalam dunia pengembangan perangkat lunak, tetapi juga merevolusi metode pengembangan perangkat lunak yang lama yaitu sistem sekuensial yang biasa dikenal dengan nama SDLC atau waterfall development model.
+
+Dalam Model Prototype, prototype dari perangkat lunak yang dihasilkan kemudian dipresentasikan kepada pelanggan, dan pelanggan tersebut diberikan kesempatan untuk memberikan masukan sehingga perangkat lunak yang dihasilkan nantinya betul-betul sesuai dengan keinginan dan kebutuhan pelanggan.
+
+Perubahan dan presentasi prototype dapat dilakukan berkali-kali sampai dicapai kesepakatan bentuk dari perangkat lunak yang akan dikembangkan.
+
+Teknik – teknik Prototyping Meliputi :
+
+Perancangan Model
+Perancangan Dialog
+Simulasi
+Berikut adalah 4 langkah yang menjadi karakteristik dalam proses pengembangan pada metode prototype, yaitu :
+
+Pemilihan fungsi
+Penyusunan Sistem Informasi
+Evaluasi
+Penggunaan Selanjutnya
+Metode ini menyajikan gambaran yang lengkap dari suatu sistem perangkat lunak, terdiri atas model kertas, model kerja dan program. Pihak pengembang akan melakukan identifikasi kebutuhan pemakai, menganalisa sistem dan melakukan studi kelayakan serta studi terhadap kebutuhan pemakai, meliputi model interface, teknik prosedural dan teknologi yang akan dimanfaatkan.
+
+Kelebihan Model Prototype :
+
+Penentuan kebutuhan lebih mudah diwujudkan.
+Mempersingkat waktu pengembangan produk perangkat lunak.
+Kekurangan Model Prototype :
+
+Proses analisis dan perancangan terlalu singkat.
+Biasanya kurang fleksibel dalam mengahadapi perubahan.
+ 
+
+Model Rapid Application Development (RAD)
+RAD
+
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembanganperangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek (kira-kira 60 sampai 90 hari). Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
+
+Kelebihan Penggunaan Model RAD
+
+Dimungkinkan dalam proses pembuatan membutuhkan waktu yang sangat singkat (60-90 hari).
+Menghemat biaya, karena penekannya adalah penggunaan komponen-komponen yang sudah ada.
+RAD menggunakan kembali komponen-komponen yang sudah ada, maka beberapa komponen program sudah diuji sehingga kita dapat melakukan penghematan waktu dalam uji coba
+Kekurangan Penggunaan Model RAD
+
+Seperti semua proses model yang lain, pendekatan RAD memiliki kekurangan-kekurangan
+
+sebagi berikut :
+
+Bagi proyek yang besar tetapi berskala, RAD memerlukan sumber daya manusia yang memadai untuk menciptakan jumlah tim RAD yang baik.
+RAD menuntut pengembangan dan pelanggan yang memiliki komitmen di dalam aktifitas rapid-fire yang diperlukan untuk melengkapi sebuah sistem, di dalam kerangka waktu yang sangat diperpendek. Jika komitmen tersebut tidak ada, proyek RAD akan gagal. RAD menekankan perkembangan komponen program yang bisa dipakai kembali. Reusable menjadi batu pertama teknologi objek dan ditemui di dalam proses rakitan komponen
+Tidak semua aplikasi sesuai untuk RAD. Bila sistem tidak dapat dimodulkan dengan teratur, pembangunan komponen penting pada RAD akan menjadi sangat problematis. 
+4. Model Spiral
+
+spiral1
+
+ 
+
+ 
+
+Model ini cukup baru ditemukan,yaitu tahun 1988 oleh Barry Boehm. Spiral adalah salah satu bentuk evolusi yang menggunakan metode iterasi natural yang dimiliki oleh model prototyping dan digabungkan dengan aspek sistematis yang dikembangkan model waterfall.
+
+ 
+
+Berikut adalah aktivitas-aktivitas yang dilakukan dalam spiral model :
+
+Customer communication.Aktivitas yang dibutuhkan untuk membangun komunikasi yang efektif antara developer dengan user / customer terutama mengenai kebutuhan dari customer.
+Aktivitas perencanaan ini dibutuhkan untuk menentukan sumberdaya, perkiraan waktu pengerjaan, dan informasi lainnya yang dibutuhkan untuk pengembangan software.
+Analysis risk. Aktivitas analisis resiko ini dijalankan untuk menganalisis baik resiko secara teknikal maupun secara manajerial. Tahap inilah yang mungkin tidak ada pada model proses yang juga menggunakan metode iterasi, tetapi hanya dilakukan pada spiral model.
+Aktivitas yang dibutuhkan untuk membangun 1 atau lebih representasi dari aplikasi secara teknikal.
+Construction & Release.Aktivitas yang dibutuhkan untuk develop software, testing, instalasi dan penyediaan user / costumer support seperti training penggunaan software serta dokumentasi seperti buku manual penggunaan software.
+Customer evaluation.Aktivitas yang dibutuhkan untuk mendapatkan feedback dari user / customer berdasarkan evaluasi mereka selama representasi software pada tahap engineering maupun pada implementasi selama instalasi software pada tahap construction and release.
+ 
+
+Kelebihan model Spiral :
+
+Dapat disesuaikan agar perangkat lunak bisa dipakai selama hidup  perangkat lunak komputer.
+Lebih cocok untuk pengembangan sistem dan perangkat lunak skala besar
+Pengembang dan pemakai dapat lebih mudah memahami dan bereaksi terhadap resiko setiap   tingkat evolusi karena perangkat lunak terus bekerja selama proses
+Kelemahan model Spiral:
+
+Sulit untuk menyakinkan pelanggan bahwa pendekatan evolusioner ini bisa dikontrol.
+Memerlukan penaksiran resiko yang masuk akal dan akan menjadi masalah yang serius jika resiko mayor tidak ditemukan dan diatur.
+Butuh waktu lama untuk menerapkan paradigma ini menuju kepastian yang absolute.
+5. Fourth Generation Techniques (4GT)
+5
+
+ 
+
+ 
+
+Istilah generasi keempat, mengarah ke perangkat lunak yang umum yaitu tiap pengembang perangkat lunak menentukan beberapa karakteristik perangkat lunak pada level tinggi.Saat ini pengembangan perangkat lunak yang mendukung 4GT, berisi tool-tool berikut :
+
+Bahasa non prosedural untuk query basis data;
+report generation
+Data manipulation
+Interaksi layar
+Kemampuan grafik level tinggi
+Kemampuan spreadsheet .
+Tiap tool ini ada tapi hanya untuk sauatu aplikasi khusus.
+ 
+
+Menggunakan perangkat bantu (tools) yang akan membuat kode sumber secara otomatis berdasarkan spesifikasi dari pengembang perangkat lunak. Hanya digunakan untuk menggunakan perangkat lunak yang menggunakan bahasa khusus atau notasi grafik yang diselesaikan dengan syarat yang dimengerti pemakai. Cakupan aktivitas 4GT :
+
+ 
+
+Pengumpulan kebutuhan, idealnya pelanggan akan menjelaskan kebutuhan yang akan ditranslasikan ke prototipe operasional.
+Translasi kebutuhan menjadi prototipe operasional, atau langsung melakukan implementasi secara langsung dengan menggunakan bahasa generasi keempat (4GL) jika aplikasi relatif kecil.
+Untuk aplikasi yang cukup besar, dibutuhkan strategi perancangan sistem walaupun 4GL akan digunakan.
+Membuat dokumentasi.
+Melaksanakan seluruh aktivitas untuk mengintegrasikan solusi-solusi yang membutuhkan paradigma rekayasa perangkat lunak lainnya.
+ 
+
+Salah satu keuntungan penggunaan model 4GT adalah pengurangan waktu dan peningkatan produktivitas secara besar, sementara kekurangannya terletak pada kesulitan penggunaan perangkat bantu (tools) dibandingkan dengan bahasa pemrograman, dan juga kode sumber yang dihasilkannya tidak efisien.
+
+ 
+
+ 
+
+Untuk aplikasi yang yang kecil, adalah mungkin untuk langsung berpindah dari pengumpulan kebutuhan ke implementasi dengan menggunakan 4GL. Tapi untuk aplikasi yang besar, dibutuhkan pengembangan strategi desain untuk sistem, walau digunakan 4GL. Penggunaan 4GT tanpa perencanaan yang matang (untuk proyek skala besar) akan meyebabkan kesulitan yang sama (kualitas dan pemeliharaan yang jelek, ketidakpuasan pelanggan) seperti dengan metode konvensional.

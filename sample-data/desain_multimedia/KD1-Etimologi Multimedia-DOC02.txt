@@ -1,0 +1,164 @@
+PENGANTAR MULTIMEDIA
+Tujuan: Siswa mampu mendefinisikan tentang multimedia
+DEFINISI MULTIMEDIA
+MULTI [latin nouns] : banyak; bermacam-macam
+MEDIUM [latin]: sesuatu yang dipakai untuk menyampaikan atau membawa sesuatu
+Multimedia dapat diartikan sebagai penggunaan beberapa media yang berbeda untuk menggabungkan dan
+menyampaikan informasi dalam bentuk text, audio, grafik, animasi, dan video.
+Beberapa definisi menurut beberapa ahli:
+1. Kombinasi dari komputer dan video (Rosch, 1996)
+2. Kombinasi dari tiga elemen: suara, gambar, dan teks (McComick,1996)
+3. Kombinasi dari paling sedikit dua media input atau output.  Media ini dapat berupa audio (suara, musik), animasi, video, teks, grafik dan gambar (Turban dan kawan-kawan, 2002)
+4. Alat yang dapat menciptakan presentasi yang dinamis dan interaktif yang mengkombinasikan teks, grafik, animasi, audio dan video (Robin dan Linda, 2001)
+5. Multimedia dalam konteks komputer menurut Hofstetter 2001 adalah: pemanfaatan komputer untuk membuat dan menggabungkan teks, grafik, audio, video, dengan menggunakan tool yang memungkinkan pemakai berinteraksi, berkreasi, dan berkomunikasi.
+Sedangkan menurut wikipedia.org: Multimedia is the use of several different media to convey information (text, audio, graphics, animation, video, and interactivity). Multimedia also refers to computer           data      storage devices, especially  those    used     to         store multimediantent.
+DEFINISI KOMPUTER MULTIMEDIA
+Menurut wikipedia.org:Komputer Multimedia adalah sebuah komputer yang dikonfigurasi sesuai dengan rekomendasi dan memiliki sebuah CD-ROM. Standarisasi komputer mutlimedia dilakukan oleh “Multimedia PC Marketing Council”, sebuah kelompok kerja dari sebuah perusahaan yang dahulu bernama Software Publishers Association (sekarang bernama Software and Information Industry Association). Perusahaan ini merupakan gabungan dari Microsoft, Creative Labs, Dell, Gateway, dan Fujitsu.
+Kenapa CD-ROM? Karena dahulu multimedia sebatas hanya kemampuan komputer untuk menampilkan video melalui sebuah CD-ROM saja.
+Standar Komputer Multimedia menurut Software and Information Industry Association:
+Pada tahun 1990:
+•     16 MHz 386SX CPU
+•     2MB RAM
+•     30MB hard disk
+•     256-color, 640 x 480 VGA video card
+•     1x CD-ROM drive using no more than 40% of CPU to read, with < 1 second seek time
+•     Sound card outputting 22 kHz, 8-bit sound; and inputting 11 kHz, 8- bit sound
+•     Windows 3.0 with Multimedia Extensions.
+Pada tahun 1993:
+•     25 MHz 486SX CPU
+•     4 MB RAM
+•     160 MB hard disk
+•     16-bit color, 640×480 VGA video card
+•     2X CD-ROM drive using no more than 40% of CPU to read at 1x, with < 400ms seek time
+•     Sound card outputting 44 kHz, 16-bit sound
+•     Windows 3.0 with Multimedia Extensions, or Windows 3.1
+Pada tahun 1996:
+•     75 MHz Pentium CPU
+•     8 MB RAM
+•     540 MB hard disk
+•     Video system that can show 352×240 at 30 frames per second, 15- bit color
+•     MPEG-1 hardware or software video playback
+•     4x CD-ROM drive using no more than 40% of CPU to read, with <
+250ms seek time
+•     Sound card outputting 44 kHz, 16-bit sound
+•     Windows 3.11
+MENGAPA MULTIMEDIA?
+Multimedia dapat digunakan dalam:
+1. Bidang periklanan yang efektif dan interaktif
+2. Bidang pendidikan dalam penyampaian bahan pengajaran secara interaktif dan dapat mempermudah pembelajaran karena dididukung oleh berbagai aspek: suara, video, animasi, teks, dan grafik
+3. Bidang jaringan dan internet yang membantu dalam pembuatan website yang menarik, informatif, dan interaktif
+Menurut riset Computer Technology Research (CTR):
+1. Orang mampu mengingat 20% dari yang dilihat
+2. Orang mampu mengingat 30% dari yang didengar
+3. Orang mampu mengingat 50% dari yang didengar dan dilihat
+4. Orang mampu mengingat 30% dari yang didengar, dilihat, dan dilakukan.
+Multimedia mampu:
+1. Mengubah mengubah tempat kerja.  Dengan adanya teleworking, para pekerja dapat melakukan    pekerjaanya tidak harus dari kantor.  Contoh software yang mendukung teleworking/telecommuting: Netmeeting!
+2.     Mengubah     cara     belanja.           Homeshopping/teleshopping       dapat dilakukan dengan menggunakan internet, kemudian barang datang dengan sendirinya.
+3.  Mengubah cara bisnis.  Nokia membuat bisnis telepon seluler, banyak perusahaan menggunakan sistem jual beli online, bank menggunakan cara online-banking.
+4.  Mengubah cara memperoleh informasi.  Orang-orang mulai menggunakan internet dan berbagai software untuk mencari informasi.  Misalnya: membaca koran online, detik.com, menggunakan software kesehatan, dan masih banyak agi.
+5.  Mengubah cara belajar. Sekolah mulai menggunakan komputer multimedia, belajar online, menggunakan e-book.
+6.  Internet Multimedia juga mulai bersaing dengan televisi dan radio.
+                                                                        Resume Materi   Tingkat X SK Etimologi Multimedia
+                                                                                                                SMKN 7 Surakarta
+Sejarah Multimedia
+Lewat tahun 70-an, penggunaan mikro komputer telah dapat membantu menyelesaikan masalah-masalah sistem yang sosfitikated bagi mempercepatkan penyelesaian perkerjaan sehari-hari. Penggunaan komputer  juga dapat menyebarkan  informasi dan juga dapat menyajikan hiburan kepada pengguna computer dan computer saat ini bukan menjadi barang yang baru ataupun mewah tetapi menjadi suatu kebutuhan. Ini menunjukkan evolusi dan  perkem-bangan penciptaan teknologi kom-puter multimedia. Perkembangan ini dimulai dari tahun 70an.
+Perkembangan komputer
+Pada tahun 60an, komputer utama (main frame computer), digunakan untuk mengendalikan pusat data yang besar dan sistem keuangan.  1970-an,  terminal komputer digunakan untuk menyebar dan mengatur penyebaran informasi.  Era 1980an, data dapat diolah dengan menggunakan  komputer sehingga memudahkan dan mempercepat proses kerja demikian halnya penyebaran informasi lebih menarik dan lebih mudah diterima orang. Semua orang dapat memiliki komputer untuk melakukan pemprosesan kata, permainan komputer dan sebagainya.   1980-1990an, perkembangan  penciptaan  komputer semakin drastis sehingga mencapai masa yang tidak terbayangkan dari sebelumnya. Dalam masa yang sama, Perkembangan n teknologi ini telah berdampak kepada berbagai bidang.
+Suyanto (2003 : 19) menyatakan bahwa istilah multimedia berawal dari teater, bukan komputer.
+Pertunjukan yang  memanfaatkan lebih dari  satu medium  sering  kali  disebut  pertunjukan multimedia. Pertunjukan multimedia mencakup monitor video dan karya  seni manusia  sebagai bagian dari  pertunjukan. Sistem  multimedia  dimulai  pada  akhir  1980-an, sejak permulaan tersebut hampir setiap pemasok perangkat keras dan lunak melompat ke multimedia. Pada tahun1994 diperkirakan ada lebih dari 700 produk dan sistem multimedia dipasaran.
+ 
+ISTILAH MULTIMEDIA
+MENURUT ETIMOLOGI BAHASA
+Multi media berasal dari 2 kata yaitu:
+Multi yang mengandung arti banyak, lebih dari satu, berlipat ganda
+Media : (Kamus besar bahasa Indonesia 2005).mengandung banyak arti namun ada 3 arti yang berdekatan dalam arti kata mengandung makna yang sama
+1)      Perantara atau penghubung
+2)      Alat
+3)      Alat sarana komunikasi seperti: Koran, majalah ,radio, televise, film, poster dan spsnduk
+4)      Yang terletak diantara kedua belah pihak
+Menurut IBM, multimedia adalah gabungan video, audio, grafik dan teks dalam suatu produksi bertingkat  berbasis  komputer  yang  dapat  dialami  secara  interaktif  atau menurut  McCormick multimedia secara umum merupakan kombinasi tiga elemen yaitu suara, gambar dan teks atau menurut Robin dan Linda multimedia merupakan alat yang dapat menciptakan presentasi yang dinamis  dan interaktif  yang  mengkombinasikan teks,  grafik, animasi, audio dan  gambar  video (dalam http://lecturer.ukdw.ac.id/anton/download/multimedia2.pdf).
+Menurut  Suyanto (2003 :  20),   Multimedia  adalah  kombinasi  dari komputer  dan video (Rosch, 1996)  atau multimedia  secara  umum  merupakan kombinasi  tiga elemen, yaitu suara, gambar dan teks (McCormick, 1996) atau multimedia adalah kombinasi dari paling sedikit dua media input atau output dari data, media ini dapat audio (suara, musik), animasi, video, teks, grafik dan gambar atau multimedia merupakan alat yang dapat menciptakan presentasi  yang  dinamis  dan interaktif  yang  mengkombinasikan teks, grafik, animasi, audio dan gambar video.
+Definisi  yang  lain dari  multimedia, yaitu dengan menempatkan dalam  konteks, seperti  yang dilakukan oleh Hofstetter (2001), multimedia adalah pemanfaatan komputer untuk membuat dan menggabungkan      teks, grafik, audio,gambar  bergerak            (video dan animasi)  dengan menggabungkan link dan tool yang memungkinkan pemakai melakukan navigasi, berinteraksi, berkreasi dan berkomunikasi.
+Istilah multimedia menurut terminology ICT, Multimedia merupakan kombinasi teks, seni, animasi, gambar dengan dilengkapi audio video yang di komunikasikan/ disampaikan baik melalui computer atau peralatan manipulasi elektronik dan digital lain(Vaughan, 2006).
+Empat Sifat Penting Produk Multimedia
+Informasi disajikan melalui komputer di mana pengguna dapat melihat, mendengar, dapat saling berbalas, apabila tidak ada sifat  ini,  maka  dikatakan bersifat Polymedia atau Mixed Media
+Polymedia merupakan penyajian informasi informasi tanpa menggunakan sistem komputer. Tetapi ia terdiri daripada gabungan beberapa peralatan bantuan media seperti siaran TV, radio, buku teks dan sebagainya.  Produk multimedia seharusnya mempunyai  hubungan  (Links). Membolehkan pengguna bergerak daripada satu antaramuka ke satu antaramuka yang lain dengan dibantu oleh struktur dengan dimensi sendiri. Tanpa sifat ini, lebih menyerupai penyajian informasi di dalam sebuah buku.
+ Produk multimedia mestilah mempunyai sifat Navigasi (Navig-ation Tools), di mana navigasi merupakan sebarang ikon,“hot spot”  atau  peralatan yang aktif. Aktif di sini bermaksud ikon ataupun butang tersebut berupaya untuk meng-hubungkan pengguna dalam produk multimedia tersebut (contoh halaman web).
+Cara penyajian informasi bersifat interaktif. Di mana pengguna boleh berinteraksi dan mengawal penyajian informasi tersebut. Tanpa sifat ini, ia lebih meru-pakan penyajian tanpa interaksi seperti TV.
+Objek Multimedia
+1.Teks, Teks  merupakan dasar  dari  pengolahan kata  dan informasi  berbasis
+multimedia. Dalam kenyataannya multimedia menyajikan informasi kepada audiens dengan cepat, karena tidak diperlukan membaca secara rinci dan teliti. Menurut Hofstetter adalah kebanyakan        sistem multimedia dirancang dengan menggunakan teks karena teks merupakan sarana yang efektif untuk mengemukakan ide-ide dan menyediakan instruksi kepada user(pengguna).
+2.Image,image atau grafik berarti still image seperti foto dan gambar. Manusia  sangat berorientasi pada  visual  dan gambar merupakan sarana  yang sangat baik untuk menyajikan informasi.
+3.Animasi,adalah pembentukan gerakan dari berbagai media atau objek yang divariasikan dengan gerakan transisi, efek-efek, juga suara yang selaras dengan gerakan animasi tersebut atau animasi merupakan penayangan frame-frame gambar secara cepat untuk menghasilkan kesan gerakan.
+4.Audio, penyajian audio atau suara  merupakan cara  lain untuk lebih memperjelas  pengertian suatu informasi. Contohnya, narasi  merupakan kelengkapan dari penjelasan yang  dilihat  melalui  video. Suara  dapat  lebih menjelaskan karakteristik suatu gambar, misalnya musik dan suara efek (sound effect). Salah satu bentuk bunyi yang bisa digunakan dalam produksi multimedia adalah Waveform Audio yang merupakan format file audio yang  berbentuk digital. Kualitas  produknya  bergantung  pada       sampling rate (banyaknya sampel per detik). Waveform (wav) merupakan standar untuk Windows PC.
+5.Video, video merupakan elemen multimedia paling kompleks karena penyampaian informasi yang  lebih komunikatif  dibandingkan gambar  biasa. Walaupun terdiri  dari  elemen-elemen  yang  sama  seperti  grafik, suara  dan teks, namun bentuk video berbeda dengan animasi. Perbedaan terletak pada  penyajiannya. Dalam  video,  informasi  disajikan dalam  kesatuan utuh dari objek yang dimodifikasi sehingga terlihat saling mendukung penggambaran yang
+seakan terlihat hidup.
+6.Interactive Link, sebagian dari multimedia adalah interaktif, dimana pengguna dapat  menekan mouse  atau objek pada  screen seperti  button atau teks  dan menyebabkan program melakukan perintah tertentu.
+Interactive  link dengan informasi  yang  dihubungkannya  sering  kali  dihubungkan secara keseluruhan sebagai hypermedia.  Secara  spesifik, dalam  hal  ini  termasuk hypertext (hotword), hypergraphics dan hypersound Menjelaskan jenis informasi yang dihubungkan.
+Interactive link diperlukan bila pengguna menunjuk pada suatu objek atau button agar dapat
+mengakses  program  tertentu. Interactive  link diperlukan untuk menggabungkan beberapa
+elemen multimedia sehingga menjadi informasi yang terpadu. Cara peng-aksesan informasi
+pada  multimedia  terdapat  dua  macam, yaitu linier  dan non-linier. Informasi  linier  adalah
+informasi yang ditampilkan secara sekuansial, yaitu dari atas ke bawah atau halaman demi
+halaman, sedangkan pada  informasi non-linier  dapat ditampilkan langsung sesuai dengan kehendak pengguna.
+
+Aplikasi Multimedia dalam Bidang Pelatihan dan Pendidikan
+komputer  multimedia  mulai  mendapat  perhatian pada  saat digunakan untuk pelatihan atau pendidikan dari  satu  keadaan ke  keadaan lain dengan siswa.Presentasi multimedia dapat menggunakan beberapa  macam teks, chart, audio, video, animasi,simulasi atau foto. Bila macam-macam komponen tersebut digabungkan secara interaktif, maka menghasilkan suatu pembelajaran yang efektif.
+Siswa dapat memilih materi pelajaran yang diinginkan dan komputer dapat memantau kemajuan proses  belajar  siswa. Presentasi  khusus  dibuat untuk melengkapi  materi  tersebut. Karena memerlukan bermacam-macam  interaktif, pembuatan  aplikasi  pelatihan melakukan perangkat lunak yang berbeda dibandingkan dengan presentasi bisnis.
+Multimedia untuk pelatihan juga  sangat  efektif, berarti  bahwa  untuk  mengembangkan aplikasi training  lebih sulit  dan kompleks  dibandingkan dengan presentasi. Namun, dengan perangkat lunak  yang  tepat,dapat  dikembangka aplikasi  walaupun tidak memiliki  keahlian pemprograman.
+Penerapan Teknologi Multimedia
+Beberapa contoh penerapan teknologi multimedia adalah :
+– Internet: Multimedia di internet siaran langsung dari ribuan stasiun radio, melihat animasi bagaimana cara kerja sesuatu&melihat video.
+– Presentasi : Multimedia  memungkinkan seorang  presenter  beralih dari   overhead projector  yang menampilkan gambar dan teks yang kaku kepada gambar bergerak, suara dan animasi untuk menghidupkan presentasi yang dibawakan.
+– Kios : Kios  yang  interaktif  dengan layar  sentuh dapat  menyediakan berbagai  informasi  dengan lengkap ditempat-tempat  umum, misalnya  informasi  mengenai  produk, informasi  yang disajikan jauh lebih menarik bagi pengguna dibandingkan informasi yang tercetak.
+– Tutorial : Multimedia dengan cepat telah menjadi dasar pelatihan berbasiskan komputer, sebagai contoh perusahan menyediakan tutorial  yang interaktif  bagi  karyawan baru untuk mempelajari prosedur-prosedur di perusahaan.
+– Online Reference : CD-ROM  berbasiskan multimedia  mulai  menggantikan ensiklopedia  baku, petunjuk penggunaan dan brosur tentang informasi produk. Versi elektronik dari bahan referensi lebih mudah digunakan dan lebih ringan bila dibawa.
+– Publikasi : Berbagai  buku, majalah dan koran telah didistribusikan sebagai  suatu publikasi  multimedia dengan  memanfaatkan CD-ROM  dan internet. Halaman yang  tercetak tidak akan pernah mampu manampilkan visualisasi gerakan dan suara.
+Tujuan Penggunaan Multimedia
+Tujuan dari penggunaan multimedia adalah sebagai berikut :
+1. Multimedia dalam penggunaannya dapat meningkatkan efektivitas dari penyampaian suatu informasi
+2. Penggunaan multimedia dapat mendorong partisipasi, keterlibatan serta eksplorasi pengguna tersebut.
+3. Aplikasi  multimedia  dapat  meransang  panca  indera, karena  dengan penggunaannya multimedia  akan meransang  beberapa  indera  penting  manusia,  seperti  : Penglihatan, pendengaran, aksi maupun suara.
+Siklus Hidup Pengembangan Multimedia
+Menurut  Suyanto (2003 :  353),  agar  multimedia  dapat  menjadi  alat  keunggulan bersaing perusahaan, pengembangan sistem  multimedia  harus  mengikuti  11 (sebelas) tahapan pengembangan sistem multimedia, yaitu :
+1. Mendefinisikan Masalah,
+Mendefinisikan masalah sistem adalah hal yang pertama yang dilakukan oleh seorang analis sistem.
+2. Studi Kelayakan
+Hal  kedua  yang  dilakukan  analis  sistem  adalah  studi  kelayakan, apakah pengembangan sistem multimedia layak diteruskan/ tidak.
+3. Analisis Kebutuhan Sistem
+Menganalisis maksud, tujuan dan sasaran sistem merupakan hal yang dilakukan pada tahap ini.
+4. Merancang Konsep
+Pada  tahap ini, analisis  sistem  terlibat  dengan user  untuk merancang  konsep yang menentukan keseluruhan pesan dan isi dari aplikasi yang akan dibuat.
+5. Merancang Isi
+Merancang isi  meliputi mengevaluasi  dan memilih daya  tarik pesan, gaya  dalam mengeksekusi pesan, nada dalam mengeksekusi pesan dan kata dalam mengeksekusi pesan.
+6. Merancang Naskah
+Merancang  naskah merupakan spesifikasi  lengkap dari  teks  dan narasi  dalam  aplikasi multimedia.
+7. Merancang Grafik
+Dalam merancang grafik, analis memilih grafik yang sesuai dengan dialog.
+8. Memproduksi Sistem
+Dalam tahap ini, komputer mulai digunakan secara penuh, untuk merancang sistem, dengan menggabungkan ketujuh tahap yang telah dilakukan.
+9. Mengetes Sistem
+Pengetesan merupakan langkah setelah aplikasi multimedia selesai dirancang.
+10. Menggunakan Sistem
+Implementasi sistem multimedia dipahami sebagai sebuah proses apakah sistem multimedia mampu beroperasi baik.
+11. Memelihara Sistem
+Setelah sistem digunakan, maka sistem akan dievaluasi oleh user untuk diputuskan apakah sistem  yang  baru sesuai  dengan tujuan semula  dan diputuskan apakah ada  revisi  atau modifikasi.
+Tugas 1
+ 1. Tuliskan definisi multimedia secara umum?
+2. Beri contoh pemakaian multimedia pada industri komputer!
+3. Beri contoh pemakaian multimedia pada industri telekomunikasi!
+4. Beri contoh pemakaian multimedia pada industri penyiaran/broadcasting!
+5. Beri contoh pemakaian multimedia pada rumah tangga!
+6. Beri contoh pemakaian multimedia pada Bidang Pendidikan!
+7. Identifikasikan beberapa macam sarana penyampai multimedia?
+8. Bagaimana multimedia digunakan untuk meningkatkan kehidupan para penggunanya?
+9. Bagaimana multimedia mempengaruhi pengguna dalam sisi negative?
+10. Apa yang menjadi kelemahan dari penyajian informasi melalui multimedia?
+ 
+Tugas 2
+Gambarkan  :
+Tipografi (Tulisan dengan bentuk huruf sesuai tipografi. Tulisan yang dibuat adalah MULTIMEDIA)
+Gambarkan Iklan layanan masyarakat (Gambar dan teks)
+Gambarkan 1 suasana Keramaian (objek benda)
+Gambarkan Motif batik sebagai wujud kearifan lokal yang dituangkan melalui desain multimedia

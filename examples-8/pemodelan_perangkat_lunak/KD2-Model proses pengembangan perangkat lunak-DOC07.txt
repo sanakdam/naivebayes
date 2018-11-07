@@ -1,0 +1,163 @@
+contoh-contoh model proses perangkat lunak
+
+
+1. Model Waterfall
+
+Model Waterfall merupakan salah satu model untuk perencanaan dari sebuah Perangkat Lunak. Model Waterfall adalah salah satu model klasik yang bersifat sistematis. Mengapa disebut sistematis ? Karena model ini dikerjakan secara berurutan. Penggunaan model ini dalam penerapan di kehidupan sehari-hari sangatlah memakan waktu dan sangat sedikit dipakai membuat software. Namun model ini cocok untuk bisnis kecil.
+
+contoh model waretfall
+
+Kelebihan Model Waterfall :
+Merupakan model pengembangan paling handal dan paling lama digunakan.
+Cocok untuk sistem software yang bersifat generik.
+Pengerjaan projek sistem akan terjadwal dengan baik dan mudah dikontrol.
+Kekurangan Model Waterfall :
+Persyaratan sistem harus digambarkan dengan jelas.
+Rincian proses harus benar-benar jelas dan tidak boleh berubah ubah
+Sulit untuk mengadaptasi jika terjadi perubahan spesifikasi pada suatu tahapan pengembangan
+Contoh Studi Kasus :
+Perkembangan ilmu pengetahuan dan teknologi saat ini, telah mempengaruhi aktivitas perpustakaan dalam pengolahan informasi. Perpustakaan dapat diibaratkan sebagai satu kesatuan. Dalam artian, sebuah perpustakaan merupakan satu kesatuan sistem yang saling mempengaruhi satu sama lain untuk mencapai tujuan tertentu. Tetapi dengan pertumbuhan sebuah perpustakaan, ada kalanya suatu sistem pada sebuah perpustakaan menjadi tidak efektif dan efisien dalam menangani permasalahan yang muncul. Seperti misalnya, kebutuhan pengolahan data yang semakin meningkat, aturan pengolahan data yang semakin bervariasi, aturan dari dalam atau luar perpustakaan, dapat digunakan sebagai indikator adanya permasalahan. Untuk mengatasi permasalahan tersebut, diperlukan suatu sistem yang dapat mendukung operasi yang bersifat manajerial dan kegiatan strategi dari suatu perpustakaan demi tercapainya tujuan, sebuah sistem yang dinamakan sistem informasi.
+
+
+
+2. Model Spiral
+Model spiral (spiral model) adalah model pengembangan software dimana proses digambarkan sebagai spiral. Setiap loop akan mewakili satu fase dari proses pembuatan/perancangan software. Loop paling dalam berfokus pada kelayakan dari sistem, loop selanjutnya tentang definisi dari kebutuhan, loop berikutnya berkaitan dengan desain sistem dan seterusnya, seperti gambar berikut: 
+
+
+
+contoh model spiral
+
+Kelebihan Model Spiral :
+Setiap tahap pengerjaan dibuat prototyping sehingga kekurangan dan apa yang diharapkan oleh client dapat diperjelas dan juga dapat menjadi acuan untuk client dalam mencari kekurangan kebutuhan.
+Lebih cocok untuk pengembangan sistem dan perangkat lunak skala besar.
+Dapat disesuaikan agar perangkat lunak bisa dipakai selama hidup perangkat lunak komputer. 
+Pengembang dan pemakai dapat lebih mudah memahami dan bereaksi terhadap resiko setiap tingkat evolusi karena perangkat lunak terus bekerja selama proses.
+Menggunakan prototipe sebagai mekanisme pengurangan resiko dan pada setiap keadaan di dalam evolusi produk.
+Tetap mengikuti langkah-langkah dalam siklus kehidupan klasik dan memasukkannya ke dalam kerangka kerja iteratif.
+Membutuhkan pertimbangan langsung terhadap resiko teknis sehingga mengurangi resiko sebelum menjadi permaslahan yang serius. 
+Kekurangan Model Spiral :
+Banyak konsumen (Client) tidak percaya bahwa pendekatan secara evolusioner dapat dikontrol oleh kedua pihak. 
+Model spiral mempunyai resiko yang harus dipertimbangkan ulang oleh konsumen dan developer.
+Memerlukan tenaga ahli untuk memperkirakan resiko, dan harus mengandalkannya supaya sukses.
+Belum terbukti apakah metode ini cukup efisien karena usianya yang relatif baru.
+Memerlukan penaksiran resiko yang masuk akal dan akan menjadi masalah yang serius jika resiko mayor tidak ditemukan dan diatur.
+Butuh waktu lama untuk menerapkan paradigma ini menuju kepastian yang absolute.
+Contoh Studi Kasus :
+Sidik jari (bahasa Inggris: fingerprint) adalah hasil reproduksi tapak jari baik yang sengaja diambil, dicapkan dengan tinta, maupun bekas yang ditinggalkan pada benda karena pernah tersentuh kulit telapak tangan atau kaki. Kulit telapak adalah kulit pada bagian telapak tangan mulai dari pangkal pergelangan sampai kesemua ujung jari, dan kulit bagian dari telapak kaki mulai dari tumit sampai ke ujung jari yang mana pada daerah tersebut terdapat garis halus menonjol yang keluar satu sama lain yang dipisahkan oleh celah atau alur yang membentuk struktur tertentu. Identifikasi sidik jari, dikenal dengan daktiloskopi adalah ilmu yang mempelajari sidik jari untuk keperluan pengenalan kembali identitas orang dengan cara mengamati garis yang terdapat pada guratan garis jari tangan dan telapak kaki. Daktiloskopi berasal dari bahasa Yunani yaitu dact ylos yang berarti jari jemari atau garis jari, dan scopein yang artinya mengamati atau meneliti. Kemudian dari pengertian itu timbul istilah dalam bahasa Inggris, dactyloscopy yang kita kenal menjadi ilmu sidik jari. Fleksibilitas dari gelombang pada kulit berarti tidak ada dua sidik jari atau telapak tangan yang sama persis pada setiap detailnya. Pengenalan sidik jari melibatkan seorang pakar, atau sebuah sistem pakar komputer, yang menentukan apakah dua sidik jari berasal dari jari. 
+
+Identifikasi berdasarkan sidik jari adalah daerah aktif penelitian di biometrik menerapkan berbagai umum dan teknik kode domain-spesifik optimasi untuk secara efisien melaksanakan tahap pendaftaran, yang mengambil sebagai masukan serangkaian gambar sidik jari dan menghasilkan diadaptasi packet pohon dan template wavelet domain yang terkait. Itu kode untuk identifikasi sebenarnya kemudian dihasilkan automati-Cally dari deskripsi matematika. Algoritma identifikasi sidik jari kembali quires perhitungan matematika yang berat, sehinggasatu al-gorithm bisa memiliki runtimes berbeda tergantung pada Implementasi algoritma. Algoritma ini terdiri dari 2 tahap, tahap pelatihan dan tahap verifikasi. Namun penting untuk memiliki efisien pelaksanaan tahap pelatihan untuk memungkinkan pengembang algoritma untuk dengan cepat menjalankan dan menguji uji beda kasus. Tahap verifikasi dilakukan secara on-line sehingga itu perlu secepat mungkin. Kualitas sidik jari sistemidentifikasi tidak hanya tergantung pada keakuratan.
+
+
+
+
+3. Model Incremental
+Dalam model Incremental ini proses pengerjaan perangkat lunak akan dilakukan perbagian sehingga bagian selanjutnya akan dikerjakan setelah bagian awal telah selesai dan selanjutnya sampai menghasilkan perangkat lunak yang lengkap dengan semua fungsi yang diperlukan dan pengerjaan perangkat lunak berakhir. Sebelum pengerjaan perangkat lunak akan dilakukan perancangan arsitektur software sebagai kerangka dalam pengerjaan perbagian.
+
+
+contoh model incremental
+
+Kelebihan Model Incremental :
+Resiko yang rendah pada pengembangan sistem.
+Mengutamakan fungsi-fungsi pada sistem perangkat lunak sehingga kemudahan pemakaian sistem yang paling di utamakan. 
+Tahap awal adalan dasar dari pembuatan tahap berikutnya (dikerjakan secara terurut).
+Cocok digunakan bila pembuat software tidak banyak/kekurangan pembuat
+Mampu mengakomodasi perubahan kebutuhan customer. 
+Mengurangi trauma karena perubahan sistem. Klien dibiasakan perlahan-lahan menggunakan produknya bagian per bagian.
+Memaksimalkan pengembalian modal investasi konsumen. 
+Kekurangan Model Incremental :
+Hanya akan berhasil jika tidak ada staffing untuk penerapan secara menyeluruh.
+Penambahan staf dilakukan jika hasil incremental akan dikembangkan lebih lanjut.
+Hanya cocok untuk proyek dengan skala kecil.
+kemungkinan tiap bagian tidak dapat diintegrasikan.
+
+Contoh Studi Kasus:
+Dalam sebuah software, adanya sebuah Graphical User Interface akan jauh lebih memudahkan pengguna software untuk berinteraksi dengan software, dikarenakan tampilan GUI akan jauh lebih meminimalkan kesalahan penggunaan dari user daripada pada aplikasi yang berbasis console. Selain itu, aplikasi yang menggunakan GUI akan jauh lebih menarik dan user-friendly daripada aplikasi yang berbasis console
+Aplikasi yang akan dibuat adalah aplikasi yang akan dijalankan pada perangkat mobile (handphone), karena memang aplikasi mobile banking lebih ditujukan untuk mengimbangi mobilitas seseorang dengan tetap dapat melaksanakan aktifitas perbankan. aplikasi disini bukanlah aplikasi besar yang berlevel enterprise, sehingga baris kodennya juga tidak terlalu banyak.
+Software yang nantinya dikembangkan haruslah memenuhi beberapa kriteria diantaranya : aplikasinya tidak membutuhkan resource yang besar, dapat berjalan di perangkat mobile, kecepatan proses transaksi haruslah cepat, aplikasi nantinya bisa dikembangkan lebih lanjut untuk mengimbangi kebutuhan pengguna software.
+
+
+
+4. Model Evolusi
+Model evolusi adalah sebuah model yang berulang-ulang. Model ini memiliki karakteristik yang memungkinkan para programmer mengembangkan perangkat lunaknya menjadi semakin lengkap di tiap versinya. Model ini diterapkan karena persyaratan (requierement) sering berubah sehingga hasil akhir dari sebuah produk tidak akan realistis, dimana edisi komplit dari produk tersebut mustahil dikeluarkan dikarenakan deadline market yang begitu ketat. Oleh karena itu lebih baik mengeluarkan versi limited untuk memperkenalkannya terlebih dahulu dan programmer dapat membuat model dari sebuah design untuk mengakomodasikan produk, yang secara bertahap akan diselesaikan dari waktu ke waktu.
+  
+
+contoh model evolusi
+Kelebihan Model Evolusi :
+Meningkatkan kemampuan memimpin dan mengatur sesuatu dengan pengembangan diri.
+Menciptakan suasana yang sadar akan kualitas suatu produk.
+Fungsi inti dari quality control dalam perusahaan besar pada tingkat lokakarya.
+Meningkatkan kebersamaan untuk mencapai suatu hasil dan semangat kerja karyawan.
+Meningkatkan kualitas dengan biaya efektif.
+Membebaskan manajemen.
+pekerja Shop Floor adalah lokasi terbaik untuk mengidentifikasi masalah.
+Kekurangan Model Evolusi :
+Intensitas pekerjaan meningkat karena masalah akan lebih banyak dari pada yang diperkirakan.
+Manajemen perlu berkomitmen untuk sistem yang berkualitas, jika sebuah solusi dari sebuah masalah tidak dapat diterapkan maka itu bisa membuat frustasi para pekerja.
+Dapat memiliki efek negatif pada hubungan industrial.
+Dapat fokus pada masalah duniawi. 
+Contoh studi kasus:
+Proyek SITINA dimulai dengan kebutuhan terhadap suatu sistem EDM utilitas yang harus melalukan pemantauan dengan mudah, benar-benar otomatis,pada pembangkit listrik tenaga air . Tujuan utama adalah untuk mengembangkan aplikasi dengan biaya rendah yang memungkinkan dewan direksi untuk memonitor pembangkit listrik tersebut dan mengambil data statistik pada produksi mereka. 
+Hal ini tidak dalam melingkupi penjelasan rinci tentang SITINA . Namun, seperti yang dapat kita lihat dari akhir arsitektur umum pada Gambar 1, kita berhadapan dengan sistem yang kompleks dengan SCADA/EMS2 yang terbentuk dari penggunaan banyak teknologi dari beberapa produk-produk perangkat lunak yang berbeda.
+
+
+
+
+5. Model Prototype
+
+Prototype merupakan salah satu metode pengembangan perangat lunak yang banyak digunakan. Dengan metode prototyping ini pengembang dan pelanggan dapat saling berinteraksi selama proses pembuatan sistem. Prototyping, dimulai dengan pengumpulan kebutuhan, mendefinisikan objektif keseluruhan dari software, mengidentifikasikan segala kebutuhan, kemudian dilakukan “perangcangan kilat” yang difokuskan pada penyajian aspek yang diperlukan.
+
+Hasil gambar untuk gambar model prototype
+contoh model prototyping
+Kelebihan :
+Prototype melibatkan user dalam analisa dan desain.
+Punya kemampuan menangkap requirement secara konkret daripada secara abstrak.
+Untuk digunakan secara standalone.
+Digunakan untuk memperluas SDLC.
+Mempersingkat waktu pengembangan Sistem Informasi
+Kekurangan :
+Proses analisis dan perancangan terlalu singkat.
+Mengesampingkan alternatif pemecahan masalah.
+Bisanya kurang fleksible dalam mengahdapi perubahan.
+Prototype yang dihasilkan tidak selamanya mudah dirubah
+Contoh Studi Kasus :
+Dalam pelaksanaannya, system akademik yang berjalan di Sekolah Menengah Pertama Negeri 20 Bandung dirasa belum optimal, hal ini dikarenakan sistem yang digunakan masih bersifat manual. Dengan permasalahan tersebutmaka muncul berbagai permasalahan terutama pada proses pendaftaran,registrasi, pembagian kelas, pembagian wali kelas, proses penilaian serta informasimengenai perkembangan siswa kepada orang tua. Untuk itu, diperlukan suatu sistem informasi yang mampu mendukung pengambilan keputusan dalammemperoleh informasi kegiatan akademik. Pembuatan Sistem Informasi Akademik Sekolah Menengah Pertama Negeri 20 Bandung menggunakan pendekatan terstruktur, sedangkan metode pengembangan menggunakan prototype dengan teknik pengumpulan data observasidan wawancara, sedangkan alat yang digunakan dalam merancang sistem berupa Flow Map, Diagram Konteks, DFD dan pengembangan aplikasi berbasis desktop.Sistem yang dibangun disajikan secara client server sehingga dapat diaksesbeberapa komputer. Sistem yang dibangun diharapkan dapat mengatasi sebagianbesar permasalahan yang ada seperti melakukan validasi kerangkapan dataregistrasi dan nilai siswa, pembagian kelas dan penilaian.
+
+
+
+
+6. Model V / V-Model.
+Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang. Dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
+
+
+contoh model v-model
+
+
+Kelebihan v model :
+V Model sangat fleksibel. V Model mendukung project tailoring dan penambahan dan pengurangan method dantool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.
+V Model dikembangkan dan di-maintain oleh publik. Userdari V Model berpartisipasi dalam change control boardyang memproses semua change request terhadap V Model.
+    Kekurangan v model :
+V Model adalah model yang project oriented sehingga hanya bisa digunakan sekali dalam suatu proyek.
+V Model terlalu fleksibel dalam arti ada beberapa activitydalam V Model yang digambarkan terlalu abstrak sehingga tidak bisa diketahui dengan jelas apa yang termasuk dalamactivity tersebut dan apa yang tidak.
+
+
+7. Model Rapid Application Development (RAD)   
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembanganperangkat lunak sekuensial linier yang menekankan siklus perkembangan yang sangat pendek (kira-kira 60 sampai 90 hari). Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi” dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
+
+Hasil gambar untuk gambar model rad
+contoh model RAD
+
+Kelebihan Model RAD :
+Lebih efektif dari Pengembangan Model waterfall/sequential linear dalam menghasilkan sistem yang memenuhi kebutuhan langsung dari pelanggan.
+Cocok untuk proyek yang memerlukan waktu yang singkat.
+Model RAD mengikuti tahap pengembangan sistem seperti pada umumnya, tetapi mempunyai kemampuan untuk menggunakan kembali komponen yang ada sehingga pengembang tidak perlu membuatnya dari awal lagi sehingga waktu pengembangan menjadi lebih singkat dan efisien.
+Kekurangan Model RAD :
+Model RAD menuntut pengembangan dan pelanggan memiliki komitmen di dalam aktivitas rapid-fire yang diperlukan untuk melengkapi sebuah sistem, di dalam kerangka waktu yang sangat diperpendek. Jika komitmen tersebut tidak ada, proyek RAD akan gagal.
+Tidak semua aplikasi sesuai untuk RAD, bila system tidak dapat dimodulkan dengan teratur, pembangunan komponen penting pada RAD akan menjadi sangat bermasalah.
+RAD tidak cocok digunakan untuk sistem yang mempunyai resiko teknik yang tinggi.
+Membutuhkan Tenaga kerja yang banyak untuk menyelesaikan sebuah proyek dalam skala besar.
+Jika ada perubahan di tengah-tengah pengerjaan maka harus membuat kontrak baru antara pengembang dan pelanggan.
+Contoh studi kasus:
+RAD sangat tepat diterapkan untuk sistem yang telah jelas dan lengkap kebutuhannya, di mana terdapat komponen-komponen yang dapat dipakai kembali dalam proyek yang berskala kecil dengan waktu pengembangan perangkat lunak yang singkat.
+
+
+

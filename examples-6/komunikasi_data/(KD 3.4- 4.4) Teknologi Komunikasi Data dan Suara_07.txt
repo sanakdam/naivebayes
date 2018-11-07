@@ -1,0 +1,43 @@
+TEKNOLOGI KOMUNIKASI DATA DAN SUARA
+ TEKNOLOGI KOMUNIKASI DATA DAN SUARA 
+
+
+       Pengertian komunikasi data adalah komunikasi data adalah merupakan proses pengiriman dan penerimaan data atau informasi dari dua atau lebih device yang terhubung dalam sebuah jaringan.
+
+JENIS-JENIS KOMUNIKASI DATA
+            1. Jenis komunikasi data melalui infrastruktur terestrial : jenis komunikasi data ini dapat dilakukan menggunakan media kabel atau nirkabel sebagai aksesnya sehingga membutuhkan biaya yang tinggi. 
+            2. Jenis komunikasi data melalui satelit : jenis komunikasi data ini dapat dilakukan dengan menggunakan satelit sebagai aksesnya.
+
+    KOMPONEN KOMUNIKASI DATA
+            1.  Pengirim               : piranti yang mengirimkan data 
+            2.  Penerima               : piranti yang menerima data 
+            3.  Pesan atau Data    : informasi yang akan dikirimkan dapat berupa apa saja. yakni teks,angka,gambar,vidio,suara,atau kombinasi dari semuanya
+            4.  Media pengiriman : media atau saluran yang digunakan untuk mengirimkan data bisa berupa kabel,cahaya,maupun gelombang magnetik.
+            5. Protokol                  : aturan-aturan yang harus disepakati oleh dua atau lebih dua alat untuk dapat saling berkomunikasi
+
+           Pengertian komunikasi suara adalah komunikasi suara merupakan jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara.
+     
+     JENIS KOMUNIKASI SUARA 
+            1. Komunikasi siaran radio atau radio broadcasting
+            2. Bersifat verbal(langsung)
+            3. Tidak ada visualisasi
+            4. Hanya ada media penghantar suara
+            5. Memiliki frekuensi 
+            6. Dapat dimengerti 
+            7. Digunakan untuk menyampaikan informasi 
+            8. Informasi yang dikirim dapat diterima
+
+CIRI KOMUNIKASI SUARA
+           1. Hanya bisa ditangkap oleh indra pendengar
+           2. Bersifat verbal (langsung)
+           3. Tidak ada visualisasi
+           4. Hanya ada media penghantar suara 
+           5. Memiliki frekuensi
+           6. Dapat dimengerti
+           7. Digunakan untuk menyampaikan informasi
+           8. Informasi yang dikirim dapat diterima
+ 
+SYARAT KOMUNIKASI SUARA
+           1. Pengirim (tranceiver)    : pihak yang mengirimkan informasi
+           2. Media transmisi             : media yang digunakan untuk mengirimkan informasi 
+           3. Penerima (receiver)       : pihak yang menerima informasi

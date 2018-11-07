@@ -1,0 +1,126 @@
+? kisah kasih di sekolah “Prestasi Muridku Mendunia”Pokok Materi Komputer Terapan kelas TKJ ?
+Pokok Materi Pemodelan Perangkat Lunak kelas RPL Kurikulum 2013
+Posted on Agustus 28, 2014 by afing
+      9 Votes
+
+MATERI PEMODELAN PERANGKAT LUNAK
+
+(11 RPL 1 DAN 11 RPL 2)
+
+Konsep Pemodelan Perangkat Lunak (PL) (4JP)
+Konsep rekayasa PL
+Komponen dan karakteristik PL
+Prinsip analisis dan desain
+Ragam pemodelan PL
+ 
+
+Model proses pengembangan perangkat lunak. (4JP)
+Tahapan proses pengembangan PL
+Ragam model proses pengembangan PL
+Model air terjun
+Model prototipe
+Model RAD
+Model spiral
+Model 4 GT
+Dan lain-lain
+ 
+
+Rekayasa kebutuhan PL (4JP)
+Tipe kebutuhan den penggunanya
+Ukuran kebutuhan
+Tahapan proses rekayasa kebutuhan
+Teknik-teknik analisa kebutuhan
+Perancangan kebutuhan perangkat lunak
+ 
+
+Diagram alur data (DFD (6JP)
+Fungsi dan Komponen DFD
+Tingkatan level DFD
+Spesifikasi proses
+Tahapan pembuatan DFD
+ 
+
+Diagram hubungan antar entitas (ERD) (6JP)
+Model data logik (Conseptual data model)
+Model data fisik (physical data model (PDM)
+Transformasi model data fisik ke bahasa SQL
+ 
+
+Antar muka pengguna (user interface) (8JP)
+Tujuan dan manfaat
+Prinsip desain antar muka
+Interaksi pengguna
+Penyajian informasi
+Perancangan user interface
+ 
+
+Arsitektur perangkat lunak (8JP)
+Pengenalan arsitektur perangkat lunak
+Layering
+Ragam arsitektur
+Pengenalan stuktur chart diagram
+Transformasi DFD ke struktur chart diagram
+Interaksi komponen
+ 
+
+Pemodelan sistem berorientasi obyek (UML). (4JP)
+Prinsip analisis dan desian sistem berorientasi obyak
+ 
+
+Pemodelan menggunakan UML
+Definisi UML
+Sejarah UML
+Ragam diagram UML
+Langkah-langkah pembuatan model UML
+ 
+
+Kebutuhan sistem berbasis obyek (6JP)
+use case diagram.
+Definisi
+Manfaat
+Notasi / simbol
+Sesifikasi use case
+Langkah-langkah pembuatan use case diagram
+ 
+
+Alur kerja sistem berorientasi obyek. (4JP)
+Pengenalan activity diagram.
+Notasi activity diagram
+Langkah-langkah pembuatan activity diagram.
+ 
+
+Hubungan antar class (6JP)
+Pengenalan class diagram.
+Langkah-langkah pembuatan class diagram
+Transformasi class diagram ke dalam model data logik (Conseptual data model)
+ 
+
+Interaksi antar obyek (6JP)
+Pengenalan Object diagram
+Notasi object diagram
+Langkah-langkah pembuatan object diagram
+Pengenalan squence diagram
+Notasi squence diagram
+Langkah-langkah pembuatan squence diagram
+Pengenalan Kolaborasi diagram
+Notasi kolaborasi diagram
+Langkah-langkah
+pembuatan kolaborasi diagram
+ 
+
+Siklus hidup obyek (4jp)
+Pengenalan state chart diagram.
+
+Langkah-langkah pembuatan state chart diagram.
+
+ 
+
+Hubungan antar Komponen (4jp)
+Component diagram.
+
+Deployment diagram
+
+Dokumen laporan pengembangan sistem berorientasi obyek (2jp)
+Kerangka dokumen
+Contoh dokumen
+ 

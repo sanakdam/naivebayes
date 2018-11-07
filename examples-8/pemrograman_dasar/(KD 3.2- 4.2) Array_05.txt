@@ -1,0 +1,113 @@
+ARRAY 1 DAN MULTIDIMENSI
+01.38    No comments
+PENGERTIAN ARRAY
+Suatu Array adalah sebuah struktur data yang terdiri atas banyak variabel dengan tipe data sama dimana masing-masing elemen array mampu untuk menyimpan satu jenis data (yaitu variabel).
+Disini saya akan membahas tentang Array Satu Dimensi dan Array Multi-dimensi
+Pengertian Array Satu Dimensi Menurut Beberapa Sumber
+Array satu dimensi adalah struktur data yang statis mempunyai satu nama tetapi memiliki banyak tempa.
+Array satu dimensi atau dalam variabel beberapa literatur disebut sebagai larik, adalah suatu tipe variabel yang berisi kumpulan data dengan setiap element datanya bertipe sama.
+Array satu dimensi merupakan sebuah variabel yang menyimpan sekumpulan data yang memiliki tipe sama dan elemen yang diakses hanya melalui 1 indeks atau subskrip..
+
+Pengertian Array Multi-dimensi Menurut Beberapa Sumber
+Array multi-dimensi merupakan sebuah variabel yang menyimpan sekumpuln data yang memiliki tipe sama dan elemen yang akan diakses melalui banyak indeks atau subskrip.
+Array multi-dimensi merupakan array yang mempunyai
+ukuran lebih dari dua.
+
+
+
+
+Definisi Array
+Array atau dalam beberapa literatur disebut sebagai larik, adalah suatu tipe variabel yang berisi kumpulan data dengan setiap elemen datanya bertipe sama. Setiap komponen atau elemen array dapat diakses dan dibedakan melalui indeks yang spesifik dimana jumlahnya sebanyak ukuran array tersebut dikurangi satu (karena perhitungan indeks dimulai dari nol).
+
+Fungsi Array
+Sebagai langkah efisiensi penggunan memori komputer, sebab data elemen array dialokasikan pada suatu deretan sel memori tertentu. Hal ini jauh lebih efisien dibandingkan dengan jika kita mendefinisikan masing – masing data pada suatu variabel tersendiri yang pastinya akan banyak menyita memori.
+
+Fungsi Array
+Agar memudahkan programmer dalam menyusun aplikasi yang berhubungan dengan banyak data terutama dalam masalah pencarian dan pengurutan data secara cepat.
+
+Deklarasi Array Satu Dimensi
+Bentuk umum : tipe_var nama_var[ukuran];
+
+Deklarasi Array Multidimensi
+Array dapat pula digunakan untuk menangani kumpulan data yang memiliki dimensi lebih dari satu, misalnya untuk penanganan pada matriks. Bentuk umumnya : tipe_var nama_var[ukuran 1][ukuran 2] ... Contoh : int iMatriks[2][2]={ {10, 2}, {2, 4}};
+
+Array Subscript
+Array subscript adalah nilai atau expresi (pernyataan) dalam tanda kurung setelah nama array untuk menunjukkan elemen array mana yang harus diakses (indeks). Contoh :
+x[2] ?? 2 = array subscript n=10; x[n – 8] ?? n – 8 = array subscript
+
+
+Mengakses Elemen Array
+Untuk dapat mengakses elemen - elemen array sebagian besar sama seperti tipe variabel lainnya, tapi kita harus menyertakan indeksnya yang bisa didapat secara langsung atau menggunakan subscript. Contoh : ... int x[2]; x[1]=10; printf(“%d”, x[1]); ...
+
+Inisialisasi Array
+Array dapat diinisialisasi secara langsung pada saat prtama kali dideklarasikan (efisien untuk array berdimensi sedikit). Contoh : int x[2]={1, 2}; Array dapat dideklarasikan terlebih dahulu, baru kemudian diisi elemennya. Contoh : int x[2]; x[0]=1; x[1]=2;
+
+Pencarian Dan Pengurutan Menggunakan Array
+Dengan menggunakan array, maka kita dapat lebih mudah untuk melakukan pencarian dan pengurutan berdasarkan pada indeks elemen array tersebut.
+
+Algoritma Pencarian Array
+Asumsikan bahwa target yang dicari belum ditemukan Mulai dengan melakukan inisialisasi elemen – elemen array Ulangi jika target belum ditemukan dan masih terdapat elemen array yang belum dibaca Jika elemen yang dicari belum sesuai dengan target, maka Asumsikan kembali bahwa target belum ditemukan Jika tidak, maka Lanjutkan ke elemen array selanjutnya Jika target ditemukan, maka Kembalikan indeks target sebagai hasil pencarian Jika tidak, maka Kembalikan nilai -1 sebagai hasil pencarian
+
+Algoritma Pengurutan Array Menggunakan Metode Urut
+Seleksi Untuk setiap nilai dari isi dari 0 sampai n-2 Cari min yang merupakan indeks yang memuat elemen terkecil dari subarray yang belum terurut dari indeks isi hingga n-1 Jika isi bukan elemen terkecil (min) Tukar elemen terkecil dengan elemen isi Array Multidimensi Adalah array yang terdiri atas lebih dari dua atau lebih dimensi, biasanya digunakan untuk menangani tabel data, matriks dan objek dua dimensi lainnya.
+Contoh :
+int x[2][2];
+x[0][0] x[0][1]
+
+x[1][0] X[1][1]
+
+Struktur Array Multidimensi : spasi
+<A>…..:…..array…..<B>…..of…..array…..<C>…..of <D>;
+A adalah nama array
+B,C adalah batas interval indek array
+D adalah tipe data dari array
+spasi
+
+
+Apabila batas interval indek array tidak ditentukan, maka hal ini berarti array merupakan array dua dimensi dengan sifat dinamis.Namun apabila anda menentukan batas interval tersebut, maka itu berarti merupakan array dua dimensi dengan sifat statik.
+
+
+Apabila anda memilih array dengan sifat atau karakteristik yang dinamis, maka setiap kali sebelum menggunakan array tersebut anda harus inisialisasi indek array tersebut dengan prosedur SetLength.
+
+
+Array multidimensi merupakan nilai array yang bertipe array. Pada Turbo Pascal, jumlah dimensi dari array tidak dibatasi. Namun yang paling umum dipakai adalah array berdimensi dua.
+Array Multidimensi
+
+
+Dalam array multidimensi terdiri atas baris (row) dan kolom (column). Index pertama adalah baris dan yang kedua adalah kolom .
+SYNTAX
+Type nama_array =ARRAY[bawah..atas, bawah..atas] of tipe_data;
+var variabel_array : nama_array;
+
+atau dengan menggunakan statemen var :
+SYNTAX var variabel_array : ARRAY[bawah..atas, bawah..atas] of tipe_data;
+Pernyataan berikut membentuk suatu array integer dengan nama bilangan , 10 x 10 elemen (100).
+type matriks = ARRAY [1..10, 1..10] of integer;
+var AKU: matriks;
+
+untuk memasukkan tiap elemen maka, diperlukan suatu procedure dengan mempergunakan struktur pengulangan for ...do tersarangseperti berikut:
+procedure ISI_MATRIK(AKU:matriks; m,n:integer);
+var
+i,j: integer; {faktor pengulang}
+begin
+for i:=1 to m do
+begin
+for j:=1 to n do
+begin
+read(A[i,j]);
+end;
+readln ;{ini memungkinkan kita menulis tiap baris elemen}
+end;
+untuk menampilkan tiap elemen maka, digunakan struktur pengulangan for ...do tersarang seperti berikut
+procedure TULIS_MATRIK(AKU:matriks; m,n:integer);
+var i,j: integer; {faktor
+begin
+for i:=1 to m do
+begin
+for j:=1 to n do
+begin
+write(A[i,j]:6);
+end;
+writeln ; {ini memungkinkan kita menulis elemen dalam baris dan kolom }
+end;
+end;

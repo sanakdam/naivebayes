@@ -1,0 +1,69 @@
+
+MINGGU, 15 SEPTEMBER 2013
+Software-software untuk membuat animasi 3D dan model 3D
+Setelah sekian lama saya tidak aktif dalam blog ini, akhirnya saya kembali lagi aktif dalam blog ini.
+
+Kali ini saya akan membagikan tentang software animasi 3D. Mungkin banyak diantara kita yang tertarik dalam dunia 3D atau dunia Game. Langsung saja
+
+1. Autodesk Maya
+
+
+
+
+Autodesk Maya adalah salah satu software yang menurut saya software paling bagus untuk dipakai pemula. Software besutan Autodesk. Inc ini sangat lazim digunakan untuk membuat animasi 3D dan model-modelnya. Versi terbaru dari Maya adalah Maya 2014, tetapi untuk digunakan sebagai pemula dengan low-end PC, saya sarankan menggunakan versi 2011. Software memiliki fitur yang lumayan lengkap, sebanding dengan harganya. Tetapi buat para pemula dan yang berminat dapat mendapatkan software ini  dengan gratis dengan cara mendaftar sebagai pelajar untuk mendapatkan "Student Version" dari program ini secara legal.
+Maya dapat diunduh di sini. Inilah hasil kerja saya di Maya
+
+
+
+2. Blender
+
+
+
+
+
+
+
+
+
+
+
+
+Terdengar sama dengan blender dirumah, kan? Jangan terkecoh, software ini memang bernama Blender, salah satu software animasi 3D besutan Blender.org yang telah memiliki film-nya sendiri. Blender memiliki fitur yang sangat beragam, sehingga mampu bersaing dengan software-software kelas atas lainnya. Blender bersifat open-source atau gratis, ukurannya pun yang sangat ringan (40 MB) menyebabkan banyak orang memakainya sebagai software dampingan. Namun, navigasi dan penggunaan blender tergolong rumit. Blender dapat diunduh di Blender.org.
+
+3. Autodesk 3Ds Max
+
+
+
+
+Autodesk 3Ds Max juga merupakan software besutan Autodesk. Inc yang paling cocok untuk membuat model-model 3D. Software ini cocok digunakan bersama Maya dimana 3Ds Max sebagai software modeling dan Maya sebagai software animasi. Karena sama perusahaan, 3Ds Max juga telah menginjak versi ke-2014 dan dapat didapatkan secara legal dengan Student Version / Student License.
+
+4. Cinema 4D
+
+
+
+
+Selanjutnya adalah Cinema 4D. Cinema 4D banyak digunakan di perusahaan yang bergerak dalam bidang entertaiment. Cinema 4D memiliki fitur yang lumayan lengkap dengan penggunaan yang cukup mudah, seperti dikutip dari websitenya. Software ini belum pernah saya gunakan, jadi belum dapat saya deskripsikan lanjut. Silahkan anda sendiri yang mencobanya.
+
+5. Lighwave 3D
+
+
+
+
+Lightwave 3D adalah software yang dikembangkan oleh NewTek Inc. Keunikan dari software ini adalah modeler, layout dan bagian lainnya dipisahkan sehingga dapat memudahkan untuk fokus ke bagian itu saja. Software ini telah banyak digunakan dalam industri film dan televisi, seperti Avatar (2009), Titanic, Jurassic Park, The Adventures of Tintin, The Hunger Games, Skyfall, The Amazing Spider-Man. Software ini sering dipakai berdampingan dengan software 3D lainnya
+
+6. MODO
+
+
+
+
+Merupakan software besutan The Foundry yang telah dipakai dalam industri perfilman dan games. Software ini juga sering dipakai untuk membuat desain model untuk produk. Merupakan software untuk modeling, sculpting, rendering dan special effects. MODO sering dipakai berdampingan dengan NUKE yang telah dipakai dalam perusahaan film besar, seperti WETA Digital, Industrial Light & Magic, dan Dreamworks Animation. MODO juga digunakan dalam film The Amazing Spider-Man, The Hunger Games, Skyfall, Avatar, dsb. Anda dapat melihat info lebih lanjut di sini
+
+7. NUKE
+
+
+
+
+Ini bukan software modeling atau animasi 3D, melainkan software compositing yang sangat powerful. NUKE adalah sebuah node-based compositor yang telah memenangkan penghargaan untuk kategori visual effect. Compositing merupakan proses akhir dimana semua gambar yang telah di-render disatukan untuk membuat film akhir. NUKE telah dipakai oleh MPC, Industrial Light & Magic, WETA Digital, Dreamworks Animation, dan masih banyak lagi. Film yang menggunakan NUKE sebagai compositornya adalah The Adventure Of Tin Tin, The Amazing Spider-Man, Iron Man, Rise of The Planet Of The Apes, Transformers 3, dan masih banyak lagi.
+
+Itulah software-software yang paling sering digunakan untuk membuat model dan animasi 3D. Dalam satu studio, ada bermacam-macam software yang dipakai. Setiap software memiliki advantage dan disadvantage-nya masing-masing. Maka dikembalikan ke tangan user untuk memakai software yang mana. Software-software tersebut juga dapat dipadukan dengan game engine, seperti Unity untuk membuat game.
+Lebih baik mengetahui dan membuat daripada hanya menikmati. Berkomentarlah agar blog ini semakin berkembang.

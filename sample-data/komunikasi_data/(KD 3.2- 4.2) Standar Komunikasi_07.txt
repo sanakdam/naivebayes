@@ -1,0 +1,137 @@
+standar komunikasi data
+Standar Organisasi
+a.      IEEE
+
+
+
+
+Gambar 2. Simbol Standarisasi IEEE.
+
+IEEE adalah organisasi nirlaba internasional, yang merupakan asosiasi profesional utama untuk peningkatan teknologi. Sebelumnya, IEEE merupakan kepanjangan dari Institute of Electrical and Electronics Engineers. Namun berkembangnya cakupan bidang ilmu dan aplikasi yang diperdalam organisasi ini membuat nama-nama kelektroan dianggap tidak relevan lagi, sehingga IEEE tidak dianggap memiliki kepanjangan lagi, selain sebuah nama yang dieja sebagai Eye-triple-E. Di samping society, IEEE memiliki badan standard (Standard Association, IEEE-SA). IEEE-SA memiliki wibawa cukup besar untuk bisa mempersatukan substandard industri membentuk standardisasi internasional yang diakui seluruh industri. Berikut ini adalah contoh unit kerja dan bidang yang merekan tangani :
+Unit Kerja Bidang yang ditangani
+802.1 Higher Layer LAN Protocols Working Group
+802.3 Ethernet Working Group
+802.11 Wireless LAN Working Group
+802.15 Wireless Personal Area Network (WPAN) Working Group
+802.16 Broadband Wireless Access Working Group
+802.17 Resilent Packet Ring Working Group
+802.18 Radio Regulator TAG
+802.19 Coexistence TAG
+802.20 Mobile Broadband Wireless Access (MBWA) Working Group
+802.21 Media Independent Handoftt Working Group
+802.22 Wireless Regional Area Network
+WiMAX (Worldwide Interoperability for Microwave Access) adalah sebuah tanda sertifikasi untuk produk-produk yang lulus tes cocok dan sesuai dengan standar IEEE 802.16. WiMAX merupakan teknologi nirkabel yang menyediakan hubungan jalur lebar dalam jarak jauh. WiMAX merupakan teknologi broadband yang memiliki kecepatan akses yang tinggi dan jangkauan yang luas. WiMAX merupakan evolusi dari teknologi BWA sebelumnya dengan fitur-fitur yang lebih menarik. Disamping kecepatan data yang tinggi mampu diberikan, WiMAX juga membawa isu open standar. Dalam arti komunikasi perangkat WiMAX diantara beberapa vendor yang berbeda tetap dapat dilakukan (tidak proprietary).
+Dengan kecepatan data yang besar (sampai 70 MBps), WiMAX layak diaplikasikan untuk ‘last mile’ broadband connections, backhaul,dan highspeed enterprise.
+
+b.     ANSI
+
+
+
+
+Gambar 3. Simbol Standarisasi ANSI
+ANSI (American National Standards Institute) adalah sebuah kelompok yang mendefinisikan standar Amerika Serikat untuk industri pemrosesan informasi. ANSI berpartisipasi dalam mendefinisikan standar protokol jaringan dan merepresentasikan Amerika Serikat dalam hubungannya dengan badan-badan penentu standar International lain, misalnya ISO , Ansi adalah organisasi sukarela yang terdiri atas anggota dari sektor usaha, pemerintah, dan lain-lain yang mengkoordinasikan aktivitas yang berhubungan dengan standar, dan memperkuat posisi Amerika Serikat dalam organisasi standar nasional.ANSI membantu dengan komunikasi dan jaringan (selain banyak hal lainnya). ANSI adalah anggota IEC dan ISO.
+ANSI adalah lembaga amerika yang mengeluarkan standard ASCII (American Standard Code for Information Interchange).ASCII (American Standard Code for Information Interchange) merupakan suatu standar internasional dalam kode huruf dan simbol seperti Hex dan Unicode tetapi ASCII lebih bersifat universal, contohnya 124 adalah untuk karakter “|”. Ia selalu digunakan oleh komputer dan alat komunikasi lain untuk menunjukkan teks. Kode ASCII sebenarnya memiliki komposisi bilangan biner sebanyak 8 bit. Dimulai dari 00000000 hingga 11111111. Total kombinasi yang dihasilkan sebanyak 256, dimulai dari kode 0 hingga 255 dalam sistem bilangan Desimal.
+SQL adalah standar ANSI (American National Standards Institute) bahasa pemrograman untuk mengakses dan memanipulasi database. Statemen SQL digunakan untuk menerima, mengubah dan menghapus data. SQL bekerja dengan berbagai sistem database antara lain MS Access, DB2, Informix, MS SQL Server, Oracle, Sybase, dll.
+Sesuai kegunaan dan perkembangannya, SQL memiliki beberapa versi, tetapi agar tidak terjadi kekeliruan dibuat standar oleh ANSI, mereka harus memiliki keywords utama yang dipakai secara umum yaitu (SELECT, UPDATE, DELETE, INSERT, WHERE, dan sebagainya). ANSI : ASCII, SQL.
+
+c.      TIA
+ 
+
+Gambar 4. Simbol Standarisasi TIA
+Asosiasi Industri Telekomunikasi (TIA) adalah suatu organisasi terpisah yang diakui oleh ANSI dan bekerjasama dengan Asosiasi Industri Elektronika (EIA). TIA dikenal terbaik untuk mengembangkan standard pemasangan kabel menggunakan disain dan instalasi sistem pemasangan kabel yang ter-koordinasi. Sehingga mampu untuk mendukung suatu cakupan aplikasi yang luas dan memenuhi kebutuhan kecepatan yang tinggi pada masa kini dan mendatang.
+Contoh standart dari TIA/EIA :  TIA (Telecommunication Industry Asociation) = suatu organisasi terpisah yang diakui oleh ANSI dan bekerjasama dengan Asosiasi Industri Elektronika (EIA). Organisasi standard TIA menciptakan standard yang meliputi radio private mobile (biasa yang digunakan oleh pihak keamanan baik tentara maupun polisi), menara antenna, satelit, premsis cabling (copper maupun fiber), system komunikasi mobile, moble multimedia multicast, healthcare dan lainnya. TIA menspesifikasikan Subnetwork Dependent Converge Protocol (SDNPC) untuk paket-paket servis (GPRS-136). Contoh standar TIA - TIA 568A-B.
+
+
+d.     ECMA (European Computer Manufacturers Association)
+
+
+
+
+Gambar 5. Simbol Standarisasi ECMA
+
+Sebelumnya dikenal sebagai ECMA (European Computer Manufacturers Association), lembaga ini merupakan perkumpulan orang eropa yang mengeluarkan standar dalam sistem teknologi dan informasi. Ecma International adalah lembaga yang mengeluarkan standarisasi dalam ECMAScript, sebuah standard yang mengelola JavaScript.Lima edisi ECMA-262 telah diterbitkan dan kerja-kerja bagi edisi seterusnya, bernama kod “Harmony”, sedang dilakukan.Ecma turut metakrifkan sebuah “Profil Padat” untuk ECMAScriptdikenali sebagai ES-CP, atau ECMA 327 direka untuk peranti-peranti bersumber terhad. Beberapa tampilan dinamik bagi ECMAScript (seperti fungsi eval) dijadikan pilihan, lantas membolehkan runtime membuat lebih banyak anggapan tentang perilaku atur cara, dan dengan itu prestasi dapat ditinggkatkan pada masa jalanan. Piawai HD DVD ialah satu tempat di mana Profil Padat ECMAScript diguna menggantikan ECMAScript penuh bagi mengurangkan keperluan pemprosesan dan ingatan pada peranti.
+
+
+e.      ITU
+
+
+
+Gambar 6. Simbol Standariasi ITU
+International Telecommunication Union Radiocommunication Sector (ITU-R).Sebuah organisasi global yang ada dan didirikan untuk mengatur penggunaan frekuensi radio (RF) diseluruh penjuru dunia. The United Nations (PBB), menugaskan kepada International Telecommunication Union Radiocommunication Sector (ITU-R) ini, untuk mengatur dalam hal skala penggunaan frekuensi, secara global. Karena dunia ini luas, maka kemudian ITU-R membaginya menjadi beberapa wilayah. Hingga masing-masing wilayah, diatur oleh organisasi yang berbeda. Pembagian wilayah ini yaitu meluputi:
+·      Region A: North and South America Inter-American Telecommunication  Commission (CITEL) http://www.citel.oas.org
+·      Region B: Western Europe European Conference of Postal and Telecommunications Administrations (CEPT) http://www.cept.org
+·      Region C: Eastern Europe and Northern Asia Regional Commonwealth in the field of Communications (RCC) http://www.rcc.org
+·      Region D: Africa African Telecommunications Union (ATU) http://www.atu-uat.org
+·      Region E: Asia and Australasia Asia-Pacific Telecommunity (APT) http://www.aptsec.org.
+Dari masing-masing wilayah atau region ini, kemudian bekerja sama dan dibagi-bagi lagi dengan organisasi-organisasi dari masing-masing negara setempat. Contohnya:Australia, Australian Communications Authority (ACA) ,Japan, Association of Radio Industries and Businesses (ARIB)New Zealand, Ministry of Economic Development United States, Federal Communications Commission (FCC).
+
+
+f.       Federal Communications Commission (FCC)
+
+
+
+
+
+
+
+Gambar 7. Simbol Standarisasi FCC
+
+FCC adalah organisasi yang bergerak di bidang pertelekomunkasian. Organisasi ini yang mengatur segala jenis komunikasi baik yang keluar ataupun ke dalam negara Amerika Serikat.
+Wireless, sebagai sarana telekomunikasi, tentu saja ikut menjadi wewenang dari FCC ini. Tujuan FCC mengatur komunikasi wireless, adalah agar tidak terjadi kesimpang siuran, maupun penyalahgunaan dalam hal penggunaan sinyal atau frekuensi radio yang digunakan dalam teknologi wireless. 
+FCC adalah organisasi independent yang didirikan oleh pemerintah US. FCC bertanggung jawab untuk mengatur segala jenis penggunaan perangkat telekomunikasi, baik yang menggunakan radio, televisi, wire, satellite, dan kabel. Wilayah kekuasaan FCC ini meliputi 50 negara bagian yang ada di US, dan beberapa distrik yang menjadi teritori dari Negara US. Hampir disetiap negara mempunyai badan atau organisasi yang serupa dengan FCC ini.
+FCC dan organisasi sejenis, adalah organisasi yang bertugas, sekaligus yang berhak untuk membuat berbagai aturan yang menyangkut mengenai apa saja yang boleh, dan tidak boleh dilakukan oleh seorang user dalam hal penggunaan wireless, khususnya yang menyangkut penggunaan Frekuensi Radio (RF) untuk melakukan transmisi. Aturan ini meliputi dalam hal penggunaan: 
+Frequency Bandwidth.Maximum power of the intentional radiator.
+Maximum equivalent isotropically radiated power (EIRP)
+Use (indoor dan/atau outdoor).Dari aturan-aturan inilah, FCC dan organisasi sejenis membuat prosedure dan standar kerja. Organisasi-organisasi ini dibentuk dan bekerja sama, dengan tujuan untuk membantu memenuhi kebutuhan akan meningkatnya permintaan yang menyangkut teknologi wireless, yang sedang berkembang dengan pesat saat ini.
+
+g.     ISO
+ 
+
+
+Gambar 8. Simbol Standarisasi ISO
+
+Organisasi Internasional untuk Standardisasi, International Organization for Standardization (ISO) adalah badan penetap standar internasional yang terdiri dari wakil-wakil dari badan standar nasional setiap negara. Pada awalnya, singkatan dari nama lembaga tersebut adalah IOS, bukan ISO. Tetapi sekarang lebih sering memakai singkatan ISO, karena dalam bahasa yunani sos berarti sama (equal). Penggunaan ini dapat dilihat pada kata isometrik atau isonomi.
+Didirikan pada23 February 1947 ISO menetapkan standar-standar industrial dan komersial dunia. ISO, yang merupakan lembaga nirlaba internasional, pada awalnya dibentuk untuk membuat dan memperkenalkan standardisasi internasional untuk apa saja.Dalam menetapkan suatu standar tersebut mereka mengundang wakil anggotanya dari 130 negara untuk duduk dalam Komite Teknis (TC), Sub Komite (SC) dan Kelompok Kerja (WG).
+Meski ISO adalah organisasi nonpemerintah, kemampuannya untuk menetapkan standar yang sering menjadi hukum melalui persetujuan atau standar nasional membuatnya lebih berpengaruh daripada kebanyakan organisasi non-pemerintah lainnya, dan dalam prakteknya ISO menjadi konsorsium dengan hubungan yang kuat dengan pihak-pihak pemerintah. Peserta ISO termasuk satu badan standar nasional dari setiap negara dan perusahaan-perusahaan besar. ISO bekerja sama dengan Komisi Elektroteknik Internasional (IEC) yang bertanggung jawab terhadap standarisasi peralatan elektronik. Seri ISO 9000Ada berbagai macam seri dari ISO 9000 yang memiliki standar, pedoman, dan laporan yang terangkum di dalamnya. Seri ISO 9000 terdiri dari: (Suardi, 2003, p. 33-34)
+1)    ISO 9000:2000: Dasar dan Kosakata Sistem Manajemen Mutu
+2)    ISO 9001:2000: Persyaratan Sistem Manajemen Mutu
+3)    ISO 9004:2000: Pedoman untuk Kinerja Peningkatan Sistem Manajemen Mutu
+4)    ISO 19011: Pedoman Audit Sistem Manajemen Mutu dan Lingkungan
+PenerapanISO di suatu perusahaan berguna untuk:
+a)     Meningkatkan citra perusahaan
+b)     Meningkatkan kinerja lingkungan perusahaan
+c)     Meningkatkan efisiensi kegiatan
+d)     Memperbaiki manajemen organisasi dengan menerapkan perencanaan,pelaksanaan, pengukuran dan tindakan perbaikan (plan, do, check, act)
+e)     Meningkatkan penataan terhadap ketentuan peraturan perundang-undangan dalam hal pengelolaan lingkungan
+f)      Mengurangi resiko usaha
+g)     Meningkatkan daya saing
+h)     Meningkatkan komunikasi internal dan hubungan baik dengan berbagai pihak yang berkepentingan
+i)       Mendapat kepercayaan dari konsumen/mitra kerja/pemodal
+
+Contoh :
+Standarisasi Protokol (ISO 7498)
+ISO (International Standard Organization) mengajukan struktur dan fungsi protocol komunikasi data. Model tersebut dikenal sebagai OSI (Open System Interconnection) Reference Model. Terdiri atas 7 layer (lapisan) yang mendefinisikan fungsi. Untuk tiap layernya dapat terdiri atas sejumlah protocol yang berbeda, masing-masing menyediakan pelayanan yang sesuai dengan fungsi layer tersebut.
+
+h.     IETF
+
+
+
+Gambar 9. Simbol Standarisasi ITEF
+
+IETF adalah ebuah organisasi yang berwenang dan bertanggung jawab dalam mengatur dan menetapkan protocol-protocol standard yang digunakan di internet.
+Internet Engineering Task Force (disingkat IETF), merupakan sebuah organisasi yang menjaring banyak pihak (baik itu individual ataupun organisasional) yang tertarik dalam pengembangan jaringan komputer dan Internet. Organisasi ini diatur oleh IESG (Internet Engineering Steering Group), dan diberi tugas untuk mempelajari masalah-masalah teknik yang terjadi dalam jaringan komputer dan Internet, dan kemudian mengusulkan solusi dari masalah tersebut kepada IAB (Internet Architecture Board). Pekerjaan IETF dilakukan oleh banyak kelompok kerja (disebut sebagai Working Groups) yang berkonsentrasi di satu bagian topik saja, seperti halnya keamanan, routing, dan lainnya. IETF merupakan pihak yang mempublikasikan spesifikasi yang membuat standar protokol TCP/IP. Kebijakan protokol QoS (Quality of Service) yang diusulkan sebagai standar IETF untuk mengkomunikasikan informasi kebijakan QoS dalam jaringan. Topologi ring yang pada awalnya dikembangkan dan diusulkan oleh Olaf Soderblum pada tahun 1969. Perusahaan IBM selanjutnya membeli hak cipta dari Token Ring dan memakai akses Token Ring dalam produk IBM pada tahun 1984. Elemen kunci dari desain Token Ring milik IBM ini adalah penggunaan konektor buatan IBM sendiri (proprietary), dengan menggunakan kabel twisted pair, dan memasang hub aktif yang berada di dalam sebuah jaringan komputer.Sambungan komputer dalam topologi ring
+Pada tahun 1985, Asosiasi IEEE di AS meratifikasi standar IEEE 802.5 untuk protokol (cara akses) Token Ring, sehingga protokol Token Ring ini menjadi standar internasional.
+Pada awalnya, IBM membuat Token Ring sebagai pengganti untuk teknologi Ethernet (IEEE 802.3) yang merupakan teknologi jaringan LAN paling populer. Meskipun Token Ring lebih superior dalam berbagai segi, Token Ring kurang begitu diminati mengingat beaya implementasinya lebih tinggi jika dibandingkan dengan Ethernet.
+Spesifikasi asli dari standar Token Ring adalah kemampuan pengiriman data dengan kecepatan 4 megabit per detik (4 Mbps), dan kemudian ditingkatkan empat kali lipat, menjadi 16 megabit per detik. Pada jaringan topologi ring ini, semua node yang terhubung harus beroperasi pada kecepatan yang sama. Implementasi yang umum terjadi adalah dengan menggunakan ring 4 megabit per detik sebagai penghubung antar node, sementara ring 16 megabit per detik digunakan untuk backbone jaringan.
+Beberapa spesifikasi dan standar teknis Token Ring yang lain, seperti enkapsulasi Internet Protocol (IP) dan Address Resolution Protocol (ARP) dalam Token Ring dijelaskan dalam RFC 1042.Dengan Token-Ring, peralatan network secara fisik terhubung dalam konfigurasi (topologi) ring di mana data dilewatkan dari Devais/peralatan satu ke devais yang lain secara berurutan. Sebuah paket kontrol yang dikenal sebagai token akan berputar-putar dalam jaringan ring ini, dan dapat dipakai untuk pengiriman data.
+Devais yang ingin mentransmit data akan mengambil token, mengisinya dengan data yang akan dikirimkan dan kemudian token dikembalikan ke ring lagi. Devais penerima/tujuan akan mengambil token tersebut, lalu mengosongkan isinya dan akhirnya mengembalikan token ke pengirim lagi. Protokol semacam ini dapat mencegah terjadinya kolisi data (tumbukan antar pengiriman data) dan dapat menghasilkan performansi yang lebih baik, terutama pada penggunaan high-level bandwidth.
+Ada tiga tipe pengembangan dari Token Ring dasar: Token Ring Full Duplex, switched Token Ring, dan 100VG-AnyLAN. Token Ring Full Duplex menggunakan bandwidth dua arah pada jaringan komputer. Switched Token Ring menggunakan switch yang mentransmisikan data di antara segmen LAN (tidak dalam devais LAN tunggal). Sementara, standar 100VG-AnyLAN dapat mendukung baik format Ethernet maupun Token Ring pada kecepatan 100 Mbps.XNS Protocol
+
+i.       W3C
+ 
+
+Gambar 10. Simbol Standarisasi W3C
+The World Wide Web Consortium (W3C) merupakan sebuah lembaga konsorsium yang membuat dan terus berobservasi dalam pengembangan teknologi web mencangkup XML, HTML dan aplikasi-aplikasi lain yang sering digunakan dalam dunia web. Mereka juga selalu mengeluarkan aturan dan standard supaya siapapun yang membuat dan mengimplementasikan selalu memperhatikan berbagai aspek yang fital seperti kecocokan dengan perangkat dan browser pengakses, pembaca hingga membuat sebuah website yang dapat berjalan bertahun-tahun karena perubahannya mudah.
+Walaupun W3C bukan satu-satunya standar dalam pembuatan web, namun W3C merupakan lembaga yang sangat besar pengaruhya bagi dunia web. Selain mengeluarkan standard yang mudah dimengerti ternyata lembaga inipun mengeluarkan artikel dan tutorial yang mendukung teknologi yang diobservenya itu. Bahkan untuk mengecek kehandalan desain kita, W3C mengeluarkan beberapa macam validator.
+
+     World Wide Web Consortium (W3C) adalah suatu konsorsium yang bekerja untuk mengembangkan standar-standar untuk World Wide Web. Spesifikasi teknologi-teknologi utama yang dipakai sebagai basis utama web, seperti URL (Uniform Resource Locator), HTTP (HyperText Transfer Protocol), dan HTML (HyperText Markup Language) dikembangkan dan diatur oleh badan ini. Standard dari W3C (Konsorsium World Wide Web) XML,CGI,CSS, dan HTML5,

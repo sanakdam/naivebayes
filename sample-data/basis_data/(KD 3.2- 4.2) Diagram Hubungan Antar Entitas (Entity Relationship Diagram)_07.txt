@@ -1,0 +1,41 @@
+ENTITY RELATIONSHIP DIAGRAM (ERD)
+
+
+
+Dokumen ini adalah diagram entity-relationship, atau "ERD," sebuah sistem untukmengelola sumber daya elektronik. ERD adalah model yang mengidentifikasi konsepatau entitas yang ada dalam sistem dan hubungan antara entitas. Sebuah ERD adalahsering digunakan sebagai cara untuk memvisualisasikan database relasional: entitasmasing-masing mewakili tabel database, dan garis mewakili hubungan kunci dalam satutabel yang menunjuk ke catatan tertentu dalam tabel terkait. ERD juga mungkin lebih abstrak, tidak selalu menangkap setiap meja dibutuhkan dalam database, tetapiberfungsi untuk diagram konsep utama dan hubungan. ERD ini adalah jenis yang terakhir, dimaksudkan untuk menyajikan pandangan, abstrak teoritis dari entitas besar dan hubungan yang diperlukan untuk pengelolaan sumber daya elektronik. Ini dapat membantu proses desain database untuk sistem manajemen e-sumber daya, tetapi tidakmengidentifikasi setiap tabel yang akan diperlukan untuk database pengelolaan sumber daya elektronik.
+ERD ini harus diperiksa dalam konsultasi erat dengan komponen lain dari Laporan DLFElektronik Inisiatif Manajemen Sumber Daya, khususnya Lampiran E (Elemen Data Dictionary) dan Lampiran F (Struktur Data). ERD menyajikan representasi visual dari e-konsep manajemen sumber daya dan hubungan antara mereka. Kamus Elemen datamengidentifikasi dan mendefinisikan elemen data individu bahwa sistem manajemensumber daya e-harus berisi dan mengelola, tapi daun hubungan antara unsur-unsur yang akan disimpulkan oleh pembaca. Struktur Data asosiasi setiap elemen data denganentitas dan hubungan didefinisikan dalam ERD. Bersama, ketiga dokumen membentukmodel konseptual data lengkap untuk e-sumber daya manajemen.
+
+ERD adalah pemodelan data utama yang membantu mengorganisasikan data dalam suatu proyek ke dalam entitas-entitas dan menentukan hubungan antar entitas.
+Entitas/Entity adalah suatu tempat atau objek untuk menyimpan data. Contoh: Entitas buku untuk menyimpan atribut mengenai buku (judul buku, kode buku, pengarang, dsb). Entity digambarkan dengan Persegi dalam ERD.
+Relasi/Relationship adalah hubungan yang terjadi antara entitas atau lebih. Contoh: Entitas buku dan Entitas Pengarang memiliki hubungan “ditulis”, yang artinya, pengarang menulis buku, dan buku ditulis pengarang. Selain itu, terdapat relasi “one to one”, “one to many”, dan “many to many” dalam entity. Relasi ini digambarkan dengan garis dalam ERD.
+Atribut/Attribute adalah ciri umum semua entitas atau semua yang ada dalam entitas. Contoh: Entitas pengarang memiliki atribut nama, alamat, no telpon, dsb. Atribut digambarkan dengan lingkaran memanjang dalam ERD tapi jarang sekali dalam ERD atribut ikut digambarkan. Atribut juga sering disebut dengan field atau kolom dalam suatu ERD.
+Ada 10 langkah atau tips yang dapat saya berikan untuk membuat ERD yang baik: 
+
+Metode pembuatan ERD
+Dalam membuat ERD, ada beberapa hal yang perlu kita waspadai, selain itu kita juga dituntut untuk lebih teliti dalam menentuka entity, relasi, atribut, menghindarkan terjadinya relasi “many to many” dan lain sebagainya. Untuk itu lihat beberapa langkah berikut agar kita bisa membuat ERD dengan baik:
+
+Menentukan Entity
+Disini kita dituntut untuk menentukan dengan cermat sebuah entity yang ada dalam suatu proyek atau masalah. Entity berguna untuk menentukan peran, kejadian, lokasi, hal nyata dan konsep penggunaan untuk database
+ Menentukan Relasi
+Setelah kita berhasil membuat Entity, langkah selanjutnya adalah menentukan relasi antar entity. Relasi apa yang terdapat antara Entity A dan B, apakah entity A dan B memiliki relasi “one to one”, “one to many”, atau “many to many”.
+Gambar ERD sementara
+Jika sudah mengetahui Entity beserta Relasinya, sekarang kita buat dulu gambar ERD sementara. Entity digambarkan dengan persegi, relasi digambarkan dengan garis.
+Isi kardinalitas
+Kardinalitas menentukan jumlah kejadian satu entitas untuk sebuah kejadian pada entitas yang berhubungan. Contohnya antara Entitas Buku, Distributor dan Pengarang, kardinalitas yang ada berupa:
+Satu pengarang dapat menulis banyak buku
+Satu buku ditulis satu pengarang
+Banyak buku di distribusikan oleh satu distributor.
+Dari sini kita bisa mengetahui harus memberi relasi apa. One to one kah?, dsb.
+Tentukan Primary Key (Kunci Utama)
+Menentukan Primary Key pada masing-masing entity. Primary Key adalah atribut pada entity yang bersifat unik. Jadi setiap entity hanya memiliki satu Primary Key saja. Contoh: Entity Buku memiliki Primary Key bernama kode buku. Kode Buku ini bersifat unik, karena masing-masing buku memiliki kode yang berbeda-beda.
+Tentukan pula Foreign Key (Kunci Tamu) pada masing-masing Entity. Foreign Key adalah Primary Key yang ada dalam Entity yang lain. Contoh pada Entity Pengarang misalnya terdapat atribut kode buku, yang mana, kode buku merupakan Primary Key dari Entity buku.
+ Gambar ERD berdasarkan Primary Key
+Menghilangkan relasi “many to many” dan memasukkan Primary dan Foreign Key pada masing-masing entitas. Relasi many to many antar entity perlu dihilangkan dengan cara menambah atribut baru antara 2 entity yang memiliki relasi many to many.
+Menentukan Atribut
+Jika sudah melakukan step diatas, sekarang saatnya menentukan atribut pada masing-masing Entitas. Telitilah dalam menentukan atribut.
+Pemetaan Atribut
+Apabila atribut telah ditentukan, sekarang pasang atribut dengan entitas yang sesuai.
+Gambar ERD dengan Atribut
+Mengatur ERD seperti langkah 6 dengan menambahkan atribut dan relasi yang ditemukan.
+Periksa Hasil
+Periksa lagi ERD. Apakah ERD sudah menggambarkan system yang akan dibangun.

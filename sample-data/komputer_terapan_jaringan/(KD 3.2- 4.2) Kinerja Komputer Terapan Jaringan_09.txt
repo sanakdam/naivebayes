@@ -1,0 +1,61 @@
+KINERJA KOMPUTER TERAPAN JARINGAN
+
+         Fungsi spesifik piranti pendukung jaringan pada komunikasi data : 
+Piranti pendukung jaringan komunikasi data ada banyak kita jumpai, namun dalam garis besarnya dibagi menjadi 2 bagian, yaitu hardware dan software. Hardware adalah perangkat keras yang digunakan pengguna komputer untuk dapat mengunakan internet. Sedangkan software adalah perangkat lunak yang mendukung agar komputer mampu melakukan akses internet. Macam – macam hardware yaitu : Komputer Server, Modem, Network Interface Card, WiFi, dll. sedangkan Macam – macam software yaitu : Sistem Operasi, Browser, Driver, dll.
+Kartu Antarmuka Jaringan
+Berikut contoh kartu antarmuka jaringan :
+PCI Adapter                                                                                                              1PCI (Peripheral Component Interconnect) adalah bus yang pada awalnya didesign untuk menggantikan Bus ISA/EISA yang dipakai dalam system komputer IBM. Dirilis pertama kali tahun 1992 dan masih banyak dipakai sampai sekarang ini untuk komputer desktop yang mempunyai slot PCI tentunya. Dari jenis adapter jaringan ada dua macam pemakaian yaitu yang untuk adapter jaringan kabel dan untuk adapter jaringan wireless atau jaringan nirkabel. Gambar berikut menunjukkan slot PCI pada motherboard komputer dan kartu jaringan PCI untuk LAN dan untuk wireless.
+USB Adapter
+2USB (Universal Serial Bus) adalah standard Bus serial yang mempunyai design asimmetris dan di design sebagai slot yang sangat praktis untuk menghilangkan perlunya tambahan slot PCI pada komputer. USB mempunyai kemampuan PnP (Plug and Play – pasang dan mainkan) sehingga saat dipasang di komputer tidak memerlukan suatu reboot komputer. Kartu jaringan wireless USB, yang banyak dipakai karena sifatnya yang praktis dan banyak dipakai untuk kartu jaringan wireless. Tidak ada kartu jaringan LAN yang memakai slot USB kecuali yang dari jenis wireless.
+3. Card Bus / PCMCIA
+3
+Kartu jaringan Cardbus atau PCMCIA yang dipakai pada slot Cardbus atau PCMCIA dari notebook. Kartu jaringan dari jenis Cardbus ini lebih banyak dipakai untuk kartu jaringan wireless juga, walaupun pada awalnya banyak diproduksi adapter LAN dengan speed 10 Mbps di era laptop jaman dulu yang tidak dilengkapi dengan kartu jaringan onboard, sekarang sudah tidak ada lagi.
+4. Express Card
+4
+
+                ExpressCard, awalnya disebut NEWCARD, adalah sebuah antarmuka untuk menghubungkan perangkat periferal ke komputer,biasanya komputer  laptop. ExpressCard  standar teknis menentukan desain slot dibangun ke dalam komputer dan  kartu ekspansi untuk menyisipkan dalam slot. Kartu berisi  sirkuit elektronik dan kadang-kadang konektor untuk perangkat eksternal. ExpressCard standar menggantikan   PC Card (juga dikenal sebagai PCMCIA) standar.
+ExpressCard dapat menghubungkan berbagai perangkat ke komputer termasuk modem mobile broadband (kadang-kadang disebutkartu connect), IEEE 1394 (FireWire) konektor, USB konektor, Ethernet port jaringan, Serial ATA perangkat penyimpanan, solid-state drive, kandang eksternal untuk desktop- Ukuran PCI Express kartu grafis dan perangkat periferal lain, wireless controller antarmuka jaringan (NIC), kartu TV tuner, Umum Akses Kartu (CAC) pembaca, dan kartu suara.
+5. PCI Express USB 3.0 Adapter
+5
+Sejak 2006, sudah mulai banyak produk computer yang melengkapi motherboardnya dengan PCIexpress dengan tersedianya slot PCIe. Sekarang ini banyak produk yang memanfaatkan slot PCI ini antara lain USB port PCI Express adapter. PCI adapter ini mengusung port USB 3.0 SuperSpeed. Lihat juga mengenal lebih dekat USB 3.0. Salah contoh dari adapter PCIe USB 3.0 ini adalah TRENDnet 2-Port USB 3.0 PCI Express Adapter TU3-H2PIE. USB 3.0 ini PCI adapter ini mempunyai 2 port type A yang bisa digunakan pada komputer yang mempunyai slot PCI Express. Adapter ini dilengkapi dengan konektor power dari PC 4-pin untuk memberikan kekuatan power kepada perangkat USB yang terhubung kepada USB portnya. Kecepatan data transfer sungguh luar biasa sampai 5 Gbps lebih dari 10 kali lipat kecepatan transfer rate dari USB 2.0 yang hanya sampai 480 Mbps.
+Piranti penyimpanan Data dan penyedia data
+
+Perangkat Penyimpanan Data :
+•Hard disk
+•Hard disk merupkan alat penyimpanan data sekunder yang kapasitasnya cukup besar. Selain memiiki kapasitas yang bervariasi harddisk juga memiliki interface yang berbeda sesuai teknologi yang diusungnya. Dalam computer desktop saat ini harddisk memiliki fungsi utama untuk meyimpaan system operasi dan aplikasi yang ada.
+
+•FLASHDISK
+•Flasdisk merupakan media penyimpan data paling popular dalam hal mobilitas karena karena ukurannya yang kecil. Selain untuk menyimpan data penting saat ini Flashdisk juga berfungsi sebagai alat bootable media sistem operasi komputer karena dapat diganti sesuai keperluan dan tidak terbatas.
+
+•RAM
+•RAM adalah memori yang berfungsi untuk menyimpan sementara perintah dan data pada saat sebuah program dijalankan. Perintah data tersebut mencakup data yang akan dibaca dari hard disk, data-data yang dimasukkan melalui alat input komputer, dan juga data-data hasil pemrosesan sebuah program.
+
+Perangkat Penyedia Data :
+•Modem adalah singkatan dari modulator dan demodulator. Modulator berfungsi untuk melakukan proses menumpangkan data pada sinyal informasi ke sinyal pembawa agar dapat dikirim ke pengguna melalui media tertentu, proses ini biasa disebut dengan proses modulasi. pada proses ini data dari komputer yang berbentuk sinyal digital akan diubah menjadi sinyal analog. Sedangkan Demodulator berfungsi sebagai proses mendapatkan kembali data yang dikirim oleh pengirim.
+
+ 
+Konsentrator EThernet
+Konsentrator adalah perangkat yang digunakan untuk memperluas dan menambah jumlah komputer dalam sebuah jaringan. Konsentrator terdiri dari dua jenis yaitu hub dan switch. Perbedaan keduanya pada kemampuan transfer data. Pada hub kecepatan transfer data adalah 6,25 Kbps sedangkan pada switch kecepatan transfer data adalah 100 Kbps. 1. Switch
+2. Bridge
+
+•Switch
+Switch bentuknya hampir sama dengan hub. Switch atau lebih dikenal dengan istilah LAN Switch merupakan perluasan dari konsep bridge. Salah satu contohnya adalah HP Procurve V1810-8G yang merupakan 8 Port Gigabit Switch. 
+Cara Kerja: Ada dua arsitektur dasar yang digunakan yaitu: cut-through dan store and forward. Switch cut trough memiliki kelebihan di sisi kecepatan karena ketika sebuah paket datang, switch hanya memperhatikan alamat tujuan sebelum diteruskan ke segmen tujuannya. Sedangkan Switch store and forward merupakan kebalikan dari switch cut-through. Switch ini menerima dan menganalisa seluruh isi paket sebelum meneruskannya ke tujuan dan untuk meneriksa satu paket memerlukan waktu, tetapi ini memungkinkan switch untuk mengetahui adanya kerusakan pada paket dan mencegahnya agar tidak mengganggu jaringan. Switch dengan spesifikasi 10/100Mbps akan mengalokasikan 10/100Mbps penuh untuk setiap port nya. Jadi berapapun jumlah computer yang terhubung, pengguna akan selalu memiliki bandwidth penuh.
+
+
+•Bridge
+Bridge adalah jenis konsentrator yang berfungsi untuk menghubungkan jaringan yang menggunakan transmisi berbeda. misalnya jaringan ethernet baseband dengan jaringan ethernet broadband. Bridge juga dapat menghubungkan jaringan yang menggunakan tipe kabel yang berbeda ataupun topologi yang berbeda. bridge juga dapat mengetahui alamat setiap client yang terhubung pada jaringan.
+
+
+                                                                        •Router
+
+
+Router adalah sebuah alat yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Router berbeda dengan switch. Switch merupakan penghubung beberapa alat untuk membentuk suatu Local Area Network (LAN).
+
+Print Server
+Pengertian print server adalah sistem komputer dalam jaringan yang menangani dan mengeksekusi permintaan percetakan dari perangkat jaringan lainnya.
+
+
+Titik akses nirkabel
+suatu peranti yang memungkinkan peranti  nirkabel untuk terhubung ke dalam jaringan dengan menggunakan Wi-Fi, Bluetooth, atau standar lain. WAP biasanya tersambung ke suatu router (melalui kabel) sehingga dapat meneruskan data antara berbagai peranti nirkabel (seperti komputer atau pencetak) dengan jaringan berkabel pada suatu jaringan. Standar yang diterapkan untuk WAP ditetapkan oleh IEEE dan sebagian besar menggunakan IEEE 802.11.

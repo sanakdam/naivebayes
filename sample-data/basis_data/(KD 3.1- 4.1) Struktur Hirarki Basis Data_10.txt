@@ -1,0 +1,78 @@
+2.2 DATABASE / BASIS DATA
+
+Definisi database/ basis data
+·         Kumpulan file-file yang saling berelasi, relasi tersebut ditunjukkan dengan kunci dari tiap file yang ada untuk digunakan dalam satu lingkup perusahaan, instansi (Kristanto, 1994).
+
+·         Kumpulan file data yang terorganisasi, terintegrasi, dan bisa dipakai bersama (C.J Date, 1981).
+
+·         Kumpulan rekaman data berbagai tipe yang memiliki relasi satu sama lain (Martin, 1977).
+
+·         Sekumpulan data organisasi untuk melayani banyak aplikasi secara efisien dengan memusatkan data dan mengendalikan redundansi data. (Kenneth C. Laudon. Jane P. Louden, 2010).
+
+·         Kumpulan dari data yang saling terintegrasi satu dengan yang lainnya tersimpan dalam perangkat keras komputer dan menggunakan perangkat lunak untuk bantuan dalam mengoperasikannya ( ICT Database/Data Resources Management, Dr. Syopiansyah Jaya Putra, M.Sis, 2010)
+
+Database / Basisdata adalah sekumpulan informasi yang diatur dalam cara tertentu hingga sebuah program komputer dapat dengan cepat memilih data yang diinginkan. Basisdata dapat diibaratkan sebagai sistem pengarsipan elektronis. Basisdata tradisional terdiri dari field, record, dan file. Field adalah item tertentu dari informasi; record adalah sekumpulan field; dan file adalah kumpulan record. Sebagai contoh, buku telepon dapat dianalogikan sebuah file yang terdiri dari banyak record dan setiap record terdiri dari tiga field, yaitu nama, alamat, dan nomor telepon. Konsep alternatif rancangan basisdata disebut hypertext. Dalam basisdata hypertext, setiap obyek, apakah itu merupakan teks, gambar atau film, dapat dihubungkan dengan obyek lainnya. Basisdata hypertext sangat berguna untuk mengatur informasi yang sangat besar tetapi tidak digunakan dalam analisis numerik. Untuk mengakses informasi dari basisdata, diperlukan data base management system (DBMS). DBMS adalah kumpulan program yang memungkinkan pengguna memasukan, mengatur, atau memilih data dari basisdata.
+
+
+Sifat-sifat database / basis data
+
+·         Internal            :  kesatuan (integritas) dari file-file yang terlibat
+·   Terbagi/share  : elemen-elemen database dapat dibagikan pada para user baik secara sendiri-sendiri maupun secara serentak dan pada waktu yang sama (concurrent sharing).
+
+Tipe Database / basis data
+  Tipe Database Terdapat 12 tipe database, antara lain:
+
+       Operational database: Database ini menyimpan data rinci yang diperlukan untuk mendukung operasi dari seluruh organisasi. Mereka juga disebut subject-area databases (SADB), transaksi database, dan produksi database. Contoh: database pelanggan, database pribadi, database inventaris, akuntansi database.
+
+        Analytical database: Database ini menyimpan data dan informasi yang diambil dari operasional yang dipilih dan eksternal database. Mereka terdiri dari data dan informasi yang dirangkum paling dibutuhkan oleh sebuah organisasi manajemen dan End-user lainnya. Beberapa orang menyebut analitis multidimensi database sebagai database, manajemen database, atau informasi database.
+
+          Data warehouse: Sebuah data warehouse menyimpan data dari saat ini dan tahun- tahun sebelumnya - data yang diambil dari berbagai database operasional dari sebuah organisasi.
+
+       Distributed database: Ini adalah database-kelompok kerja lokal dan departemen di kantor regional, kantor cabang, pabrik-pabrik dan lokasi kerja lainnya. Database ini dapat mencakup kedua segmen yaitu operasional dan user database, serta data yang dihasilkan dan digunakan hanya pada pengguna situs sendiri.
+
+           End-user database: Database ini terdiri dari berbagai file data yang dikembangkan oleh end-user di workstation mereka. Contoh dari ini adalah koleksi dokumen dalam spreadsheet, word processing dan bahkan download file.
+
+       External database: Database ini menyediakan akses ke eksternal, data milik pribadi online - tersedia untuk biaya kepada pengguna akhir dan organisasi dari layanan komersial. Akses ke kekayaan informasi dari database eksternal yang tersedia untuk biaya dari layanan online komersial dan dengan atau tanpa biaya dari banyak sumber di Internet.
+
+     Hypermedia databases on the web: Ini adalah kumpulan dari halaman-halaman multimedia yang saling berhubungan di sebuah situs web. Mereka terdiri dari home page dan halaman hyperlink lain dari multimedia atau campuran media seperti teks, grafik, gambar foto, klip video, audio dll.
+
+                Navigational database: Dalam navigasi database, queries menemukan benda terutama dengan mengikuti referensi dari objek lain.
+
+    In-memory databases: Database di memori terutama bergantung pada memori utama untuk penyimpanan data komputer. Ini berbeda dengan sistem manajemen database yang menggunakan disk berbasis mekanisme penyimpanan. Database memori utama lebih cepat daripada dioptimalkan disk database sejak Optimasi algoritma internal menjadi lebih sederhana dan lebih sedikit CPU mengeksekusi instruksi.
+
+.         Document-oriented databases: Merupakan program komputer yang dirancang untuk aplikasi berorientasi dokumen. Sistem ini bisa diimplementasikan sebagai lapisan di atas sebuah database relasional atau objek database. Sebagai lawan dari database relasional, dokumen berbasis database tidak menyimpan data dalam tabel dengan ukuran seragam kolom untuk setiap record. Sebaliknya, mereka menyimpan setiap catatan sebagai dokumen yang memiliki karakteristik tertentu. Sejumlah bidang panjang apapun dapat ditambahkan ke dokumen. Bidang yang dapat juga berisi beberapa bagian data.
+
+            Real-time databases Real-time: Database adalah sistem pengolahan dirancang untuk menangani beban kerja negara yang dapat berubah terus- menerus. Ini berbeda dari database tradisional yang mengandung data yang terus- menerus, sebagian besar tidak terpengaruh oleh waktu.
+
+          Relational Database: Database yang paling umum digunakan saat ini. Menggunakan meja untuk informasi struktur sehingga mudah untuk mencari.
+
+
+Struktur Database / Basis Data
+
+Definisi Dasar Struktur Database
+ü  Data : Sekumpulan fakta mengenai objek tertentu, orang dan lain-lain yang dinyatakan dengan angka, huruf, gambar, film, suara dan sebagainya yang relevan dan belum mempunyai arti.
+
+ü   Informasi : Hasil pengolahan data yang konkrit dan sudah mempunyai arti untuk mencapai suatu tujuan tertentu.
+ü  Tabel : Merupakan hal yang paling mendasar dalam hal penyimpanan data yang terdiri dari field dan record.
+
+ü  Field (kolom) : Merupakan elemen dari tabel yang berisikan informasi tertentu yang spesifik tentang sub judul tabel pada sebuah item data. Syarat-syarat pembentukan Field Name pada tabel:
+·         Harus Unik atau Spesifik
+·         Boleh disingkat
+·         Pemisah sebagai pengganti spasi dalam pembentuk field adalah tanda lambang "_" Contoh: Kode Barang menjadi KdBarang, KodeBrg, Kd_Brg, Kd_Barang.
+
+Dalam sistem manajemen basisdata, terdapat tiga macam field:
+v  Harus diisi (required)
+v  Dapat diabaikan (optional)
+v  Penghitungan dari field lainnya (calculated). Pengguna tidak dapat memasukan data pada jenis field yang terakhir (calculated).
+~ Kumpulan field disebut record
+ü  Query
+Query adalah pertanyaan atau permintaan informasi tertentu dari sebuah basisdata yang ditulis dalam format tertentu. Terdapat tiga metode utama untuk membuat query:
+1. dengan memilih parameter yang telah disediakan pada menu. Metode ini paling mudah digunakan namun paling tidak fleksibel karena pengguna hanya dapat menggunakan pilihan parameter yang terbatas.
+2. Query by example (QBE) adalah metode query yang disediakan sistem dalam bentuk record kosong dan pengguna dapat menentukan field dan nilai tertentu yang akan digunakan dalam query.
+3. Bahasa query (query language) adalah bahasa khusus yang digunakan untuk melakukan query pada sebuah basisdata. Metode ini paling rumit tetapi paling fleksibel.
+ü  Record (baris) : Sekumpulan data yang saling berkaitan tentang sebuah subjek tertentu, misalnya data seorang siswa akan disimpan dalam record yang terdiri dari beberapa kolom / field. 
+
+Struktur database / basis data adalah cara data di organisasi agar pemrosesan data menjadi lebih efesien. Sistem manajemen basis data (DBMS) adalah suatu aplikasi peranti lunak yang menyimpan struktur basis data-data itu sendiri, hubungan diantara data dalam basis data, dan nama-nama formulir, jenis- jenis data, angka dibelakang desimal, jumlah karakter, nilai-nilai default dan seluruh uraian field lainnya.
+Struktur Basis Data Hierarkis Dibentuk oleh kelompok – kelompok data, sub kelompok data dan beberapa sub kelompok lagi. Struktur hirarki untuk basis data pada awalnya populer karena ia bekerja dengan baik pada sistem pemprosesan transaksi yang melakukan tugas-tugas seperti pengendalian persediaan, entri pesanan, piutang dan hutang dagang.
+Struktur Basis Data Jaringan Dikembangkan untuk memungkinkan penarikan record-record tertentu. Ia memungkinkan satu record tertentu menunjukan pada semua record lainnya di dalan basis data.
+Struktur Basis Data Relasional Organisasi bisnis tidak pernah secara luas menerapkan sistem manajemen basis data yang dibangun berdasarkan struktur jaringan.

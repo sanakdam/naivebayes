@@ -1,0 +1,61 @@
+Teknologi Komunikasi Data dan Suara
+Diterbitkan November 04, 2017
+ TAGS
+ Hai kawan selamat datang di blog saya. Pada kesempatan kali ini saya akan memberikan materi tentang Teknologi Komunikasi Data dan Suara. Mari kita simak gan...
+
+
+
+A. Komunikasi Data.
+
+ Komunikasi Data adalah proses pengiriman informasi (data) yang telah diubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmis dari pengirim (sender) ke penerima (receiver).
+
+Jenis-jenis komunikasi data berdasarkan medianya :
+a. Menggunakan kabel, Contoh : Coaxial, UTP/STP, DAN FO.
+b. Nirkabel (tidak menggunakan kabel), Contoh : wireless, bluetooth.
+
+Sebuah proses komunikasi data akan terjadi bila memenuhi syarat sebagai berikut :
+1. Ada pengirim (sender).
+2. Ada penerima (receiver).
+3. Ada data yang dikirim oleh sender.
+4. Ada media transmisi untuk mengirimkannya .
+
+Cara menjaga data dalam sistem komunikasi data
+a. Pastikan media transmisi tidak rusak.
+b. Pastikan Alamat IP yang mau dikirim benar.
+c. Lindungi kabel-kabel dari binatang perusak.
+d. Letakan Kabel kabel ditempat yang aman.
+e. selalu rutin scan virus. Recomendasi sehari 2x.
+f. HDD yang digunakan tidak boleh Bad sector.
+g. Agar lebih baik, HDD yang digunakan tidak dicampur dengan game ini membuat file menjadi lemot.
+
+Hambatan ketika melakukan komunikasi data antara lain :
+1. Hambatan yang bersifat teknis, yaitu pesan tidak dapat utuh diterima receiver.
+2. Hambatan bahasa, yaitu pesan yang kita kirimkan tidak dapat ditafsirkan secara sempurna oleh receiver.
+3. Hambatan bola salju, yaitu pesan semakin lama semakin membesar.
+
+B. Komunikasi Suara.
+
+  Komunikasi Suara adalah jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara untuk didengarkan.
+
+Jenis komunikasi suara:
+a. Komunikasi siaran radio atau radio broadcasting.
+b. Komunikasi radio amartir.
+c. Komunikasi radio 2 arah.
+d. Komunikasi radio antar penduduk atau citizen band.
+e. Komunikasi radio panggil atau paging system.
+f. Komunikasi telepon.
+
+Ciri komunikasi suara:
+1. Hanya bisa ditangkap oleh indra pendengar.
+2. Bersifat verbal(langsung).
+3. Tidak ada visualisasi.
+4. Hanya ada media penghantar suara.
+5. Memiliki frekuensi.
+6. Dapat dimengerti.
+7. Digunakan untuk menyampaikan informasi.
+8. Informasi yang dikirim dapat diterima.
+
+Syarat komunikasi suara:
+a. Pengirim (tranceiver) : pihak yang mengirimkan informasi.
+b. Media transmisi : media yang digunakan untuk mengirimkan informasi.
+c. Penerima (receiver) : pihak yang menerima informasi.

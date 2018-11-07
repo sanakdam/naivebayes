@@ -1,0 +1,91 @@
+Analisis Kebutuhan Perangkat Lunak dan Perangkat Keras Server
+Posted By Nanang Ajim | Posted On 2:26 PM | With No Comments
+Komputer server  merupakan perangkat yang didalamnya terinstal sistem operasi jaringan, yang sengaja dibangun untuk melayani berbagai komunikasi data dari user (klien). Komputer klien umumnya adalah komputer dengan sistem operasi klien baik desktop ataupun mobile. Analisa perlu dilakukan untuk mengetahui server seperti apa yang akan dibangun. 
+
+Penentuan kebutuhan akan sistem operasi jaringan dapat diketahui dengan memahami user yang akan menggunakan sistem tersebut. Sistem yang dipilih diharapkan merupakan sistem yang mampu menjalankan semua kebutuhan aplikasi yang diinginkan oleh user, termasuk didalamnya perangkat keras yang mendukung untuk menjalankan hal tersebut. 
+
+A. Analisa Kebutuhan Peranglat Lunak Server
+Identifikasi Kebutuhan Aplikasi
+Kecocokan perangkat keras dan perangkat lunak yang ada dalam sistem komputer ini biasa dikenal dengan istilah kompatibilitas. Kompatibilitas ini dapat diketahui melalui tipe jaringan yang digunakan. Jaringan Linux mampu menghubungkan berbagai distro linux termasuk juga dari berbagai versi dari sistem operasi Windows dan Mac Os.
+
+Berikut merupakan panduan yang dapat digunakan untuk menentukan sistem operasi terbaik untuk perangkat server sesuai kebutuhan user.
+Apakah ada kebutuhan pengolahan data dengan aplikasi khusus? Bila ada maka penentuan sistem operasi dapat dilihat berdasarkan aplikasi khusus tersebut.
+Apakah aplikasi-aplikasi tersebut mendukung lingkungan multi-user atau user tunggal? Ini dapat menentukan apakah akan diinstall di komputer server atau client. Selain itu ini dapat digunakan untuk menentukan bagian mana dari pengolahan data nanti yang bisa disimpan di server.
+Apakah ada data (file) yang dibagi dalam jaringan? Jika ada, maka sebaiknya menggunakan sistem operasi jaringan yang mampu menjaga kompatibilitas format data-nya.
+Perangkat Lunak Server
+Apabila dalam jaringan ada kegiatan berbagi dokumen teks seperti file berekstensi .doc, maka server dapat menyediakan aplikasi seperti LibreOffice atau WPS Office untuk dapat digunakan oleh user untuk membuka file tersebut termasuk juga menyediakan layanannya seperti server FTP.
+
+Dokumentasi dan Spesifikasi Kebutuhan
+Hasil dari semua analisa kebutuhan selanjutnya dibuatkan dokumentasi yaitu dokumen spesifikasi kebutuhan perangkat lunak server. Dokumen ini hendaknya dibuat sejelas mungkin agar pada saat implementasi semua kebutuhan user dapat terpenuhi.
+
+Uji Kebutuhan
+Langkah ini diperlukan untuk mendapatkan sinkronisasi akhir sebelum spesifikasi kebutuhan perangkat lunak benar-benar diterapkan pada server.
+
+Berikut ini contoh daftar aplikasi server dengan sistem Debian yang diperlukan untuk kebutuhan klien berikut.
+Kebutuhan User	Aplikasi Server
+Akses Internet	Akses internet adalah kebutuhan yang utama bila sebuah server itu memungkinkan semua usernya untuk bisa mengakses Luar Area Network nya. Aplikasinya : Squid, Proxy Server, Zeus Webserver
+Server untuk berbagi file/dokumen	Ini adalah kebutuhan user yang sangat penting. Terlebih bila Digunakan untuk area perkantoran yang mengharuskan berbagi file agar mempermudah pekerjaan. Aplikasinya : Samba Server, GSTPD, Proftpd
+Akses domain lokal	Akses ini digunakan agar suatu Server Memiliki domain name server sendiri. Aplikasinya : Lampp, bind9, Apache Tomcat
+Pengalamatan otomatis	Aplikasi ini biasanya digunakan agar semua user , tidak usah menyeting ip mereka secara Static, karena sudah otomatis mendapat bagian dari IP Pool Server. Aplikasinya : DHCP Server
+Jejaring sosial lokal	Aplikasi ini mendukung agar semua user bisa saling berkomunikasi melalui suatu media sosial tanpa harus langsung bertatap muka. Aplikasinya : Web Mail Server, Webmin Server
+Pembelajaran online lokal	Untuk pembelajaran onlone lokal dapat memanfaatkan teknologi informasi dan komunikasi sebagai media bantu / pendamping pembelajaran. Aplikasinya adalah LAMPP dan Moodle.
+Komunikasi tekstual	Tanpa harus menggunakan Yahoo/Gmail/Pihak penyedia email . Aplikasi Ini  memungkinkan semua user bisa saling mengirimkan email. Aplikasinya : Mail Server
+Komunikasi audio/video	Komunikasi Ini bisa digunakan untuk berkomunikasi secara langsung walaupun keadaan jarak yang Jauh. Aplikasinya : Darwin Streaming Server
+
+B. Analisis Kebutuhan Perangkat keras Server
+Dari aplikasi-aplikasi yang berhasil diindentifikasi pada tahap analisa kebutuhan perangkat lunak sebelumnya akan dapat diketahui seberapa besar spesifikasi komputer server yang akan digunakan. Ini mulai dari jumlah memori (RAM), media penyimpan (harddisk), kecepatan prosesor dan spesifikasi lainnya sesuai aplikasi server yang akan dijalankan.
+
+Analisis mulai dari identifikasi kebutuhan perangkat keras dari setiap aplikasi yang akan digunakan, dilanjutkan dengan membuat dokumentasi dan melakukan review (pengujian).
+Kebutuhan User	Spesifikasi Perangkat Keras
+Akses Internet	Server ( Ubuntu Server+Squid Proxy Server )
+Prosesor Intel Dual Core (2.6 Ghz) TRAY
+Mainboard ASUS P5 KPL AM-SE (Astrindo )
+Memory DDR2 V-gen 2 Gb
+Harddisk 20 gb SCSI 2 buah ( 2nd dan tergantung stock )
+Ethernet/LAN Card tambahan 1 buah
+Server untuk berbagi file/dokumen	Alplikasi Samba Server, Spesifikasi :
+Motherboard ASUS p5gc-mx
+Processor Intel Core 2 Duo 3.0 Ghz
+HARDDISK sata seagate 1TB
+RAM Kinston 2GB
+VGACard NVIDIA G800-Mx 512 Mb
+Monitor LCD Sony 17"
+DVD-Rom Sony Blue Ray Combo Writer
+Akses domain lokal	Os : Debian
+Procesor : Speednya 2,66 Ghz, Fsb 1066, cache 1-2 MB (core 2 duo)
+Chipset : tersinkronisasi dengan sistem di motherboard
+Memory (RAM) : 4Gb DDR2 800 Mhz
+Harddisk : 100Gb
+1 buah NIC (network interface card)
+Monitor LCD ‘17
+Keyboard dan Mouse
+Pengalamatan otomatis	Aplikasi DHCP Server
+AMD Athlon (tmXP 2100+) 1733 MHz
+Memori 256MB
+Sistem Operasi Linux Slackware 9
+Hardisk minimal System dasar  500mb Semua tugas 1GB
+Jejaring sosial lokal	Aplikasinya : Web Mail Server
+Processor : Minimal Pentium 4 3 Ghz 64 bit
+RAM/Memory : Minimal 4 GB
+Harddisk : Double Harddisk, SATA/SCSI/SAS, H/W RAID atau S/W
+Network : Dual Network Card Gigabit
+Bandwidth : Minimal 128 Kbps dedicated
+Pembelajaran online lokal	Aplikasi:  LAMPP
+Prosessor: Intel G3220 Dual Core 3.0 Ghz
+Motherboard: Biostar H81MDV3
+RAM: Corsair: DDR3 4GB
+Hardisk: WDC 320GB SATA
+VGA: Inno3D GT 730 1GB DDR5
+Komunikasi tekstual	Aplikasi : Mail Server
+Processor : Minimal Pentium 4 3 Ghz 64 bit
+RAM/Memory : Minimal 4 GB,
+Harddisk : Double Harddisk, SATA/SCSI/SAS
+Network : Dual Network Card Gigabit
+Bandwidth : Minimal 128 Kbps dedicated
+Komunikasi audio/video	Aplikasinya : Darwin Streaming Server
+Prosesor Intel Pentium 4 (2.4 Ghz) TRAY
+Mainboard Amtron P4M945 LM4
+Memory DDR2 V-gen 1 Gb
+Harddisk Seagate/WDC/Maxtor 40Gb Type IDE
+Casing ATX E-Case + 2 FAN CPU
+Ethernet/LAN Card tambahan 1 buah

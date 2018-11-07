@@ -1,0 +1,80 @@
+Materi Rekayasa Perangkat Lunak Tentang Database
+Data Base Management System (DBMS)
+ 
+DBMS dapat diartikan sebagai program komputer yang digunakan untuk memasukkan, mengubah, menghapus, memodifikasi dan memperoleh data/informasi dengan praktis dan efisien.
+
+Kelebihan dari DBMS antara lain adalah:
+Penyimpanan data dalam bentuk DBMS mempunyai banyak manfaat dan kelebihan dibandingkan dengan penyimpanan dalam bentuk flat file atau spreadsheet, diantaranya :
+Performance yang idapat dengan penyimpanan dalam bentuk DBMS cukup besar, sangat jauh berbeda dengan performance data yang disimpan dalam bentuk flat file. Disamping memiliki unjuk kerja yang lebih baik, juga akan didapatkan efisiensi penggunaan media penyimpanan dan memori
+Integritas data lebih terjamin dengan penggunaan DBMS. Masalah redudansi sering terjadi dalam DBMS. Redudansi adalah kejadian berulangnya data atau kumpulan data yang sama dalam sebuah database yang mengakibatkan pemborosan media penyimpanan.
+Independensi. Perubahan struktur database dimungkinkan terjadi tanpa harus mengubah aplikasi yang mengaksesnya sehingga pembuatan antarmuka ke dalam data akan lebih mudah dengan penggunaan DBMS.
+Sentralisasi. Data yang terpusat akan mempermudah pengelolaan database. kemudahan di dalam melakukan bagi pakai dengan DBMS dan juga kekonsistenan data yang diakses secara bersama-sama akan lebiih terjamin dari pada data disimpan dalam bentuk file atau worksheet yang tersebar.
+Sekuritas. DBMS memiliki sistem keamanan yang lebih fleksibel daripada pengamanan pada file sistem operasi. Keamanan dalam DBMS akan memberikan keluwesan dalam pemberian hak akses kepada pengguna.
+Keuntungan-keuntungan dalam penggunaan DBMS antara lain adalah:
+a.       Independensi data,DBMS menyediakan pendekatan yang membuat perubahan dalam data tidak membuat program harus diubah.
+b.      Pengaksesan yang efisien terhadap data, DBMS menyediakan berbagai teknik yang canggih sehingga penyimpanan dan pengambilan data dilakukan secara efisien.
+c.       Keamanan dan integritas data, Karena data dikendalikan oleh DBMS, DBMS dapat melakukan kendala integritas terhadap data. Segala sesuatu yang tidak sesuai dengan definisi suatu field dan kekangan yang melekat pada field akan ditolak. Sebagai contoh, jika field Jenis_Kelamin dinyatakan berupa P atau W, maka penyimpanan L ke field tersebut dengan sendirinya akan ditolak oleh DBMS.
+d.      Administrasi data, Jika sejumlah pemakai berbagi data, pemusatan administrasi dapat meningkatkan perbaikan yang sangat berarti. Dengan cara seperti ini, duplikasi atau redudansi data dapat diminimalkan.
+e.       Akses bersamaan dan pemulihan terhadap kegagalan, DBMS menyediakan mekanisme sehingga data yang sama dapat diakses oleh sejumlah orang dalam waktu yang sama. Selain itu, DBMS melindungi pemakai dari efek kegagalan sistem. Jika terjadi kegagalan sistem, DBMS dapat mengembalikan data sebagaimana kondisi saat sebelum terjadi kegagalan.
+f.       Waktu pengembangan aplikasi terpendek, DBMS menawarkan banyak fasilitas yang memudahkan dalam menyusun aplikasi sehingga waktu pengembangan aplikasi dapat diperpendek.
+Kelemahan-kelemahan DBMS antara lain:
+Biaya & Harga DBMS yang Tinggi & Mahal Kebutuhan untuk medapatkan perangkat lunak dan perangkat keras yang tepat cukup mahal, termasuk biaya pemeliharaan dan sumber daya  manusia yang mengelola basis data tersebut.
+Sangat kompleks. Sistem basis data lebih kompleks dibandingkan dengan proses berkas, sehingga dapat mudah terjadinya kesalahan dan semakin sulit dalam pemeliharaan data.
+Resiko data yang terpusat. Data yang terpusat dalam satu lokasi dapat beresiko  kehilangan data selama proses aplikasi.
+Membutuhkan media penyimpanan yang besar
+Membutuhkan memory komputer yang besar
+Membutuhkan spesifikasi hardware yang tinggi / khusus
+Membutuhkan waktu yang lama untuk konversi sistem
+Terkadang kinerja DBMS low performance
+Resiko kegagalan cukup tinggi
+Arsitektur DBMS
+Arsitektur ini dikenal dengan nama arsitektur tiga skema (three-schema architecture) dimana fungsi ini untuk memisahkan antara basis data fisik dengan program aplikasi user. Skema-skema tersebut adalah sebagai berikut:
+a.        Level internal merupakan skema internal yang memuat deskripsi struktur penyimpanan basis data dan menggunakan model data fisikal serta mendefinisikan secara detail penyimpanan data dalam basis data, serta jalur pengaksesan data.
+b.       Level konsepsual adalah skema yang memuat deskripsi struktur basis data secara keseluruhan untuk semua pemakai. Skema ini hanya memuat deskripsi tentang entitas, atribut, hubungan dan batasan, tanpa memuat deskripsi data secara detail.
+c.        Level eksternal merupakan skema eksternal (user view) yang mendefinisikan pandangan data terhadap sekelompok user (local view) dengan menyembunyikan data lain yang tidak diperlukan oleh kelompok user tersebut.
+Komponen DBMS
+Secara umum komponen-komponen DBMS terdiri dari:
+Interface, yang didalamnya terdapat bahasa manipulasi data (data manipulation language)   Bahasa definisi data (data definition language) untuk skema eksternal, skema konsepsual dan skema internal.
+Sistem kontrol basis data (Database Control System) yang mengakses basis data karena adanya perintah dari bahasa manipulasi data.
+Perangkat Keras  ( Hardware )
+Perangkat keras yang biasanya terdapat dalam sistem basis data adalah memori sekunder hardisk.
+·         Sistem Operasi ( Operating System )
+Sistem Operasi (Operating System) merupakan program yang mengaktifkan atau mengfungsikan sistem komputer, mengendalikan seluruh sumber daya (resource) dan melakukan operasi-operasi dalam komputer. Sistem Operasi yang banyak digunakan seperti: MS-DOS, MS-Windows 95 MS Windows NT, dan Unix.
+·         Basis data ( Database )
+Sebuah basis data ( Database ) dapat memiliki beberapa basis data. Setiap basis data dapat berisi atau memiliki sejumlah objek basis data seperi file atau tabel.
+·         Pemakai ( User )
+Bagi pemakai dapat berinteraksi dengan basis data dan memanipulasi data dalam program yang ditulis dalam bahasa pemograman.
+·         Database administrator adalah orang atau group yang bertanggungjawab mengimplementasikan sistem database di dalam suatu organisasi
+·         End user adalah orang yang berada di depan workstation dan berinteraksi secara langsung dengan sistem.
+·         Programmer aplikasi, orang yang berinteraksi dengan database melalui cara yang   berbeda.
+Contoh bahasa menggunakan komponen-komponen tersebut adalah SQL (Structured Query Language). SQL merupakan bahasa standar yang digunakan oleh kebanykan aplikasi-aplikasi DBMS.
+1.1.1 Model Data
+Model data dapat dikelompokkan berdasarkan konsep pembuatan deskripsi struktur basis data, yaitu:
+Model data konsepsual (high level) menyajikan konsep tentang bagaiman user memandang atau memperlakukan data. Dalam model ini dikenalkan tiga konsep penyajian data yaitu:
+·         Entity  (entitas)  merupakan  penyajian  obyek,  kejadian  atau  konsep  dunia  nyata  yang keberadaannya secara eksplisit didefinisikan dan disimpan dalam basis data, contohnya : Mahasiswa, Matakuliah, Dosen, Nilai dan lain sebagainya.
+·          Atribute  (atribut)  adalah  keterangan-keterangan  yang  menjelaskan karakteristik dari suatu entitas seperti NIM, Nama, Fakultas, Jurusan untuk entitas Mahasiswa.
+·         Relationship (hubungan) merupakan hubungan atau interaksi antara satu entitas dengan yang lainnya, misalnya entitas pelanggan berhubungan dengan entitas barang yang dibelinya.
+Model data fiskal (low level) merupakan konsep bagaimana deskripsi detail data disimpan ke dalam komputer dengan menyajikan informasi tentang format rekaman, urutan rekaman, dan jalur pengaksesan data yang dapat membuat pemcarian rekaman data lebih efisien.
+Model data implementasi (representational) merupakan konsep deskripsi data disimpan dalam komputer dengan menyembunyikan sebagian detail deskripsi data sehingga para user mendapat gambaran global bagaimana data disimpan dalam komputer. Model ini merupakan konsep model data yang digunakan oleh model hirarki, jaringan dan relasional.
+Skema dan Instan Basis Data
+Skema basis data merupakan deskripsi dari basis data yang spesifikasinya ditentukan dalam tahap perancangan namun tidak terlalu diharapkan diubah setiap saat. Penggambaran skema umumnya hanya berisi sebagian dari deatil deskripsi basis data. 
+Sekelompok data yang tersusun dalam satu baris rekaman (record/tuple) dan tersimpan dalam basis data disebut dengan instansi (instance) atau kejadian (occurences).
+2.2 MODEL DATA RELASIONAL
+Pada model relasional, basis data akan “disebar”  atau dipilah-pilah ke dalam berbagai tabel dua dimensi. Setiap tabel selalu terdiri atas lajur mendatar yang disebut baris data (row / record) dan lajur vertikal yang biasa disebut dengan kolom (column / field).
+Contoh Tabel dan keterhubungannya :
+Keuntungan Basis Data Relasional
+1. Bentuknya sederhana
+2.  Mudah melakukan berbagai operasi data
+Istilah dalam Basis Data Relasional :
+Relasi 
+Relasi merupakan sebuah tabel yang terdiri dari beberapa kolom dan beberapa baris. Relasi menunjukkan adanya hubungan  diantara sejumlah entitas yang berasal dari himpunan entitas yang berbeda. Entitas merupakan individu yang mewakili sesuatu yang nyata dan dapat dibedakan dengan yang lainnya.
+Atribut
+Atribut merupakan kolom pada sebuah relasi. Setiap entitas pasti memiliki aribut yang mendeskripsikan karakter dari entitas tersebut. Penentuan atau pemilihan atribut-atribut yang relevan bagi sebuah entitas merupakan hal penting dalam pembentukan model data.
+Tuple
+Tuple merupakan baris pada sebuah relasi atau kumpulan elemen-elemen yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap. Satu record mewakili satu data atau informasi tentang seseorang, misalnya : NPM, nama mahasiswa, alamat, kota, dll.
+Domain
+Kumpulan nilai yang valid untuk satu atau lebih atribut
+Derajat (degree)
+Jumlah atribut dalam sebuah relasi
+Cardinality
+Jumlah tupel dalam sebuah relasi

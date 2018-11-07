@@ -1,0 +1,69 @@
+ARRAY SATU DIMENSI dan MULTI-DIMENSI
+
+
+ARRAY SATU DIMENSI dan MULTI-DIMENSI
+
+1.      Pengertian Array
+Array adalahsuatustruktur yang terdiridarisejumlahelemen yang memilikitipe data yang sama. Elemen-elemen array tersusunsecarasekuensialdalam memory computer.Array dapatberupasatudimensi, duadimensi, tigadimensiataupunbanyakdimensi (multi dimensi).
+Keadaaninidapatdiilustrasikansebagaisebuahasramamahasiswa, yang setiapkamarnyamempunyainomorurutdandihuniolehseorangmahasiswa.Seorangmahasiswadapatdibedakandengannomorurutkamarnya.Asramamahasiswaseperti array, elemen-elemenasramabertipesamayaitumahasiswa, dannomorkamaradalahindeksnya.
+Array di bagi menjadi 2, yaitu :
+a.       Array satu dimensi
+Setiap array dapat di akses melalui indeks. Indeks array secara default di mulai dari 0. 
+ 
+b.       Array multi dimensi
+struktur data yang mengacupadasekumpulanelemen yang diaksesmelaluiindeks.Array  duadimensi, yang memilikiindeksbarisdankolom.
+ 
+
+
+
+
+Kamus data
+A                     : array [1..2, 1..3] ofinteger    {ukuran 2x3}
+Nilai                : array [1..50,1..4] ofreal        {ukuran 50x4}
+Type WAKTU :record
+< JJ   : integer [0..23],
+MM :integer [0..59],
+DD :integer [0..59] >
+Absensi           : array [1..100, 1..2] ofWaktu
+Proses Matriks
+ElemenMatriksdiprosesBaris demi Baris
+ElemenMatriksdiprosesKolom demi Kolom
+Kelebihan dan Kekurangan
+1.      Kelebihan
+a.       Struktur Data paling mudah.
+b.      Memoriekonomis, bilasemuaelementerisi.
+c.       Waktuaksessamakesetiapelemen.
+2.      Kekurangan
+Borosmemorijikabanyakelemen yang tidakdigunakan.
+
+
+Algoritma, Flowchart, dan Pseudocode.
+1.      Algoritma
+Urutanlangkah-langkahlogistertentuuntukmemecahkansuatumasalah. Urutanlangkahlogis, yang berartialgoritmaharusmengikutisuatuurutantertentu, tidakbolehmelompat – lompat(Dari Microsoft Press Computer and Internet Dictionaary 1997, 1998).
+Alurpemikirandalammenyelesaikansuatupekerjaan yang dituangkansecaratertulis. Alurpemikiran, sehinggaalgoritmaseseorangdapat juga berbedadarialgoritma orang lain. Tertulis, yang artinyadapatberupakalimat, gambar, atautabeltertentu (Dari AlgoritmadanStruktur Data dengan C, C++, dan Java olehMohSjukanihal 1).
+Ciri-ciri algoritma :
+a.       Ada input
+b.      Ada proses
+c.       Ada output
+d.      Memiliki instruksi-instruksi yang jelas dan tidak ambigu
+e.       Harus mempunyai stoping role
+Kegunaan algoritma adalah untuk membantu seseorang dalam menyelesaikan suatu masalah berdasarkan pada pola pikirnya masing-masing.
+Sifat algoritma :
+1.      Tidak menggunkan simbol atau sintaks dari suatu bahasa pemrograman.
+2.      Tidak tergantung pada suatu bahas pemrograman.
+3.      Notasi-notasinya dapat di gunakan untuk seluruh bahasa manapun.
+2.      Flowchart
+Flowchart adalah bentukgambar/diagram yang mempunyaialiransatuatauduaarahsecarasekuensial.Kegunaan flowchart yaitu untuk mendesain program dan untuk mempresentasikan program.
+            Secara garis besar, unsur-unsur bahasa pemrograman adalah Input - Proses – Output.
+
+
+            Simbol-simbol flowchart
+
+3.      Pseudo-code
+Kodeatautanda yang menyerupai (pseudo) ataumerupakanpenjelasancaramenyelesaikansuatumasalah. Pseudo-code sering digunakan oleh seseorang untuk menuliskan algoritma dari suatu permasalahan. Pseudo-codemenggunakanbahasa yang hampirmenyerupaibahasapemrograman. Selainitubiasanyapseudo-code menggunakanbahasa yang mudahdipahamisecara universal dan juga lebihringkasdaripadaalgoritma.
+Bagian-bagian (blok) dalamteksalgoritma:
+ü  JUDUL (header) algoritma
+ü  DEKLARASI algoritma
+ü  DESKRIPSI algoritma
+Keterangan pada pseudo-code :
+Pasangantandakurungkurawal (‘{‘ dan ‘}’) digunakanuntukmemberikankomentar (untukmemperjelasmaksudteks yang dituliskan).

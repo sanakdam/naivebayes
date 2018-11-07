@@ -1,0 +1,23 @@
+Pengertian Entity Relationship Diagram (ERD)
+Posted by : nafi zulkarnain Wednesday, September 18, 2013
+Menurut pendapat Kronke (2006) Entity Relationship Diagram (ERD) adalah adalah suatu pemodelan konseptual yang didesain secara khusus untuk mengidentifikasikan entitas yang menjelaskan data dan hubungan antar data.
+
+Simbol-simbol Dalam ERD
+
+
+ERD merupakan suatu model untuk menjelaskan hubungan antardata dalam basis data berdasarkan objek-objek dasar data yang mempunyai hubungan antar relasi. ERD untuk memodelkan struktur data dan hubungan antardata, untuk menggambarkannya digunakan beberapa notasi dan simbol. Pada dasarnya ada tiga komponen yang digunakan, yaitu :
+a. Entiti
+Entiti merupakan objek yang mewakili sesuatu yang nyata dan dapat dibedakan dari sesuatu yang lain. Simbol dari entiti ini biasanya digambarkan dengan persegi panjang.
+b. Atribut
+Setiap entitas pasti mempunyai elemen yang disebut atribut yang berfungsi untuk mendes-kripsikan karakteristik dari entitas tersebut. Isi dari atribut mempunyai sesuatu yang dapat mengidentifikasikan isi elemen satu dengan yang lain. Gambar atribut diwakili oleh simbol elips.
+c. Hubungan / Relasi
+Hubungan antara sejumlah entitas yang berasal dari himpunan entitas yang berbeda. Relasi dapat digambarkan sebagai berikut:
+Relasi yang terjadi diantara dua himpunan entitas (misalnya A dan B) dalam satu basis data yaitu:
+1) Satu ke satu (One to one)
+Hubungan relasi satu ke satu yaitu setiap entitas pada himpunan entitas A berhubungan paling banyak dengan satu entitas pada himpunan entitas B.
+2) Satu ke banyak (One to many)
+Setiap entitas pada himpunan entitas A dapat berhubungan dengan banyak entitas pada himpunan entitas B, tetapi setiap entitas pada entitas B dapat berhubungan dengan satu entitas pada himpunan entitas A.
+3) Banyak ke banyak (Many to many)
+Setiap entitas pada himpunan entitas A dapat berhubungan dengan banyak entitas pada himpunan entitas B.
+
+salin : http://kapanpunbisa.blogspot.com/2013/05/pengertian-entity-relationship-diagram.html

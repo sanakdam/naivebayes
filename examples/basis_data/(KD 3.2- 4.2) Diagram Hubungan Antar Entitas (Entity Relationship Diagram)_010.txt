@@ -1,0 +1,45 @@
+Pengertian ERD (Entity Relationship Diagram)
+Pengertian dari ERD (Entity Relationship Diagram) adalah suatu model untuk menjelaskan hubungan antar data dalam basis data berdasarkan objek-objek dasar data yang mempunyai hubungan antar relasi.
+ERD untuk memodelkan struktur data dan hubungan antar data, untuk menggambarkannya digunakan beberapa notasi dan simbol.
+
+Pada dasarnya ada tiga komponen yang digunakan, yaitu :
+
+a. Entitas
+Entiti merupakan objek yang mewakili sesuatu yang nyata dan dapat dibedakan dari sesuatu yang lain. Simbol dari entiti ini biasanya digambarkan dengan persegi panjang.
+
+b. Atribut
+Setiap entitas pasti mempunyai elemen yang disebut atribut yang berfungsi untuk mendes-kripsikan karakteristik dari entitas tersebut. Isi dari atribut mempunyai sesuatu yang dapat mengidentifikasikan isi elemen satu dengan yang lain. Gambar atribut diwakili oleh simbol elips.
+Atribut Key
+Atribut Key adalah satu atau gabungan dari beberapa atribut yang dapat membedakan semua baris data ( Row/Record ) dalam tabel secara unik. Dikatakan unik jika pada atribut yang dijadikan key tidak boleh ada baris data dengan nilai yang sama
+Contoh : Nomor pokok mahasiswa (NPM), NIM dan nomor pokok lainnya
+Atribut simple
+atribut yang bernilai atomic, tidak dapat dipecah/ dipilah lagi
+Contoh : Alamat, penerbit, tahun terbit, judul buku.
+Atribut Multivalue
+nilai dari suatu attribute yang mempunyai lebih dari satu (multivalue) nilai dari atrribute yang bersangkutan
+Contoh : dari sebuah buku, yaitu terdapat beberapa pengarang.
+Atribut Composite
+Atribut composite adalah suatu atribut yang terdiri dari beberapa atribut yang lebih kecil yang mempunyai arti tertentu yang masih bisah dipecah lagi atau mempunyai sub attribute.
+Contoh : dari entitas nama yaitu nama depan, nama tengah, dan nama belakang
+Atribut Derivatif
+Atribut yang tidak harus disimpan dalam database Ex. Total. atau atribut yang dihasilkan dari atribut lain atau dari suatu relationship. Atribut ini dilambangkan dengan bentuk oval yang bergaris putus-putus
+
+c. Hubungan / Relasi
+Hubungan antara sejumlah entitas yang berasal dari himpunan entitas yang berbeda.
+
+Derajat relasi atau kardinalitas rasio
+Menjelaskan jumlah maksimum hubungan antara satu entitas dengan entitas lainnya
+ 
+One to One (1:1)
+Setiap anggota entitas A hanya boleh berhubungan dengan satu anggota entitas B, begitu pula sebaliknya.
+One to many (1:M / Many)
+Setiap anggota entitas A dapat berhubungan dengan lebih dari satu anggota entitas B tetapi tidak sebaliknya.
+Many to Many (M:M)
+Setiap entitas A dapat berhubungan dengan banyak entitas himpunan entitas B dan demikian pula sebaliknya
+
+Komponen ERD sebagai berikut :
+ 
+
+Contoh Gambar ERD :
+ 
+Sumber

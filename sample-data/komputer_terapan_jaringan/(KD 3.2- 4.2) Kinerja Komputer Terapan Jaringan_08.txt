@@ -1,0 +1,270 @@
+BAB 2 Kebutuhan komputer terapan untuk aplikasi jaringan
+By azharBlog4:30 AMNo comments
+BAB II 
+Kinerja komputer terapan jaringan 
+
+I.  Fungsi spesifik piranti pendukung jaringan komunikasi data
+Piranti pendukung jaringan komunikasi data ada banyak sekali, namun secara
+garis besar dibagi menjadi 2, yaitu hardware dan software. Hardware adalah perangkat
+keras  yang  digunakan  pengguna  komputer  untuk  dapat  menggunakan  jaringan
+komunikasi  data,  sedangkan  software  adalah  perangkat  lunak  yang mendukung  agar
+komputer mampu melakukan akses pada jaringan komunikasi data.
+Macam-macam  hardware  yaitu  komputer  server, modem,  network  interface
+card, WiFi  dll,  sedangkan  macam-macam  software  untuk  jaringan  komunikasi  data
+adalah sistem operasi, browser, driver dll
+
+a.  menggunakan sistem komputer minimal.
+Seiring  perkembangan  jaman,  sistem  komputer minimal  berkembang
+menjadi  sistem  komputer  yang  mampu  bersaing  di  dunia  pendidikan  sekalipun.
+Penggunaan  sistem  komputer  minimal  juga  sangat  bervariatif,  sesuai  dengan
+kebutuhan masing-masing user, sesuai dengan bagan sistem komputer minimal yang
+sudah  dijelaskan  pada  bab  sebelumnya,  sesuai  dengan  kebutuhan  komunikasi  data
+yang berkembang saat ini.
+
+b.  menggunakan PC.
+Penggunaan PC termasuk salah satu kebutuhan hardware pada jaringan
+sistem komputer pada komunikasi data. Kelengkapan PC seperti yang telah dijelaskan
+diatas,  seperti  monitor,  keyboard,  mouse,  CPU  dsb  digunakan  sesuai  dengan
+fungsinya  masing-masing  secara  optimal  agar  antar  komputer  dapat  saling
+berkomunikasi  dengan  baik,  sehingga memudahkan  user  atau  para  pengguna  dalam
+menyelesaikan pekerjaan-pekerjaannya.
+
+II.  Piranti penyimpan dan penyedia data.
+a.  Memori
+Random  access memory  (RAM)  adalah  tempat  didalam  komputer  dimana  OS,
+program  aplikasi  dan  data  yang  sedang  digunakan  disimpan  sehingga  dapat
+dicapai  dengan  cepat  oleh  prosesor.  Cache  dibaca  Cash,  adalah  tempat  untuk
+menyimpan  segala  sesuatu  sementara.  Misalnya,  file  secara  otomatis  diminta
+dengan  melihat  halaman  web  yang  disimpan  dalam  hard  disk  tepatnya  dalam
+subdirektori  cache  dibawah  direktori  untuk  browser.COASt  adalah  singkatan
+untuk Cache on a stick.COASt menyediakan memori cache dalam banyak sistem
+berbasis Pentium.
+b. RAM 
+RAM  dianggap  merupakan  tempat  memory  volatile  atau  sementara.  Isi  dalam
+RAM  akan  hilang  ketika  power  komputer  dimatikan.  Chip  RAM  dalam
+motherboard  komputer  menjaga  data  dan  program  yang  sedang  diproses  oleh
+mikroprosesor.  RAM  adalah  memori  yang  menyimpan  data  yang  sering
+digunakan  untuk  memepercepat  pengambilannya  oleh  prosesor.  Semakin  besar
+RAM  yang  dimiliki  sebuah  komputer,  semakin  banyak  pula  kapasitas  yang
+dimiliki komputer untuk menyimpan data dan memproses file dan program yang
+berukuran  besar.  Jumlah  dan  tipe  memori  dalam  sistem  dapat  menjadikan
+perbedaan  yang  besar  dalam  performa  sistem  komputer.  Beberapa  program
+memiliki  ketentuan  memori  yang  lebih  daripada  program  lainnya.  Biasanya
+komputer  yang menjalankan Windows  95,  98  atau ME  telah memiliki  64 MB
+terinstal. Sangat umum apabila menemukan sistem dengan 128 MB atau 256 MB
+RAM, terutama jika komputer mereka menjalankan sistem operasi terbaru seperti
+Windows 2000 atau sistem operasi terkini lainnya.
+Terdapat dua kelas RAM yang biasa digunakan sampai saat ini, yakni Static RAM
+(SRAM)  dan  Dynamic  RAM  (DRAM).  SRAM  relatif  lebih mahal,  namun  lebih
+cepat  dan  dapat  menyimpan  data  ketika  komputer  dimatikan  selama  beberapa
+periode  tertentu. Hal  ini  akan  sangat  berguna  dalam  kondisi  seperti  kehilangan
+power/daya yang tidak diharapkan terjadi. SRAM digunakan untuk memori cache.
+DRAM  tidak  terlalu mahal  dan  berjalan  dengan  lambat. DRAM membutuhkan
+power supply yang tidak terganggu untuk menjaga data agar tidak hilang. DRAM
+menyimpan data dalam kapasitor kecil yang harus di refresh untuk menjaga data
+agar tidak hilang.
+RAM dapat diinstal di dalam motherboard, sebagai fitur permanen maupun dalam
+bentuk  chip mungil. Chip  dikenal  dengan  nama  Single  Inline Memory Modules
+(SIMMs)  atau  Dual  Inline  Memory  Modules  (DIMMs).  SIMMs  dan  DIMMs
+adalah  kartu  yang  dapat  dipindahkan/dilepas  dan  dapat  digantikan  dengan
+menambah  memori  yang  lebih  besar  ataupun  lebih  kecil.  Walaupun  memiliki
+lebih banyak memori terinstal dalam komputer adalah hal yang baik, kebanyakan
+sistem  board  memiliki  batasan  pada  jumlah  dan  tipe  RAM  yang  dapat
+ditambahkan. Beberapa sistem mungkin membutuhkan hanya SIMM. Sistem lain
+mungkin  membutuhkan  SIMM  diinstal  dalam  set  yang  cocok  2  atau  4  modul
+dalam  satu waktu  yang  sama. Sebagai  tambahan, beberapa  sistem menggunakan
+hanya  RAM  parity  sementara  lainnya  menggunakan  RAM  non-parity.  Parity
+memiliki kemampuan built-in pemeriksaan kesalahan ke dalam chip RAM untuk
+memastikan keutuhan data. Non parity,  tidak memiliki kemampuan pemeriksaan
+kesalahan.
+
+
+Mengidentifikasi SIMM dan DIMM 
+
+SIMM di-plug ke dalam motherboard dengan penghubung menggunakan 72-pin 
+atau 30-pin. Pin-pin  tersebut akan  terhubung pada  sistem bus, menciptakan  jalur 
+elektronik dimana data memori dapat bergerak (flow) dari satu komponen sistem 
+ke  komponen  sistem  yang  lainnya.  Dua  72-pin  SIMM  dapat  diinstal  dalam 
+komputer yang mendukung alur data 64-bit. Dengan papan SIMM, pin dalam sisi 
+yang  berbeda  dari  papan module  terkoneksi  satu  sama  lain membentuk  kontak 
+satu baris.  
+DIMM dicolokkan ke dalam sistem memori menggunakan konektor 168-pin. Pin-
+pin  tersebut  mengembangkan  koneksi  dengan  sistem  bus,  menciptakan  aliran 
+elektronik  dimana  data  akan  dapat mengalir  antara  chip memori  dan  komponen 
+sistem  yang  lain.  168-pin  DIMM  tunggal  akan  mendukung  aliran  data  64-bit, 
+untuk  non-parity  dan  72-bit  untuk  parity.  Konfigurasi  ini  sekarang  dilakukan 
+untuk generasi terbaru sistem 64-bit. Fitur penting adalah pin dalam papan DIMM 
+tidak  terhubung  dari  satu  sisi  ke  sisi  yang  lain  seperti  SIMM,  sehingga 
+membentuk dua set kontak. 
+Bentuk  RAM  terbaru  atau  yang  lebih  khusus  biasanya  sering  dipasarkan  pada 
+pasar  bebas.  Random  access memory Digital  to Analog Converter  (RAMDAC)
+adalah  bentuk  memori  yang  dibuat  khusus,  didesain  untuk  mengkonversi
+kesan/gambaran  yang  dienkode  secara  digital  ke  dalam  sinyal  analog  untuk
+ditampilkan.  RAMDAC  terbuat  dari  komponen  SRAM  untuk  menyimpan  peta
+warna dan tiga DAC, masing-masing untuk penembak elektron RGB. Video RAM
+(VRAM) dan Windows RAM  (WRAM) adalah memori  terbaik untuk video saat
+ini. Keduanya mengoptimalkan kartu video dan didisain untuk dual port. Hal  ini
+berarti prosesor chipset dan chip RAMDAC dapat mengakses memori pada waktu
+yang  sama.  Akses  bersamaan  meningkatkan  kemampuan  video  secara
+menyeluruh.Tipe  terbaru  dari  kartu  video  juga  mendukung  tipe  sistem  RAM
+terbaru, seperti Synchronous DRAM (SDRAM).
+
+Kebanyakan  tipe RAM  lainnya  seperti  extended  data  out  (EDO) RAM  dan  fast
+page mode  (FPM) RAM,  terlalu  lambat untuk standar komputer yang digunakan
+saat ini. Mereka tidak lagi digunakan dalam komputer baru.
+
+
+
+
+
+168 pin SDRAM DIMM
+
+
+Cache/ memori COASt  
+Cache  adalah  bentuk  spesial  dari  chip  komputer,  atau  firmware. Cache  didesain 
+untuk meningkatkan performa memori. Memori cache menyimpan informasi yang 
+terpakai  secara  berkala  dan  mentransferkannya  ke  dalam  prosesor  lebih  cepat 
+daripada  RAM.  Kebanyakan  komputer  memiliki  level  memori  cache  yang 
+terpisah:  
+1. Cache L1 terletak di CPU
+2. Cache L2 terletak diantara CPU dan DRAM
+Cache  L1  lebih  cepat  dari  L2  karena  lokasinya  dalam  CPU  dan  menjalankan 
+kecepatan yang sama yang dijalankan CPU. Cache L1 merupakan tempat pertama 
+kalinya CPU akan mencari data, kemudian akan dilanjutkan dengan cache L2 dan 
+barulah  kemudian  dilanjutkan  ke memori  utama. Cache  L1  dan  L2  terbuat  dari 
+chip SRAM. 
+Bagaimanapun,  beberapa  sistem  menggunakan  modul  COASt.  Modul  COASt 
+digunakan  untuk  menyediakan  memori  cache  pada  sistem  berbasis  Pentium. 
+COASt  dikenali  berdasarkan  keandalan  dan  kecepatannya  karena menggunakan 
+cache pipeline-burst (ledakan-pipa jalur). Cache pipeline burst berjalan lebih cepat 
+secara  signifikan  daripada  cache  SRAM.  Beberapa  sistem menggunakan  kedua 
+soket SRAM  dan  soket modul COASt. Modul COASt  juga menyerupai SIMM, 
+kecuali bentuknya yang lebih tinggi dan memiliki konektor yang berbeda. 
+
+
+
+
+
+
+
+BAB II
+Kinerja komputer Terapan Jaringan
+
+KD2 = Memahami kebutuhan komputer terapan untuk aplikasi jaringan komunikasi data.
+
+A. Fungsi Spesifik Piranti Pendukung Jaringan Komunikasi Data
+Piranti pendukung jaringan komunikasi data ada banyak kita jumpai, namun dalam garis besarnya  dibagi menjadi 2 bagian, yaitu hardware dan software. Hardware adalah perangkat keras yang digunakan pengguna komputer untuk dapat mengunakan internet. 
+Sedangkan software adalah perangkat lunak yang mendukung agar komputer mampu melakukan akses internet.
+
+Macam – macam hardware yaitu : Komputer Server, Modem, Network Interface Card, WiFi, dll. sedangkan Macam – macam software yaitu : Sistem Operasi, Browser, Driver, dll.
+
+B. Piranti Penyimpan Dan Penyedia Data.
+1. Piranti Penyimpanan 
+  a. HARDISK
+
+Hard disk merupkan alat penyimpanan data sekunder yang kapasitasnya cukup besar. Selain memiiki kapasitas yang bervariasi harddisk juga memiliki interface yang berbeda sesuai teknologi yang diusungnya. Dalam computer desktop saat ini harddisk memiliki fungsi utama untuk meyimpaan system operasi dan aplikasi yang ada.
+Di Zaman yang Modern Ini Size / Kapasitas  Hardisk Semakin Besar , Mulai Dari 320 GB ,500 GB , 750 GB, 1 TB Bahkan Lebih Dari 2 TB 
+
+
+  b. RAM ( Random Access Memory )  
+
+
+adalah memori yang berfungsi untuk menyimpan sementara perintah dan data pada saat sebuah program dijalankan. Perintah data tersebut mencakup data yang akan dibaca dari hard disk, data-data yang dimasukkan melalui alat input komputer, dan juga data-data hasil pemrosesan sebuah program
+
+
+
+
+3. Flash Disk
+
+Flasdisk merupakan media penyimpan data paling popular dalam hal mobilitas karena karena ukurannya yang kecil. Selain untuk menyimpan data penting saat ini Flashdisk juga berfungsi sebagai alat bootable media sistem operasi komputer karena dapat diganti sesuai keperluan dan tidak terbatas
+
+
+2. Piranti Penyedia Data
+
+a. Modem
+
+Modem adalah singkatan dari modulator dan demodulator. Modulator berfungsi untuk melakukan proses menumpangkan data pada sinyal informasi ke sinyal pembawa agar dapat dikirim ke pengguna melalui media tertentu, proses ini biasa disebut dengan proses modulasi. pada proses ini data dari komputer yang berbentuk sinyal digital akan diubah menjadi sinyal analog. Sedangkan Demodulator berfungsi sebagai proses mendapatkan kembali data yang dikirim oleh pengirim
+
+
+
+C.  Kartu Antar Muka Jaringan (Lan Card/NIC)
+
+
+Kartu jaringan / network interface card disingkat NIC adalah sebuah kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer.
+Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis.
+
+Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna Kartu jaringan (NIC) adalah sebuah kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer.
+
+Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna. NIC fisik umumnya berupa kartu yang dapat ditancapkan ke dalam sebuah slot dalam motherboard komputer, yang dapat berupa kartu dengan bus ISA, bus PCI,bus EISA, bus MCA, atau bus PCI Express. Selain berupa kartu-kartu yang ditancapkan ke dalam motherboard, NIC fisik juga dapat berupa kartu eksternal yang berupa kartu dengan bus USB, PCMCIA, bus serial, bus paralel atau Express Card, sehingga meningkatkan mobilitas (bagi pengguna yang mobile).
+
+Kartu NIC Fisik terbagi menjadi dua jenis, yakni: Kartu NIC dengan media jaringan yang spesifik (Media-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis berdasarkan media jaringan yang digunakan. Contohnya adalah NIC Ethernet, yang dapat berupaTwisted-Pair (UTP atau STP), Thinnet, atau Thicknet, atau bahkan tanpa kabel (Wireless Ethernet).
+
+Kartu NIC dengan arsitektur jaringan yang spesifik (architecture-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis, sesuai dengan arsitektur jaringan yang digunakan. Contohnya adalah Ethernet, Token Ring, serta FDDI (Fiber Distributed Data Interface), yang kesemuanya itu menggunakan NIC yang berbeda-beda. Kartu NIC Ethernet dapat berupa Ethernet 10 Megabit/detik, 100 Megabit/detik, 1 Gigabit/detik atau 10 Gigabit/detik.
+
+Tugas NIC adalah untuk mengubah aliran data paralel dalam bus komputer menjadi bentuk data serial sehingga dapat ditransmisikan di atas media jaringan. Media yang umum digunakan, antara lain adalah kabel UTP Category 5 atau Enhanced Category 5 (Cat5e), kabel fiber-optic, atau radio (jika memang tanpa kabel).
+
+Komputer dapat berkomunikasi dengan NIC dengan menggunakan beberapa metode, yakni I/O yang dipetakan ke memori, Direct Memory Access (DMA), atau memory yang digunakan bersama-sama. Sebuah aliran data paralel akan dikirimkan kepada kartu NIC dan disimpan terlebih dahulu di dalam memori dalam kartu sebelum dipaketkan menjadi beberapa frame berbeda-beda, sebelum akhirnya dapat ditransmisikan melalui media jaringan. Proses pembuatan frame ini, akan menambahkan header dan trailer terhadap data yang hendak dikirimkan, yang mengandung alamat, pensinyalan, atau informasi pengecekan kesalahan. Frame-frame tersebut akan kemudian diubah menjadi pulsa-pulsa elekronik (voltase, khusus untuk kabel tembaga), pulsa-pulsa cahaya yang dimodulasikan (khusus untuk kabel fiber-optic), atau gelombang mikro (jika menggunakan radio/jaringan tanpa kabel).
+
+NIC yang berada dalam pihak penerima akan memproses sinyal yang diperoleh dalam bentuk terbalik, dan mengubah sinyal-sinyal tersebut ke dalam aliran bit (untuk menjadi frame jaringan) dan mengubah bit-bit tersebut menjadi aliran data paralel dalam bus komputer penerima. Beberapa fungsi tersebut dapat dimiliki oleh NIC secara langsung, diinstalasikan di dalam firmware, atau dalam bentukperangkat lunak yang diinstalasikan dalam sistem operasi.
+
+NIC Logis NIC logis merupakan jenis NIC yang tidak ada secara fisik dan menggunakan sepenuhnya perangkat lunak yang diinstalasikan di atas sistem operasi dan bekerja seolah-olah dirinya adalah sebuah NIC. Contoh dari perangkat NIC logis adalah loopback adapter (dalam sistem operasiWindows, harus diinstalasikan secara manual atau dalam sistem operasi keluarga UNIX, terinstalasi secara default, dengan nama interface lo) dan Dial-up adapter (yang menjadikan modem sebagai sebuah alat jaringan dalam sistem operasi Windows). Kartu NIC logis ini dibuat dengan menggunakan teknik emulasi.
+
+
+A.  Konsentrator Ethernet (bridge dan switch)
+Konsentrator adalah perangkat untuk menyatukan kabel – kabel jaringan dari setiap workstation, server atau perangkat dalam sebuah jaringan komputer. Jenis – jenis konsentrator yang umumnya digunakan adalah :
+
+1.       Hub atau Repeater 
+
+Hub atau Repeater adalah perangkat jaringan yang sederhana. Hub tidak mengatur alur jalannya data dijaringan, setiap packet data yang melewati Hub akan dikirim (broadcast) ke semua port yang ada sehingga packet data tersebut sampai ke tujuan. Hal tersebut dapat membuat hub menjadi collisions dan memperlambat jaringan
+
+
+
+
+
+2.    Switch
+
+     Switch adalah Sebuah perangkat keras yang memungkinkan terjadinya distribusi packet data antar komputer dalam jaringan dan mampu untuk mengenali topologi jaringan di banyak layer sehingga packet data dapat langsung sampai ke tujuan. Kelebihan switch dibandingkan dengan hub/repeater adalah dalam hal manajemen data lebih baik dari hub.
+
+3. Bridge
+
+
+Bridge adalah jenis konsentrator yang berfungsi untuk menghubungkan jaringan yang menggunakan transmisi berbeda. misalnya jaringan ethernet baseband dengan jaringan ethernet broadband. Bridge juga dapat menghubungkan jaringan yang menggunakan tipe kabel yang berbeda ataupun topologi yang berbeda. bridge juga dapat mengetahui alamat setiap client yang terhubung pada jaringan
+
+4. Router
+
+Router adalah perangkat network yang digunakan untuk menghubungkan beberapa network, baik network yang sama maupun berbeda dari segi teknologinya seperti menghubungkan network yang menggunakan topologi Bus, Star dan Ring
+Router minimal memiliki 2 network interface. Bahwa koneksi antar network (jaringan dengan subnet IP yang berbeda) hanya bisa terjadi dengan bantuan Router.
+
+Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Router berbeda dengan switch. Switch merupakan penghubung beberapa alat untuk membentuk suatu Local Area Network (LAN). Sebagai ilustrasi perbedaan fungsi dari router dan switch merupakan suatu jalanan, dan router merupakan penghubung antar jalan. Masing-masing rumah berada pada jalan yang memiliki alamat dalam suatu urutan tertentu. Dengan cara yang sama, switch menghubungkan berbagai macam alat, dimana masing-masing alat memiliki alamat IP sendiri pada sebuah LAN. Router sangat banyak digunakan dalam jaringan berbasis teknologi protokol TCP/IP, dan router jenis itu disebut juga dengan IP Router. Selain IP Router, ada lagi AppleTalk Router, dan masih ada beberapa jenis router lainnya. Internet merupakan contoh utama dari sebuah jaringan yang memiliki banyak router IP.
+
+Router dapat digunakan untuk menghubungkan banyak jaringan kecil ke sebuah jaringan yang lebih besar, yang disebut dengan internetwork, atau untuk membagi sebuah jaringan besar ke dalam beberapa subnetwork  untuk meningkatkan kinerja dan juga mempermudah manajemennya. Router juga kadang digunakan untuk mengoneksikan dua buah jaringan yang menggunakan media yang berbeda (seperti halnya router wireless yang pada umumnya selain ia dapat menghubungkan komputer dengan menggunakan radio, ia juga mendukung penghubungan komputer dengan kabel UTP), atau berbeda arsitektur jaringan, seperti halnya dari Ethernet ke Token Ring.
+
+Router juga dapat digunakan untuk menghubungkan LAN ke sebuah layanan telekomunikasi seperti halnya telekomunikasi leased line atau Digital Subscriber Line (DSL). Router yang digunakan untuk menghubungkan LAN ke sebuah koneksi leased line seperti T1, atau T3, sering disebut sebagai access server. Sementara itu, router yang digunakan untuk menghubungkan jaringan lokal ke sebuah koneksi DSL disebut juga dengan DSL router. Router-router jenis tersebut umumnya memiliki fungsi firewall untuk melakukan penapisan paket berdasarkan alamat sumber dan alamat tujuan paket tersebut, meski beberapa router tidak memilikinya. Router yang memiliki fitur penapisan paket disebut juga dengan packet-filtering router. Router umumnya memblokir lalu lintas data yang dipancarkan secara broadcast sehingga dapat mencegah adanya broadcast storm yang mampu memperlambat kinerja jaringan.
+
+Cara Kerja Router
+Fungsi utama Router adalah merutekan paket (informasi). Sebuah Router memiliki kemampuan Routing, artinya Router secara cerdas dapat mengetahui kemana rute perjalanan informasi (paket) akan dilewatkan, apakah ditujukan untuk host lain yang satu network ataukah berada di network yang berbeda.
+
+Jika paket-paket ditujukan untuk host pada network lain maka router akan meneruskannya ke network tersebut. Sebaliknya, jika paket-paket ditujukan untuk host yang satu network maka router akan menghalangi paket-paket keluar.
+
+Ilustrasi mengenai cara kerja router ini dapat dilihat pada gambar dibawah:
+
+
+Pada gambar disamping terdapat 2 buah network yang terhubung dengan sebuah router. Network sebelah kiri yang terhubung ke port 1 router mempunyai alamat network 192.168.1.0 dan network sebelah kanan terhubung ke port 2 dari router dengan network address 192.155.2.0
+-       Komputer A mengirim data ke komputer C, maka router tidak akan meneruskan data tersebut ke network lain.
+-       Begitu pula ketika komputer F mengirim data ke E, router tidak akan meneruskan paket data ke network lain.
+-       Barulah ketika komputer F mengirimkan data ke komputer B, maka router akan menruskan paket data tersebut ke komputer B.
+
+
+F.  Printer Server
+Print server adalah alat yang dapat digunakan untuk mengakses printer, atau gadget lain (scanner, external hard drive, flash drive, memory card reader, USB webcam, dan USB speaker) dari komputer mana saja tanpa harus ada komputer yang bertindak sebagai server. Didesain untuk berbagi USB dengan seluruh jaringan (print LAN), di rumah maupun di kantor
+
+Cara kerja nya : Satu PC di jadikan sebagai Printer Server untuk semua Client dapat mengakses printer melalui satu PC tersebut dalam suatu jaringan. PC yang akan di jadikan Printer Server tersebut akan di install driver dari printer yang akan digunakan, kemudian PC tersebut kita sharing printer sehingga Client bisa mendapatkan hak untuk mengakses printer melalui server tersebut. Client akan mengatur IP dan menyesuai kan dengan IP Server sehingga Client bisa mengakses ke printer tersebut.
+
+
+Titik Akses Nirkabel
+Access Point adalah suatu peranti yang memungkinkan peranti nirkabel untuk terhubung ke dalam jaringan dengan menggunakan Wi-Fi, Bluetooth, atau standar lain.
+WAP biasanya tersambung ke suatu router yang meneruskan data antara berbagai peranti nirkabel dengan jaringan berkabel pada suatu jaringan. Sehingga berfungsi sebagai pengatur lalu lintas data, sehingga memungkinkan banyak Client dapat saling terhubung melalui jaringan.
+Fungsi Access Point
+1.       Mengatur supaya AP dapat berfungsi sebagai DHCP server
+2.       Mencoba fitur Wired Equivalent Privacy (WEP) dan Wi-Fi Protected Access(WPA)
+3.       Mengatur akses berdasarkan MAC Address device pengakses 4. Sebagai Hub/Switch yang bertindak untuk menghubungkan jaringan lokal dengan jaringan wireless/nirkabel

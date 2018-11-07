@@ -1,0 +1,144 @@
+Menganalisis kebutuhan Server 
+(Spesifikasi Hardware, Spesifikasi Software, dan Minimal Server) Spesifikasi Hardware
+===============================================
+SUMBER: this link
+
+Spesifikasi Hardware di dalam sebuah komputer =>
+
+Perangkat keras komputer (computer hardware) adalah suatu komponen-komponen fisik yang membentuk satu kesatuan sistem Personal Computer (PC).
+dan dirakit serta sebagian besar dimasukkan ke dalam sebuah casing atau terpasang secara on board di dalam PC komputer dan sebagian lain berada di luar casing.
+Perangkat keras yang berada di dalam casing umumnya terdiri dari sebagai berikut :
+
+1. Motherboard (papan utama)
+
+Motherboard/mainboard, 
+adalah komponen utama yang membangun sebuah komputer. Berbentuk papan persegi dengan slot-slot untuk memasukkan komponen-komponen lain. Fungsinya untuk menghubungkan seluruh komponen PC. Perangkat keras komputer lain semuanya melekat langsung pada slot motherboard atau setidaknya terhubung menggunakan kabel.
+
+2. Central Processing Unit (CPU)
+
+Biasa juga kita kenal sebagai “processor” atau “otak” dari komputer komputer itu sendiri.
+Fungsi dari CPU ini adalah memproses dan mengolah semua kalkulasi dan perintah-perintah yang membuat komputer dapat dioperasikan.
+Karena panas yang dihasilkannya, CPU selalu dilengkapi dengan kipas (Fan) dan juga heat sink untuk mengurangi suhunya.
+Pada jenis-jenis CPU terbaru, sudah dilengkapi pula dengan Graphic Processing Unit (GPU) yang terintegrasi ke dalam CPU, sebagai pengolah data-data grafis.
+
+3. Random Access Memory (RAM)
+
+RAM berfungsi sebagai tempat transit data sementara untuk operasi-operasi yang tengah dijalankan oleh CPU. RAM bersifat volatile, artinya perangkat ini tidak meyimpan data secara permanen, hanya untuk operasi yang dibutuhkan saja. Kapasitas RAM pada PC yang sering kita temukan cukup beragam , mulai dari 256 MB (MegaBytes) – 16 GB (GigaBytes)
+
+4. Video Graphic Array (VGA)
+
+VGA card atau kartu grafis berfungsi sebagai penghubung yang memungkinkan pengiriman data-data grafis antara PC dan perangkat display seperti monitor atau proyektor. Sebagian besar komputer memiliki VGA yang terpisah sebagai kartu ekspansi yang dipasang pada slot motherboard. Namun ada juga komputer yang mempunyai VGA terintegrasi pada motherboard atau pada CPU-nya.
+
+5. Hard Disk Drive(HDD)
+
+Hard-disk berfungsi sebagai tempat penyimpanan data utama dalam sebuah sistem komputer. Sistem Operasi , aplikasi, dan dokumen-dokumen disimpan pada hard-disk ini. Pada PC terbaru, ada juga perangkat keras baru yang bernama Solid State Drive (SSD). Fungsinya sama seperti hard-disk, namun menawarkan kecepatan transfer data yang lebih cepat.
+
+6. Optical Disc Drive
+
+Optical drive biasa juga dikenal dengan nama CD Drive, DVD Drive atau ODD. Fungsi dari perangkat ini adalah untuk membaca dan juga menyimpan data dari dan ke media cakram optik seperti CD , DVD, atau Blu-Ray Disc.
+
+7. Power Supply Unit (PSU)
+
+Power Supply berfungsi sebagai pengkonversi dan penyalur energi listrik dari outlet sumber (misalnya listrik PLN) ke bentuk energi listrik yang dapat digunakan untuk menjalankan komponen komputer yang berada di dalam casing. Biasanya, PSU ini diletakkan di bagian belakang casing.
+Selain dari perangkat keras komputer yang terdapat di dalam casing, ada juga komponen-komponen yang umum kita lihat diluar casing:
+
+1. Monitor
+
+Disebut juga screen atau display. Fungsi dari layar monitor adalah untuk menampilkan video dan informasi grafis yang dihasilkan dari komputer melalui alat yang disebut kartu grafis (VGA Card). Monitor ini bentuk fisiknya hampir sama dengan televisi , hanya saja televisi biasanya mampu menampilkan informasi grafis dengan ukuran resolusi yang lebih tinggi.
+
+2. Keyboard dan Mouse
+
+Keyboard dan mouse berfungsi sebagai alat input untuk memasukkan perintah teks, karakter, atau menggerakkan objek pada antarmuka grafis untuk diproses oleh komputer. Ukuran dan bentuk dari kedua alat ini cukup beragam, namun fungsinya sama saja.
+Diluar komponen-komponen yang sudah kita sebut diatas, ada pula perangkat keras komputer yang tidak semua komputer memilikinya/Pelengkap:
+
+1. Uninterruptable Power Supply (UPS)
+
+Sering disebut juga sebagai baterai cadangan, fungsi utama UPS adalah menyimpan dan menyediakan cadangan listrik yang akan digunakan ketika sumber listrik utama padam. Selain sebagai cadangan listrik, kebanyakan UPS juga berfungsi sebagai “stabilizer” yang mengatur aliran listrik agar sesuai dengan yang dibutuhkan.
+
+2. Printer dan Scanner
+
+Printer berfungsi sebagai alat output cetak dari dokumen elektronik baik bentuk teks maupun grafis. Pada komputer rumahan biasanya menggunakan kertas sebagai media cetaknya. Sedangkan fungsi scanner adalah kebalikan dari printer yaitu memindai input data dari luar komputer ke dalam bentuk elektronik yang dapat diolah secara digital.
+
+3. Speaker
+
+Fungsi dari speaker adalah sebagai alat output suara yang dihasilkan dari komputer. Selain speaker, sering juga kita temukan orang yang menggunakan headphone/headset sebagai alat output suara.
+
+4. Sound Card (Kartu suara)
+
+Fungsinya sebagai penghubung antara komputer dan alat output audio seperti speaker
+
+5. Modem
+
+Alat ini berfungsi untuk menghubungkan komputer ke internet
+
+6. LAN Card
+
+Fungsinya sebagai penghubung komputer dalam suatu jaringan.
+Demikianlah sudah diterangkan gambaran umum mengenai perangkat keras komputer dan beragam fungsinya.
+Spesifikasi Software
+Software Pendukung dalam jaringan :
+
+NMap
+
+NMap adalah sebuah software security scanner yang dikembangkan oleh Gordon Lyon alias Fyodor Vaskovich yang compatible dengan OS Windows, Linux, Mac OS X, Solaris, BSD dan Amigos OS. N Map tersedia dengan dua versi yaitu versi GUI dan Command line, lalu apa fungsi software ini??
+Mari kita ulas lebih lanjut.NMap memiliki fungsi-fungsi standar layaknya sebuahsecurity scanner: mendeteksi port-port yang terbuka, mengidentifikasi versi OS dan aplikasi yang digunakan untuk menjalankan service, dan lain-lain.
+WireShark
+
+Software wireshark memilki beberapa fungsi, yaitu :
+Mampu menganalisa transmisi paket data pada jaringan,
+Memonitoring proses koneksi dan transmisi data antar komputer.
+Mampu mengetahui isi paket data yang sedang berlalu lintas dalam jaringan komputer tersebut.
+
+Look@LAN
+
+Software ini bisa digunakan pada OS apapun, pengoperasiannya pun cukup mudah, software ini akan menampilakan laporan yang menyatakan keadaan jaringan pada saat itu, dalam bentuk tabel. Beberapa fitur yang dimiliki software ini adalah :
+Mengetahui IP Address, pada komputer jaringan
+Mengetahui status konektivitas dengan jaringan
+distance
+Serta mengetahui sistem operasi yang digunakan oleh komputer pada jaringan tersebut
+Mengetahui hostname, netBIOS name, netBIOS user, SNMP status dan Trap.
+
+6. Menginformasikan pada komputer server, host yang sedang online/offline
+
+Angry IP Scanner
+IP angry Scanner berfungsi untuk membantu dalam pengelolaan, invostorisasi serta menjaga jaringan agar tetap mampu berjalan dengan baik, melalui alamat IP Address dari setiap komputer yang ada pada jaringan. Selain itu, software ini jugadapat membantu seorang admin jaringan dalam mengawasi error atau trobubleshooting ajringan karena permasalahan pada IP address, bisa juga karena IP address yang conflik. Selain itu, software ini juga mengantisipasi adanya pihak yang tidak bertanggung jawab yang berusaha menyusup pada jaringan seseorang dengan menggunakan IP address yang telah tersedia pada range nya.
+
+Dude
+Sotfware ini memudahkan seorang admin jaringan memonitoring jaringannya, serta mendukung berbagai protokol jaringan, seperti SNMP, ICMP, DNS dan TCP.
+
+Berikit ini adalah cara kerja Dude :
+Secara otomatis Dude akan melakukan scan keseluruhan pada jaringannya, termasuk perangkat yang tergabung dalam jaringan berbasis dengan subnet.
+Software ini akan secara otomatis mampu memetakan jaringan komputer.
+Apabila terjadi troubleshooting pada jaringan, maka software ini akan secara otomatis memberikan pesan peringatan.
+
+Spesifikasi minimal komputer server
+Spek Komputer Server Published : 21:56 Author : zorro Server dibagi menjadi 2 macam, yaitu server billing ( pencatatan waktu/biaya ) dan server untuk networking, manajemen bandwidth.
+
+Spesifikasi hardware Komputer Server untuk Billing System :
+Prosesor Intel Dual Core (2.6 Ghz)
+TRAY Mainboard ASUS P5 KPL AM-SE ( Astrindo )
+Memory DDR2 V-gen 2 Gb
+Harddisk 160 Gb Seagate/WDC/Maxtor/Samsung SATA/IDE
+Keyboard + Mouse
+Simbadda Casing Simbadda Sim-X/V 350w + 2 FAN
+CPU
+LCD Monitor LG Wide Screen 18.5?
+DVD-Room Samsung Lite on Harga Komputer •
+Spesifikasi hardware Komputer Server untuk Networking :
+
+LINUX Server ( Ubuntu Server+Squid Proxy Server ) :
+Prosesor Intel Dual Core (2.6 Ghz)
+TRAY Mainboard ASUS P5 KPL AM-SE ( Astrindo )
+Memory DDR2 V-gen 2 Gb
+Harddisk 20 gb
+SCSI 2 buah ( 2nd dan tergantung stock )
+Casing ATX E-Case + 2 FAN CPU Ethernet/LAN Card
+tambahan 1 buah Mikrotik OS :
+
+Prosesor Intel Pentium 4 (2.4 Ghz)
+TRAY Mainboard Amtron P4M945 LM4
+Memory DDR2 V-gen 1 Gb
+Harddisk Seagate/WDC/Maxtor 40Gb
+Type IDE Casing ATX E-Case + 2 FAN CPU Ethernet/LAN Card 
+
+sumber lain klik link 1 link 2  

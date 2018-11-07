@@ -1,0 +1,63 @@
+SISTEM OPERASI ( OPEN SOURCE DAN CLOSE SORCE )
+      Sistem operasi (Operation System) adalah perangkat lunak (software) yang mengatur semua sumber daya dalam komputer. Sumber daya ini dapat berupa perangkat keras (hardware) maupun program aplikasi.
+
+Ada 2 macam sistem operasi :
+
+
+
+
+1.Open source
+
+    Open source adalah perangkat lunak dimana kode program terbuka dan disediakan oleh pengembangnya secara umum agar dapat dipelajari, diubah atau dikembangkan lebih lanjut dan disebar luaskan. Jika ada pembuat perangkat lunak yang tidak mengizinkan kode programnya diubah atau dimodifikasi, maka bukanlah disebut sebagai open source walaupun kode program dari perangkat lunak tersebut tersedia.
+
+       Open source (kode program terbuka) dipopulerkan tahun 1998. Sejarah perangkat lunak open source lahir sejak kultur hacker berkembang di laboratorium-laboratorium komputer di universitas-universitas Amerika seperti Stanford, Berkeley, Carnegie Mellon, dan MIT pada tahun 1960-an dan 1970-an.Sistem operasi open source dinggap menguntungkan, khususnya oleh para pengguna open source. Beberapa keuntungan dan kerugian dari open source :
+
+Keuntungan
+
+1.      Banyak tenaga (SDM) yang berperan mengerjakan proyek
+2.      Kesalahan (bugs, error) lebih cepat ditemukan dan diperbaiki
+3.      Kualitas hasil lebih terjamin karena komunitas melakukan evaluasi
+4.      Lebih aman
+5.      Hemat biaya
+6.      Tidak mengulangi development
+
+Kekurangan
+
+1.      Kurangnya SDM yang dapat memanfaatkan open source
+2.      Tidak adanya proteksi terhadap HAKI
+
+Contoh Sistem operasi yang termasuk Open Source adalah
+
+·         Linux:Ubuntu, Red Hat,  Mandriva, CentOS, Fedora, Blankon, OpenSUSE, Clear OS
+Open BSD dan Free BSD
+·         Open Solaris dan Solaris
+·         Android
+
+
+2. Close Source
+
+     Close Source adalah Sistem operasi yang codenya tidak dibuka untuk umum, pemilik code yang close source bisa membagi source codenya melalui lisensi dengan gratis maupun membayar. meskipun gratis, lisensi tertentu bisa membuat sebuah sistem operasi tidak sepenuhnya open source. Misalnya jika lisensi tersebut ada larangan untuk memodifikasi code, maka sistem operasi ini tidak open source.
+
+Keuntungan Closed Source
+
+1.      Kestabilan sistem terjamin karena ada penangung jawab resmi.
+2.      Support langsung dari pemilik aplikasi /program.
+3.      Mudah mendapatkan sertifikasi.
+4.      Lebih mudah digunakan / dipelajari / dipahami karena mayoritas pengguna menggunakannya ( pada daerah tertentu ).
+
+Kekurangan Close Source
+
+1.      Tidak ada support khusus / langsung dari pembuat (developer).
+2.      Celah yang terbuka, bisa dimanfaatkan untuk pengambilan informasi.
+3.      Sosialisasi pemakaian, agak sulit, karena umumnya pengguna menggunakan close source (e.g.Windows),hanya pada daerah tertentu).
+4.      Sulit untuk mendapatkan sertifikasi.
+5.      Adanya lisensi yang mengharuskan pengguna untuk menyediakan dana /financial.
+6.      Pengembangan terbatas.
+7.      Diperlukan antivirus.
+8.      Aplikasi umumnya tersedia berbayar.
+9.      Deteksi kelemahan aplikasi menunggu feedback dari pengguna.
+
+Contoh Sistem operasi yang termasuk Close Source adalah
+
+
+·         Microsoft Windows

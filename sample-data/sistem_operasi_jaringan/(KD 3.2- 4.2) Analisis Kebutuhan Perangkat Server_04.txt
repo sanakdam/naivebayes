@@ -1,0 +1,119 @@
+ANALISI SPESIFIKASI HARDWARE DAN SOFTWARE
+ANALISIS KEBUTUHAN HARDWARE & SOFTWARE  SEBUAH JARINGAN KOMPUTER
+Teknologi pada masa sekarang ini telah menjadi suatu tren dalam kehidupan manusia, perkembangan dunia teknologi berdampak pada era informasi yang lebih cepat. Salah satu teknologi  yang telah akrab dengan kita  adalah teknologi internet dimana teknologi ini merupakan suatu  jaringan komputer global yang mempermudah pemakainya untuk saling berkomunikasi ataupun bertukar informasi. Pembangunan sebuah jaringan computer memerlukan pemilihan hardware, software yang tepat,  serta topologi jaringan yang sesuai dengan kebutuhan. Salah satu jaringan computer yang paling sering kita jumpai adalah warnet (warung internet). Dalam tugas analisis kebutuhuan hardware & software dalam sebuah jaringan computer ini  saya mengambil contoh dari salah satu warnet.
+
+
+TOPOLOGI JARINGAN & ANALISIS KEBUTUHAN HARDWARE
+Hardware yang dibutuhkan dalam membangun sebuah jaringan computer diantaranya : Komputer, LAN card, Switch/Hub, Router, kabel UTP, connector dan lainnya yang dibutuhkan untuk proses transformasi data didalam jaringan.
+1.       Topologi Jaringan
+
+
+Topologi jaringan yang di gunakan adalah topologi star. Topologi star merupakan topologi dengan kontrol terpusat, semua link harus melewati pusat yang menyalurkan data tersebut kesemua simpul atau client yang dipilihnya. Simpul pusat dinamakan stasiun primer atau server dan lainnya dinamakan stasiun sekunder atau client server. Setelah hubungan jaringan dimulai oleh servermaka setiap client server sewaktu-waktu dapat menggunakan hubungan jaringan tersebut tanpa menunggu perintah dari server. Selain topologi star terdapat beberapa topologi di antaranya topologi bus, & topologi ring. Dibandingkan kedua topologi tersebut, topologi Star di rasakan paling cocok untuk warnet tersebut. Gambar dari topologi jaringan star. 
+Analisis Kebutuhan Hardware
+Dari topologi jaringan di atas maka analisis kebutuhan hardware warnet tersebut. Sbb :
+1.       Line Internet/modem, untuk terhubung dengan ISP (Internet Service Provider).  Koneksi ke ISP menggunakan Speedy.  
+2.       Router, di gunakan untuk menyaring atau memfilter data yang lalu lalang di jaringan berdasarkan protocol tertentu, router yang digunakan haruslah compatible dengan paket jaringan yang dipakai.Sebuah Router mengartikan informasi dari satu jaringan ke jaringan yang lain. router akan mencari jalur yang terbaik untuk mengirimkan sebuah pesan berdasarkan alamat tujuan dan alamat asal.dengan kata lain router mengetahui alamat computer. Router compatible 1024 Kbps.
+3.       Komputer  Server, suatu komputer yang menjadi pengelola dan pusat bagi komputer lainnya. Karena berfungsi sebagai pusat, minimal sebuah server harus mempunyai beberapa karakter yang lebih dibandingkan dengan komputer yang terhubung kedalam suatu jaringan. Keseluruhan komputer yang terhubung ke server dalam jaringan disebut sebagai Workstation. Hampir semua jenis computer dapat digunakan sebagai computer workstation. Terdapat 1 buah server. Spesifikasi :
+a.       Prosesor minimal 3,5 Hetz.
+b.      VGA minimal 256 MB.
+c.       RAM minimal 1 GB.
+d.      Hardisk minimal 40 GB.
+e.      NIC (Network Interface Card)/LAN Card
+4.       Printer, di gunakan untuk mencetak data, printer telah di sharing sehingga baik sever maupun client dapat menggunakan printer tersebut.
+5.       Kabel UTP (Unshielded twisted pair)  & Konektor RJ45 ,  kable UTP yang digunakan minimal cat. 5 karena jarak setiap computer tidak terlalu berjauhan. Konektor RJ45 sebagai penghubung antara kabel UTP dengan LAN Card. digunakan tipe Straight untuk menghubungkan client & server ke Switch dan menghubungkan computer Server Ke Router.
+6.       Switch, digunakan sebagai penghubung antar computer dalam sebuah jaringan local. Switch yang di gunakan adalah Switch 16 Port dipakai 7 port  untuk menghubungkan server, client
+7.       Komputer client, Spesifikasi :
+a.       Prosesor minimal 3,5 Hetz.
+b.      VGA minimal 256 MB
+c.       RAM minimal 1 GB.
+d.      Hardisk minimal 20 GB.
+e.      NIC (Network Interface Card)/LAN Card
+Analisis Kebutuhan Software :
+1.       Sistem Operasi
+Sistem Operasi yang digunakan untuk server digunakan Sistem Operasi khusus server minimal untuk client adalah Microsoft windows XP atau untuk server Windows Server 2003.
+2.       Billing explorer
+Billing explorer sebuah aplikasi yang dipakai untuk membantu admin dalam melakukan perhitungan waktu dan biaya serta digunakan untuk membuat laporan keuangan dan laporan data, selain itu juga billing digunakan untuk memanajemen client memberikan penomoran pada client.
+3.       Web Browser
+Web Browser adalah sebuah aplikasi yang digunakan untuk membuka sebuah website dan melakukan aktifitas berinternet lainnya. Contohnya internet explorer, Mozila Firefox, Google Chrome. Dll
+4.       Internet Download Manager,
+IDM merupakan salah satu aplikasi yang digunakan untuk membantu proses download.
+5.       Bandwitch limiter
+Bandwitch limiter digunakan untuk mengatur bandwitch yang diberikan pada tiap client agar merata.
+
+Kebutuhan Minimal Server
+Komputer  Server, suatu komputer yang menjadi pengelola dan pusat bagi komputer lainnya. Karena berfungsi sebagai pusat, minimal sebuah server harus mempunyai beberapa karakter yang lebih dibandingkan dengan komputer yang terhubung kedalam suatu jaringan. Keseluruhan komputer yang terhubung ke server dalam jaringan disebut sebagai Workstation. Hampir semua jenis computer dapat digunakan sebagai computer workstation.
+ Terdapat 1 buah server. Spesifikasi :
+a.  Prosesor minimal 3,5 Hetz
+b. VGA minimal 256 MB.
+c. RAM minimal 1 GB.
+d. Hardisk minimal 40 GB.
+e. NIC (Network Interface Card)/LAN Card 
+Jaringan komputer adalah gabungan atau kumpulan dari beberapa computer yang dapat diakses secara bersama-sama.
+                Hardware atau perangkat keras adalah komponen pada computer yang dapat terlihat dan disentuh secara fisik. Contohnya : CPU, Monitor, Mouse, Keyboard, Printer, dll.
+                Software atau perangkat lunak adalah data-data yang terdapat pada sebuah computer yang diformat kemudian disimpan secara digital. Contohnya : Sistem Operasi, software aplikasi, dll.
+*      Analisis kebutuhan jaringan computer
+Ø  Hardware :
+1.    Personal computer
+Personal Computer  atau PC merupakan perangkat utama dalam suatu jaringan computer. PC inilah yang akan bekarja mengirim dan mengakses data dalam jaringan.
+2.    NIC
+NIC merupakan port yang menghubungkan computer dengan jaringan. Port atau card ini bergabung di dalam PC yang menempel pada Main Board. Berdasarkan tipe bus, ada beberapa tipe NIC atau Network Card, yaitu ISA dan PCI.
+
+3.    Kabel jaringan
+-          Kabel Coaxial
+Tampilan fisik terdiri dari kawat tembaga sebagai inti yang dilapisi oleh isolator.
+-          Fiber Optik
+Terbuat dari serat kaca dengan teknologi canggih dan mempunyai kecepatan transfer data yang lebih cepat.
+-          Twisted Pair
+Terdiri dari beberapa kabel yang saling melilit. Ada dua jenis kabel Twisted Pair. Shielded Twisted Pair (STP) dan Unshielded Twisted Pair (UTP).
+
+4.    Konektor
+Sebagai saran penghubung antar kabel dengan colokan NIC.
+
+5.    Hub/Switch
+
+Hub adalah alat yang digunakan untuk menghubungkan antar komputer dan perlatan lain dalam jaringan. Fungsi hub yaitu untuk mengarahkan informasi dalam jaringan sehingga sampai ke tujuan. Namun untuk mendapatkan kualitas transformasi data yang baik dapat digunakan switch untuk menggantikan hub. Hub dan switch memiliki persamaan fungsi untuk mengarahkan informasi dalam jaringan. Namun switch memiliki nilai lebih dibandingkan hub.
+
+6.    Modem
+Modem atau Modul the Modulator adalah peralatan jaringan yang digunakan untuk terhubung ke jaringan internet menggunakan kabel telpon. Dengan kata lain, modem adalah alat yang bertugas untuk mengubah data dari bentuk digital ke analog dan sebaliknya yang bisa dipahami oleh kita.
+  
+7.    Bridge
+Bridge adalah peralatan yang digunakan untuk memperluas atau memecah jaringan. Bridge berfungsi untuk menghubungkan dan menggabungkan media jaringan yang tidak sama.
+
+8.    Router
+Router memiliki kemampuan melewatkan paket IP dari satu jaringan yang berbeda ke jaringan lain yang bukan susunan atau jaringan yang mungkin memiliki banyak jalur diantara keduanya. Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya.
+
+9.    Repeater
+Repeater berguna untuk memperkuat sinyal dengan cara menerima sinyal dari suatu segmen kabel LAN lalu memancarkan kembali dengan kekuatan yang sama dengan sinyal asli pada segmen kabel lain.
+
+Ø  Software :
+1.    System Operasi
+Sistem operasi (bahasa Inggris: operating system ; OS) adalah seperangkat program yang mengelola sumber daya perangkat keras komputer, dan menyediakan layanan umum untuk aplikasi perangkat lunak. Contohnya, Windows, Linux, Mac OS, dll.
+2.    Web Server
+Web Server adalah komputer server yang menyediakan informasi yang bisa dilihat oleh pengguna internet. Fungsi utama sebuah server web adalah untuk mentransfer berkas atas permintaan pengguna melalui protokol komunikasi yang telah ditentukan.
+3.    Web Browser
+Web Browser atau dalam bahasa indonesia peramban web merupakan software yang mempunyai fungsi menampilkan halaman sebuah website. Sedangkan pengertian web browser menurut wikipedia "perangkat lunak yang berfungsi menampilkan dan melakukan interaksi dengan dokumen-dokumen yang disediakan oleh server web" .
+4.    File Transfer Protocol
+Protokol pengiriman berkas (Bahasa inggris: File Transfer Protocol) adalah sebuah protokol Internet yang berjalan di dalam lapisan aplikasi yang merupakan standar untuk pengiriman berkas (file) komputer antar mesin-mesin dalam sebuah Antarjaringan.
+
+Ø  Analisis Jaringan Komputer di Sebuah Sekolah
+v  Kebutuhan Hardware :
+-          Personal Computer
+-          Modem
+-          Kabel UTP
+-          Konektor RJ-45
+-          NIC
+-          Access Point
+-          Antena
+-          Hub / Switch
+-          Router
+
+v  Kebutuhan Software :
+
+-          System Operasi : Windows 7
+-          Web Browser : Mozila Firefox, Internet Explorer
+-          Anti Virus (Avira)
+-          Software Pendukung ( WinRar, Adobe Reader)
+
+v  Topologi Jaringan :
+Topologi yang digunakan adalah topologi bus.
+Topologi ini adalah topologi yang awal di gunakan untuk menghubungkan komputer. Dalam topologi ini masing masing komputer akan terhubung ke satu kabel panjang dengan beberapa terminal, dan pada akhir dari kable harus di akhiri dengan satu terminator. Topologi ini sudah sangat jarang digunakan didalam membangun jaringan komputer biasa karena memiliki beberapa kekurangan diantaranya kemungkinan terjadi nya tabrakan aliran data, jika salah satu perangkat putus atau terjadi kerusakan pada satu bagian komputer maka jaringan langsung tidak akan berfungsi sebelum kerusakan tersebut di atasi.

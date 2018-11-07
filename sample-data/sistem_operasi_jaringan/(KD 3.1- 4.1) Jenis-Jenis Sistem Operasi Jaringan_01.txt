@@ -1,0 +1,63 @@
+enis-jenis Sistem Operasi Jaringan
+
+Assalamu’alaikum Wr Wb
+Pada kesempatan kali ini saya akan berbagi materi tentang sistem operasi jaringan. Disini akan dijelaskan mengenai pengertian sistem operasi, fungsi sistem operasi, manajemen interaksi, manajemen aplikasi, kemampuan sistem operasi dan jenis-jenis sistem operasi.
+
+Sistem Operasi
+Sistem  operasi  merupakan  sebuah  program  yang mengendalikan  semua  fungsi  yang  ada  pada  komputer. Secara umum semua sistem operasi memiliki empat fungsi berikut.
+·         Pengendalian akses terhadap berbagai perangkat keras yang terhubung ke komputer. (Manajemen perangkat keras)
+·         Pengelolaan file dan folder (Manajemen file dan folder)
+·         Penyediaan  user  interface  sebagai  jembatan  antar  user  dengan  perangkat  keras komputer (Manajemen interaksi user)
+·         Pengelolaan aplikasi user (Manajemen aplikasi)
+
+Manajemen Interaksi
+User dapat menggunakan komputer melalui aplikasi yang ada di komputer. Setiap aplikasi menyediakan interface untuk menerima interaksi yang mungkin dari user. Terdapat dua jenis interface yang dapat digunakan untuk berinteraksi dengan user, yakni:
+Command Line Interface (CLI)
+Interaksi  user  dengan  sistem  dilakukan  dengan  mengetikan  serangkaian  kalimat perintah untuk dikerjakan oleh komputer. Untuk mengetikkan perintah-perintah ini biasanya menggunakan terminal di sistem linux dan command prompt di sistem windows.
+Graphical User Interface (GUI)
+Disini interaksi user dilakukan melalui sekumpulan menu dan icon yang dapat dipilih oleh user untuk memberikan berbagai perintah ke komputer. Perintah ini lebih mudah dipahami oleh user dan tampilannnya lebih menarik karena menggunakan gambar/icon tertentu yang mewakili sebuah perintah.
+
+Manajemen Aplikasi
+Fungsi manajemen pada aplikasi user meliputi:
+-          Install,  proses  menempatkan  file-file  program  pada  sistem  komputer  termasuk konfigurasi program tersebut.
+-          Uninstall, proses untuk menghapus file-file program beserta konfigurasi dari komputer.
+-          Update/Upgrade, proses untuk memperbarui file-file dari program yang telah terinstall. Update dan upgrade memang hampir sama, tetapi ada perbedaannya. Update dan upgrade memiliki arti memperbarui file-file dari suatu program/software. Perbedaannya adalah update memperbarui sedikit demi sedikit dan biasanya dilakukan secara berkala baik itu secara otomatis terupdate ataupun secara manual oleh user, misalnya update windows 7 (hanya menambah fitur-fitur yang ada di windows 7). Sedangkan upgrade adalah memperbarui dengan perubahan yang besar, misalnya upgrade windows 7 ke windows 8.
+
+Sistem operasi modern juga dapat memiliki kemampuan sebagai berikut:
+-          Multi-user
+Dua  atau  lebih  user  dapat  bekerja  sama  untuk  saling  berbagi  pakai penggunaan aplikasi dan sumber daya seperti printer pada waktu yang bersamaan. Ini diibaratkan seperti satu alat yang dapat dipakai oleh beberapa orang sekaligus secara bersamaan.
+-          Multi-tasking
+Sistem operasi dapat menjalankan lebih dari satu aplikasi user. Jadi, seperti orang yang dapat mengerjakan tugas (task) yang banyak.
+-          Multi-processing
+Sistem operasi dapat menggunakan lebih dari satu CPU (Central Processing Unit). Ibarat satu tugas yang dikerjakan (process) oleh beberapa orang.
+-          Multi-threading
+Setiap  program  dapat  dipecah  ke  dalam  thread-thread  untuk kemudian dapat dijalankan secara terpisah (pararel) oleh sistem operasi. Kemampuan ini juga termasuk bagian dari multitasking pada aplikasi. Ibaratnya seperti satu tugas yang dibagi menjadi beberapa bagian dan dikerjakan terpisah oleh masing-masing orang yang diberi tugas.
+
+Sistem Operasi 32-bit dan 64-bit
+Terdapat dua perbedaan antara sistem operasi 32-bit dan 64-bit.
+-          Sistem  operasi  32-bit  hanya  mampu  menerima  RAM  maksimal  4  GB,  sedangkan sistem operasi 64-bit mampu menggunakan lebih dari 128 GB RAM.
+-          Manajemen memori dari sistem 64-bit juga lebih baik, sehingga mampu menjalankan proses pada aplikasi lebih cepat.
+
+Jenis-jenis sistem operasi
+Dilihat dari penggunaannya sistem operasi dapat dibedakan menjadi dua kelompok besar, yakni:
+-          Sistem operasi desktop, yang banyak digunakan di kantor-kantor, Small Office/Home Office (SOHO), dengan jumlah user yang sedikit.
+Sistem operasi desktop memiliki ciri-ciri sebagai berikut:
+o   Mendukung penggunaan oleh satu orang user
+o   Berbagi file dan folder dalam jaringan kecil dengan keamanan minimal
+Sistem operasi desktop yang paling banyak digunakan terbagi ke dalam tiga kelompok besar, yakni Microsoft Windows, Apple Mac Os, dan UNIX/Linux.
+-          Sistem  operasi  jaringan,  Network  Operating  System  (NOS),  didesain  untuk  dapat melayani user dalam jumlah besar untuk berbagai keperluan dan banyak digunakan pada perusahaan berskala besar.
+Sistem operasi jaringan memiliki ciri-ciri sebagai berikut:
+o   Mendukung penggunaan oleh lebih dari satu user
+o   Menjalankan aplikasi yang mampu digunakan oleh lebih dari satu user
+o   Stabil  (robust),  dimana  kecil  kemungkinan  untuk  terdapat  error  pada  program. Robustness  adalah  istilah  untuk  menunjukkan  kemampuan  suatu  sistem  komputer menangani masalah yang terjadi selama digunakan oleh user.
+o   Memiliki tingkat keamanan data yang lebih tinggi dari sistem operasi desktop.
+Contoh sistem operasi jaringan yang banyak digunakan adalah Linux/UNIX, Novell Netware, dan Microsoft Windows.
+
+Perbedaan Sistem Operasi Close Source dan Sistem  Operasi  Open  Source 
+Sistem Operasi Close Source (Proprietari)
+Sistem operasi proprietari merupakan sistem operasi  yang  dikembangkan  secara  internal  oleh  seseorang,  perkumpulan  ataupun perusahaan. Sistem operasi yang tergolong proprietari ini adalah Windows dan Mac Os. Sistem operasi close source termasuk sistem operasi yang berbayar.
+Sistem  Operasi  Open  Source  (Terbuka)
+Sistem  Operasi  Terbuka  merupakan  sistem operasi yang kode programnya dibuka untuk umum sehingga dapat dikembangkan oleh yang lainnya. Sistem operasi yang termasuk terbuka adalah UNIX, Linux dan turunannya. Sistem operasi terbuka merupakan sistem operasi yang free/gratis.
+
+Sumber bacaan:
+Modul Sistem Operasi Jaringan (15-C3-TKJ-Sistem Operasi Jaringan-XI-1.pdf)

@@ -1,0 +1,36 @@
+Standar Komunikasi : 
+Standar Organisasi
+
+         Standarisasi dalam bidang telekomunikasi merupakan suatu hal yang sangat penting. Sekarang ini dikenal ada badan-badan atau organisasi yang menangani masalah standarisasi, yaitu: standarisasi tingkat nasional, regional, dan internasional.
+
+Pada tingkat internasional, paling tidak dikenal ada dua badan internasional yang sangat berpengaruh pada bidang telekomunikasi. Badan itu adalah:
+
+ITU (International Telecommunication Union): bertempat di Geneva (Swiss), yang telah menghasilkan lebih dari 2000 standard.
+International Standardization Organization (ISO): badan ini mempunyai sejumlah standar komunikasi data yang sangat penting.
+
+Persetujuan telekomunikasi internasional dan antar benua dilakukan oleh suatu lembaga yang disebut: International Telecommunication Union (ITU). Lembaga ini keberadaannya di bawah naungan Perserikatan Bangsa-Bangsa (Dalam bahasa Inggris disebut: United Nations Organization (UNO)). Kantor ITU secara tetap berada di Geneva (Swiss). Badan-badan lain yang bernaung di bawah ITU, yaitu: Sekretariat Umum (General Secretariat), yang tugasnya mengelola aspek aktivitas administrasi dan ekonomi. Di samping itu ada badan pendaftaran frekuensi internasional (IFRB = International Frequency Registration Board) yang tugasnya adalah: bertanggung jawab terhadap koodinasi penerapan frekuensi radio dalam semua kategori. 
+
+Badan khusus lainnya yang melayani permasalahan dan pertanyaan tentang komunikasi radio, ditangani oleh: Comite Consultatif International des Radiocommunications (CCIR). Selain itu, ada badan Comite Consultatif International Telegraphique et Telephonique (CCITT) yang menangani masalah-masalah lain dalam bidang telekomunikasi. Badan tetap ini didukung oleh dewan administratif, yang terdiri dari 25 orang yang berasal dari negara-negara yang berpartisipasi. 
+
+Pertemuan dilaksanakan sekali dalam setahun, untuk berkoordinasi dalam pekerjaan yang berbeda dari badan lain. Selain itu setiap empat tahun sekali diadakan konferensi tingkat dunia, yang dilakukan oleh badan-badan itu untuk membicarakan masalah teknis, pelayanan, dan penarifan (pembiayaan) bidang telekomunikasi. 
+
+CCIR dan CCITT bekerja dengan koordinasi yang sangat erat untuk mengatasi berbagai permasalahan, agar dapat dirumuskan rekomendasi (pesetujuan) dalam bidang telekomunikasi tingkat dunia. Pada gambar 1.11, ditunjukkan kantor ITU yang berkedudukan di Jenewa. Sementara itu gambar 1.12, menunjukkan struktur organisasi telekomunikasi tingkat dunia, sebelum berubah menjadi ITU-T dan ITU-R.
+OSI
+      sebuah model arsitektural jaringan yang dikembangkan oleh badan International Organization for Standardization (ISO) di Eropa pada tahun 1977. OSI sendiri merupakan singkatan dari Open System Interconnection. Model ini disebut juga dengan model "Model tujuh lapis OSI" (OSI seven layer model).
+Sebelum munculnya model referensi OSI, sistem jaringan komputer sangat tergantung kepada pemasok (vendor). OSI berupaya membentuk standar umum jaringan komputer untuk menunjang interoperatibilitas antar pemasok yang berbeda. Dalam suatu jaringan yang besar biasanya terdapat banyak protokol jaringan yang berbeda. Tidak adanya suatu protokol yang sama, membuat banyak perangkat tidak bisa saling berkomunikasi.
+Model referensi ini pada awalnya ditujukan sebagai basis untuk mengembangkan protokol-protokol jaringan, meski pada kenyataannya inisatif ini mengalami kegagalan. Kegagalan itu disebabkan oleh beberapa faktor berikut:
+
+Standar model referensi ini, jika dibandingkan dengan model referensi DARPA (Model Internet) yang dikembangkan oleh Internet Engineering Task Force (IETF), sangat berdekatan. Model DARPA adalah model basis protokol TCP/IP yang populer digunakan.
+Model referensi ini dianggap sangat kompleks. Beberapa fungsi (seperti halnya metode komunikasi connectionless) dianggap kurang bagus, sementara fungsi lainnya (seperti flow control dan koreksi kesalahan) diulang-ulang pada beberapa lapisan.
+Pertumbuhan Internet dan protokol TCP/IP (sebuah protokol jaringan dunia nyata) membuat OSI Reference Model menjadi kurang diminati.
+
+
+Internet Standar
+
+Standar Internet ditandai dengan tingkat tinggi kematangan teknis dan oleh keyakinan umum bahwa protokol atau layanan tertentu memberikan manfaat yang signifikan kepada komunitas internet. Umumnya Standar Internet menutupi interoperabilitas sistem di internet melalui mendefinisikan protokol, format pesan, skema, dan bahasa. Yang paling mendasar dari Standar Internet adalah orang-orang mendefinisikan Internet Protocol.
+
+Standar Internet memastikan bahwa perangkat keras dan perangkat lunak yang dihasilkan oleh vendor yang berbeda dapat bekerja sama. Memiliki standar membuat lebih mudah untuk mengembangkan perangkat lunak dan perangkat keras yang menghubungkan jaringan yang berbeda karena perangkat lunak dan perangkat keras dapat dikembangkan satu lapisan pada suatu waktu. Biasanya, standar yang digunakan dalam komunikasi data disebut protokol.
+
+Semua Standar Internet diberi nomor dalam seri STD - Dokumen pertama dalam seri ini, STD 1, menggambarkan dokumen yang tersisa dalam seri, dan memiliki daftar Standar Usulan.
+
+Setiap RFC statis; jika dokumen diubah, hal ini disampaikan lagi dan diberi nomor RFC baru. Jika RFC menjadi standar Internet (STD), itu diberikan sebuah nomor STD tapi tetap nomor RFC-nya. Ketika Standar Internet diperbarui, nomornya tetap sama dan itu hanya mengacu pada RFC yang berbeda atau set RFC. A diberikan Internet Standard, STD n, mungkin RFC x dan y pada waktu tertentu, tetapi kemudian standar yang sama dapat diperbarui menjadi RFC z sebagai gantinya. Sebagai contoh, pada 2007 RFC 3700 adalah Internet Standard-STD-1 dan pada bulan Mei 2008 itu diganti dengan RFC 5000, RFC 3700 sehingga berubah status bersejarah, dan sekarang STD 1 adalah RFC 

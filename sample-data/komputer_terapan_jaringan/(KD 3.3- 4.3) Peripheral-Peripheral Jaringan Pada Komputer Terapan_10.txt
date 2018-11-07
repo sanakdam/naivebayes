@@ -1,0 +1,93 @@
+PERIPHERAL-PERIPHERAL JARINGAN PADA KOMPUTER TERAPAN 
+September 14, 2017
+1.Apakah yang dimaksud UART(Universal Asynchronous Receiver Transmisi)?
+2.Apakah perbedaan antara moduler dengan demodular?
+3.Apakah fungsi HUB?
+4.Apakah fungsi dari router?
+5.Sebutkan piranti penyimpanan data!
+6.Mengapa kabel coaxial banyak digunakan jaringan lokal?
+7.Apa yang dimaksud dengan konsentrator,dan sebutkan jenis jenis konsentrator?
+8.Sebutkan peripheral-peripheral jaringan pada komputer tererapan?
+9.Apakah yang diamksud DAC?
+10.Sebutkan karakter prinsip dalam ADC?
+11.Sebutkan tiga jalur komunikasi SPI?
+12.Apkah fungsi dari UART?
+13.Apakah yang dimaksud dengan protokol?
+14.Apakh fungsi dari protokol?
+15.Sebutkan jenis-jenis protokol?
+16.Sebutkan kelemahan dan kelebihan dari standar 802.11?
+17.apakah yang dimaksud dengan IEEE(Institute of Eletrical and Eletronic Engineers)?
+
+
+JAWAB
+
+1).UART atau Universal Asynchronous Receiver-Transmitter adalah bagian perangkat keras komputer yang menerjemahkan antara bit-bit paralel data dan bit-bit serial. UART biasanya berupa sirkuit terintegrasi yang digunakan untuk komunikasi serial pada komputer atau port serial perangkat periperal. UART sekarang ini termasuk di dalam beberapa mikrokontroler
+
+2). Modular adalah suatu rangkaian yang berfungsi melakukan proses modulasi, yaitu proses       “menumpangkan” data pada frekuensi gelombang pembawa (carrier signal) ke sinyal informasi/pesan   agar bisa dikirim ke penerima melalui media tertentu (kabel atau udara), sedangkan 
+
+ Demodular mempunyai fungsi kebalikan dari modulator (demodulasi), yaitu proses mendapatkan  kembali data atau proses membaca data dari sinyal yang diterima dari pengirim.Sebuah alat yang  mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, dimana router    menghubungkan segmen-segmen jaringan yang menjalankan protokol berbeda (segmen jaringan IP  dengan segmen jaringan IPX.)
+
+3).FUNGSI HUB
+     *Memecahkan jaringan dari server menuju komputer client atau user
+      *Menjadi penguat sinyal transmisi paket data (pada smart hub)
+      * Sebagai peragkat keras penerima sinyal dari sebuah komputer dan merupakan titik pusat yang            menghubungkan ke seluruh komputer dalam jaringan.
+
+4).FUNGSI ROUTER
+     *Sebagai penghubung antara dua jaringan ataupun lebih dan meneruskan paket data dari jaringan          satu ke jaringan yang lain.
+     * menghubungkan jaringan lokal kesebuah koneksi DSL biasa juga disebut DSL router.
+
+5).  Memori, Floppy Disk, Hard Disk, CD-ROM dan USB Flash,Flash Disk
+
+6). Karena Kabel coaxial memiliki kecapatan jaringan yang rendah, maka dari itu jangkauan jaringannya banyak di wilayah lokal,Serta harganya lebih murah.
+
+7).  Konsentrator adalah perangkat untuk menyatukan kabel – kabel jaringan dari setiap workstation , server atau perangkat dalam sebuah jaringan komputer. 
+Jenis – jenis konsentrator : 
+   -Hub atau Repeater 
+   -Switch 
+   -Bridge
+   -Router
+
+8). Peripheral utama (main peripheral)Yaitu peralatan yang harus ada dalam mengoperasikan komputer. Contoh periferal utama yaitu: monitor, keyboard dan mouse. 
+Peripheral pendukung (auxillary peripheral)Yaitu peralatan yang tidak mesti ada dalam mengoperasikan komputer tetapi diperlukan untuk kegiatan tertentu. Contohnya yaitu: printer, scanner, modem, web cam dan lain-lain.
+
+9). DAC (Digital to Analog Convertion)adalah perangkat atau rangkaian elektronika yang berfungsi untuk mengubah suatu isyarat digital (kode-kode biner) menjadi isyarat analog (tegangan analog) sesuai harga dari isyarat digital tersebut.
+
+10).ADC (Analog to Digital Converter) memiliki 2 karakter prinsip, yaitu kecepatan sampling dan resolusi
+      *Kecepatan sampling suatu ADC menyatakan “seberapa sering sinyal analog dikonversikan ke bentuk                sinyal digital pada selang waktu tertentu”.
+       *Resolusi ADC menentukan “ketelitian nilai hasil konversi ADC”.
+
+11).MOSI, MISO dan CLK
+
+12). Untuk menerjemahkan antara bit-bit paralel datadan bit-bit serial.
+
+13). Protokol adalah sebuah aturan atau standar yang mengatur atau mengijinkan terjadinya hubungan, komunikasi, dan perpindahan data antara dua atau lebih titik komputer.
+
+14). Sebagai penghubung dalam komunikasi data sehingga proses penukaran data bisa berjalan dengan baik dan benar.
+
+15).  -TCP/IP (Transmission Control Protokol/Internet Protokol)
+        -DNS (Domain Name System)
+        -UDP ( User Datagram Protokol)
+        -Point-to-Point Protokol
+        -Serial Line Internet Protokol
+        -ICMP (Internet Control Message Protokol)
+        -IMAP (Internet Message Access Protokol)
+
+16).  * Kelebihan standar 802.11:
+          a.Mobilitas
+          b.Sesuai dengan jaringan IP
+          c.Konektifitas data dengan kecepatan tinggi
+          d.Frekuensi yang tidak terlisensi
+          e.Aspek keamanan yang tinggi
+          f.Instalasi mudah dan cepat
+          g.Tidak rumit
+          h.Sangat murah
+         *Kelemahan standar 802.11:
+          a.Bandwidth yang terbatas karena dibagi-bagi berdasarkan spektrum RF untuk teknologi-                    teknologi lain
+          b.Kanal non-overlap yang terbatas
+          c.Efek multipath
+          d.Interferensi dengan pita frekuensi 2.4 GHz dan 5 GHz
+          e.QoS yang terbatas
+          f.Power control
+          g.Protokol MAC high overhead
+
+17). IEEE(Institute of Eletrical and Eletronic Engineers) adalah serangkaian spesifikasi kendali akses medium dan lapisan fisik untuk mengimplementasikan komunikasi komputer wireless local area network di frekuensi 2.4, 3.6, 5, dan 60 GHz.

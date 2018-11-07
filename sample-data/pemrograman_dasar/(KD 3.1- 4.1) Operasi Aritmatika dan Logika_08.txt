@@ -1,0 +1,99 @@
+MATERI I
+OPERASI ARITMATIKA
+
+========================================================================
+
+
+• Operasi aritmatika
+• Pemanfaatan Operator Aritmatika
+• Fungsi Aritmatika
+
+
+
+• Operasi aritmetika
+           Operasi dasar aritmetika adalah penjumlahan, pengurangan, perkalian dan pembagian, walaupun operasi-operasi lain yang lebih canggih (seperti persentase, akar kuadrat, pemangkatan, dan logaritma) kadang juga dimasukkan ke dalam kategori ini. Perhitungan dalam aritmetika dilakukan menurut suatu urutan operasi yang menentukan operasi aritmetika yang mana lebih dulu dilakukan. (Wikipedia, 2016)
+
+           Operator aritmatika adalah operator yang digunakan untuk melakukan operasi-operasi perhitungan aritmatika seperti penjumlahan, pengurangan, pembagian, perkalian, dll. Dalam bahasa pemrograman Pascal operator aritmatika dapat dibagi menjadi 2, yaitu :
+
+           • Operator Aritmatika Unair
+             Operator aritmatika unair adalah operator aritmatika yang hanya melibatkan 1 operand saja.
+
+           • Operator Aritmatika Biner
+              Operator aritmatika biner adalah operator aritmatika yang melibatkan 2 buah operand.                         (Maryono, 2106)
+
+            Berikut ini jenis operator  dalam bahasa pemrograman pascal :
+
+
+(Pearson, 2016)
+
+
+• Pemanfaatan Operator Aritmatika
+         • Pengertian Operator Pemograman
+                 Operator adalah simbol-simbol khusus yang digunakan untuk mengoperasikan suatu nilai data (operand).
+Ada beberapa jenis operator, yaitu :
+1. Assignment Operator / Operator Penugasan
+         Assignment Operator (operator penugasan) adalah operator yang menggunakan tanda sama dengan (=) untuk mengisi sebuah nilai dalam suatu variabel.
+
+
+2. Arithmetic Operator / Operator Aritmatika
+        Arithmetic Operator (operator aritmatika) adalah operator yang digunakan untuk melaksanakan operasia ritmatika.
+Beberapa operator aritmatika antara lain:
+* : Untuk perkalian
++ : Untuk penjumlahan
+- : Untuk pengurangan
+/ : Untuk pembagian
+% : Untuk sisa pembagian (modulus)
+
+
+3. Logical Operator / Operator Logika / Boolean Operator
+        Operator Boolean atau Operator Logika adalah operator yang digunakan untuk melakukan operasi logika yaitu operator yang menghasilkan nilai TRUE (benar) atau FALSE (salah).
+Bebarapa macam operator logika antara lain:
+1. and : Menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+2.  or : Menghasilkan nilai TRUE jika salah satu operand bernilai TRUE
+3.  xor : Menghasilkan nilai TRUE jika salah satu operand bernilai TRUE tetapi bukan kedua-duanya bernilai  TRUE
+4. ! : Mengasilkan nilai tidak TRUE
+5. && : Menghasilkan nilai TRUE jika kedua operand bernilai TRUE
+6. || : Menghasilkan nilai TRUE jika salah satu operand bernilai TRUE
+
+
+4. Comparison Operator / Operator Pembanding
+        Operator Pembanding adalah operator yang digunakan untuk membandingkan dua buah nilai atau operand.
+Operator perbandingan ini antaralain :
+<  : Untuk kurang dari
+> : Untuk lebih dari
+<= : Untuk kurang dari atau sama dengan
+>= : Untuk lebih dari atau sama dengan
+== : Untuk sama dengan
+!= : Untuk tidak sama dengan
+<> : Untuk tidak sama dengan.
+
+(serilmu, 2016)
+
+
+Fungsi Aritmatika
+
+Pengertian
+1. Fungsi IF
+        Untuk mengecek apakah nilai yang kita gunakan sebagai kunci benar atau salah (memenuh isyarat atau tidak)
+
+2. Fungsi SUM
+        Berfungsi untuk melakukan penjumlahan.
+
+3. Fungsi COUNT
+        Untuk melakukan COUNTER atau penjumlahan sel yang berisi data numeric.
+
+4. Fungsi AVARAGE
+        Untuk menghitung rata-rata data numeric.
+
+5. Fungsi EXACT
+        Untuk menghidangkan 2 buah kata, jika sama akan bernilai TRUE, jika tidak FALSE.
+
+6. Fungsi MAX
+        Untuk mencari nilai terbesar dari sekumpulan data atau RANGE CELL.
+
+7. Fungsi MIN
+        Untuk mencari nilai terkecil dari sekumpulan data atau RANGE CELL.
+
+8. Fungsi VLOOKUP
+        Bantuan REFERENCES. Digunakan untuk menghasilkan nilai pad table secara Vertikal
+

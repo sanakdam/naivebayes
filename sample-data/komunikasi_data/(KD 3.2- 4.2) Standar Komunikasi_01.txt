@@ -1,0 +1,56 @@
+STANDAR KOMUNIKASI
+
+STANDAR KOMUNIKASI
+•       Sistem transmisi : Berupa jalur transmisi tunggal (single transmission)atau jarinagn komplek(complex network)yang menghubungkan antara sumber dengan tujuan (destination.
+Tujuan (destination) : menangkap data yang dihasilkan oleh receiver.
+•       Jaringan telekomunikasi dirancang untuk melayani berbagai macam pengguna, yang menggunakan berbagai macam perangkat yang berasal dari vendor yang berbeda. 
+•       Untuk merencanakan dan membangun suatu jaringan secara efektif diperlukan suatu standar yang menjamin interoperability, compatibility, dan kinerja yang dipersyaratkan secara ekonomis
+•       Suatu standar yang terbuka (open standard) diperlukan untuk memungkinkan interkoneksi sistem, perangkat maupun jaringan yang berasal dari vendor maupun operator yang berbeda. 
+
+
+
+
+
+STANDAR ORGANISASI
+u  Internet Engineering Task Force (IETF) 
+u  International Telecommunications Union (ITU)
+u  International Standards Organization (ISO) 
+u  American National Standards Institute (ANSI) 
+u  Institute of Electrical and Electronics Engineers (IEEE) 
+u  Electronic Industries Association (EIA) 
+u  Federal Communications Commision (FCC) 
+
+
+
+STANDAR OSI
+u  OSI (Open Systems Interconnections) adalah sebuah standar untuk model jaringan yang di ciptakan oleh ISO (International Standards Organization) bekerja sama dengan organisasi lain seperti ITU (International Telecommunications Union), EIA (Electronic Industries Association), dan lain-lain.
+u  Standar OSI dibuat agar perangkat/platform dari berbagai pabrikan dapat berkomunikasi karena pada masa itu belum ada model baku dari jaringan yang dapat berkomunikasi antar platform dengan pabrikan yang berbeda.
+u  Dalam komunikasi data terdapat tata cara atau prosedur yang harus diikuti oleh dua atau lebih sistem komputer yang saling berkomunikasi. Prosedur ini dikenal dengan istilah protokol. Protokol komunikasi data didefinisikan sebagai prosedur atau peraturan yang mengatur operasi peralatan komunikasi data.
+u  Arsitektur jaringan yang dikembangkan oleh ISO ini dikenal sebagai model OSI 7 Layer. Karena Model OSI membagi protokol untuk komunikasi data atas 7 lapisan atau layers, pembagian tujuh lapisan pada OSI bertujuan agar:
+u  Mempermudah administrasi dan standardisasi. Walaupun protokolnya kompleks tetapi fungsi tiap layer dapat dimodularisasikan sehingga mudah ditanggulangi.
+u  Kendali menggunakan layer memungkinkan komunikasi antar peralatan tanpa melihat pabrik pembuat peralatan tersebut.Standardisasi paling banyak berlaku pada layer yang rendah dan makin berkurang pada layer atas. Layer application hampir tidak ada standardisasinya.
+u  Membuat kerangka agar sistem atau jaringan yang mengikutinya dapat saling tukar informasi (pesan, paket dan address), sehingga tidak bergantung pada merk dan model komputer atau peralatan lainnya.
+u  Setiap layer berfungsi independent tetapi dari masing-masing layer tergantung dari keberhasilan operasi layer sebelumnya.
+
+
+TUJUAN OSI
+u  Agar dapat terjalin kerja sama antara peralatan dari pabrik dan rancangan (design) yang berbeda dalam hal :
+u  a.         Koordinasi berbagai macam kegiatan seperti komunikasi antar                           proses.
+u  b.        Penyimpanan data
+u  c.         Manajemen dari sumber serta proses
+u  d.        Keandalan dan kamanan (security) dari sistem
+u  e.         Software support
+
+
+
+7 L APISAN OSI
+
+u  Application layer : interface user dan komputer.contoh:telnet,ftp,dns.
+
+u  Presentation layer : menyediakan sistem penyajian data ke apikasi.
+
+u  Session layer : mengkoordinasikan jalannya komunikasi antar sistem,mengendalikan dialog antar node.
+u  Transport lyer : bertanggung jawab dalam pengiriman paket antar host.
+u  Network layer : bertanggungjawab melakukan routing antar jaringan,mengelola sistem pengalamatan logika terhadap jaringan sistem komputer,contoh:ip.
+u  Datalink layer : membungkus paket data dari network,dan menjamin paket terkirim ke tempat yang tepat.
+u  Physical layer : pengirima dan penerimaan byt,berhubungan langsung dengn media komunikasi yang berbeda-beda.

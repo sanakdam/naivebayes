@@ -1,0 +1,28 @@
+Peripheral-peripheral Jaringan pada Komputer Terapan
+Ditulis pada 11 November 2014 oleh fitriyanti29
+1. Universal Asynchronous Receiver Transmitter (UART)
+
+UART atau Universal Asynchronous Receiver-Transmitter adalah bagian perangkat keras komputer yang menerjemahkan antara bit-bit paralel data dan bit-bit serial. Dapat juga dikatakan  sebagai Jenis sirkuit  terpadu atau chip untuk menangani anatrmuka komputer (yang menghasilkan bit data paralel) dengan perangkat serial yang terhubung.
+
+Di samping itu fungsi lain dari UART adalah menambahkan bit pariti, bit star/stop untuk penyelaras transmisi data dan menangani interupsi dari perangkat keras. pendek kata UART berfungsi unntuk mengedaklikan data secara seri.
+
+2. Universal Synchronous Asynchronous Receiver Transmitter (USART).
+
+Universal Syncrhronous and Asyncrhronous Serial Receiver and Transmitter (USART) juga merupakan salah satu mode komunikasi serial yang dimiliki oleh ATmega8535.
+USART merupakan komunikasi yang memiliki fleksibilitas tinggi, yang dapat digunakan untuk melakukan transfer data baik antar mikrokontroler maupun dengan modul-modul eksternal termasuk PC yang memiliki fitur UART.
+
+3. Serial Peripheral Interface (SPI)
+
+Serial Peripheral Interface (SPI) merupakan salah satu mode komunikasi serial synchronous kecepatan tinggi yang dimiliki oleh ATmega 328. Komunikasi SPI membutuhkan 3 jalur, yaitu MOSI, MISO, dan SCK. Melalui komunikasi ini data dapat saling dikirimkan baik antara mikrokontroller maupun antara mikrokontroller dengan peripheral lain di luar mikrokontroller.
+
+4. Serial Communication Interface (SCI)
+
+Sebuah komunikasi serial interface (SCI) adalah perangkat yang memungkinkan seri (satu bit pada satu waktu) pertukaran data antara mikroprosesor dan peripheral seperti printer, drive eksternal, scanner, atau tikus. Dalam hal ini, mirip dengan perangkat antarmuka serial ( SPI ). Tapi di samping itu, SCI memungkinkan komunikasi serial dengan mikroprosesor lain atau dengan jaringan eksternal. Istilah SCI diciptakan oleh Motorola di tahun 1970-an.Dalam beberapa aplikasi itu dikenal sebagai universal asynchronous receiver / transmitter (UART ).
+
+5. Analog to Digital Converter (ADC)
+
+ADC adalah kepanjangan dari Analog to Digital Converter yang artinya Pengubah dari analog ke digital. Fungsi dari ADC adalah untuk mengubah data analog menjadi data digital yang nantinya akan masuk ke suatu komponen digital yaitu mikrokontroller AT89S51. Inputan dari ADC ini ada 2 yaitu input positif (+) dan input negatif (-). ADC 0804 ini terdiri dari 8 bit microprocessor Analog to Digital Converter.
+
+6. Digital to Analog Converter (DAC)
+
+DAC atau Digital to Analog Conventer adalah perangkat yang digunakan untuk mengkonversi sinyal masukan dalam bentuk digital menjadi sinyal keluaran dalam bentuk analog (tegangan). Tegangan keluaran yang dihasilkan DAC sebanding dengan nilai digital yang masuk ke dalam DAC. Sebuah DAC menerima informasi digital dan mentransformasikannya ke dalambentuk suatu tegangan analog. Informasi digital adalah dalam bentuk angka biner dengan jumlah digit yang pasti.

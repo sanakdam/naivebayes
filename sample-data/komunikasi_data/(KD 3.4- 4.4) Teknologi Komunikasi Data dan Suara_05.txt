@@ -1,0 +1,94 @@
+SEKILAS TEKNOLOGI KOMUNIKASI DATA DAN SUARA
+
+1.    Pengertian Teknologi Komunikasi Data
+Teknologi Komunikasi Data merupakan proses pengiriman informasi (data) yang telah diubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmis dari pengirim (sender) ke penerima (receiver).
+
+A.  Jenis-Jenis Komunikasi Data
+Contoh teknologi komunikasi data, yaitu :
+a)      Telegraf adalah sistem telekomunikasi yang menggunakan peralatan listik untuk mengirimkan dan menerima sinyal sesuai dengan kode dalam bentuk pulsa listrik dengan mengunakan kabel-kabel tembaga dari jarak jauh.
+
+
+b)     Faksimile berasal dari kata facsimile yang artinya menyalin sama persis dengan aslinya, Mesin faks merupakan peralatan telekomunikiasi yang digunakan untuk mengirimkan tulisan dan gambar melalui kabel telepon, Mesin faks menyalin dokumen yang ingin dikirimkan, kemudian mengirimkan dokumen tersebut ke nomor faks yang ingin dituju.
+
+
+c)      Pager sebenarnya hanya untuk memanggil saja atau memberikan instruksi satu arah saja atau tidak interaktif. Infromasi yang akan disampaikan direkam oleh operator dan ditransformasikan dalam bentuk tulisan kemudian disampaikan ke mesin pager.
+
+
+d)     Jaringan Komputer (Email, Website, Media Sosial, dll) Komunikasi ini menggunakan media internet dalam berkomunikasi.
+
+
+
+A.  Tujuan Komunikasi Data
+Tujuan dari komunikasi data, antara lain :
+a)      Memungkinkan pengiriman data dalam jumlah besar efesien, tanpa kesalahan dan ekonomis dari suatu tempat ke tempat yang lain.
+b)     Memungkinkan penggunaan sistem komputer dan peralatan pendukung dari jarak jauh (remote computer use).
+c)      Memungkinkan penggunaan komputer secara terpusat maupun secara tersebar sehingga mendukung manajemen dalam hal kontrol, baik desentralisasi maupun sentralisasi.
+d)     Mempermudah kemungkinan pengelolaan dan pengaturan data yang ada dalam berbagai macam sistem komputer.
+
+B.  Cara Menjaga Data dalam Sistem Komunikasi Data
+1.      Pastikan media transmisi tidak rusak
+2.      Pastikan Alamat IP yang mau dikirim benar
+3.      Lindungi kabel-kabel dari binatang perusak
+4.      Letakan kabel-kabel ditempat yang aman
+5.      Selalu rutin scan virus. Recomendasi sehari 2x
+6.      HDD yang digunakan tidak boleh Bad sector
+7.      Agar lebih baik, HDD yang digunakan tidak dicampur dengan game ini membuat file menjadi lemot.
+
+C.  Hambatan Ketika Melakukan Komunikasi Data
+Hambatan dalam melakukan komunikasi data, antara lain :
+a)      Hambatan yang bersifat teknis, yaitu pesan tidak dapat utuh diterima receiver.
+b)     Hambatan bahasa, yaitu pesan yang kita kirimkan tidak dapat ditafsirkan secara sempurna oleh receiver.
+c)      Hambatan bola salju, yaitu pesan semakin lama semakin membesar.
+
+2.    Pengertian Teknologi Komunikasi Suara
+Teknologi Komunikasi Suara merupakan jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara untuk didengarkan.
+A.  Jenis Komunikasi Suara
+Jenis-jenis komunikasi suara, antara lain :
+a)   Komunikasi siaran radio / radio broadcasting
+Informasi dipancarkan ke segala arah dan siapapun diperbolehkan menerima informasi tersebut. Dan informasi yang dikirimkan bersifat umum. Contoh : Radio.
+
+
+b)   Komunikasi radio amatir
+Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas pada mereka yang mempunyai izin beroperasi. Informasi bersifat pribadi. Contoh : ORARI.
+
+
+c)    Komunikasi radio 2 arah
+Informasi terbatas pada pengirim dan penerima yang beroperasi dengan saluran / frequensi / gelombang yang sama dan jarak jangkauannya terbatas sehingga sifat pribadinya dapat terjaga. Contoh : Handy-talky.
+
+
+d)   Komunikasi radio antar penduduk / citizen band
+Hubungan komunikasi bersifat pribadi, jangkauannya terbatas dan kerahasiaan tidak terjamin karena semua pesawat penerima sistem komunikasi dapat menerima informasi yang disampaikan. Contoh : RAPI, Intercom.
+
+
+e)    Komunikasi radio panggil / paging system
+Digunakan untuk memanggil penerima yang merupakan pelanggan dari pengirim, jarak jangkauannya terbatas. Contoh : Pager f. Komunikasi telpon Bersifat pribadi murni / niaga, jumlah informasi yang disampaikan tidak terbatas, kerahasian terjaga, jarak jangkauannya paling luas. Menggunakan manajemen pertukaran. Contoh : Telephone dial.
+
+
+f)    Komunikasi telepon
+Bersifat pribadi murni / niaga, jumlah informasi yang disampaikan tidak terbatas, kerahasian terjaga, jarak jangkauannya paling luas. Contoh : Handphone.
+
+
+
+B.  Hambatan dalam Melakukan Komunikasi Suara
+Hambatan dalam melakukan komunikasi suara, antara lain :
+a)      Suara yang tidak dapat diterima dengan baik karena pengaruh sinyal.
+b)     Suara menjadi berbeda.
+
+C.  Ciri – Ciri Komunikasi Suara
+1.    Hanya bisa ditangkap oleh indra pendengar
+2.    Bersifat verbal (langsung)
+3.    Tidak adanya visualisasi
+4.    Adanya media penghantar suara
+5.    Dapat dilakukan hanya pada jarak tertentu
+6.    Dapat dimengerti
+7.    Memiliki frekuensi
+8.    Digunakan untuk menyampaikan informasi
+9.    Informasi yang dikirim dapat diterima
+   
+D.  Syarat Komunikasi Suara
+1.    Pengirim (Tranceiver)
+  Pihak yang mengirimkan informasi, misalnya pesawat telepon, telex, terminal, dan lain-lain. Tugasnya adalah membangkitkan berita atau informasi dan menempatkannya pada media transmisi.
+2.    Media Transmisi
+  Media yang digunakan untuk menyalurkan (mengirimkan) ketempat tujuan (penerima), misalnya saluran fisik (kabel), udara dan cahaya.
+3.    Penerima (Receiver)
+  Pihak yang menerima informasi, misalnya pesawat telepon, telex, terminal, dan lain-lain. Tugasnya adalah menerima berita atau informasi yang dikirimkan oleh pengirim berita.

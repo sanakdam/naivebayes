@@ -1,0 +1,71 @@
+Kinerja Komputer Terapan Jaringan
+Kinerja Komputer Terapan Jaringan
+·         Hardware Pendukung Jaringan Internet
+Modem
+Modem berasal dari MOdulator DEModulator. Modulator merupakan bagian yang mengubah sinyal informasi kedalam sinyal pembawa (Carrier) dan siap untuk dikirimkan, sedangkan Demodulator adalah bagian yang memisahkan sinyal informasi (yang berisi data atau pesan) dari sinyal pembawa (carrier) yang diterima sehingga informasi tersebut dapat diterima dengan baik. Modem merupakan penggabungan kedua-duanya, artinya modem adalah alat komunikasi dua arah. Setiap perangkat komunikasi jarak jauh dua-arah umumnya menggunakan bagian yang disebut “modem”, seperti VSAT, Microwave Radio, dan lain sebagainya.
+            Modem merupakan perangkat perantara antara komputer anda dengan saluran telepon agar dapat berhubungan dengan ISP (Internet Service Provider – penyedia jasa internet) anda.Kabel modem adalah alat yang memberikan akses berkecepatan tinggi ke internet melalui jaringan kabel televisi.
+HUB
+Hub adalah salah satu perangkat dalam Jaringan Komputer yang berguna untuk menghubungkan antar segmen dalam jaringan. Dia bekerja di level fisik (layer pertama) dari model referensi OSI.
+            Dengan adanya hub, maka CSMA/CD yang bertugas untuk mensharing medium (kabel, udara, fiber, dll) agar semua bisa terkoneksi dapat berjalan dengan baik. Hub bertugas mengkoneksikan setiap node agar terhubung dengan sebuah backbone utama dalam proses transmisi data. 
+Router
+            Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+Router berfungsi sebagai penghubung antar dua atau lebih jaringan untuk meneruskan data dari satu jaringan ke jaringan lainnya. Router berbeda dengan switch. Switch merupakan penghubung beberapa alat untuk membentuk suatu Local Area Network (LAN).
+Kartu Jaringan (NIC)
+Kartu jaringan (Inggris: network interface card disingkat NIC atau juganetwork card) adalah sebuah kartu yang berfungsi sebagai jembatan darikomputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna.
+ NIC fisik umumnya berupa kartu yang dapat ditancapkan ke dalam sebuah slot dalam motherboard komputer, yang dapat berupa kartu dengan bus ISA, bus PCI,bus EISA, bus MCA, atau bus PCI Express. Selain berupa kartu-kartu yang ditancapkan ke dalam motherboard, NIC fisik juga dapat berupa kartu eksternal yang berupa kartu dengan bus USB,PCMCIA, bus serial, bus paralel atau Express Card, sehingga meningkatkan mobilitas (bagi pengguna yang mobile).
+            Kartu NIC Fisik terbagi menjadi dua jenis, yakni:
+Kartu NIC dengan media jaringan yang spesifik (Media-specific NIC): yang membedakan kartu NIC menjadi beberapa jenis berdasarkan media jaringan yang digunakan. Contohnya adalah NIC Ethernet, yang dapat berupaTwisted-Pair (UTP atau STP), Thinnet, atau Thicknet, atau bahkan tanpa kabel (Wireleles Ethernet) (EFENDY, 2015)
+·         Software Pendukung Jaringan Internet
+Sistem Operasi
+Sistem operasi jaringan adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service, dan lain sebagainya
+Dan Berikut Ini Adalah Sistem Operasi Jaringan Yang Umum Dijumpai Antara Lain :
+·         Microsoft MS-NET
+·         Microsoft LAN Manager
+·         Novell NetWare
+·         Microsoft Windows NT Server
+·         GNU/Linux
+·         Banyan VINES
+·         Beberapa varian UNIX, seperti SCO OpenServer, Novell UnixWare, atau Solaris (Istifaroh, 2016)
+·         Kartu Antarmuka Jaringan
+PCI Adapter
+            PCI (Peripheral Component Interconnect) adalah bus yang pada awalnya didesign untuk menggantikan Bus ISA/EISA yang dipakai dalam system komputer IBM. Dirilis pertama kali tahun 1992 dan masih banyak dipakai sampai sekarang ini untuk komputer desktop yang mempunyai slot PCI tentunya. Dari jenis adapter jaringan ada dua macam pemakaian yaitu yang untuk adapter jaringan kabel dan untuk adapter jaringan wireless atau jaringan nirkabel. Gambar berikut menunjukkan slot PCI pada motherboard komputer dan kartu jaringan PCI untuk LAN dan untuk wireless.
+USB Adapter
+            USB (Universal Serial Bus) adalah standard Bus serial yang mempunyai design asimmetris dan di design sebagai slot yang sangat praktis untuk menghilangkan perlunya tambahan slot PCI pada komputer. USB mempunyai kemampuan PnP (Plug and Play – pasang dan mainkan) sehingga saat dipasang di komputer tidak memerlukan suatu reboot komputer. Kartu jaringan wireless USB, yang banyak dipakai karena sifatnya yang praktis dan banyak dipakai untuk kartu jaringan wireless. Tidak ada kartu jaringan LAN yang memakai slot USB kecuali yang dari jenis wireless.
+Card Bus / PCMCIA
+            Kartu jaringan Cardbus atau PCMCIA yang dipakai pada slot Cardbus atau PCMCIA dari notebook. Kartu jaringan dari jenis Cardbus ini lebih banyak dipakai untuk kartu jaringan wireless juga, walaupun pada awalnya banyak diproduksi adapter LAN dengan speed 10 Mbps di era laptop jaman dulu yang tidak dilengkapi dengan kartu jaringan onboard, sekarang sudah tidak ada lagi.
+Express Card
+            ExpressCard, awalnya disebut NEWCARD, adalah sebuah antarmuka untuk menghubungkan perangkat ke komputer,biasanya komputer. ExpressCard standar teknis menentukan desain slot dibangun ke dalam komputer dan kartu ekspansiuntuk menyisipkan dalam slot. Kartu berisi sirkuit elektronik dan kadang-kadang konektor untuk perangkat eksternal. ExpressCard standar menggantikan PC Card (juga dikenal sebagai PCMCIA) standar
+            ExpressCard dapat menghubungkan berbagai perangkat ke komputer termasuk modem mobile broadband (kadang-kadang disebutkartu connect), IEEE 1394 (FireWire) konektor, USB konektor, Ethernet port jaringan, Serial ATA perangkat penyimpanan, solid-state drive, kandang eksternal untuk desktop- Ukuran PCI Express kartu grafis dan perangkat periferal lain, wireless controller antarmuka jaringan (NIC), kartu TV tuner, Umum Akses Kartu (CAC) pembaca, dan kartu suara.
+PCI Express USB 3.0 Adapter
+            Sejak 2006, sudah mulai banyak produk computer yang melengkapi motherboardnya dengan PCIexpress dengan tersedianya slot PCIe. Sekarang ini banyak produk yang memanfaatkan slot PCI ini antara lain USB port PCI Express adapter. PCI adapter ini mengusung port USB 3.0 SuperSpeed. Lihat juga mengenal lebih dekat USB 3.0. Salah contoh dari adapter PCIe USB 3.0 ini adalah TRENDnet 2-Port USB 3.0 PCI Express Adapter TU3-H2PIE. USB 3.0 ini PCI adapter ini mempunyai 2 port type A yang bisa digunakan pada komputer yang mempunyai slot PCI Express. Adapter ini dilengkapi dengan konektor power dari PC 4-pin untuk memberikan kekuatan power kepada perangkat USB yang terhubung kepada USB portnya. Kecepatan data transfer sungguh luar biasa sampai 5 Gbps lebih dari 10 kali lipat kecepatan transfer rate dari USB 2.0 yang hanya sampai 480 Mbps. (Catatan Kecil Pelajar TKJ, 2016)
+
+·         Printer Server
+Pada jaringan komputer, tidak hanya file atau data yang dapat digunakan bersama-sama, printer juga dapat dipakai secara bersama-sama oleh semua komputer yang terhubung di jaringan LAN. Printer server adalah alat yang dapat digunakan untuk mengakses printer atau gadget lain dari komputer mana saja tanpa harus ada komputer yang bertindak sebagai server.
+
+      Terdapat dua cara yang bias digunakan untuk mengaplikasikan fungsi print server jaringan, yaitu :
+
+1) Dengan memanfaatkan satu komputer yang terkoneksi secara langsung ke printer yang  kemudian dishare dan dipakai secara bersamaan pada jaringan LAN.
+2) Menggunakan peralatan tambahan (print server), yang dapat digunakan dengan mudah dan tidak perlu menyediakan komputer untuk aplikasinya. (komputer terapan jaringan, 2013)
+
+·         Wireless Access Point
+Access Point dapat dianalogikan  dengan hub dan repeater pada wired LAN, Access Point dapat menerima dari berbagai peralatan WiFi dan dapat juga meneruskan sinyal ke berbagai peralatan WiFi. Access Point dapat menggabungkan jaringan Wireless dengan wired dan dapat memperbesar jangakauan WLAN.
+
+Wireless Access Point adalah suatu piranti yang memungkinkan piranti nirkabel untuk terhubung ke dalam jaringan dengan menggunakan Wi-Fi, bluetooth atau standar lain. WAP biasanya tersambung ke suatu router sehingga dapat meneruskan data antara berbagai piranti nirkabel dengan jaringan berkabel pada suatu jaringan. Standar yang diterapkan untuk WAP ditetapkan oleh IEEE dan sebagian besar menggunakan IEEE.802.11.
+Pada umumnya access point memiliki beberapa fitur tambahan antara lain :
+1) DHCP Server  DHCP merupakan protokol yang digunakan untuk keperluan alokasi IP secara otommatis sehingga pengguna komputer client tidak perlu melakukan konfigurasi IP secara manual.
+2) Firewall  Firewall merupakan perangkat lunak untuk keperluan keamanan, biasanya digunakan untuk mengatur akses keluar masuk jaringan lokal.
+3) NAT (Network Address Translation) NAT merupakan suatu teknik yang memungkinkan komputerkomputer dengan IP address private atau lokal tetap dapat mengakses internet (IP address public), NAT banyak digunakan pada kantor atau warung internet yang memiliki alokasi IP address public terbatas.
+4) ADSL (Dial up modem)  Access point memiliki fitur sebagai modem sehingga akses internet lewat provider dapat dilakukan tanpa bantuan modem tambahan.
+5) Wireless Bridge Fitur ini memungkinkan access point untuk menghubungkan satu jaringan wireless dengan jaringan  wireless lainnya.
+Access point yang memiliki fitur bermacam-macam disebut juga router atau gateway, dan memiliki fungsi lebih luas seperti sharing internet, alokasi IP address secara dinamis, routing, firewall, dan sebagainya. (komputer terapan jaringan, 2013)
+
+Daftar Pustaka
+komputer terapan jaringan. (2013). jakarta: mentri pendidikan dan kebudayaan.
+Catatan Kecil Pelajar TKJ. (2016, FEBRUARI 26). Retrieved JANUARI 6, 2017, from Kinerja Komputer Terapan Jaringan : https://belajarkomter.wordpress.com/2016/02/26/kinerja-komputer-terapan-jaringan/
+EFENDY, R. (2015, MARET 9). KOMPUTER TERAPAN. Retrieved JANUARI 6, 2017, from KINERJA KOMPUTER TERAPAN: http://bidangkutekaje.blogspot.co.id/2015/03/kinerja-komputer-terapan-jaringan.html
+Istifaroh, A. L. (2016, AGUSTUS 2). MATERI TKJ. Retrieved JANUARI 6, 2017, from KINERJA KOMPUTER TERAPAN JARINGAN : http://annalailaistifaroh05.blogspot.co.id/2016/08/kinerja-komputer-terapan-jaringan.html
+
+Biografi   : Nama  : Muhammad Firdaus
+                  Sekolah: SMK Islam 1 Blitar
+
+                  Motto   : Hemat Energy

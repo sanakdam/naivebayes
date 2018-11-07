@@ -1,0 +1,88 @@
+Standar Komunikasi
+Standar komunikasi adalah protokol, protokol merupakan sebuah aturan atau standar yang mengatur atau mengijinkan terjadinya hubungan, komunikasi, dan perpindahan data antara dua atau lebih titik komputer. Protokol dapat diterapkan pada perangkat keras, perangkat lunak atau kombinasi dari keduanya. Pada tingkatan yang terendah, protokol mendefinisikan koneksi perangkat keras.
+Terbentuknya standar komunikasi atau protocol pada komunikasi data karena adanya organisasi yang membuat dan mengatur komunikasi :
+Sistem transmisi : Berupa jalur transmisi tunggal ( single transmission ) atau jarinagn komplek ( komplex network ) yang menghubungkan antara sumber dengan tujuan ( destination ). Tujuan (destination) : menangkap data yang dihasilkan oleh receiver. 
+ Jaringan telekomunikasi dirancang untuk melayani berbagai macam pengguna, yang menggunakan berbagai macam perangkat yang berasal dari vendor yang berbeda. 
+ Untuk merencanakan dan membangun suatu jaringan secara efektif diperlukan suatu standar yang menjamin interoperability, compatibility, dan kinerja yang dipersyaratkan secara ekonomis 
+Suatu standar yang terbuka ( open standard ) diperlukan untuk memungkinkan interkoneksi sistem, perangkat maupun jaringan yang berasal dari vendor maupun operator yang berbeda. 
+Standar Organisasi
+Standar adalah suatu hal yang penting dalam penciptaan dan pemeliharaan sebuah kompetisi pasar dari pada manufaktur perangkat komunikasi dan menjadi jaminan interopability data pada proses komunikasi. Standar komunikasi data dapat dikategorikan dalam 2 kategori yakni kategori de facto ( konvensi ) dan de jure ( secara hukum atau regulasi ).
+Berbagai macam organisasi standar:
+Internet Engineering Task Force ( IETF ) komunikasi data kelas xi tkjalah badan dunia yang menjadi kunci di balik perkembangan Internet, biasanya mengambil jalan sangat demokratis, terbuka, open standard, praktis mengadopsi yang terbaik yang ada di lapangan, dan yang lebih penting lagi IETF lebih cepat berkembang dan terkenal dalam komunikasi data dan Internet. Cukup masuk akal karena IETF memang besar bersama Internet dan protokol IP.
+
+
+
+2.    International Telecommunications Union ( ITU ) adalah tempat berkumpulnya para regulator telekomunikasi dan operator telekomunikasi ( termasuk Telkom, Telkomsel  & Indosat ) secara tradisional akan memilih jalur formal, resmi dan sangat top down. ITU    ( International Telecommunication Union ) sendiri merupakan bentukan dari perwakilan pemerintah Eropa pada tahun 1865 dan berdirilah ITU di Paris pada tanggal 17 Mei 1865. Dan ITU diketuai oleh Sekertaris Jendral Dr. Hamadoun I Toure sejak tahun 2006 hingga sekarang, yang merupakan jabatan pada periode ke-2. Sehingga pada tahun 1947 ITU menjadi badan Perserikatan Bangsa – Bangsa.
+ITU dibagi menjadi 3 yakni:
+1.      ITU-T ( International Telecommunication Union of Telecommunication ) 
+Adalah standar internasional dibidang Telekomunikasi baik itu telepon dan data. Sejak tahun 1956 – 1993 ITU-T dikenal sebagai CCITT ( Comite Consulatif International Telegraph of Telephone ). Tugas ITU-T adalah membuat rekomendasi teknis tentang telepon, telegrap, dan antar muka komunikasi data. Standar - standar yang diakui secara internasional sering menjadi penentu penempatan dan makna dari berbagai pin pada konektor yang digunakan oleh kebanyakan asyncronous terminal dan modem eksternal. ITU-T memiliki empat
+anggota, yaitu:
+• Pemerintahan
+• Perusahaan
+• Asosiasi
+• Peraturan Lembaga
+Terdapat juga 500 anggota sektor yang bergabung dengan ITU-T, termasuk perusahaan telepon, produsen pralatan telekomunikasi, vendor komputer, produsen chip, dan perusahaan media. Termasuk berbagai organisasi ilmiah nirlaba dan
+konsorsium industri.
+Adapun beberapa contoh dari Standar ITU-T, yakni:
+a. JPEG ( Joint Photographic Expert Group ), merupakan standar kompresi file yang dikembangkan  menggunakan kombinasi DCT dan pengkodean Huffman untuk mengompresikan suatu file citra yang bersifat lossy atau kurang baik.
+b. MPEG  ( Motion Picture Expert Group ),  merupakan standar pengkodean layanan video. MPEG sendiri mulai pertama kali diperkenalkan pada akhir tahun 1998, dengan standar utamanya adalah basis internet yakni streaming media.
+c. H.323, pada tahun 1996 H.323 dibentuk untuk dapat membantu pengembangan layanan VoIP. Fungsinya adalah untuk mempermudah pengiriman layanan suara, gambar dan data melalui jaringan komputer (internet).
+d. G.709, fungsi dari G.709 adalah untuk mengimplementasikan penggunaan kabel fiber optik. Adapun tujuan dari standar ITU G.709 ada tiga macam, yakni :
+a.       Mengidentifikasikan optik hierarki transportasi OTN.
+b.      Mendefinisikan fungsi dari overhead dalam mendukung multiwavelength jaringan optic.
+c.       Mendefinisikan kerangka struktur, bit rate dan format untuk pemetaan sinyal klien.
+2.      ITU-R ( International Telecommunication Union of Radiocommunication ) 
+Merupakan salah satu standar internasional dibidang radiokomunikasi. Dimana ITU-R ini menstandarisasikan komunikasi gelombang radio serta frekuensinya secara internasional.
+3.      ITU-D ( International Telecommunication Union of Development ) 
+ITU-D bergerak dibidang pengembangan. Bertugas untuk menstandarisasikan secara internasional perkembangan - perkembangan dunia telekomunikasi, baik dari segi jaringan, teknologi maupun layanannya.
+
+
+3.    International Standards Organization ( ISO ) adalah sebuah badan multinasional yang didirikan tahun 1947 yang bernama International Standards Organization ( ISO ) sebagai badan yang melahirkan standar – standar aspek yaitu model OSI. OSI adalah open system interconnetion yang merupakan himpunan protokol yang memungkinkan terhubungnya 2 sistem yang berbeda yang berasal dari underlying archeticture yang berbeda pula.
+
+
+ 
+
+4.  American National Standards Institute ( ANSI ) adalah sebuah kelompok yang mendefinisikan standar Amerika Serikat untuk industri pemrosesan informasi. ANSI berpartisipasi dalam mendefinisikan standar protokol jaringan dan merepresentasikan Amerika Serikat dalam hubungannya dengan badan - badan penentu standar International lain, misalnya ISO,  ANSI adalah organisasi sukarela yang terdiri atas anggota dari sektor usaha, pemerintah, dan lain-lain yang mengkoordinasikan aktivitas yang berhubungan dengan standar, dan memperkuat posisi Amerika Serikat dalam organisasi standart nasional. ANSI membantu dengan komunikasi dan jaringan. ANSI adalah anggota IEC dan ISO.
+
+
+
+
+5.  Institute of Electrical and Electronics Engineers ( IEEE ) adalah organisasi nirlaba internasional, yang merupakan asosiasi profesional utama untuk peningkatan teknologi. Sebelumnya, IEEE merupakan kepanjangan dari Institute of Electrical and Electronics Engineers. Namun berkembangnya cakupan bidang ilmu dan aplikasi yang diperdalam organisasi ini membuat nama - nama ke elektroan dianggap tidak relevan lagi, sehingga IEEE tidak dianggap memiliki kepanjangan lagi, selain sebuah nama yang dieja sebagai Eye-triple-E.
+
+
+
+
+6.      Electronic Industries Association ( EIA ) adalah organisasi perusahaan elektronik nasional Amerika Serikat dan anggota asosiasi dagang ANSI. Komite TR30 bertanggung jawab untuk pengembangan dan perawatan standart industri untuk antarmuka antara peralatan pemrosesan data dan komunikasi data. Ini termasuk antarmuka 1 lapis – antarmuka antara mesin pengguna dengan modem, konverter sinyal, kualitas pada antarmuka, dan keceptan pensinyalan. Komite ini bertanggung jawab untuk pengembangan antarmuka RS-232-C EIA standar industri sekarang (ini mirip dengan antarmuka V.24 standar CCITT). Komite TR30 disajikan dalam Subkomite ANSI X3S3 dalam transmisi data.
+
+
+
+7.      Federal Communications Commision ( FCC ) adalah sebuah organisasi pemerintahan yang dibentuk oleh Federal Communication Act pada tahun 1934 di Amerika. Organisasi ini mempunyai hak pengaturan telekomunikasi meliputi radio, video, telepon dan komunikasi satelit.
+
+OSI
+                  OSI (Open Systems Interconnections) adalah sebuah standar untuk model jaringan yang di ciptakan oleh ISO (International Standards Organization) bekerja sama dengan organisasi lain seperti ITU (International Telecommunications Union), EIA (Electronic Industries Association), dan lain - lain. Standar OSI dibuat agar perangkat / platform dari berbagai pabrikan dapat berkomunikasi karena pada masa itu belum ada model baku dari jaringan yang dapat berkomunikasi antar platform dengan pabrikan yang berbeda.
+            Dalam komunikasi data terdapat tata cara atau prosedur yang harus diikuti oleh dua atau lebih sistem komputer yang saling berkomunikasi. Prosedur ini dikenal dengan istilah protokol. Protokol komunikasi data didefinisikan sebagai prosedur atau peraturan yang mengatur operasi peralatan komunikasi data.
+            Arsitektur jaringan yang dikembangkan oleh ISO ini dikenal sebagai model OSI 7 Layer. Karena Model OSI membagi protokol untuk komunikasi data atas 7 lapisan atau layers, pembagian tujuh lapisan pada OSI bertujuan agar:
+Mempermudah administrasi dan standardisasi. Walaupun protokolnya kompleks tetapi fungsi tiap layer dapat dimodularisasikan sehingga mudah ditanggulangi.
+Kendali menggunakan layer memungkinkan komunikasi antar peralatan tanpa melihat pabrik pembuat peralatan tersebut.Standardisasi paling banyak berlaku pada layer yang rendah dan makin berkurang pada layer atas. Layer application hampir tidak ada standardisasinya
+ Membuat kerangka agar sistem atau jaringan yang mengikutinya dapat saling tukar informasi (pesan, paket dan address), sehingga tidak bergantung pada merk dan model komputer atau peralatan lainnya.
+Setiap layer berfungsi independent tetapi dari masing-masing layer tergantung dari keberhasilan operasi layer sebelumnya.
+Tujuan OSI : 
+Agar dapat terjalin kerja sama antara peralatan dari pabrik dan rancangan (design) yang berbeda dalam hal :
+Koordinasi berbagai macam kegiatan seperti komunikasi antar proses.
+Penyimpanan data 
+Manajemen dari sumber serta proses
+Keandalan dan kamanan (security) dari sistem
+Software support
+7 Lapis OSI :
+Application layer : interface user dan komputer.contoh:telnet,ftp,dns. 
+Presentation layer : menyediakan sistem penyajian data ke apikasi. 
+Session layer : mengkoordinasikan jalannya komunikasi antar sistem,mengendalikan dialog antar node. 
+Transport lyer : bertanggung jawab dalam pengiriman paket antar host. 
+Network layer : bertanggungjawab melakukan routing antar jaringan,mengelola sistem pengalamatan logika terhadap jaringan sistem komputer, contoh : ip. 
+Datalink layer : membungkus paket data dari network,dan menjamin paket terkirim ke tempat yang tepat.
+ Physical layer : pengirima dan penerimaan byt,berhubungan langsung dengn media komunikasi yang berbeda-beda. 
+
+Internet Standar
+            Standar Internet ditandai dengan tingkat tinggi kematangan teknis dan oleh keyakinan umum bahwa protokol atau layanan tertentu memberikan manfaat yang siknifikan kepada komunitas internet. Umumnya Standar Internet menutupi interoperabilitas sistem di internet melalui mendefinisikan protokol, format pesan, skema, dan bahasa yang paling mendasar dari Standar Internet adalah orang - orang mendefinisikan Internet Protocol.          
+            Standar Internet memastikan bahwa perangkat keras dan perangkat lunak yang dihasilkan oleh vendor yang berbeda dapat bekerja sama. Memiliki standar membuat lebih mudah untuk mengembangkan perangkat lunak dan perangkat keras yang menghubungkan jaringan yang berbeda karena perangkat lunak dan perangkat keras dapat dikembangkan satu lapisan pada suatu waktu. Biasanya, standar yang digunakan dalam komunikasi data disebut protokol.
+            Semua Standar Internet diberi nomor dalam seri STD - Dokumen pertama dalam seri ini, STD 1, menggambarkan dokumen yang tersisa dalam seri, dan memiliki daftar Standar Usulan.

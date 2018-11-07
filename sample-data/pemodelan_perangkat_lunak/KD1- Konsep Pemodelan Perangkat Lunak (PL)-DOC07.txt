@@ -1,0 +1,187 @@
+Pemodelan Perangkat Lunak
+
+Pemodelan Perangkat Lunak adalah Disiplin ilmu  untuk mempelajari bentuk-bentuk pemodelan perangkat lunak yang digunakan sebagai bagian dari tahapan pengembangan perangkat lunak secara terstruktur dan berorientasi objek.
+
+
+Kita akan mempelajari Pemodelan Perangkat Lunak karena:
+
+Sebuah perangkat lunak perlu dikembangkan lebih dari 1 orang
+Supaya orang lain dapat mempelajari perangkat lunak yang kita kembangkan
+Belajar pemodelan perangkat lunak
+1.  Tahapan pengembangan perangkat lunak
+2.  Model pengembangan perangkat lunak
+3. Pemodelan untuk pengembangan perangkat lunak secara terstruktur / structured system development      (Data Flow Diagram, Structured chart, Entity Relationship diagram)
+4. Pemodelan untuk pengembangan perangkat lunak berorientasi objek / object oriented system           development (Unified Modelling Languange: Use Case Diagram, Class Diagram, Activity Diagram)
+
+Rekayasa Perangkat Lunak
+            Adalah suatu disiplin ilmu yang membahas semua aspek produksi perangkat lunak, mulai dari tahap awal yaitu analisa kebutuhan pengguna, menentukan spesifikasi kebutuhan pangguna, desain, pengkodean, pengujian, sampai pemeliharaan sistem setelah digunakan.
+Konsep RPL dan tahapannya
+1.      Analisis 
+Tujuan: menganalisis situasi untuk menentukan spesifikasi dan struktur pengguna dan menyeleksi fitur sistem yang lain
+Hasil:
+-          Target waktu pengerjaan
+-          Spesifikasi perangkat lunak
+Proses:
+·         Penjadwalan (Schedulling)
+·         Analisis kebutuhan
+
+2.      Desain
+Tujuan:
+·         Mendapatkan dan menstrukturkan kebutuhan sistem secara keseluruhan
+·         Mengembangkan spesifikasi teknologi
+Proses:
+·         Membuat diagram (Data Flow Diagram – Sequence Diagram – Entity Relationship Diagram / UML)
+·         Membuat user interface
+Hasil:
+·         Spesifikasi tampilan pemrosesan laporan
+·         Struktur program, basis data, perancangan struktur fisik
+
+3.      Implementasi
+Tujuan:
+·         Menghasilkan sebuah perangkat lunak yang dapat digunakan
+Proses:
+·         Menulis program, membuat basis data, menginstal, dan menguji sistem
+Hasil:
+·         Program dan dokumentasi
+
+4.      Pengujian
+Tujuan:
+·         Untuk mendapatkan informasi mengenai kualitas perangkat lunak
+·         Untuk memeriksa bug dan error
+Proses:
+·         Black – box testing (interface, hasil)
+·         White – box testing (struktur program, logika)
+Hasil:
+·         Perbaikan perangkat lunak dari bug dan error
+·         Perangkat lunak yang siap pakai
+5.      Dukungan / Support
+a.       Paket software
+·         .exe
+·         File data
+·         Dokumen pendukung
+b.      Bahan instruksional
+·         Manual book
+·         Petunjuk troubleshooting
+Karakteristik Perangkat Lunak
+1.      Perangkat lunak dibangun dan dikembangan, tidak dibuat dalam bentuk yang klasik
+2.      Perangkat lunak tidak pernah usang
+3.      Sebagian besar perangkat lunak dibuat secara custom – built, serta tidak dapat dirakit komponen yang sudah ada
+Macam – Macam Perangkat Lunak Baerdasarkan Domain Aplikasi
+1.      System software
+2.      Real – time software
+3.      Bussines software
+4.      Engineering scientific software
+5.      Embedded software
+6.      Personal computer software
+7.      Web – based software
+8.      Artifical intelligence software
+
+Contoh :
+1.      System software
+-          Ccleaner
+-          TuneUp Utilities
+-          Baidu PC Faster
+2.      Real – time software
+-          LINE
+-          WhatsApp
+-          Bbm
+3.      Bussines software
+-          Ms. Office (salah)
+-          Open Ofiice (salah)
+-          E - banking
+4.      Engineering scientific software
+-          Calculator
+-          Notepad++
+-          XAMPP
+5.      Embedded software
+-          Adobe Flash Player
+-          IDM
+-          Java
+6.      Personal computer software
+-          Winamp
+-          Photoshop
+-          Avira
+7.      Web – based software
+-          Quipper Shools
+-          CSS Generator
+-          Facebook
+8.      Artifical intelligence software
+-          Google
+-          Bing
+-          Yahoo
+
+Pemodelan dalam rekayasa perangkat lunak merupakan suatu hal yang dilakukan ditahap awal dan akan mempengaruhi pekerjaan-pekerjaan selanjutnya dalam rekayasa perangkat lunak tersebut.
+1.     Model Waterfall
+Langkah-langkah yang penting dalam model ini adalah
+·         Penentuan dan analisis spesifikasi
+Jasa, kendala dan tujuan dihasilkan dari konsultasi dengan pengguna sistem. Kemudian semuanya itu dibuat dalam bentuk yang dapat dimengerti oleh user dan staf pengembang.
+·         Desain sistem dan perangkat lunak
+Proses desain sistem membagi kebutuhan-kebutuhan menjadi sistem perangkat lunak atau perangkat keras. Proses tersebut menghasilkan sebuah arsitektur sistem keseluruhan. Desain perangkat lunak termasuk menghasilkan fungsi sistem perangkat lunak dalam bentuk yang mungkin ditransformasi ke dalam satu atau lebih program yang dapat dijalankan.
+·         Implementasi dan ujicoba unit
+Selama tahap ini desain perangkat lunak disadari sebagai sebuah program lengkap atau unit program. Uji unit termasuk pengujian bahwa setiap unit sesuai spesifikasi.
+·         Integrasi dan ujicoba sistem
+Unit program diintegrasikan dan diuji menjadi sistem yang lengkap untuk menyakinkan bahwa persyaratan perangkat lunak telah dipenuhi. Setelah ujicoba, sistem disampaikan ke pelanggan.
+·         Operasi dan pemeliharaan
+Normalnya, ini adalah phase yang terpanjang. Sistem dipasang dan digunakan. Pemeliharaan termasuk pembetulan kesalahan yang tidak ditemukan pada langkah sebelumnya. Perbaikan implementasi unit sistem dan peningkatan jasa sistem sebagai kebutuhan baru ditemukan.
+2.     Model Spiral
+Model spiral dibagi menjadi sejumlah aktivitas kerangka kerja, disebut juga wilayah tugas, antara tiga sampai 6 wilayah tugas :
+§  Komunikasi pelanggan
+Tugas-tugas yang dibutuhkan untuk membangun komunikasi yang efektif antara pengembang dan pelanggan
+§  Perencanaan
+Tugas-tugas yang dibutuhkan untuk mendefinisikan sumber-sumber daya, ketepatan waktu dan proyek informasi lain yang berhubungan
+§  Analisis resiko
+Tugas-tugas yang dibutuhkan untuk memperkirakan resiko-resiko, baik manajemen maupun teknis.
+§  Perekayasaan
+Tugas-tugas yang dibutuhkan untuk membangun satu atau lebih representasi aplikasi.
+§  Konstruksi dan peluncuran
+Tugas-tugas yang dibutuhkan untuk mengkonstruksi, menguji, memasang dan memberikan pelayanan pada pemakai (missal pelatihan dan dokumentasi).
+§  Evaluasi pelanggan
+Tugas-tugas yang dibutuhkan untuk memperoleh umpan balik dari pelanggan dengan didasarkan pada evaluasi representasi perangkat lunak, yang dibuat selama masa perekayasaan dan diimplementasikan selama masa pemasangan.
+Model spiral menjadi sebuah pendekatan yang realistis bagi perkembangan sistem dan perangkat lunak skala besar. Karena perangkat lunak terus bekerja selama proses bergerak, pengembang dan pemakai memahami dan bereaksi lebih baik terhadap resiko dari tiap tingkat evolusi.
+3.     Rational Unified Process (RUP)
+Rational Unified Process adalah proses rekayasa perangkat lunak yang menyediakan pendekatan disiplin untuk menandai tugas-tugas dan tanggung jawab dalam pengembangan organisasi. RUP berfokus pada perangkat lunak kualitas tinggi yang mengakomodasi kebutuhan end user dengan jadwal dan anggaran biaya  yang dapat diprediksikan.
+RUP meningkatkan produktivitas team dengan menyediakan kemudahan bagi setiap anggota team untuk mengakses pengetahuan yang digunakan untuk aktivitas pengembangan sehingga semua anggota team turut ambil bagian dalam pengembangan perangkat lunak. 
+§  Business modeling
+     Masalah terbesar dalam usaha pengembangan bisnis adalah komunitas bisnis dengan perekayasa perangkat lunak tidak saling berkomunikasi dengan baik. Hal ini mengakibatkan output dari dunia bisnis tidak digunakan untuk input rekayasa software dengan semestinya demikian pula sebaliknya. RUP mengatasi masalah ini dengan menyediakan bahasa dan proses umum untuk kedua komunitas ini yang menunjukkan bagaimana membuat dan memelihara perencanaan langsung antara model bisnis dengan perangkat lunak.
+      Dalam bisnis modeling kita mendokumentasikan proses bisnis menggunakan use case bisnis yang menjamin pengertian yang sama diantara pihak-pihak pengambil keputusan mengenai proses bisnis apa yang dibutuhkan untuk mendukung pengembangan organisasi. 
+§  Requirements
+Requirements mendeskripsikan apa yang seharusnya dilakukan oleh sistem dan memastikan bahwa pengembang dan pelanggan menyetujui deskripsi tersebut. Untuk mencapai hal ini kadang kita harus memaksakan pemunculan, pengorganisasian dan pendokumentasian permintaan; melacak dan mendokumentasikan penawaran serta pengambilan keputusan.
+§  Analysis and design
+Analisis dan desain menunjukkan bagaimana sistem akan direalisasikan dalam fase implementasi. Kita ingin membangun sistem yang :
+-          membentuk tugas dan fungsi sesuai spesifikasi use case
+-          memenuhi semua permintaan (requirements)
+-          terstruktur dengan kuat
+Analisis dan desain menghasilkan model desain dan model analisis. Desain model berlaku sebagai blueprint yang menggambarkan bagaimana source code disusun dan ditulis.
+§  Implementation
+Tujuan implementasi adalah :
+-          Mendefinisikan pengorganisasian kode
+-          Mengimplementasikan kelas dan obyek ke dalam bentuk komponen
+-          Menguji pengembangan komponen
+-          Mengintegrasikan hasil produksi individual implentasi ke dalam sebuah sistem tereksekusi
+§  Test
+Pengujian bertujuan untuk :
+-          Memeriksa interaksi antar obyek
+-          Memeriksa usaha penyatuan seluruh komponen perangkat lunak
+-          Memeriksa apakah semua requirement telah diimplementasikan dengan benar
+-          Mengidentifikasi dan memastikan kesalahan telah diketahui sebelum peluncuran program.
+§  Configuration and change management
+Berisi panduan untuk mengatur berbagai variasi perkembangan sistem perangkat lunak, pelacakan versi mana yang digunakan dalam pembuatan perangkat lunak, pembuatan program individual atau keseluruhan berdasar spesifikasi yang diminta user dan kebijakan pengembangan perangkat lunak
+§  Environment
+Menyediakan lingkungan pendukung bagi pengembangan program (meliputi proses dan tool) yang dibutuhkan oleh team pengembang. Environment berfokus pada aktivitas untuk mengkonfigurasi proses ke dalam proyek, panduan pendukung untuk pengembangan proyek.
+§  Deployment
+Deployment mensukseskan peluncuran produk dan penyampaian perangkat lunak ke pengguna akhir. Deployment meliputi:
+-          Pengemasan perangkat lunak
+-          Pendistribusian perangkat lunak
+-          Penginstallan perangkat lunak
+-          Bantuan dan dukungan bagi pengguna
+Rapid Application Development (RAD)
+Rapid Application Development (RAD) adalah salah satu metode pengembangan suatu sistem informasi dengan waktu yang relatif singkat. Untuk pengembangan suatu sistem informasi yang normal membutuhkan waktu minimal 180 hari, akan tetapi dengan menggunakan metode RAD suatu sistem dapat diselesaikan hanya dalam waktu 30-90 hari.
+Tujuan utama dari semua metode pengembanga sistem adalah memberikan suatu sistem yang dapat memenuhi harapan dari para pemakai, akan tetapi sering kali di dalam melakukan pengembangan suatu sistem tidak melibatkan para pemakai sistem secara langsung, sehingga hal ini menyebabkan sistem informasi yang dibuat jauh dari harapan pemakai yang dapat berakibat sistem tersebut walaupun dapat diterima tetapi para pemakai enggan untuk menggunakannya atau bahkan para pemakai menolak untuk menggunakannya.
+Pada saat RAD diimplementasikan, maka para pemakai bisa menjadi bagian dari keseluruhan proses pengembangan system dengan bertindak sebagai pengambil keputusan pada setiap tahapan pengembangan. RAD bisa menghasilkan suatu system dengan cepat karena sistem yang dikembangkan dapat memenuhi keinginan dari para pemakai sehingga dapat mengurangi waktu untuk pengembangan ulang setelah tahap implementasi.
+Tahapan-tahapan RAD :
+1.      Requirements planning ( rencana kebutuhan)
+Pada tahap ini, user dan analyst melakukan semacam pertemuan untuk melakukan identifikasi tujuan dari aplikasi atau system dan melakukan identifikasi kebutuhan informasi untuk mencapai tujuan. Hal terpenting dalam tahap ini adalah adanya keterlibatan dari kedua belah pihak, bukan hanya sekedar persetujuan akan proposal yang sudah dibuat. Untuk lebih jauh lagi, keterlibatan user bukan hanya dari satu tingkatan pada suatu organisasi, melainkan beberapa tingkatan organisasi sehingga informasi yang dibutuhkan untuk masing-masing user dapat terpenuhi dengan baik.
+2.      Design workshop (proses desain)
+       Pada tahap ini adalah melakukan proses desain dan melakukan perbaikan-perbaikan apabila masih terdapat ketidaksesuaian desain antara user dan analyst. Untuk tahap ini maka keaktifan user yang terlibat sangat menentukan untuk mencapai tujuan, karena user bisa langsung memberikan komentar apabila terdapat ketidaksesuaian pada desain. Biasanya, user dan analyst berkumpul menjadi satu dan duduk di meja melingkar dimana masing-masing orang bias melihat satu dengan yang lain tanpa ada halangan.
+3.      Implementation (implementasi)
+       Setelah desain dari sistem yang akan dibuat sudah disetujui baik itu oleh user dan analyst, maka pada tahap ini programmer mengembangkan desain menjadi suatu program. Setelah program selesai baik itu sebagian maupun secara keseluruhan, maka dilakukan proses pengujian terhadap program tersebut apakah terdapat kesalahan atau tidak sebelum diaplikasikan pada suatu organisasi. Pada saat ini maka user bias memberikan tanggapan akan sistem yang sudah dibuat serta persetujuan mengenai sistem tersebut.

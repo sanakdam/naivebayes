@@ -1,0 +1,55 @@
+Pengertian Struktur Hirarki Basis Data Dan Bentuk Diagram Hubungan Antara Entitas
+  16 Mei 2018     Ulti Desi Arni     Dibaca 122 kali
+Dalam kesempatan kali ini, saya penulis akan mengupas sedikit tentang permasalahan Basis Data. Basis data ini sama halnya dengan DataBase yang merupakan pelajaran yang anda dapat jika anda memilih jurusan Rekayasa Perangkat Lunak  (RPL). RPL ini merupakan sebuah jurusan ataupun keahlian yang bisa anda dapat di Sekolah Menengah Kejuruan atau biasa disebut dengan SMK. Basis data ini biasanya sering digunakan dengan sebuah progam atupun website yang ada saat sekarang ini.
+
+Basis data memiliki banyak arti Basis yaitu markas atau gudang ataupun tempat berkumpul, sedangkan Data ialah representasi nyata dan sebuah fakta yang mempunyai sesuatu objek. Secara garis besar Basis data itu sendiri merupakan kumpulan dari data yang berhubungan dengan yang lainnya dan disimpan di dalam komputer secara bersamaan semirip mungkin tanpa adanya sebuah pengulangan yang mungkin tidak digunakan dengan berbagai metode yang ada. Pengertian dari Basis Data menurut para ahli, yaitu
+
+Database adalah sekumpulan sebuah informasi penting yang disimpan di komputer sehingga dapat di check dengan suatu aplikasi komputer untuk mendapat petunjuk dari data base itu.
+Database adalah pencerminan semua kenyataan yang berkaitan disimpan secara bersama semirip rupa dan tanpa pengulangan yang tidak berguna, untuk mencukupi semua kebutuhan.
+Database merupakan kumpulan informasi yang saling berhubungan pada suatu benda atau permasalahan tertentu pada tujuan tertentu juga.
+ 
+
+Ternyata ini mempunyai sebuah struktur hirarki berkaitan dengan data base ini. Struktur hirarki dari basis data adalah serangkaian data tentang pemodelan dalam basis data  yang berkaitan sama character, field atau data, record, file, tabel dari basis data itu.
+
+ 
+
+Character merupakan data yang paling kecil yang membuat sebuah data.
+
+Field atau data adalah mencerminkan sesuatu atribut dari record sebuah data.
+
+Record merupakan kumpulan dari beberapa data.
+
+File yaitu bagian yang terdiri dari record yang sama.
+
+Tabel merupakan hal yang pokok di penyimpanan sebuah data.
+
+Dari basis data itu sendiri ada juga yang namanya ERD yang berarti sebuah model data atau sebuah kenyataan yang terdiri dari entitas dan relasi antara objek tersebut. ERD terbagi atas 3, yaitu
+
+Entitas (Entity) ialah suatu benda yang dapat dibedakan dengan objek lain. Entitas dilambangkan dengan simbol persegi panjang. Entitas dibedakan menjadi entitas kuat sama entitas lemah. Yang membedakan keduanya adalah entitas kuat cenderung memiliki atribut kunci atau key atribut, sedangkan entitas lemah sama sekali tidak mempunyai atribut kunci tersebut. Entitas berdasarkan konsep yaitu gaji, pekerjaan ,dll. Sedangkan entitas berdasarkan fisikal yaitu rumah, mobil, dan sebagainya.
+Atribut (Attribute) merupakan bagian atau karakter dari suatu entitas, yang menjelaskan sebuah karakter dari entitas itu. Atribut dilambangkan dengan simbol oval. Attribute terbagi menjadi beberapa bagian yang terdiri dari Key attribute, Composite attribute, Single-valued attribute, Multi-valued attribute, Derived attribute, dan Simple attribute.
+Key attribute ialah atribut kunci yang dapat membedakan dengan atribut lain.
+
+Composite attribute merupakan atribut yang bisa dipisah menjadi atribut lainnya.
+
+Singlevalue attribute adalah suatu atribut yang cuman mempunyai satu nilai tidak lebih pada atribut itu.
+
+Multivalue attribute yaitu atribut yang memiliki beberapa atau lebih dari satu nilai atribut tersebut.
+
+Denived attribut merupakan sebuah turunan dari sebuah atribut.
+
+Simple attribute adalah atribut yang sudah tidak bisa untuk dipisah-pisahkan menjadi bagian yang lebih kecil lagi.
+
+Hubungan (Relationship) adalah sesuatu hal yang menjadi hubungan antara entitas yang satu dengan entitas lainnya. Relasi ini dilambangkan dengan sebuah simbol belah ketupat.
+Di dalam ERD ini ada juga sebuah kardinalitas yang  berfungsi sebagai batasan dalam relasi. Kardinalitas adalah penjelasan terhadap jumlah maksimum dan minimum antara sesama entitas. Kardinalitas ini terbagi menjadi 3, yaitu
+
+1. One to One (1:1) (Satu ke Satu)
+
+setiap satu  bagian dari entitas satu hanya bisa berhubungan dengan satu bagian dari entitas yang dua, begitu pun sebaliknya
+
+2. One to Many (1:N) (Satu ke Banyak)
+
+setiap bagian dari entitas satu dapat berkaitan lebih dari satu atribut dari entitas yang dua, tidak sebaliknya
+
+3. Many to Many (N:N) (Banyak ke Banyak)
+
+setiap entitas yang  satu bisa banyak berhubungan dengan entitas yang dua, sama halnya dengan sebaliknya

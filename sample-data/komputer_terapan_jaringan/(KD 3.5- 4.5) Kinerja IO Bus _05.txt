@@ -1,0 +1,85 @@
+Kinerja I/O Bus Komputer Terapan
+Buat resume pokok materi kinerja I/O bus dari modul Komputer Terapan Jaringan halaman 155(165) sampai 163(173) lalu jawab pertanyaan berikut ini
+1.Jelaskan peranan dari bus I/O!
+2.Jelaskan perbedaan antara bus asynhcronous dan synhcronous!
+3.Sebutkan berbagai jenis bus yang sering di gunakan!
+4.Jelaskan fungsi dari 3 saluran bus!
+
+
+                                                                     JAWAB
+RESUMAN
+1. Bus
+
+Komputer tersusun atas beberapa komponen penting seperti CPU, memori,perangkat I/O dimana setiap komponen saling berhubungan untuk membentuk kesatuan fungsi. Prosesor,memori, dan perangkat I/O dapat diinterkoneksikan dengan rnenggunakan bus bersama yang fungsi utamanya adalah menyediakan jalur komunikasi untuk transfer data. Jalur bus yang digunakan untuk mentransfer data dapat dikelompokkan rnenjadi tiga tipe yaitu jalur data, alamat,dan kontrol. Secara umum klasifikasi transfer data melalui bus dapat diklasifikasikan menjadi skema synchronous dan asynchronous.
+
+1) Synchronous Bus
+Dalam synchronous bus, semua perangkat mendapatkan informasi timing dari jalur clock bersama.Pulsa yang berjarak setara pada jalur ini mendefinisikan interval waktu yang setara, dalam bentuk yang paling sederhana suatu synchronous bus tiap interval ini merupakan suatu bus cycle dimana terjadi satu transfer data.
+
+2) Asynchronous Bus
+Skema alternatif untuk mengontrol transfer data pada bus berdasarkan pada penggunaan handshake antara master dan slave. Keuntungan utama bus asynchronous adalah proses handshake menghilangkan kebutuhan sinkronisasi clock sender dan receiver, sehingga menyederhanakan desain timing.
+
+2. Struktur Bus
+
+Komputer merupakan gabungan dari modul-modul antara lain CPU, memori dan perangkat I/O yang saling berkomunikasi, kumpulan lintasan atau saluran berbagai modul disebut struktur interkoneksi dimana rancangan struktur interkoneksi sangat bergantung pada
+jenis dan karakteristik pertukaran datanya.
+
+Secara umum fungsi saluran bus dikategorikan dalam tiga bagian, yaitu saluran data, saluran alamat dan saluran kontrol.
+
+1) Saluran Data
+Saluran data (data bus) adalah lintasan bagi perpindahan data antar modul.
+
+2) Saluran Alamat
+Saluran alamat (address bus) digunakan untuk menspesifikasi sumber dan tujuan data pada bus data.
+
+3) Saluran Kontrol
+Saluran kontrol (control bus) digunakan untuk mengontrol bus data, bus alamat dan seluruh modul yang ada.
+
+3. Jenis-Jenis Bus
+
+Berdasarkan jenis busnya, bus dibedakan menjadi bus yang khusus menyalurkan data tertentu, misalnya paket data saja, atau alamat saja, jenis ini disebut dedicated bus. Namun apabila bus menyalurkan informasi yang berbeda baik data, alamat maupun sinyal kontrol
+dengan metode mulipleks data maka bus ini disebut multiplexed bus.
+Terdapat berbagai jenis bus antarmuka terutama untuk perangkat peripheral. Diantara jenis bus yang beredar di pasaran saat ini adalah PCI, ISA, USB, SCSI, FuturaBus+, FireWire, dan lain-lain
+
+1)Bus ISA
+Bus ISA (Industry Standar Architecture), yang pada dasarnya adalah bus PC/AT yang beroperasi pada 8,33 MHz.Keuntungannya adalah bahwa pendekatan ini tetap mempertahankan kompatibilitas dengan mesin-mesin dan kartu-kartu yang ada.
+
+2) Bus PCI
+Bus PCI merupakan sistem bus yang muncul dari kebutuhan standarisasi. Bus tersebut mendukung fungsi yang terdapat dalam bus prosesor tetapi dalam format terstandarisasi yang lepas dari prosesor tertentu.
+
+3) Bus USB
+Tujuh vendor komputer (Compaq, DEC, IBM, Intel, Microsoft, NEC, dan Northern Telecom) bersama-sama merancang bus untuk peralatan I/O berkecepatan rendah. Standard yang dihasilkan dinamakan Universal Standard Bus (USB).Bandwidth total USB adalah 1,5 MB per detik (lowspeed) dan 12 MB per detik (fullspeed).
+
+4) Bus SCSI
+Small Computer System Interface (SCSI) adalah perangkat peripheral eksternal yang dipopulerkan oleh macintosh pada tahun 1984. SCSI merupakan interface standard untuk drive CDROM, peralatan audio, hard disk, dan perangkat penyimpanan eksternal berukuran besar.
+
+5) Bus P1394 / Fire Wire
+Dikembangkan bus performance tinggi yang dikenal dengan Fire Wire (P1394 standard IEEE). P1394 memiliki kelebihan dibandingkan dengan interface I/O lainnya, yaitu sangat
+cepat, murah, dan mudah untuk diimplementasikan.
+
+
+1.Perangkat I/O diperlukan karena ada beberapa hal yang menjadi latar belakangnya. Hal yang pertama yaitu karena adanya variasi lebar dari perangkat peripherals. Variasi ini dapat meyebabkan adanya perbedaan jumlah data yang di kirim, kemudian kecepatan dalam mengirim data yang berbeda, dan yang terakhir yaitu karena terdapat format data yang berbeda. Dengan adanya hal tersebut maka I/O diperlukan dalam mengatasi perbedaan jumlah data kecepatan pengiriman dan perbedaan format data.Selanjutnya kenapa I/O diperlukan karena semua peripherals lebih lambat dari CPU dan RAM sehingga tidak mampu untuk mengimbangi kecepatan daripada CPU dan RAM. Dengan alas an tersebut maka dibutuhkan perangkat I/O yang berfungsi sebagai alat penghubung ke CPU dan memory dengan menggunakan fasilitas BUS System atau dengan switch sentral. Selain sebagai alat penghubung ke CPU dan memory, I/O juga berfungsi sebagai penghubung ke satu perangkat peripherals atau lebih dengan menggunakan link data tertentu. 
+2. Synchronous adalah proses pengirim dan penerima yang diatur sedemikian rupa sehingga memiliki pengaturan yang sama, sehingga dapat diterima dan dikirim dengan baik. umumnya pengaturan ini didasarkan pada waktu dalam mengirimkan sinyal.  waktu ini diatur oleh denyut listrik secara periodik yang disebut clock . dengan kata lain synchronous adalah sistem operasi untuk kejadian yang terjadi pada waktu bersamaan, berkelanjutan dan dapat diprediksi. contoh: chating.
+Asynchronous adalah proses komunikasi data yang tidak tergantung dengan waktu yang tetap. proses transformasi data kecepatanya, cukup relatif dan tidak tetap. metode komunikasi serial dari satu perangkat ke perangkat lainnya. data dikirimkan perbit persatuan waktu. tiap simbol yang dikirimkan mempunyai start bit dan stop bit, untuk melakukan sinkronisasi dari suatu device pengirim dan penerima. interval yang terjadi antar satu karakter dengan karakter lainnya dapat bervariasi.  asynchronous merupakan operasi yang tidak bergantung waktu.
+3. - Bus PCI 
+    - Bus ISA
+    - Bus USB
+    - Bus EISA
+    - Bus SCSI
+    - Bus P1394 / Fire Wire
+    -Bus AGP
+4.Saluran Data
+Lintasan bagi perpindahan data antar modul. Secara kolektif lintasan ini disebut bus data. Umumnya jumlah saluran terkait dengan panjang word, misalnya 8, 16, 32 saluran.
+Tujuan : agar mentransfer word dalam sekali waktu.
+Jumlah saluran dalam bus data dikatakan lebar bus, dengan satuan bit, misal lebar bus 16 bit
+Saluran Alamat (Address Bus)
+Digunakan untuk menspesifikasi sumber dan tujuan data pada bus data.
+Digunakan untuk mengirim alamat word pada memori yang akan diakses CPU.
+Digunakan untuk saluran alamat perangkat modul komputer saat CPU mengakses suatu modul.
+Semua peralatan yang terhubung dengan sistem komputer, agar dapat diakses harus memiliki alamat.
+Contoh : mengakses port I/O, maka port I/O harus memiliki alamat hardware-nya
+Saluran kontrol (Control Bus)
+Digunakan untuk mengontrol bus data, bus alamat dan seluruh modul yang ada.
+Karena bus data dan bus alamat digunakan oleh semua komponen maka diperlukan suatu mekanisme kerja yang dikontrol melalui bus kontrol ini.
+Sinyal – sinyal kontrol terdiri atas
+Sinyal pewaktuan adalah Sinyal pewaktuan menandakan validitas data dan alamat
+Sinyal–sinyal perintah adalah Sinyal perintah berfungsi membentuk suatu operasi

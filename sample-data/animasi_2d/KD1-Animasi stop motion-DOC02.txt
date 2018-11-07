@@ -1,0 +1,86 @@
+1.Pengertian Stop Motion 
+            Stop Motion terdiri dari dua kata yaitu STOP yang berarti berhenti dan MOTION yang berarti gerakan / bergerak. Teknik ini menggunakan  prinsip frame to frame seperti animasi 2 dimensi. Pengerjaannya sama dengan animasi pada umumnya yaitu mengatur frame per frame gambar. Namun yang membedakan disini adalah cara menghidupkannya / animatenya. Jadi dapat disimpulkan Stop Motion Animation adalah teknik membuat animasi / film / movie yang dibuat seolah - olah potongan-potongan gambar menjadi saling berhubungan satu sama lain nya sehingga membentuk suatu gerakan bahkan cerita.
+
+Animasi pada umumnya memiliki gerakan-gerakan yang lincah. Mengapa disebut stop motion ? Karena jika mengerjakan menggunakan stop motion gerakan tidak akan tampak lincah karena keterbatasan gerak objek. Pada umumnya animasi awalnya bukan video namun melainkan kumpulan gambar yang berurutan sehingga akhirnya menjadi sebuah video. Begitu pun dengan stop motion yang juga terdiri dari kumpulan gambar yang berurutan. Namun kumpulan gambar yang didapatkan dalam stop motion tidak lah sehalus pengerjaan animasi dengan komputer. Gerakannya terkesan patah - patah. Karena pengambilan sebuah gambarnya memerlukan penggerakan objek secara manual.
+
+Dalam perkembangannya, stop motion animation sering disebut juga claymation, karena animasi ini sering menggunakan clay (plastisin/tanah liat) sebagai objek yang digerakkan. Berdasarkan teknik penggarapannya, selain limited animation, dan teknik yang paling baru adalah CGI atau Computer Generated Imagery, penggarapan animasi dengan teknik stop motion sebenarnya tergolong paling kuno dan sangat sederhana sekali. Tidak diperlukan satu keahlian khusus dalam membuatnya, yang paling dibutuhkan dalam pengerjaannya teliti dan telaten. Animasi ini bukan animasi yang bisa dibuat dalam waktu singkat. Namun, semua orang bisa mencobanya. Peralatan yang dibutuhkan hanyalah kamera foto atau kamera video tipe apa pun, tripod atau apapun yang dapat menyanga kamera tepat pada tempatnya, dan yang paling penting adalah objeknya. Sederhana, bukan? Cukup dengan menggunakan tangan sendiri, kita pindahkan posisi objek berupa boneka, model, atau gambar secara perlahan-lahan. Dan setiap pergerakan itu direkam dengan kamera foto ataupun kamera video. Nah, ketika hasil rekaman itu kita susun berurutan, maka yang tercipta adalah kesan seolah-olah objek bergerak dan hidup.
+
+2.Sejarah Animasi Stop Motion
+
+Animasi stop motion memiliki sejarah panjang dalam film. Objek yang dipakai pun masih sederhana, berupa boneka yang bisa digerakkan dengan tali dan tangan, atau kalau di Indonesia terkenal dengan wayang. Gambar yang berurutan, ataupun tanah liat yang mudah diubah bentuknya, seringkali dipakai juga sebagai objek dalam pembuatan animasi ini.
+
+Awalnya teknik ini digunakan oleh Albert E Smith dan J Stuart Blackton untuk pertunjukan The Humpty Dumpty Circus pada tahun 1898. Ketika animasi mulai berkembang sekitar abad ke-18 di Amerika, J. Stuart Blackton adalah orang pertama kali yang mengenalkan teknik ini dalam filmnya berjudul : Fun in a Bakery Shop yang menggunakan clay. Film ini kemungkinan merupakan film animasi stop motion yang pertama kali muncul pada tahun 1902. Karena di sisi lain, di tahun yang sama di Eropa, seorang pionir efek spesial bernama George Melies, seorang sineas asal Perancis ternyata juga menciptakan film animasi dengan teknik yang sama, hanya saja film tersebut kurang diekspos. Film yang berjudul A Trip to the Moon ini berjalan 14 menit jika diproyeksikan pada 16 frame per detik, yang merupakan standar frame rate pada saat film dibuat.
+
+Selanjutnya pada tahun 1906, Stuart Blackton kembali membuat film animasi pendek dengan judul Humourous Phases of Funny Faces, yang dibuat dengan menggunakan media papan tulis dan kapur tulis. Menggambarkan ekspresi wajah seorang tokoh kartun pada papan tulis, diambil gambarnya dengan still camera, kemudian dihapus untuk menggambarkan ekspresi selanjutnya. Pada saat itu, teknik stop motion semakin banyak disenangi oleh animator Amerika. Lalu teknik tersebut semakin berkembang hingga pada tahun 1925, Willis OBrien mencoba membuat film tentang dinosaurus yang terbuat dari clay (plastisin/tanah liat) dengan judul The Lost World dan disusul dengan karya klasiknya berjudul King Kong pada tahun 1933. Sejak itu, stop motion animation semakin dikenal dengan sebutan claymation. Kini semakin banyak aja karya claymation yang sukses di pasaran, seperti Wallace and Gromit (1989), Chicken Run (2000) oleh Aardman Animations, studio animasi spesialisasi stop motion yang didirikan Peter Lord dan David Sproxton tahun 1972. Film The Nightmare before Christmas (1993) oleh Tim Burton dan yang paling gres Corpse Bride (2005).
+
+Beberapa Contoh penggunaan animasi stop motion, antara lain :
+http://3.bp.blogspot.com/-APn8CDv1PQs/Ua7wE5QR0hI/AAAAAAAAAM8/pIBiRxWmvrY/s320/Wallace-Gromit-wallace-and-gromit-20142415-1280-880.jpg
+Wallace and Gromit
+http://2.bp.blogspot.com/-OHb8z8pVpR4/Ua7xnKxcalI/AAAAAAAAANc/V5G3zOu8TPo/s320/N.jpeg
+Shaun the Sheep
+
+Disebut animasi stop motion Karena….
+Dalam perkembangannya, stop motion animation sering disebut juga sebagai claymation, karena animasi ini sering menggunakan clay (plastisin/tanah liat) sebagai objek yang digerakkan. Berdasarkan teknik penggarapannya, selain limited animation, dan teknik yang paling baru adalah CGI atau Computer Generated Imagery, penggarapan animasi dengan teknik stop motion sebenarnya tergolong paling kuno dan sangat sederhana sekali. Tidak diperlukan satu keahlian khusus dalam membuatnya, yang paling dibutuhkan dalam pengerjaannya teliti dan telaten. Animasi ini bukan animasi yang bisa dibuat dalam waktu singkat. Namun, semua orang bisa mencobanya. Peralatan yang dibutuhkan hanyalah kamera foto atau kamera video tipe apa pun, tripod atau apapun yang dapat menyanga kamera tepat pada tempatnya, dan yang paling penting adalah objeknya. Cukup dengan menggunakan tangan sendiri, kita pindahkan posisi objek berupa boneka, model, atau gambar secara perlahan-lahan. Dan setiap pergerakan itu direkam dengan kamera foto ataupun kamera video. Ketika hasil rekaman itu kita susun berurutan, maka yang tercipta adalah kesan seolah-olah objek bergerak dan hidup.
+animasi stop motion diciptakan…..
+Yaitu dengan menggambar ekspresi wajah sebuah tokoh kartun pada papan tulis, diambil gambarnya dengan still camera,  kemudian dihapus untuk menggambar ekspresi wajah selanjutnya
+Kelebihan Stop Motion Animation:
+- Siapapun dapat membuatnya
+- Tidak diperlukan peralatan yang 'wah'. Biasanya menggunakan malam / papercraft / clay
+- Kamera
+- Tripot 
+
+Kelemahan Stop Motion Animation:
+- Proses pengerjaan lama
+- Konsep harus matang
+- Diperlukan ketelitian dan ketelatenan yang tinggi
+- Keterbatasan gerak objek
+3.Jenis Animasi Stop Motion
+•         Tanah Liat (Clay)
+Sering disingkat claymation, ini adalah jenis animasi stop-motion di mana masing-masing bagian animasi, baik objek karakter atau latar belakang, menggunakan "deformasi bentuk “ dengan bahan elastis seperti tanah liat.
+Animasi Clay bukanlah teknik baru. Siapa yang tidak ingat Gumby and Pokey?Secara teknis, animasi tanah liat dimulai pada waktu singkat setelah penemuan zat mirip tanah liat yang disebut plastisin. Plastisin diciptakan pada tahun 1897, dan salah satu film pertama yang menggunakan bahan itu pada tahun 1902 dengan menggunakan tanah liat untuk boneka petir. 
+Dan menjadi langkah pertama untuk animasi tanah liat, tapi enam tahun kemudian barulah muncul sebuah film animasi yang benar benar menggunakan boneka tanah liat. Yakni  ketika film “A Sculptor's Welsh Rarebit Nightmare”  dirilis pada bulan Februari 1908
+Teknik tanahliat setelah itu sangat populer selama hampir 70 tahun Tidak sampai pertengahan hingga akhir '80 an ' teknik ini mulai berubah menjadi fenomena skala besar seperti sekarang ini.
+Salah satu karya terbaik dan berkesan yang pernah terjadi dalam animasi tanah liat adalah karya Art Pokey tentang Gumby. Dia adalah salah satu superstar pertama film yang terbuat dari tanah liat. Dia adalah legenda sejati yang terus bereinkarnasi dan berkembang. Dia telah menjadi sebagian besar sejarah animasi tanah liat.
+Gumby and Art Pokey
+s
+•         Guntingan (Cutout)
+Animasi cutout adalah teknik yang dibentuk dengan menggerakkan potongan lembaran 2-dimensi. Animasi ini dibuat dengan menggunakan karakter datar, alat peraga dan latar belakang dari bahan seperti kertas, kartu, kain yang kaku, benda-benda mati, kain atau bahkan foto.
+Hal ini sangat mirip dengan papan datar.Sebuah lembaran yang terbuat dari papan dengan satu set dipotong (cut-out) dalam berbagai bentuk Secara bertahap mereka digeser di sekitar lokasi untuk membuat pertunjukan kecil.
+Saat ini, gaya animasi cutout sering diproduksi dengan menggunakan komputer, dengan gambar scan atau grafis vektor dengan bahan yang dipotong
+•         Gambar (Graphic)
+Animasi potongan, tentu saja memiliki keterbatasan. Karena potongan-potongan yang datar, mereka harus bekerja di atau atas dan ke bawah layar dalam bidang datar. 
+Anda hanya tidak bisa menjalankan boneka guntingan menuju kamera dalam kaitannya dengan tanah kembali tetap atau membuatnya turn dalam tiga dimensi. Namun selalu mungkin untuk merancang sebuah solusi inventif untuk setiap skenario cerita masing-masing
+Sebagai contoh, karakter dapat dibuat untuk berjalan di atas bukit menghilang di balik itu, kemudian muncul kembali sebagai tokoh potongan yang lebih kecil mendaki bukit yang lebih jauh. Keterbatasan ini benar-benar dapat menyebabkan solusi visual gaya jadi mencolok.
+•         Aktor Hidup (Pixilation)
+Pixilation adalah teknik stop motion di mana yang digunakan adalah aktor hidup sebagai subjek frame-by-frame.aktor tersebut berpose berulang kali untuk satu atau lebih frame yang diambil (foto) dan bergerak sedikit demi sedikit ke frame berikutnya. 
+Aktor ini menjadi semacam wayang hidup gerak berhenti dan bergerak. Teknik ini sering digunakan sebagai cara untuk menggabungkanr aktor hidup dengan orang-orang dalam sebuah film animasi, seperti dalam The Adventures Secret Of Tom Thumb oleh Brothers BOLEX, yang menggunakan teknik ini untuk membuat efek yang menarik atau menakutkan.
+Karya pertama yang diketahui menggunakan teknik pixilation adalah Emile Courtet's1911 pada film Jobard ne peut pas voir les femmes travailler (Jobard cannot see the women working)
+•         Gambar (Grafis)
+Animasi grafis adalah variasi dari stopmotion yang lebih konseptual daripada animasi cel tradisional bidang datar dan animasi kertas gambar (cutout).
+Tapi secara teknis ia termasuk stop motion yang dibuat dengan foto (secara keseluruhan atau sebagian). Animasi grafis dapat dilakukan dengan kamera hanya panning ke atas dan ke bawah dan / atau difoto secara individu, satu per satu.
+Sebuah variasi sederhana animasi grafis disebut juga animasi manipulasi langsung yang melibatkan perubahan frame-by-frame (atau penambahan) gambar grafis tunggal,
+Proses stop motion sampai hanya menghidupkan serangkaian gambar yang kebanyakan orang mengasosiasikan dengan istilah animasi generik.
+Animasi Kapur tulis di papan
+•         Wayang (Puppet)
+Animasi boneka biasanya melibatkan tokoh boneka seperti wayang berinteraksi satu sama lain dalam lingkungan yang dibentuk. 
+Boneka wayang umumnya memiliki tulang rangka untuk menjaga mereka tetap dan mantap serta menghambat mereka agar selalu bergerak pada sendi tertentu
+Wayang digunakan dan dipotret setiap kali posisi mereka berubah sedikit demi sedikit untuk membuat gerakan. Dalam animasi ini kita memberikan kehidupan kepada benda mati dan membuat mereka terlihat seperti hidup.
+Contoh: The Tale of the Fox , film-film Jirí Trnka , The Nightmare Before Christmas , Chicken Robot.
+•         Bayangan (Silhouette)
+Animasi guntingan yang dijadikan serangkaian bayangan (hitam) gambar gelap, dan disebut sebagai animasi siluet
+Petualangan Pangeran Achmed (1926) - animasi siluet
+Teknik ini dipelopori oleh animator Lotte German Reiniger.
+Fitur film animasi ini yang panjang adalah The Adventures of Prince Achmed (1926
+Sekarang, animasi siluet kadang digunakan sebagai karya seni, kecuali untuk adegan dramatis atau komedi singkat dalam sedikit film animasi cutout, seperti dalam sebuah episode South Park . 
+Namun, ada beberapa film lengkap yang menggunakan teknik ini yang telah dibuat oleh animator di bawah Dewan Film Nasional Canadian banner.
+
+
+4.Cara Kerja Animasi Stop Motion
+
+Dari berbagai jenis karya animasi, salah satunya adalah cara membuat animasi stop motion. Dilihat dari namanya animasi stop motion yang berarti animasi yang dibentuk dari gerakan-gerakan yang terhenti.
+
+Gerakan-gerakan tersebut kemudian direkam menjadi frame-frame dan dirangkai untuk setiap gerakan-gerakannya sehingga menjadi sebuah animasi. Yang akan coba saya share disini adalah mengenai cara pembuatan gambar animasi stop motion bidang datar atau 2 dimensi. Untuk membuatnya bisa menggunakan beberapa cara yaitu menggunakan komputer untuk menggambar. Kedua dengan menggambar langsung di kertas atau menggunakan media lainnya.
+
+Yang perlu diperhatikan pada cara pembuatan animasi stop motion  adalah posisi kamera (webcam) dan pencahayaan. Usahakan posisi kamera tidak bergerak-gerak saat dilakukan pengambilan gambar atau saat melakukan perubahan gerak obyek animasi. Untuk itu webcam dapat dipasang pada penyangga yang cukup kuat dan mengarah hampir tegak lurus dengan gambar.
+
+Perubahan gerakan yang semakin sedikit pada setiap pengambilan gambar akan menghasilkan gerakan animasi yang semakin halus. Untuk itu storyboard akan sangat membantu untuk menentukan awal dan akhir gerakan sehingga durasi untuk setiap hasil gerakan animasi yang didapat bisa diperhitungkan dengan tepat sesuai dengan kecepatan frame yang direncanakan. Atur fokus dari webcam dengan teliti dan usahakan pencahayaan tepat berada di atas gambar dengan jarak yang disesuaikan sehingga dapat menghasilkan gambar dengan garis tepi obyek yang jelas terlihat.

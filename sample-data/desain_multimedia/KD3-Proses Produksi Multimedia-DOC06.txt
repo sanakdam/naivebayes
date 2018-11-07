@@ -1,0 +1,34 @@
+PROSES PRODUKSI PRODUK MULTIMEDIA (LIFE CYCLE)
+Siklus Hidup Proses Produksi Produk Multimedia
+Terdiri dari 3 sub proses : Pre-Production, Production, Post Production.
+Pre-Production
+Gambar 3. Pre- Production
+Pada prinsipnya proses ini meliputi:
+proses penuangan ide (proposal) produk,
+perencanaan produk,
+perencanaan proses produksi,
+penyusunan dokumentasi,
+penyusunan tim,
+membangun prototip,
+pengurusan hak cipta dan
+penandatanganan kontrak dan pembiayaan.
+
+Production
+Gambar 4.  Production
+Proses ini terdiri dari:
+pembuatan content multimedia yang diperlukan,
+pemrosesan content,
+pembuatan program/software yang diperlukan,
+mengintegrasikan content dan software,
+merevisi design
+membangun Apha version (hampir semua fungsi produk sudah dibangun diimplementasikan dan diintegrasikan),
+pengujian awal produk,
+mengevaluasi produk dan merevisi software dan content berdasarkan pada hasil evaluasi,
+membangun Beta version (semua fungsi produk sudah dibangun diimplementasikan dan diintegrasikan tetapi belum diuji secara lengkap).
+
+Post Production
+Gambar 5. Post-Production
+Proses ini terdiri dari :
+proses pengujian Beta version,
+mengevaluasi dan merevisi software dan content berdasarkan pada hasil pengujian versi Beta,
+me-release Golden Master (final product) dari produk multimedia dan menyimpan semua material yang dipakai dalam proses produksi. Produk dengan tahap Golden Master ini yang akan dipasarkan, dipublikasikan melalui multimedia Communication yang memungkinkan.

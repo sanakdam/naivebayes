@@ -1,0 +1,68 @@
+Objek 2D
+
+Objek grafik 2 dimensi adalah sekumpulan titik-titik 2 dimensi yangdihubungkan dengan garis lurus, baik berupa polyline, polygon atau kurva. Objek grafik 2 dimensi didefinisikan sebagai kumpulan titik 2 dimensi yang secara komputasi dinyatakan sebagai array 1D, atau linkedlist sesuai dengan struktur data yang digunakan dalam menyatakan kumpulan titik 2D ini. 
+Objek grafik dimensi juga adalah gambar 2 dimensi yang  sumbu x dan sumbu y, atau sumbu koordinat cartesius dua dimensi. Dua sumbu yang saling bertegak lurus antar satu dengan yang lain, yang keduanya terletak dalam satu bidang (bidang xy).
+
+Sedangkan Grafik komputer 2D adalah sebuah generasi gambar digital berbasis komputer, yang kebanyakan mengambil objek-objek dua dimensi (2D). Model Grafik 2D merupakan kombinasi dari model geometri (juga disebut sebagai grafik vektor), gambar digital (raster graphics), fungsi matematika, dan sebagainya. Komponen-komponen ini dapat dimodifikasi dan dimanipulasi oleh transformasi geometri dua dimensi, seperti translasi, rotasi, dan dilatasi. 
+
+Model-model yang digunakan pada disain grafis 2D biasanya tidak mendukung bentuk-bentuk tiga-dimensi, atau fenomena yang bersifat tiga dimensi, seperti pencahayaan, bayangan, pantulan, refraksi, dan sebagainya. Namun demikian, mereka dapat membuat model berlapis-lapis (layer); nyata, translusen, dan transparan, yang dapat ditumpuk dalam urutan tertentu. Urutan tersebut biasanya didefinisikan dengan angka (kedalaman lapisan, atau jarak dari si penglihat).
+
+Macam-Macam objek 2D : 
+
+
+·        Line
+·        Circle
+·        Arc
+·        Polygon
+·        Text
+·        Section
+·        Rectangle
+·        Ellips
+·        Donut
+·        Star
+·        Helix
+Dari macam-macam objek 2d ini saya akan membahas 3 macam:
+
+i   Circle
+
+ Circle atau lingkaran adalah object 2 dimensi yang memiliki ukuran diameter dan jari-jari. Circle atau lingkaran merupakan kumpulan titik-titik yang tak berhingga dan saling berhubung.
+
+ 
+Line 
+ Objek line/garis adalah objek salah satu 2 dimensi yang sangat mendasar dan sering digunakan untuk perancangan gambar kerja. Line berasal dari 2 titik yang saling terhubung.
+
+     Polygon
+
+ Polygon adalah suatu fungsi yang mirip dengan polyline, hanya sajahasilnya adalah kurva tertutup. Pada polygon digunakan konsep array dalam menyatakan objek 2D sebagaikumpulan titik 2D. Polygon digunakan untuk merepresentasikan objek-objek dua dimensi. 
+Objek 3D
+3 dimensi biasa disebut 3D atau adalah bentuk dari benda yang memiliki panjang, lebar, dan tinggi. Grafik 3 Dimensi merupakan teknik penggambaran yg berpatokan pada titik koordinat sumbu x(datar), sumbu y(tegak), dan sumbu z(miring).Representasi dari data geometrik 3 dimensi sebagai hasil dari pemrosesan dan pemberian efek cahaya terhadap grafika komputer 2D. Tiga Dimensi, biasanya digunakan dalam penanganan grafis. 3D secara umum merujuk pada kemampuan dari sebuah video card (link).
+Grafik 3D merupakan perkembangan dari grafik 2D. Didalam grafika komputer, 3D merupakan bentuk grafik yang menggunakan representasi data geometri tiga dimensi.
+
+
+Suatu objek rangka 3D apabila disinari dari arah tertentu akan membentuk bayangan pada permukaan gambar. 
+Proses pembuatan grafik komputer 3D dapat dibagi ke dalam tiga fase, yaitu 3D modeling yang mendeskripsikan bentuk dari sebuah objek, layout dan animation yang mendeskripsikan gerakan dan tata letak sebuah objek, dan 3D rendering yang memproduksi image dari objek tersebut.
+
+Istilah atau Pengertian Grafik 3D adalah sebuah gambar,garis,lengkungan,dan sebagainya yang memiliki titik-titik yang menghubungkan menjadi sebuah bentuk 3D. Di dalam dunia game, 3D secara umum merujuk pada kemampuan dari sebuah video card (link). Saat ini video card menggunakan variasi dari instruksi-instruksi yang ditanamkan dalam video card itu sendiri (bukan berasal dari software) untuk mencapai hasil grafik yang lebih realistis dalam memainkan game komputer.
+ 
+Macam-macam objek 3 dimensi:
+·        Box
+·        Sphare
+·        Cyllinder
+·        Tube
+·        Pyramid
+·        Plane
+·        Hedra
+Saya akan membahas 3 diantaranya:
+
+
+Box  
+Box adalah sebuah objek 3 dimensi yang terbuat dari kumpulan objek 2 dimensi, maksudnya sebuah box merupakan kumpulan dari sebuah bidang persegi yang saling dihubungkan satu sama lain. 
+ 
+
+
+Sphere 
+         Sphare atau bola merupakan suatu objek 3 dimensi yang awalnya  terbentuk dari kumpulan circle-cirle yang tak terhingga menjadi satu, Sehingga membentuk sebuah bola. 
+
+Cyllinder
+Cylinder merupakan objek 3 dimensi yang awalnya terbentuk dari lingkaran yang memiliki ukuran panjang. Jadi pada cylinder terdapat ukuran jari-jari,diameter dan tinggi.
+  

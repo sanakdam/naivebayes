@@ -1,0 +1,45 @@
+Standar Komunikasi
+Diterbitkan November 18, 2017
+ TAGS
+    Hai kawan selamat datang di blog saya. Pada kesempatan kali ini saya akan memberikan materi tentang Standar Komunikasi. Mari kita simak gan...
+
+
+
+    Standar Komunikasi adalah jaringan telekomunikasi yang di rancang untuk melayani berbagai macam pengguna yang menggunakan berbagai macam perangkat yang berasal dari vendor yang berbeda.
+
+Badan Organisasi yang Berperan Dalam Jaringan Komputer :
+1.Internet Engginering Task Force (IETF) merupakan badan dunia yang menjadi kunci di balik perkembangan internet yang bisa menggambil jalan demokratis, terbuka, open standart, praktis dalam mengadopsi yang terbaik yang ada lapangan yang lebih penting lagi IETF lebih cepat berkembang dan terkenal dalam komunikasi data dan internet. Cukup masuk akal karena IETF memang besar bersama internet dan protokol IP.
+  
+ 2.International Telecommunications Union (ITU) merupakan tempat berkumpulnya para Regulator Telekomunikasi  dan operator telekomunikasi (termasuk Telkom, Telkomsel dan Indosat) yang secara tradisional akan memilih jalur formal resmi dan sanggat top down.
+
+3.International Standarts Organisation (ISO) merupakan sebuah badan multinasional yang di dirikan tahun 1947 yang bernama International Standarts Organisation sebagai badan yang melahirkan standar-standar aspek dengan model OSI. OSI adalah open system interconnetion yang merupakan himpunan protokol yang memungkinkan terhubungnya 2 sistem yang berbeda yang berasal dari underlying archetictureyang berbeda pula.
+
+
+ 
+4.American National Standards Institute (ANSI) merupakan sebuah kelompok yang mendefinisikan standar Amerika Serikat untuk industri pemrosesan informasi. ANSI berpartisipasi dalam mendefinisikan standar protokol jaringan dan merepresentasikan Amerika Serikat dalam hubungannya dengan badan-badan penentu standar International lain, misalnya ISO. Ansi adalah organisasi sukarela yang terdiri atas anggota dari sektor usaha, pemerintah, dan lain-lain yang mengkoordinasikan aktivitas yang berhubungan dengan standar, dan memperkuat posisi Amerika Serikat dalam organisasi standar nasional. ANSI membantu dalam hal komunikasi dan jaringan. ANSI adalah anggota IEC dan ISO.
+
+5.Electronic Industries Association (EIA) merupakan organisasi perusahaan elektronik nasional Amerika Serikat dan anggota asosiasi dagang ANSI. Komite TR30 bertanggung jawab untuk pengembangan dan perawatan standar industri untuk antarmuka antara peralatan pemrosesan data dan komunikasi data. Ini termasuk antarmuka 1 lapis, antarmuka antara mesin pengguna dengan modem, konverter sinyal, kualitas pada antarmuka, dan keceptan pensinyalan. Komite ini bertanggung jawab untuk pengembangan antarmuka RS-232-C EIA yang merupakan standar industri sekarang (ini mirip dengan antarmuka V.24 standar CCITT). Komite TR30 disajikan dalam Subkomite ANSI X3S3 dalam transmisi data.
+
+6.Federal Communications Commision (FCC) merupakan sebuah organisasi pemerintahan yang dibentuk oleh Federal Communication Act pada tahun 1934 di Amerika. Organisasi ini mempunyai hak pengaturan telekomunikasi meliputi radio, video, telepon dan komunikasi satelit.
+
+
+
+  
+OSI (Open System Interconnection)
+
+    OSI (Open System Interconnection) adalah sebuah model arsitektural jaringan ang dikembangkan oleh ISO (International Organization for Standardization) di Eropa pada tahun 1977. Model ini disebut juga dengan model “ Model Tujuh Lapis OSI “ (OSI Seven Layer Model). Karena terdapat 7 layer pada model OSI, Setiap layer bertanggungjawab secara khusus pada proses komunikasi data. Misalnya, satu layer bertanggungjawab untuk membentuk koneksi antar perangkat, sementara layer lainnya bertanggungjawab untuk mengoreksi terjadinya “error” selama proses transfer data berlangsung.
+
+    Tujuan utama penggunaan model OSI adalah untuk membantu desainer jaringan memahami fungsi dari tiap-tiap layer yang berhubungan dengan aliran komunikasi data. Termasuk jenis-jenis protokol jaringan dan metode transmisi.
+
+Penjelasan Model 7 lapis Layer pada Model OSI :
+1.Aplication Layer berfungsi sebagai antarmuka dengan aplikasi dengan fungsionalitas jaringan, mengatur bagaimana aplikasi dapat mengakses jaringan, dan kemudian membuat pesan-pesan kesalahan. Protokol yang berada dalam lapisan ini adalah HTTP, FTP, SMTP, DNS, TELNET, NFS dan POP3. 
+
+ 2.Presentation Layer berfungsi untuk mentranslasikan data yang hendak ditransmisikan oleh aplikasi ke dalam format yang dapat ditransmisikan melalui jaringan. Protokol yang berada dalam level ini adalah perangkat lunak redirektor (redirector software), seperti layanan Workstation (dalam Windows NT) dan juga Network shell (semacam Virtual Network Computing (VNC) atau Remote Desktop Protocol (RDP).\
+
+3.Session layer berfungsi untuk mendefinisikan bagaimana koneksi dapat dibuat, dipelihara, atau dihancurkan. Selain itu, di level ini juga dilakukan resolusi nama. Protokol yang berada dalam lapisan ini adalah RPC (Remote Procedure Call), dan DSP (AppleTalk Data Stream Protocol).
+
+4.Transport layer berfungsi untuk mendefinisikan alamat-alamat IP, membuat header untuk paket-paket, dan kemudian melakukan routing melalui internetworking dengan menggunakan router dan switch layer-3. Protokol yang berada dalam lapisan ini adalah DDP (Delivery Datagram Protocol), Net BEUI, ARP, dan RARP (Reverse ARP). 
+
+5.Data-link layer berfungsi untuk menentukan bagaimana bit-bit data dikelompokkan menjadi format yang disebut sebagai frame. Selain itu, pada level ini terjadi koreksi kesalahan, flow control, pengalamatan perangkat keras (seperti halnya Media Access Control Address (MAC Address)), dan menetukan bagaimana perangkat-perangkat jaringan seperti hub, bridge, repeater, dan switch layer 2 beroperasi. Spesifikasi IEEE 802, membagi level ini menjadi dua level anak, yaitu lapisan Logical Link Control (LLC) dan lapisan Media Access Control (MAC). 
+
+6.Physical layer berfungsi untuk mendefinisikan media transmisi jaringan, metode pensinyalan, sinkronisasi bit, arsitektur jaringan (seperti halnya Ethernet atau Token Ring), topologi jaringan dan pengabelan. Selain itu, level ini juga mendefinisikan bagaimana Network Interface Card (NIC) dapat berinteraksi dengan media kabel atau radio. Protokol yang berada dalam lapisan ini adalah Ethernet, FDDI (Fiber Distributed Data Interface), ISDI, dan ATM. 

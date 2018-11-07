@@ -1,0 +1,60 @@
+Tekonologi Komunikasi Data Dan Suara
+KOMUNIKASI DATA
+·         Pengertian:
+Komunikasi data merupakan proses pengiriman informasi ( data ) yang telah diubah dalam suatu kode tertentu yang telah disepakati melalui sebuah media transmisi dari pengirim ( sender ) ke penerima ( receiver ).
+Komunikasi data adalah proses pengiriman informasi diantara dua titik menggunakan kode biner melewati saluran transmisi dan peralatan switching dapat terjaga antara computer dengan komputer, komputer dengan terminal atau komputer dengan peralatan.
+     Komunikasi data merupakan gabungan dari teknik telekomunikasi dengan teknik pengolahan data.
+·          Jenis:
+   a. Menggunakan kabel         : Coaxial, UTP/STP, dan Fiber optic.
+   b. Tanpa kabel                      : Wireless dan Bluetooth.
+·         Syarat:
+Sebuah proses komunikasi data akan terjadi bila memenuhi syarat sebagai berikut :
+a.       Ada pengirim (sender)
+b.      Ada penerima (receiver)
+c.       Ada data yang dikirim oleh server
+d.      Ada media transmisi untuk mengirimkannya.
+·         Proses:
+Proses komunikasi data diawali dengan dihubungkannya antara device milik sender dan receiver dalam sebuah jaringan. Setelah itu data akan dikirim melalui sebuah media transmisi. Pada saat proses pengiriman data, data akan dijadikan paket-paket, lalu dijadikan bit-bit biner. Proses perubahan bentuk tersebut dilakukan oleh 7 (tujuh) layer OSI.
+·         Hambatan:
+Hambatan ketika melakukan komunikasi data antara lain adalah sebagai berikut :
+a.       Hambatan yamg bersifat teknis, yaitu pesan tidak dapat secara utuh diterima oleh receiver.
+b.      Hambatan bahasa, yaitu pesan yang kita kirimkan tidak dapat ditafsirkan secara sempurna oleh                receiver.
+c.       Hambatan bola salju, yaitu pesan semakin lama semakin membesar.
+·         Pemikiran dalam komunikasi data:
+a.   Menyalurkan informasi secepat mungkin dengan kesalahan sedikit mungkin.
+b.   Mengintegrasikan semua jenis komunikasi menjadi satu system, yaitu ISDN (Integrated Service Digital Network) atau Jaringan Digital Pelayanan Terpadu.
+·         Tujuan komunikasi data:
+a.   Memungkinkan pengiriman data dalam jumlah besar efisien, tanpa kesalahan ekonomis dari suatu tempat ke tempat lain.
+b.   Memungkinkan penggunaan sistem komputer dan peralatan pendukung dari jarak jauh (remote computer use).
+c.   Memungkinkan penggunaan komputer secara terpusat maupun secara tersebar sehingga mendukung manajemen dalam hal kontrol, baik desentralisasi maupun sentralisasi.
+d.   Mempermudah kemungkinan pengelolaan dan pengaturan data yang ada dalam berbagai macam sistem komputer.
+e.   Mengurangi waktu untuk pengolahan data.
+f.    Mendapatkan data langsung dari sumbernya (mempertinggi kehandalan).
+g.   Mempercepat penyebarluasan informasi.
+
+KOMUNIKASI SUARA
+·        Pengertian:
+Proses komunikasi yang hanya dapat ditangkap indera pendengaran.
+Merupakan jenis komunikasi yang paling umum digunakan berupa informasi yang disampaikan melalui perantara suara untuk didengarkan.
+·         Jenis:
+a. Komunikasi radio satu arah
+b. Komunikasi radio dua arah
+·         Proses:
+Proses komunikasi suara diawali dengan pengiriman sebuah suara melalui gelombang radio. Dan nantinya suara tersebut akan ditangkap oleh media yang sesuai.
+·         Hambatan:
+Hambatan dalam melakukan komunikasi suara adalah :
+a.      Suara yang tidak dapat diterima dengan baik karena pengaruh sinyal.
+b.      Suara menjadi berbeda.
+·         Contoh dari komunikasi suara:
+a.      Komunikasi siaran radio / radio broadcasting.
+         Informasi di pancarkan kesegala arah dan siapapun diperbolehkan menerima informasi tersebut. Dan informasi yang dikirimkan bersifat umum. Contoh : Radio RRI.
+b.      Komunikasi radio amatir.
+         Informasi dipancarkan kesegala arah tetapi jumlah pengirim dan penerima informasi terbatas pada mereka yang mempunyai izin beroperasi, informasi bersifat pribadi. Contoh : ORARI.
+c.      Komunikasi radio dua arah.
+         Informasi terbatas pada pengirim dan penerima yang beroperasi dengan saluran / frekuensi / gelombang yang sama dan jarak jangkauannya terbatas sehingga sifat pribadinya dapat terjaga. Contoh : Handy-Talky.
+d.      Komunikasi radio antar penduduk / citizen band.
+         Hubungan komunikasi bersifat pribadi, jangkauannya terbatas dan kerahasiaan tidak terjamin, karena semua pesawat penerima sistem komunikasi dapat menerima informasi yang disampaikan. Contoh : Intercom, RAPI.
+e.      Komunikasi radio panggil / paging system.
+         Digunakan untuk memanggil penerima yang merupakan pelanggan dari pengirim, jarak jangkauannya terbatas. Contoh : pager.
+f.       Komunikasi telepon bersifat pribadi murni / niaga.
+            Jumlah informasi yang disampaikan tidak terbatas, kerahasiaan terjaga, jarak jangkauannya paling luas. Menggunakan management pertukaran. Contoh : Telephone Dial, Handphone.

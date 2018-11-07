@@ -1,0 +1,189 @@
+KINERJA KOMPUTER TERAPAN JARINGAN
+
+
+KINERJA KOMPUTER TERAPAN JARINGAN
+
+A.      Fungsi spesifik piranti pendukung jaringan komunikasi data
+Piranti pendukung jaringan komunikasi data ada banyak kita jumpai, namun dalam garis besarnya dibagi menjadi 2 bagian, yaitu hardware dan software. Hardware adalah perangkat keras yang digunakan pengguna komputer untuk dapat mengunakan internet. Sedangkan software adalah perangkat lunak yang mendukung agar komputer mampu melakukan akses internet. Macam – macam hardware yaitu : Komputer Server, Modem, Network Interface Card, WiFi, dll. sedangkan Macam – macam software yaitu : Sistem Operasi, Browser, Driver, dll.
+1.       Hardware Pendukung Jaringan Internet :
+Berikut Ini Adalah Macam - Macam Hardware Pendukung Jaringan Internet 
+a.      Modem
+Modem berasal dari singkatan MOdulator DEModulator. Modulator merupakan bagian yang mengubah sinyal informasi kedalam sinyal pembawa (Carrier) dan siap untuk dikirimkan, sedangkan Demodulator adalah bagian yang memisahkan sinyal informasi (yang berisi data atau pesan) dari sinyal pembawa (carrier) yang diterima sehingga informasi tersebut dapat diterima dengan baik. Modem merupakan penggabungan kedua-duanya, artinya modem adalah alat komunikasi dua arah. Setiap perangkat komunikasi jarak jauh dua-arah umumnya menggunakan bagian yang disebut “modem”, seperti VSAT, Microwave Radio, dan lain sebagainya, namun umumnya istilah modem lebih dikenal sebagai Perangkat keras yang sering digunakan untuk komunikasi pada komputer.
+b.      HUB
+Hub adalah salah satu perangkat dalam Jaringan Komputer yang berguna untuk menghubungkan antar segmen dalam jaringan. Dia bekerja di level fisik (layer pertama) dari model referensi OSI.
+Dengan adanya hub, maka CSMA/CD yang bertugas untuk mensharing medium (kabel, udara, fiber, dll) agar semua bisa terkoneksi dapat berjalan dengan baik. Hub bertugas mengkoneksikan setiap node agar terhubung dengan sebuah backbone utama dalam proses transmisi data.
+c.       Router
+Router adalah sebuah alat jaringan komputer yang mengirimkan paket data melalui sebuah jaringan atau Internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai routing. Proses routing terjadi pada lapisan 3 (Lapisan jaringan seperti Internet Protocol) dari stack protokol tujuh-lapis OSI.
+d.      Kartu Jaringan (NIC)
+Kartu jaringan / network interface card disingkat NIC adalah sebuah kartu yang berfungsi sebagai jembatan dari komputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi dua jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis. Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah loopback adapter dan Dial-up Adapter. Disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna
+
+
+2.      Software Pendukung Jaringan Internet
+Berikut Ini Adalah Software Pendukung Jaringan Internet 
+a.      Sistem Operasi
+Sistem operasi jaringan adalah sebuah jenis sistem operasi yang ditujukan untuk menangani jaringan. Umumnya, sistem operasi ini terdiri atas banyak layanan atau service yang ditujukan untuk melayani pengguna, seperti layanan berbagi berkas, layanan berbagi alat pencetak (printer), DNS Service, HTTP Service, dan lain sebagainya
+Dan Berikut Ini Adalah Sistem Operasi Jaringan Yang Umum Dijumpai Antara Lain :
+§  Microsoft MS-NET
+§  Microsoft LAN Manager
+§  Novell NetWare
+§  Microsoft Windows NT Server
+§  GNU/Linux
+§  Banyan VINES
+§  Beberapa varian UNIX, seperti SCO OpenServer, Novell UnixWare, atau Solaris
+
+B.     Fungsi Perangkat Penyimpan dan Penyedia Data
+Berikut adalah perangkat penyimpan dan penyedia data yang digunakan pada komputer :
+1.      Hard disk  
+Hard disk merupakan alat penyimpanan data sekunder yang kapasitasnya cukup besar. Selain memiiki kapasitas yang bervariasi harddisk juga memiliki interface yang berbeda sesuai teknologi yang diusungnya. Dalam computer desktop saat ini harddisk memiliki fungsi utama untuk meyimpaan system operasi dan aplikasi yang ada. Namun juga ada hard disk eksternal yang fungsinya untuk menyimpan data tetapi lebih portable karena menggunakan interface USB.
+2.      Flashdisk
+Flasdisk merupakan media penyimpan data paling popular dalam hal mobilitas karena karena ukurannya yang kecil. Selain untuk menyimpan data penting saat ini Flashdisk juga berfungsi sebagai alat bootable media sistem operasi komputer karena dapat diganti sesuai keperluan dan tidak terbatas. Namun flashdisk dapat disalah fungsikan, yaitu untuk menyebarkan virus untuk menyerang computer dan mencuri data.
+3.      Floppy Disk
+Floppy disk adalah alat penyimpanan yang berbentuk persegi dan ada juga yang berbentuk persegi panjang dengan daya penyimpanan pada umumnya sebesar 1,44 MB. Dengan kapasitas sebesar itu tentunya dalam fungsionalitas sebagai penyimpan data portable pada masanya floppy disk hanya cukup menampung beberapa file saja. Disket juga berfungsi sebagai media untuk menjalankan OS DOS.
+4.      CD
+CD adalah sebuah media penyimpanan optical yang paling awal muncul. CD juga mempunyai diameter luar sebesar 120 mm dan diameter dalam sebesar 15 mm, serta pembacaan dan penulisaan data pada piringannya menggunakan laser. Kapasitas dari CD pada umumnya adalah sebesar 750 MB. kebebanyakan digunakan untuk menyimpan data berupa music, gambar, dan video.
+5.      DVD
+DVD merupakan media penyimpanan optical setelah CD, yang mempunyai kapasitas penyimpanan yang lebih besar yaitu pada umumnya 4,7 GB, tetapi ada juga yang mempunyai kapasitas sebesar 17GB. Pada umunya media DVD digunakan untuk instalasi OS, walaupun begitu DVD juga berfungsi sama seperti CD.
+6.      Blue Ray
+Jika sebelumnya ada CD dan DVD, versi selanjutnya yaitu Blue Ray yang merupakan upgrade atau pengembangan dari CD dan DVD. Kapasitasnya juga tentu jauh lebih besar yaitu sekita 50GB. Bluray dipasaran kebanyakan digunakan untuk penyimpanan film/video.
+7.      Fluorescent Multilayer DISK(FM DISK)
+Fluorescent merupakan yang saat ini menempati media penyimpanan yang paling besar, betapa tidak dengan kapasitas penyimpanannya sebesar 140 GB mampu membaca data sebesar 1GB perdetik. Biasa disebut juga FM Disk, permukaannya yang transfaran bisa dilihat dari sisi depan atau belakang, karena dua sisi tersebut bisa digunakan untuk penyimpanan data alias Multilayer. FM Disk berfungsi untuk menyimpan berbagai data termasuk file dokumen.
+8.      RAM
+RAM adalah memori yang berfungsi untuk menyimpan sementara perintah dan data pada saat sebuah program dijalankan. Perintah data tersebut mencakup data yang akan dibaca dari harddisk, data-data yang dimasukkan melalui alat input komputer, dan juga data-data hasil pemrosesan sebuah program.
+9.      Cache Memory
+Cache Memory merupakan media penyimpanan data sekunder berkecepatan tinggi, dimana tempat menyimpan data atau informasi sementara yang sering digunakan atau diakses oleh komputer. Fungsi Cache Memory - Mempercepat Akses data pada komputer - Meringankan kerja prosessor - Menjembatani perbedaan kecepatan antara cpu dan memory utama. - Mempercepat kinerja memory
+10.  ROM
+Umumnya ROM tidak dapat diubah oleh sembarang pihak, karena ROM hanya dapat diakses dengan software tertentu dalam pengisiannya. Biasanya, data atau program yang tertulis pada ROM diisi oleh pabrik yang membuatnya. Umumnya ROM digunakan untuk menyimpan firmware, yaitu perangkat lunak yang berhubungan dengan perangkat keras.
+
+C.    Kartu Antarmuka Jaringan (Network Interface Card)
+1.      Pengertian Kartu Antar Muka Jaringan (Network Interface Card)
+Kartu jaringan atau dalam bahasa Inggrisnya disebut dengan Network Interface Card(NIC) adalah sebuah kartu yang berfungsi sebagai jembatan(penghubung) dari komputer ke sebuah jaringan komputer. Jenis NIC yang beredar, terbagi menjadi 2 jenis, yakni NIC yang bersifat fisik, dan NIC yang bersifat logis.
+Contoh NIC yang bersifat fisik adalah NIC Ethernet, Token Ring, dan lainnya; sementara NIC yang bersifat logis adalah Looback Adapter dan Dial-up Adapter, disebut juga sebagai Network Adapter. Setiap jenis NIC diberi nomor alamat yang disebut sebagai MAC address, yang dapat bersifat statis atau dapat diubah oleh pengguna/dinamis.
+2.      Macam-Macam Kartu Antar Muka Jaringan (Network Interface Card)
+Berikut contoh kartu antar muka jaringan, yaitu :
+a.       PCI adapter
+PCI (Peripheral Component Interconnect) adalah bus yang pada awalnya didesign untuk menggantikan Bus ISA/EISA yang dipakai dalam system komputer IBM. Dirilis pertama kali tahun 1992 dan masih banyak dipakai sampai sekarang ini untuk komputer desktop yang mempunyai slot PCI tentunya. Dari jenis adapter jaringan ada dua macam pemakaian yaitu yang untuk adapter jaringan kabel dan untuk adapter jaringan wireless atau jaringan nirkabel. Gambar berikut menunjukkan slot PCI pada motherboard komputer dan kartu jaringan PCI untuk LAN dan untuk wireless.
+b.      USB Adapter
+USB (Universal Serial Bus) adalah standard Bus serial yang mempunyai design asimmetris dan di design sebagai slot yang sangat praktis untuk menghilangkan perlunya tambahan slot PCI pada komputer. USB mempunyai kemampuan PnP (Plug and Play – pasang dan mainkan) sehingga saat dipasang di komputer tidak memerlukan suatu reboot komputer. Kartu jaringan wireless USB, yang banyak dipakai karena sifatnya yang praktis dan banyak dipakai untuk kartu jaringan wireless. Tidak ada kartu jaringan LAN yang memakai slot USB kecuali yang dari jenis wireless.
+Kartu jaringan wireless ini ada beberapa macam tergantung standard technology yang digunakan, meliputi:
+§  Kartu jaringan USB wireless-B yang beroperasi berdasarkan standard Wireless 802.11B dan bekerja dengan kecepatan maksimum 11 Mbps menggunakan frequency band 2,4 GHz, berbagi jaringan dengan kapasitas keluaran secara real sampai 7 Mbps. Mempunyai jangkauan yang bagus tapi mudah dipengaruhi oleh interferensi radio.
+§  Kartu jaringan USB wireless-G yang beroperasi berdasarkan standard Wireless 802.11G dan bekerja dengan kecepatan maksimum 54 Mbps, yang merupakan pengembangan dari versi 802.11b. Ada beberapa model yang menggunakan technology wireless-G ini yang dipercepat dengan ditambah teknologi MIMO yang bisa menghasilkan kecepatan sampai 180 Mbps ideal.
+§  Kartu jaringan USB wireless-N yang menggunakan standard technology wireless paling cepat saat ini yaitu draft 802.11N. walaupun masih draft (belum final) akan tetapi hampir semua pabrik pembuat piranti wireless mengadopsi technology ini. Anda tidak perlu khawatir masalah compatibility dari standard wireless-N ini karena setiap produk wireless-N yang lulus uji certifikasi “Wi-Fi Certified” berarti dia sudah teruji kompatibilitynya dengan jaringan standard sebelumnya 802.11B/G. biasanya ditandai dengan tanda certifikasi “Wi-Fi Certified”. Jenis USB adapter wireless ini biasa digunakan baik untuk komputer desktop maupun notebook. Gambar berikut ini menunjukkan beberapa model kartu jaringan USB dan tanda certifikasi “Wi-Fi Certified” baik untuk wireless-G (yang compatible dengan wireless-B) maupun yang untuk wireless-N (yang compatible dengan wireless-B/G).
+Ada juga beberapa model piranti USB ini menggabungkan technology 802.11N dan 802.11A mengahsilkan adapter wireless –N dengan dual-band 2,4 GHz dan 5 GHz yang biasanya bekerja secara simultan, memungkinkan anda memakai frequency band 5 GHz untuk kebutuhan applikasi atau aktivitas yang memerlukan bandwidth intensif yang tinggi seperti streaming High Definition media. Jaringan dengan frequency band 5 GHz ini relative lebih kebal terhadap interferensi dari frequency band 2,4 GHz dimana frequency 2,4 GHz ini banyak dipakai oleh peralatan rumah tangga seperti cordless phone, open microwave, pembuka garasi automatis, dll. Untuk adapter wireless dual band anda bisa memilih untuk bekerja di 2.4GHz atau 5GHz band tergantung jaringan anda.
+c.       CardBus /PCMCIA
+Kartu jaringan
+Cardbus atau PCMCIA yang dipakai pada slot Cardbus atau PCMCIA dari notebook. Kartu jaringan dari jenis Cardbus ini lebih banyak dipakai untuk kartu jaringan wireless juga, walaupun pada awalnya banyak diproduksi adapter LAN dengan speed 10 Mbps di era laptop jaman dulu yang tidak dilengkapi dengan kartu jaringan onboard, sekarang sudah tidak ada lag
+d.      Express Card
+Kartu jaringan dari jenis ExpressCard adalah jenis baru yang mulai banyak diadopsi oleh notebook belakangan ini mulai akhir tahun 2006-an. Keuntungan utama dari technology ExpressCard dibanding CardBus adalah peningkatan bandwidth yang sangat dramatis dibanding technology Cardbus. Kenapa begitu? Kartu jaringan ExpressCard mempunyai koneksi langsung kepada system bus melalui
+suatu jalur X1 Express PCI dan USB 2.0, sedangkan Cardbus menggunakan controller interface yang hanya memakai interface PCI. ExpressCard mempunyai kapasitas keluaran bandwidth maksimum sampai 2,5 Gigabit per second melalui PCI Express dan keluaran dari USB 2.0 sampai 480 Mbps khusus untuk masing-2 slot ExpressCard. Sementara untuk Cardbus menggunakan share bus dengan keluaran maksimum sampai 1,06 Gigabits per second saja secara sharing bersama-sama. Sementara itu, power yang dipakai hampir separuh (1.5 V dan 3.3 V) dari power yang dipakai Cardbus (3.3 V dan 5.0 V). Disamping untuk wireless-N ExpressCard adapter, jenis kartu jaringan ExpressCard ini juga ada yang digunakan untuk ExpressCard Gigabit LAN adapter dengan konektor RJ-45. Dengan kartu jaringan ExpressCard LAN ini memungkinkan anda melakukan koneksi ke jaringan Gigabit Switch dengan stabilitas yang ultra-solid pada kecepatan tinggi. Sangat bagus untuk activitas yang membutuhkan bandwidth berlebihan seperti media high definition (HD media), publishing media berkualitas tinggi, jaringan berkapasitas tinggi, data sharing maupun database. Hampir semua komputer desktop maupun notebook sudah dilengkapi dengan adapter kartu jaringan, khusus untuk laptop atau notebook disamping dilengkapi adapter onboard NIC, mereka juga sudah dilengkapi dengan Wi-Fi baik yang berbasis 802.11B/G maupun yang seri terbaru sudah dilengkapi dengan Wi-Fi berbasis 802.11N yang juga compatible dengan 802.11B/G.
+ PCI Express USB 3.0 Adapter
+Sejak 2006, sudah mulai banyak produk computer yang melengkapi motherboardnya dengan PCIexpress dengan tersedianya slot PCIe. Sekarang ini banyak produk yang memanfa’atkan slot PCIe ini antara lain USB port PCI Express adapter. PCIe adapter ini mengusung port USB 3.0 SuperSpeed. Lihat juga mengenal lebih dekat USB 3.0. Salah contoh dari adapter PCIe USB 3.0 ini adalah TRENDnet 2-Port USB 3.0 PCI Express Adapter TU3-H2PIE. USB 3.0 ini PCI adapter ini mempunyai 2 port type A yang bisa digunakan pada komputer yang mempunyai slot PCI Express. Adapter ini dilengkapi dengan konektor power dari PC 4-pin untuk memberikan kekuatan power kepada perangkat USB yang terhubung kepada USB portnya. Kecepatan data transfer sungguh luar biasa sampai 5 Gbps lebih dari 10 kali lipat
+kecepatan transfer rate dari USB 2.0 yang hanya sampai 480 Mbps. Tentunya port USB ini bisa dipakai juga (compatible) dengan perangkat USB type 2.0. Tentunya kalau dpakai pada perangkat USB 2.0 kecepatannya yach mengikuti jenis USB 2.0. Jadi kecepatan transfer rate bisa maksimum jika menggunakan perangkat USB 3.0 juga misal external Hard disk dari Iomega eGo 2 TB USB 3.0. Masih ada satu lagi, mini PCI-Express card wireless adapter. Adapter ini biasa diselipkan di slot mini PCI di laptop yang umum digunakan pada kebanyakan laptop untuk Wi-Fi adapter nya. Jenis ini tidak umum buat user karena harus membongkar laptop yang tidak mungkin dilakukan oleh user kebanyakan.
+
+D.    Konsentrator Ethernet (bridge dan switch)
+1.      Konsentrator Ethernet
+Konsentrator adalah perangkat untuk menyatukan kabel – kabel jaringan dari setiap workstation, server atau perangkat dalam sebuah jaringan komputer. Jenis – jenis konsentrator yang umumnya digunakan adalah :
+
+a.      Hub atau Repeater adalah perangkat jaringan yang sederhana. Hub tidak mengatur alur jalannya data dijaringan, setiap packet data yang melewati Hub akan dikirim (broadcast) ke semua port yang ada sehingga packet data tersebut sampai ke tujuan.  Hal tersebut dapat membuat hub menjadi collisions dan memperlambat jaringan.
+b.      Switch
+Description: 1
+Sebuah perangkat keras yang memungkinkan terjadinya distribusi packet data antar komputer dalam jaringan dan mampu untuk mengenali topologi jaringan di banyak layer sehingga packet data dapat langsung sampai ke tujuan. Kelebihan switch dibandingkan dengan hub/repeater adalah dalam hal manajemen data lebih baik dari hub. Switch bentuknya hampir sama dengan hub. Switch atau lebih dikenal dengan istilah LAN Switch merupakan perluasan dari konsep bridge. Salah satu contohnya adalah HP Procurve V1810-8G yang merupakan 8 Port Gigabit Switch.
+Cara Kerja: Ada dua arsitektur dasar yang digunakan yaitu: cut-through dan store and forward.
+Switch cut trough memiliki kelebihan di sisi kecepatan karena ketika sebuah paket datang, switch hanya memperhatikan alamat tujuan sebelum diteruskan ke segmen tujuannya. Sedangkan Switch store and forward merupakan kebalikan dari switch cut-through. Switch ini menerima dan menganalisa seluruh isi paket sebelum meneruskannya ke tujuan dan untuk meneriksa satu paket memerlukan waktu, tetapi ini memungkinkan switch untuk mengetahui adanya kerusakan pada paket dan mencegahnya agar tidak mengganggu jaringan.
+Switch dengan spesifikasi 10/100Mbps akan mengalokasikan 10/100Mbps penuh untuk setiap port nya. Jadi berapapun jumlah computer yang terhubung, pengguna akan selalu memiliki bandwidth penuh.
+
+c.       Bridge
+Jenis konsentrator yang berfungsi untuk menghubungkan jaringan yang menggunakan transmisi berbeda. misalnya jaringan ethernet baseband dengan jaringan ethernet broadband. Bridge juga dapat menghubungkan jaringan yang menggunakan tipe kabel yang berbeda ataupun topologi yang berbeda. bridge juga dapat mengetahui alamat setiap client yang terhubung pada jaringan.
+Berfungsi menghubungkan dua buah LAN yang sejenis, sehingga dapat memiliki satu LAN yang jauh lebih besar dari ketentuan konfigurasi LAN tanpa Bridge.Bridge dapat menghubungkan beberapa jaringan terpisah, baik tipe jaringan yang sama maupun berbeda (seperti Ethernet dan Fast Ethernet).Bridge dapat menghubungkan dua LAN yang kedua-duanya menggunakan metode transmisi baseband atau broadbrand ataupun LAN dengan baseband dan LAN dengan broadband atau metode akses CSMA/CD dengan token passing dan sebagainya bergantung pada jenis Bridge yang digunakan.
+Salah satu contohnya adalah Cisco-Linksys WET54G Wireless-G Ethernet Bridge seperti tampak pada gambar dibawah:
+Cara Kerja: Bridge memetakan alamat Ethernet dari setiap node atau titik yang ada pada masing-masing segmen jaringan dan hanya memperbolehkan lalulintas data yang diperlukan melintasi bridge. Ketika menerima sebuah paket, bridge menentukan segmen tujuan dan sumber. Jika segmennya sama, paket akan ditolak, dan jika segmennya berbeda, paket paket diteruskan ke segmen tujuan. Dengan demikian bridge juga mencegah pesan rusak agar tidak menyebar keluar dari satu segmen. Bridge bekerja pada lapisan physical layer dan data link layer, sehingga akan mempengaruhi unjuk kerja LAN bila sering terjadi komunikasi sistem yang berada di LAN yang berbeda yang terhubung oleh Bridge.
+
+E.     ROUTER
+1.      Pengertian Router
+Router merupakan perangkat keras jaringan komputer yang dapat digunakan untuk menghubungkan beberapa jaringan yang sama atau berbeda. Router adalah sebuah alat untuk mengirimkan paket data melalui jaringan atau internet untuk dapat menuju tujuannya, proses tersebut dinamakan routing.
+Proses routing itu sendiri terjadi pada lapisan 3 dari stack protokol tujuh-lapis OSI. Router terkadang digunakan untuk mengoneksikan 2 buah jaringan yang menggunakan media berbeda, seperti halnya dari Ethernet menuju ke Token Ring. Itulah pengertian router.
+
+2.      Fungsi Router
+Fungsi router. Router memiliki fungsi utama untuk membagi atau mendistribusikan IP address, baik itu secara statis ataupun DHCP atau Dynamic Host Configuration Procotol kepada semua komputer yang terhubung ke router tersebut. Dengan adanya IP address yang unik yang dibagikan router tersebut kepada setiap komputer dapat memungkinan setiap komputer untuk saling terhubung serta melakukan komunikasi, baik itu pada LAN atau internet.
+
+Pada saat ini, perangkat router sudah lebih canggih dan modern. Untuk mendistribusikan IP address kepada setiap komputer pada suatu jaringan, fungsi router tidak saja hanya dapat menghubungkan dengan sambungan kabel LAN, melainkan dapat dengan teknologi wireless. Dengan demikian, router pada saat ini dapat disambungkan pada setiap komputer, laptop, gadget, smartphone yang berada pada jangkauan router tersebut. Cukup dengan memanfaatkan sebuah gelombang radio yang dipancarkan oleh router. Itulah fungsi router.
+
+3.      Cara Kerja Router
+Cara kerja router. Router bekera dengan cara merutekan paket atau data informasi yang disebut dengan routing. Dengan teknik routing tersebut, router dapat mengetahui arah rute perjalanan informasi tersebut akan dituju, apakah berada pada satu jaringan yang sama atau berbeda. Jika informasi yang dituju mengarah kepada jaringan yang berbeda, maka router akan meneruskannya kepada jaringan tersebut, sebaliknya apabila paket yang dituju adalah jaringan yang sama, maka router akan menghalangi paket keluar serta meneruskan paket tersebut dengan routing di jaringan yang sama sampa terkirim ke tujuan. Berikut ilustrasi cara kerja router.
+ Cara kerja router dapat dilihat pada gambar diatas. Pada gambar diatas terdapat dua buah network yang terhubung pada sebuah router. Network yang berada pada sebelah kiri yang terhubung ke port 1 router mempunyai alamat 192.168.1.0 serta pada network yang sebelah kanan yang terhubung ke port 2 router mempunyai alamat 192.155.2.0.
+§  Komputer A mengirim sebuah data kepada komputer C, router tidak akan meneruskan data tersebut kepada jaringan yang lainnya.
+§  Begitu juga apabila ketika komputer F mengirim sebuah data kepada komputer E, router tidak akan meneruskan paket data tersebut kepada network yang lainnya.
+§  Barulah ketika komputer F mengirimkan sebuah data kepada komputer B, router akan meneruskan paket data tersebut ke komputer B.
+F.     PRINTER SERVER
+1.      Pengertian dan FUngsi Printer Server
+Print server erupakan sebuah workstation komputer. Print server juga bisa berupa perangkat wireless. Print server dijadikan central untuk mengatur seluruh printer yang terhubung melalui networking. Bisa dibilang print server digunakan untuk mengakses printer atau bahkan gadget lain yang berupa scanner, external hard drive, flash drive, memory card reader, USB webcam, dan USB speaker dari komputer manapun. Print server dapat digunakan tanpa harus ada komputer yang bertindak sebagai server.
+Print server didesain untuk berbagi USB dengan semua jaringan atau bisa dibilang print LAN. Print server banyak digunakan di kantor. Keunggulan adanya print server yaitu pegawai kantor hanya perlu mencetak menggunakan satu printer untuk mencetak dokumen dalam satu ruangan. Pegawai kantor tidak perlu memindahkan data ke komputer lain. Hal ini dikarenakan data bisa dicetak langsung dari komputer masing-masing. Cara ini juga dinilai lebih efektif untuk meningkatkan produktivitas kerja pegawai kantor sekaligus menghemat anggaran. Lebih jelasnya, simak saja fungsi dan cara kerja printer server berikut ini.
+2.      Fungsi Printer Server
+Printer server bertanggung jawab melayani permintaan PC client. Printer server menyediakan resource untuk digunakan bersama baik agar dapat digunakan di semua komputer client di dalam jaringan. Printer server bertanggungjawab mengatur lalu lintas data. Printer server mampu mengatur hak akses level dalam jaringan. Printer server mendukung device USB lainnya, seperti halnya scanner, external hard drive, flash drive, memory card reader, USB webcam, USB speaker, dan lain sebagainya.
+Printer server dapat disambungkan dengan 4 device USB secara bersamaan dengan menggunakan tambahan USB hub. Printer server dapat disambungkan ke wireless router untuk mengakses perangkat USB secara nirkabel. Printer server dibekali dengan spesifikasi mumpuni berupa Network Protocol yakni Proprietary virtual USB protocol, TCP/IP, Network Operating System Support yakni Windows 2000/XP/Vista/7, power listrik yakni 5V DC 2A, dan printer server ini memiliki ukuran sebesar 2.2 x 2.0 x 0.9 in atau berdimensi 56 x 52 x 23mm.
+3.      Cara Kerja Printer Server
+Cara kerja printer server yaitu satu PC dijadikan sebagai printer server untuk semua client dapat mengakses printer melalui satu PC tersebut dalam suatu jaringan. PC yang digunakan sebagai printer server diinstall driver dari printer yang akan digunakan. Kemudian PC tersebut disharing printer sehingga client mendapatkan hak untuk mengakses printer melalui server tersebut. Lalu client mengatur IP dan menyesuaikannya dengan IP server. Hal ini dilakukan agar client dapat mengakses ke printer tersebut. Satu PC tidak harus dilengkapi dengan satu printer. Hal ini dikarenakan semua PC dalam satu ruangan hanya membutuhkan satu printer untuk mencetak. Dengan begitu kenyamanan kerja bisa ditingkatkan apalagi ruang kerja menjadi lebih luas.
+Dengan adanya printer server, biaya produksi dapat diminimalkan. Dengan printer server, pekerjaan akan terasa semakin mudah. Printer server juga menyediakan satu auto-sensing 10/100Base-T port. Setup printer server juga mudah dan cepat dengan hanya beberapa klik saja. Pada umumnya, jenis printer terdiri dari berbagai jenis. Beberapa diantaranya yaitu printer laser jet, printer desk jet, printer thermal, printer bubble jet, printer ink jet, dan printer dot matrix.
+ 
+ 
+ 
+G.    TITIK AKSES NIRKABEL
+1.      Pengertian
+Jaringan nirkabel (Inggris: wireless network) adalah bidang disiplin yang berkaitan dengan komunikasi antar sistem komputer tanpa menggunakan kabel. Jaringan nirkabel ini sering dipakai untuk jaringan komputer baik pada jarak yang dekat (beberapa meter, memakai alat/pemancar bluetooth) maupun pada jarak jauh (lewat satelit). Bidang ini erat hubungannya dengan bidang telekomunikasi, teknologi informasi, dan teknik komputer. Jenis jaringan yang populer dalam kategori jaringan nirkabel ini meliputi: Jaringan kawasan lokal nirkabel (wireless LAN/WLAN), dan Wi-Fi.
+Jaringan nirkabel biasanya menghubungkan satu sistem komputer dengan sistem yang lain dengan menggunakan beberapa macam media transmisi tanpa kabel, seperti: gelombang radio, gelombang mikro, maupun cahaya infra merah.
+a.       Titik Akses Nirkabel ( Wireless Access Point )
+Access Point adalah sebuah perangkat jaringan yang berisi sebuah transceiver dan antena untuk transmisi dan menerima sinyal ke dan dari clients remote. WAP biasanya tersambung ke suatu router yang meneruskan data antara berbagai peranti nirkabel dengan jaringan berkabel pada suatu jaringan. Sehingga berfungsi sebagai pengatur lalu lintas data, sehingga memungkinkan banyak Client dapat saling terhubung melalui jaringan.
+1)      Fungsi Access Point adalah
+§  Mengatur supaya AP dapat berfungsi sebagai DHCP server
+§  Mencoba fitur Wired Equivalent Privacy (WEP) dan Wi-Fi Protected Access(WPA)
+§  Mengatur akses berdasarkan MAC Address device pengakses
+§  Sebagai Hub/Switch yang bertindak untuk menghubungkan jaringan lokal dengan jaringan wireless/nirkabel
+2)      Bagian - Bagian Access Point :
+§   Power Connector
+§   Ethernet Port
+§   Console Port
+§   Secure Slot
+§   LED
+§   Router
+b.      Router
+Pengertian Router adalah perangkat jaringan yang berfungsi untuk menghubungkan beberapa jaringan atau network, baik jaringan yang menggunakan teknologi sama atau yang berbedadan mengatur lalulintas jaringan.
+c.       Switch
+Switch merupakan perangkat yang menghubungkan antara dua komputer atau lebih dalam sebuah segmen jaringan, yang pada umumnya adalah LAN. Fungsi Switch secara garis besar adalah bagaimana mentransmisikan data pada suatu jaringan dan menghubungkannya.
+d.      Bridge
+Fungsi bridge pada jaringan komputer hampir sama dengan perangkat jaringan lainnya sepert hub, switch, dan router. Bridge merupakan perangkat jaringan yang memfilter lalu lintas data pada jaringan komputer dan mengurangi jumlah lalu lintas yang terjadi pada LAN dengan membaginya menjadi dua segmen. Bridge merupakan perangkat yang beroperasi pada layer 2 OSI model. Bridge bertugas memeriksa setiap frame yagn masuk yang didalamnya terdapat MAC pengirim dan tujuan, dan meneruskannya atau tidak ke penerima pada segmen tersebut.
+ Fungsi Bridge yang paling utama dalam jaringan adalah meneruskan data berdasarkan alamat MAC dari perangkat pengirim kepada perangkat penerima. Bridge dalam menjalankan fungsinya akan menghilangkan collision domain. Perangkat yang dapat dihubungkan dengan Bridge ada banyak sekali, tidak terbatas hanya pada komputer, melainkan perangkat lain seperti printer, router, hub, dan switch.
+f.        Print Server
+Print server adalah suatu alat atau komputer yang dihubungkan ke satu atau lebih printer dalam jaringan, alat atau komputer tersebut akan menerima perintah print dari komputer - komputer lain dan mengirimkan pada printer yang telah ditentukan dan meneksekusi ppermintaan percetakan dari perangkat jaringan lainnya.
+1)      Fungsi dan Tujuan :
+§  Lebih efektif untuk meningkatkan produktivitas kerja.
+§  Menghemat anggaran dalam jumlah yang cukup besar (karena jika mereka yang ingin menggunakan  printer , mereka tidak perlu memindahkan data ke komputer lain karena data bisa dicetak langsung dari komputer masing-masing).
+§  Mencetak menggunakan satu printer untuk mencetak dokumen dalam satu ruangan.
+§  Kenyamanan kerja juga bisa ditingkatkan karena ruang kerja menjadi lebih luas. Pemilik bisnis juga lebih diuntungkan karena biaya produksi bisa ditekan dan bisa dialokasikan untuk aset lainnya.
+2)      Keuntungan :
+*      Kenyamanan kerja juga bisa ditingkatkan karena ruang kerja menjadi lebih luas.
+*      Data tidak akan bertabrakan ketika akan mencetak
+*      Lebih praktis
+3)      Kerugian :
+*      Membutuhkan dana yang lebih besar untuk installasi printer server
+4)      Syarat :
+v  Disarankan untuk memilih produk yang sesuai dengan berbagai macam operating system, seperti Windows, Linux, atau Apple.
+v  Prnter server harus ada koneksi ethernet printer server.
+v  Setiap komponen workstation harus sudah terinstall driver printer server
+5)      Cara Kerja dan Cara Menggunakan Printer Server:
+ü  print server memberikan permintaan klien cetak ke printer tertentu. Selain itu, server biasanya memiliki beberapa klien meminta informasi pada saat yang sama.
+ü  Perangkat hanya perlu disambungkan ke printer melalui port USB yang tersedia. Setelah itu, pengguna bisa menyambungkan perangkat ini ke jaringan LAN yang ada di kantor. Hasilnya, semua komputer yang berada pada jaringan LAN tersebut bisa mengakses printer dan mencetak dokumen. 
+6)      Cara setting printer server
+Bahan Persiapan :
+§  1 Buah Print Server Prolink 4 Port
+§  Hub / Switch + Kabel Jaringan
+§  Beberapa Komputer dan Laptop
+§  Access Point
+§  1 Buah Printer
+7)      Tahapan Setting Print Server
+*      Masukan RG45 yang terhubung ke switch ke Port          Print Server
+*      Masukan USB Printer ke Port USB Print Server
+*      Nyalakan Power Print Server
+*      Install Driver Print Server di semua Client
+*      Set IP Print Server
+*      Konfigurasi  Print Server dengan model Auto Connet    di semua PC
+*      Konfigurasi  Print Server dengan model  Peer To Peer    (Manual)
+*      Tes Print Server di Seluruh Client 
